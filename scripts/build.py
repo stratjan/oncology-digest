@@ -57,25 +57,32 @@ def unpaywall(doi):
         return bool(j.get("is_oa")), (j.get("best_oa_location") or {}).get("url")
     except Exception:
         return None, None
-
+        
 def load_metric_map():
     path = os.path.join(ROOT, SJR_PATH) if SJR_PATH else None
-    # Wenn kein Pfad, Datei fehlt oder ist leer -> ohne Metrik weitermachen
-    if not path or not os.path.exists(path) or os.path.getsize(path) == 0:
+    print(f"[metric] cfg.csv_path={SJR_PATH!r} -> resolved={path!r}")
+    if not path or not os.path.exists(path):
+        print("[metric] kein CSV-Pfad oder Datei existiert nicht -> ohne Metrik")
         return {}
     try:
+        size = os.path.getsize(path)
+        print(f"[metric] file size = {size} bytes")
+        if size == 0:
+            print("[metric] Datei ist leer -> ohne Metrik")
+            return {}
         df = pd.read_csv(path)
     except pd.errors.EmptyDataError:
+        print("[metric] EmptyDataError -> ohne Metrik")
         return {}
     except Exception as e:
-        print(f"[metric] CSV konnte nicht gelesen werden ({e}); fahre ohne Metrik fort")
+        print(f"[metric] CSV-Lesefehler: {e} -> ohne Metrik")
         return {}
-    # Spalten prüfen
     if JOURNAL_COL not in df.columns or VALUE_COL not in df.columns:
-        print(f"[metric] Spalten '{JOURNAL_COL}' oder '{VALUE_COL}' fehlen; ohne Metrik")
+        print(f"[metric] Spalten fehlen ({JOURNAL_COL}, {VALUE_COL}) -> ohne Metrik")
         return {}
     df[JOURNAL_COL] = df[JOURNAL_COL].astype(str).str.strip().str.lower()
     metric = dict(zip(df[JOURNAL_COL], df[VALUE_COL]))
+    print(f"[metric] geladen: {len(metric)} Journale")
     return metric
 
 def norm_journal(name: str) -> str:
@@ -175,4 +182,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
