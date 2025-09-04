@@ -1,0 +1,411 @@
+{
+  "generated": "2025-09-04T18:56:26.524076Z",
+  "items": [
+    {
+      "pmid": "40189749",
+      "doi": "10.1080/2162402X.2025.2484880",
+      "title": "Surrogate markers of intestinal dysfunction associated with survival in advanced cancers.",
+      "journal": "Oncoimmunology",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/2162402X.2025.2484880",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40189749/",
+      "url_doi": "https://doi.org/10.1080/2162402X.2025.2484880"
+    },
+    {
+      "pmid": "40168159",
+      "doi": "10.1080/17581966.2025.2477411",
+      "title": "The association between blood-based HYAL2 methylation and early-stage lung cancer: a case-control study.",
+      "journal": "Lung cancer management",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17581966.2025.2477411",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
+      "url_doi": "https://doi.org/10.1080/17581966.2025.2477411"
+    },
+    {
+      "pmid": "40684711",
+      "doi": "10.1016/j.ejrad.2025.112290",
+      "title": "Comparison of nodule volumetric classification by using two different nodule segmentation algorithms in an LDCT lung cancer baseline screening dataset.",
+      "journal": "European journal of radiology",
+      "pubdate": "2025-10-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40684711/",
+      "url_doi": "https://doi.org/10.1016/j.ejrad.2025.112290"
+    },
+    {
+      "pmid": "40730077",
+      "doi": "10.1016/j.ejca.2025.115624",
+      "title": "Subcutaneous versus intravenous amivantamab, both in combination with lazertinib, in refractory EGFR-mutated non-small cell lung cancer: Patient satisfaction and resource utilization results from the PALOMA-3 study.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-09-09T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "is_oa": true,
+      "oa_url": "https://www.ejcancer.com/article/S0959-8049(25)00406-X/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40730077/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.115624"
+    },
+    {
+      "pmid": "40906489",
+      "doi": "10.1001/jamaoncol.2025.2891",
+      "title": "Current Controversies and Challenges in Non-Oncogene-Addicted Synchronous Oligometastatic Non-Small Cell Lung Cancer: A Review.",
+      "journal": "JAMA oncology",
+      "pubdate": "2025-09-04T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40906489/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.2891"
+    },
+    {
+      "pmid": "40906462",
+      "doi": "10.1001/jamaoncol.2025.3007",
+      "title": "Proton Craniospinal Irradiation for Patients With Leptomeningeal Metastasis: A Randomized Clinical Trial.",
+      "journal": "JAMA oncology",
+      "pubdate": "2025-09-04T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40906462/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3007"
+    },
+    {
+      "pmid": "40904097",
+      "doi": "10.1158/2159-8290.CD-24-1866",
+      "title": "Histologic Transformation in Cancer: The Path for Clinical Translation.",
+      "journal": "Cancer discovery",
+      "pubdate": "2025-09-04T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40904097/",
+      "url_doi": "https://doi.org/10.1158/2159-8290.CD-24-1866"
+    },
+    {
+      "pmid": "40891208",
+      "doi": "10.1158/0008-5472.CAN-25-1989",
+      "title": "Another Slice of the Pie Uncovered: RIT1M90I Is an Actionable Driver in Non-Small Cell Lung Cancer.",
+      "journal": "Cancer research",
+      "pubdate": "2025-09-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40891208/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1989"
+    },
+    {
+      "pmid": "40902984",
+      "doi": "10.1016/j.labinv.2025.104234",
+      "title": "COMPREHENSIVE ANALYSIS OF NEUROD1, ASCL1, POU2F3 AND YAP1 EXPRESSION SIGNATURES REVEAL UNIQUE LCNEC SUBGROUPS WITH POTENTIAL THERAPEUTIC IMPLICATIONS.",
+      "journal": "Laboratory investigation; a journal of technical methods and pathology",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.labinv.2025.104234",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40902984/",
+      "url_doi": "https://doi.org/10.1016/j.labinv.2025.104234"
+    },
+    {
+      "pmid": "40856114",
+      "doi": "10.1002/cncr.70060",
+      "title": "Clinical strategies for lung cancer management: Recommendations from the Bridging the Gaps Lung Cancer Consensus Conference 2024.",
+      "journal": "Cancer",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Consensus Development Conference",
+        "Review"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40856114/",
+      "url_doi": "https://doi.org/10.1002/cncr.70060"
+    },
+    {
+      "pmid": "40554973",
+      "doi": "10.1016/j.compbiomed.2025.110665",
+      "title": "From BERT to generative AI - Comparing encoder-only vs. large language models in a cohort of lung cancer patients for named entity recognition in unstructured medical reports.",
+      "journal": "Computers in biology and medicine",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://publica.fraunhofer.de/handle/publica/489295",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40554973/",
+      "url_doi": "https://doi.org/10.1016/j.compbiomed.2025.110665"
+    },
+    {
+      "pmid": "40173271",
+      "doi": "10.1164/rccm.202501-0028OC",
+      "title": "Oscillometry-defined Small Airway Dysfunction in Tobacco-exposed Adults with Impaired or Preserved Airflow.",
+      "journal": "American journal of respiratory and critical care medicine",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://www.atsjournals.org/doi/pdf/10.1164/rccm.202501-0028OC",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40173271/",
+      "url_doi": "https://doi.org/10.1164/rccm.202501-0028OC"
+    },
+    {
+      "pmid": "40890128",
+      "doi": "10.1038/s41467-025-62350-4",
+      "title": "High-fidelity Cas9-mediated targeting of KRAS driver mutations restrains lung cancer in preclinical models.",
+      "journal": "Nature communications",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41467-025-62350-4.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40890128/",
+      "url_doi": "https://doi.org/10.1038/s41467-025-62350-4"
+    },
+    {
+      "pmid": "40877204",
+      "doi": "10.1002/cnr2.70330",
+      "title": "Etirinotecan Pegol (NKTR-102) in Patients With Active Brain Metastases From Lung or Breast Cancer.",
+      "journal": "Cancer reports (Hoboken, N.J.)",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cnr2.70330",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40877204/",
+      "url_doi": "https://doi.org/10.1002/cnr2.70330"
+    },
+    {
+      "pmid": "40729911",
+      "doi": "10.1016/j.ecoenv.2025.118703",
+      "title": "Adverse outcome pathway (AOP) framework for predicting toxic mechanisms in E-cigarette-induced lung injury.",
+      "journal": "Ecotoxicology and environmental safety",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ecoenv.2025.118703",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40729911/",
+      "url_doi": "https://doi.org/10.1016/j.ecoenv.2025.118703"
+    },
+    {
+      "pmid": "40555300",
+      "doi": "10.1016/j.ejps.2025.107176",
+      "title": "LPAR4-targeted dual-loaded liposome for synergistic lung cancer therapy.",
+      "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ejps.2025.107176",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40555300/",
+      "url_doi": "https://doi.org/10.1016/j.ejps.2025.107176"
+    },
+    {
+      "pmid": "40554742",
+      "doi": "10.1200/JCO-24-02744",
+      "title": "Patritumab Deruxtecan (HER3-DXd; MK-1022) in Non-Small Cell Lung Cancer After Platinum-Based Chemotherapy and Immunotherapy.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "is_oa": true,
+      "oa_url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO-24-02744",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40554742/",
+      "url_doi": "https://doi.org/10.1200/JCO-24-02744"
+    },
+    {
+      "pmid": "40498298",
+      "doi": "10.1007/s40487-025-00350-6",
+      "title": "Impact of Tumor Response and Response Duration on Survival Among Participants Receiving Pembrolizumab Plus Chemotherapy as First-Line Therapy for Non-Small-Cell Lung Cancer.",
+      "journal": "Oncology and therapy",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s40487-025-00350-6.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40498298/",
+      "url_doi": "https://doi.org/10.1007/s40487-025-00350-6"
+    },
+    {
+      "pmid": "40674592",
+      "doi": "10.1093/oncolo/oyaf217",
+      "title": "ENIGMA+: a national, decentralized, remote consent study for clinical data and biospecimen collection in patients with ALK-positive advanced NSCLC.",
+      "journal": "The oncologist",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40674592/",
+      "url_doi": "https://doi.org/10.1093/oncolo/oyaf217"
+    },
+    {
+      "pmid": "40542959",
+      "doi": "10.1007/s12325-025-03259-8",
+      "title": "Matching-Adjusted Indirect Comparison of Sotorasib Versus Adagrasib in Previously Treated Advanced/Metastatic Non-Small Cell Lung Cancer Harboring KRAS G12C Mutation.",
+      "journal": "Advances in therapy",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s12325-025-03259-8.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40542959/",
+      "url_doi": "https://doi.org/10.1007/s12325-025-03259-8"
+    },
+    {
+      "pmid": "40889961",
+      "doi": "10.1016/j.lungcan.2025.108719",
+      "title": "Retraction notice to \"Antibody-drug conjugate components in association with the incidence of ADC-related interstitial lung disease: A systematic review and meta-analysis\". [Lung Cancer 204 (2025) 108559].",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-08-31T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40889961/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108719"
+    },
+    {
+      "pmid": "40885709",
+      "doi": "10.1038/s41419-025-07992-4",
+      "title": "WEE1 inhibitor exerts synergistic effect with KRAS G12C inhibitor via MYBL2-RRM2 axis in KRAS(G12C)-mutant lung cancer.",
+      "journal": "Cell death & disease",
+      "pubdate": "2025-08-30T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41419-025-07992-4.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40885709/",
+      "url_doi": "https://doi.org/10.1038/s41419-025-07992-4"
+    },
+    {
+      "pmid": "40882030",
+      "doi": "10.1158/0008-5472.CAN-25-0998",
+      "title": "TNG260 is a Small-Molecule CoREST Inhibitor that Sensitizes STK11-Mutant Tumors to Anti-PD-1 Immunotherapy.",
+      "journal": "Cancer research",
+      "pubdate": "2025-08-29T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/cancerres/article-pdf/doi/10.1158/0008-5472.CAN-25-0998/3647378/can-25-0998.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40882030/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0998"
+    },
+    {
+      "pmid": "40880183",
+      "doi": "10.1158/1078-0432.CCR-24-4342",
+      "title": "Phase I Dose Escalation Trial Combining Olaparib and Thoracic Radiation Therapy in Extensive-Stage Small Cell Lung Cancer.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2025-08-29T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40880183/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-24-4342"
+    },
+    {
+      "pmid": "40883523",
+      "doi": "10.1007/s00330-025-11949-8",
+      "title": "Artificial intelligence as an independent reader of risk-dominant lung nodules: influence of CT reconstruction parameters.",
+      "journal": "European radiology",
+      "pubdate": "2025-08-29T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00330-025-11949-8.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40883523/",
+      "url_doi": "https://doi.org/10.1007/s00330-025-11949-8"
+    }
+  ]
+}
