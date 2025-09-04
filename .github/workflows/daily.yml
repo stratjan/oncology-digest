@@ -17,6 +17,15 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
+        - name: Debug repo state
+  run: |
+    echo "Branch: $GITHUB_REF"
+    ls -la
+    echo "---- data ----"; ls -la data || true
+    echo "---- scripts ----"; ls -la scripts || true
+    echo "---- head of build.py ----"
+    sed -n '1,60p' scripts/build.py
+
       - name: Build data.json
         run: python scripts/build.py
 
