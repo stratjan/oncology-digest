@@ -17,6 +17,16 @@ jobs:
         with:
           python-version: "3.11"
 
+- name: Debug repo state
+  run: |
+    echo "Branch: $GITHUB_REF"
+    git rev-parse HEAD
+    echo "---- scripts ----"; ls -la scripts || true
+    echo "---- FIRST 100 LINES OF build.py ----"
+    sed -n '1,100p' scripts/build.py || true
+    echo "---- grep for pandas/load_metric_map ----"
+    (grep -n 'pandas\|load_metric_map' scripts/build.py && echo "FOUND") || echo "not found"
+
       - name: Install deps
         run: pip install -r requirements.txt
 
