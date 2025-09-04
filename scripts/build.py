@@ -69,4 +69,72 @@ def main():
     pmids = []
     for url in RSS_FEEDS:
         pmids.extend(rss_pmids(url))
-    pmids = list(dict.fromkeys(pmids)
+    pmids = list(dict.fromkeys(pmids))  # uniq
+
+    # 2) Metadaten holen (ESummary), OA prüfen
+    items = []
+    BATCH = 180
+    for i in range(0, len(pmids), BATCH):
+        chunk = pmids[i:i+BATCH]
+        res = esummary(chunk) or {}
+        for uid in res.get("uids", []):
+            it = res.get(uid, {})
+            title   = it.get("title")
+            journal = it.get("fulljournalname") or it.get("source")
+            # Publikationstypen
+            pubtypes = []
+            pt = it.get("pubtype")
+            if isinstance(pt, list):
+                pubtypes = [x.get("text") if isinstance(x, dict) else str(x) for x in pt]
+            elif pt:
+                pubtypes = [str(pt)]
+            # Datum
+            pubdate = it.get("sortpubdate") or it.get("epubdate") or it.get("pubdate")
+            try:
+                pubdate_iso = dtp.parse(pubdate).astimezone(timezone.utc).isoformat()
+            except Exception:
+                pubdate_iso = pubdate
+            # DOI
+            doi = None
+            for aid in it.get("articleids", []):
+                if aid.get("idtype") == "doi":
+                    doi = aid.get("value"); break
+            # OA
+            is_oa, oa_url = unpaywall(doi)
+
+            items.append({
+                "pmid": uid,
+                "doi": doi,
+                "title": title,
+                "journal": journal,
+                "pubdate": pubdate_iso,
+                "pubtypes": pubtypes,
+                "is_oa": is_oa,
+                "oa_url": oa_url,
+                "metric_name": None,
+                "metric_value": None,
+                "url_pubmed": f"https://pubmed.ncbi.nlm.nih.gov/{uid}/",
+                "url_doi": f"https://doi.org/{doi}" if doi else None
+            })
+        time.sleep(0.34)  # NCBI courtesy
+
+    # 3) Deduplikation & Zeitfilter
+    seen = set(); out = []
+    # Sortiere zunächst nach Datum absteigend
+    items.sort(key=lambda x: x.get("pubdate") or "", reverse=True)
+    for x in items:
+        key = x["doi"] or x["pmid"] or ((x.get("title") or "") + (x.get("pubdate") or ""))
+        if key in seen: 
+            continue
+        seen.add(key)
+        if x.get("pubdate") and not within_days(x["pubdate"]):
+            continue
+        out.append(x)
+
+    # 4) Schreiben
+    os.makedirs(os.path.join(ROOT, "site"), exist_ok=True)
+    with open(os.path.join(ROOT, "site", "data.json"), "w", encoding="utf-8") as f:
+        json.dump({"generated": datetime.utcnow().isoformat() + "Z", "items": out}, f, ensure_ascii=False, indent=2)
+
+if __name__ == "__main__":
+    main()
