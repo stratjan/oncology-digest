@@ -1,53 +1,65 @@
-permissions:
-  contents: write
-
 name: Daily build & publish
+
 on:
   schedule:
     - cron: "0 5 * * *"   # 05:00 UTC ~ 07:00 Berlin (Sommerzeit)
   workflow_dispatch:
+
+permissions:
+  contents: write   # erlaubt Commit/Push aus dem Workflow
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # notwendig, damit Push/Commit sauber klappt
+
+      - name: Debug repo state
+        run: |
+          echo "Branch ref: $GITHUB_REF"
+          echo "HEAD: $(git rev-parse --short HEAD)"
+          pwd
+          ls -la
+          echo "---- data ----"; ls -la data || true
+          echo "---- scripts ----"; ls -la scripts || true
+          echo "---- FIRST 120 LINES OF build.py ----"
+          sed -n '1,120p' scripts/build.py || true
+          echo "---- grep for pandas/load_metric_map ----"
+          (grep -n 'pandas\|load_metric_map' scripts/build.py && echo "FOUND") || echo "not found"
+          echo "---- config.yaml ----"
+          sed -n '1,200p' data/config.yaml || true
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-- name: Debug repo state
-  run: |
-    echo "Branch: $GITHUB_REF"
-    git rev-parse HEAD
-    echo "---- scripts ----"; ls -la scripts || true
-    echo "---- FIRST 100 LINES OF build.py ----"
-    sed -n '1,100p' scripts/build.py || true
-    echo "---- grep for pandas/load_metric_map ----"
-    (grep -n 'pandas\|load_metric_map' scripts/build.py && echo "FOUND") || echo "not found"
-
       - name: Install deps
-        run: pip install -r requirements.txt
-
-        - name: Debug repo state
-  run: |
-    echo "Branch: $GITHUB_REF"
-    ls -la
-    echo "---- data ----"; ls -la data || true
-    echo "---- scripts ----"; ls -la scripts || true
-    echo "---- head of build.py ----"
-    sed -n '1,60p' scripts/build.py
+        run: |
+          python -V
+          pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Build data.json
         run: python scripts/build.py
 
       - name: Commit changes (if any)
+        id: commit
         run: |
           git config user.name  "digest-bot"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
           git add site/data.json
-          git diff --quiet && echo "No changes" || git commit -m "chore: daily data update"
+          if git diff --cached --quiet; then
+            echo "did_commit=false" >> $GITHUB_OUTPUT
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily data update"
+            echo "did_commit=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Push
+        if: steps.commit.outputs.did_commit == 'true'
         run: git push
