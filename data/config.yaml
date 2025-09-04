@@ -10,11 +10,12 @@ rss_feeds:
   - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1RcY2Y-NYSs3xrA4cVKJzHldHBBYyvZqTIkc4eJ1m7I3VouwyY/?limit=100&utm_campaign=pubmed-2&fc=20250904043128"
 
 # Anzeige-/Filterlogik
-days_back: 2    # zeige nur Publikationen der letzten n Tage
+days_back: 7    # zeige nur Publikationen der letzten n Tage
 
-# Metrik-Konfiguration
 metric:
-  name: "SJR"               # oder "IF", falls du JCR-CSV einbindest
-  csv_path: "data/journals_sjr.csv"  # optional; wenn leer/nicht vorhanden -> keine Metrik
+  name: "SJR"
+  csv_path: ""      # <— leer setzen oder die Zeile csv_path komplett entfernen
   journal_col: "Journal"
   value_col: "SJR_2024"
+
+
