@@ -14,8 +14,10 @@ days_back: 7    # zeige nur Publikationen der letzten n Tage
 
 metric:
   name: "SJR"
-  csv_path: ""      # <— leer setzen oder die Zeile csv_path komplett entfernen
+  csv_path: ""     # oder Zeile löschen
   journal_col: "Journal"
   value_col: "SJR_2024"
+
+
 
 
