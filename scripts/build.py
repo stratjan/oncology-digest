@@ -60,15 +60,22 @@ def unpaywall(doi):
 
 def load_metric_map():
     path = os.path.join(ROOT, SJR_PATH) if SJR_PATH else None
-    if not path or not os.path.exists(path):
+    # Wenn kein Pfad, Datei fehlt oder ist leer -> ohne Metrik weitermachen
+    if not path or not os.path.exists(path) or os.path.getsize(path) == 0:
         return {}
-    df = pd.read_csv(path)
-    if JOURNAL_COL not in df.columns:
+    try:
+        df = pd.read_csv(path)
+    except pd.errors.EmptyDataError:
+        return {}
+    except Exception as e:
+        print(f"[metric] CSV konnte nicht gelesen werden ({e}); fahre ohne Metrik fort")
+        return {}
+    # Spalten prüfen
+    if JOURNAL_COL not in df.columns or VALUE_COL not in df.columns:
+        print(f"[metric] Spalten '{JOURNAL_COL}' oder '{VALUE_COL}' fehlen; ohne Metrik")
         return {}
     df[JOURNAL_COL] = df[JOURNAL_COL].astype(str).str.strip().str.lower()
-    metric = {}
-    for _, row in df.iterrows():
-        metric[row[JOURNAL_COL]] = row.get(VALUE_COL)
+    metric = dict(zip(df[JOURNAL_COL], df[VALUE_COL]))
     return metric
 
 def norm_journal(name: str) -> str:
@@ -168,3 +175,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
