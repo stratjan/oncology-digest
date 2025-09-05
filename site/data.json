@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-04T18:56:26.524076Z",
+  "generated": "2025-09-05T05:33:29.914502Z",
   "items": [
     {
       "pmid": "40189749",
@@ -68,6 +68,22 @@
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.115624"
     },
     {
+      "pmid": "40908346",
+      "doi": "10.1007/s40487-025-00372-0",
+      "title": "Asian Subgroup Analysis of Patients in the Phase 2 DeLLphi-301 Study of Tarlatamab for Previously Treated Small Cell Lung Cancer.",
+      "journal": "Oncology and therapy",
+      "pubdate": "2025-09-04T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s40487-025-00372-0.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40908346/",
+      "url_doi": "https://doi.org/10.1007/s40487-025-00372-0"
+    },
+    {
       "pmid": "40906489",
       "doi": "10.1001/jamaoncol.2025.2891",
       "title": "Current Controversies and Challenges in Non-Oncogene-Addicted Synchronous Oligometastatic Non-Small Cell Lung Cancer: A Review.",
@@ -117,6 +133,22 @@
       "url_doi": "https://doi.org/10.1158/2159-8290.CD-24-1866"
     },
     {
+      "pmid": "40907070",
+      "doi": "10.1016/j.lungcan.2025.108745",
+      "title": "Clinical risk factors for developing brain metastases during first-line (chemo-)immunotherapy in patients with non-small cell lung cancer without known baseline brain metastases.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-09-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108745",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40907070/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108745"
+    },
+    {
       "pmid": "40891208",
       "doi": "10.1158/0008-5472.CAN-25-1989",
       "title": "Another Slice of the Pie Uncovered: RIT1M90I Is an Actionable Driver in Non-Small Cell Lung Cancer.",
@@ -147,6 +179,22 @@
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40902984/",
       "url_doi": "https://doi.org/10.1016/j.labinv.2025.104234"
+    },
+    {
+      "pmid": "40774265",
+      "doi": "10.1016/S1470-2045(25)00299-2",
+      "title": "[(68)Ga]Ga-FAPI-46 PET accuracy for cancer imaging with histopathology validation: a single-centre, single-arm, interventional, phase 2 trial.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-09-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": true,
+      "oa_url": "https://www.thelancet.com/pdfs/journals/lanonc/PIIS1470-2045(25)00299-2.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40774265/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00299-2"
     },
     {
       "pmid": "40856114",
@@ -358,54 +406,6 @@
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40885709/",
       "url_doi": "https://doi.org/10.1038/s41419-025-07992-4"
-    },
-    {
-      "pmid": "40882030",
-      "doi": "10.1158/0008-5472.CAN-25-0998",
-      "title": "TNG260 is a Small-Molecule CoREST Inhibitor that Sensitizes STK11-Mutant Tumors to Anti-PD-1 Immunotherapy.",
-      "journal": "Cancer research",
-      "pubdate": "2025-08-29T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerres/article-pdf/doi/10.1158/0008-5472.CAN-25-0998/3647378/can-25-0998.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40882030/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0998"
-    },
-    {
-      "pmid": "40880183",
-      "doi": "10.1158/1078-0432.CCR-24-4342",
-      "title": "Phase I Dose Escalation Trial Combining Olaparib and Thoracic Radiation Therapy in Extensive-Stage Small Cell Lung Cancer.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "pubdate": "2025-08-29T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40880183/",
-      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-24-4342"
-    },
-    {
-      "pmid": "40883523",
-      "doi": "10.1007/s00330-025-11949-8",
-      "title": "Artificial intelligence as an independent reader of risk-dominant lung nodules: influence of CT reconstruction parameters.",
-      "journal": "European radiology",
-      "pubdate": "2025-08-29T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "is_oa": true,
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00330-025-11949-8.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40883523/",
-      "url_doi": "https://doi.org/10.1007/s00330-025-11949-8"
     }
   ]
 }
