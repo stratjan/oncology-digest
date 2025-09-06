@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-05T05:33:29.914502Z",
+  "generated": "2025-09-06T05:31:04.314371Z",
   "items": [
     {
       "pmid": "40189749",
@@ -66,6 +66,39 @@
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40730077/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.115624"
+    },
+    {
+      "pmid": "40911432",
+      "doi": "10.1158/1078-0432.CCR-25-2090",
+      "title": "Seizure-Related Homolog Protein 6 (SEZ6): Biology and Therapeutic Target in Neuroendocrine Carcinomas.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2025-09-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40911432/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2090"
+    },
+    {
+      "pmid": "40910999",
+      "doi": "10.1080/14712598.2025.2555830",
+      "title": "Neoadjuvant therapy of NSCLC: a review of the use and impact of monoclonal antibodies.",
+      "journal": "Expert opinion on biological therapy",
+      "pubdate": "2025-09-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40910999/",
+      "url_doi": "https://doi.org/10.1080/14712598.2025.2555830"
     },
     {
       "pmid": "40908346",
@@ -390,22 +423,6 @@
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40889961/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108719"
-    },
-    {
-      "pmid": "40885709",
-      "doi": "10.1038/s41419-025-07992-4",
-      "title": "WEE1 inhibitor exerts synergistic effect with KRAS G12C inhibitor via MYBL2-RRM2 axis in KRAS(G12C)-mutant lung cancer.",
-      "journal": "Cell death & disease",
-      "pubdate": "2025-08-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41419-025-07992-4.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40885709/",
-      "url_doi": "https://doi.org/10.1038/s41419-025-07992-4"
     }
   ]
 }
