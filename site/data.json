@@ -1,6 +1,38 @@
 {
-  "generated": "2025-09-08T05:35:35.070913Z",
+  "generated": "2025-09-08T17:42:12.602184Z",
   "items": [
+    {
+      "pmid": "40906489",
+      "doi": "10.1001/jamaoncol.2025.2891",
+      "title": "Current Controversies and Challenges in Non-Oncogene-Addicted Synchronous Oligometastatic Non-Small Cell Lung Cancer: A Review.",
+      "journal": "JAMA oncology",
+      "pubdate": "2025-09-04T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 6.1,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40906489/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.2891"
+    },
+    {
+      "pmid": "40906462",
+      "doi": "10.1001/jamaoncol.2025.3007",
+      "title": "Proton Craniospinal Irradiation for Patients With Leptomeningeal Metastasis: A Randomized Clinical Trial.",
+      "journal": "JAMA oncology",
+      "pubdate": "2025-09-04T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 6.1,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40906462/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3007"
+    },
     {
       "pmid": "40189749",
       "doi": "10.1080/2162402X.2025.2484880",
@@ -68,6 +100,38 @@
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.115624"
     },
     {
+      "pmid": "40920097",
+      "doi": "10.1158/2159-8290.CD-25-0526",
+      "title": "An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat.",
+      "journal": "Cancer discovery",
+      "pubdate": "2025-09-08T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40920097/",
+      "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-0526"
+    },
+    {
+      "pmid": "40916834",
+      "doi": "10.1093/cei/uxaf050",
+      "title": "Expanded senescent CD8 T-cells in IMID patients are associated with distinct inflammatory cytokines.",
+      "journal": "Clinical and experimental immunology",
+      "pubdate": "2025-09-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40916834/",
+      "url_doi": "https://doi.org/10.1093/cei/uxaf050"
+    },
+    {
       "pmid": "40911432",
       "doi": "10.1158/1078-0432.CCR-25-2090",
       "title": "Seizure-Related Homolog Protein 6 (SEZ6): Biology and Therapeutic Target in Neuroendocrine Carcinomas.",
@@ -131,38 +195,6 @@
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40914393/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.08.024"
-    },
-    {
-      "pmid": "40906489",
-      "doi": "10.1001/jamaoncol.2025.2891",
-      "title": "Current Controversies and Challenges in Non-Oncogene-Addicted Synchronous Oligometastatic Non-Small Cell Lung Cancer: A Review.",
-      "journal": "JAMA oncology",
-      "pubdate": "2025-09-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40906489/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.2891"
-    },
-    {
-      "pmid": "40906462",
-      "doi": "10.1001/jamaoncol.2025.3007",
-      "title": "Proton Craniospinal Irradiation for Patients With Leptomeningeal Metastasis: A Randomized Clinical Trial.",
-      "journal": "JAMA oncology",
-      "pubdate": "2025-09-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40906462/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3007"
     },
     {
       "pmid": "40904097",
