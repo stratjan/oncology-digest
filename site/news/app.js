@@ -1,9 +1,10 @@
 async function load(bust=false) {
-  const base = '..'; // <-- NEU: eine Ebene nach oben (site/)
-  const url = bust ? `${base}/data.json?t=${Date.now()}` : `${base}/data.json`;
+  // data.json liegt im Site-Root:
+  const url = bust ? `/data.json?t=${Date.now()}` : `/data.json`;
   const res = await fetch(url, { cache: 'no-store' });
   const data = await res.json();
-  // (Rest unverändert)
+  // ...
+}
 
   // kompaktes Datum (dd.mm.yyyy hh:mm)
   const dt = new Date(data.generated);
