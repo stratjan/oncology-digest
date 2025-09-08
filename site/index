@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="robots" content="noindex, nofollow"/>
+  <title>Oncology Portal</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-neutral-50 text-neutral-900">
+  <div class="max-w-6xl mx-auto p-6">
+    <header class="mb-8">
+      <h1 class="text-3xl md:text-4xl font-semibold leading-tight">Oncology Portal</h1>
+      <p class="text-xs text-neutral-500 mt-1" id="generated">Aktualisiert …</p>
+      <p class="text-sm text-neutral-600 mt-2">Wähle einen Bereich:</p>
+    </header>
+
+    <main>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <!-- Kachel: Newsfeed -->
+        <a href="./news/" class="group block bg-white border rounded-2xl p-5 shadow-sm hover:shadow-md transition">
+          <div class="flex items-center justify-between">
+            <h2 class="text-lg font-semibold">Newsfeed</h2>
+            <span class="text-xs px-2 py-1 rounded-full border bg-neutral-50 text-neutral-600">Beta</span>
+          </div>
+          <p class="text-sm text-neutral-600 mt-1">Lungenkrebs-Studien & VTE-News, filterbar nach Entität/Studientyp.</p>
+          <div class="mt-4 text-xs text-neutral-500">
+            <span id="tile-news-upd">Letztes Update wird geladen…</span>
+          </div>
+        </a>
+
+        <!-- Platzhalter-Kacheln für später -->
+        <div class="block bg-white border rounded-2xl p-5 opacity-60">
+          <h2 class="text-lg font-semibold">(frei)</h2>
+          <p class="text-sm text-neutral-600 mt-1">Hier kannst du später weitere Module verlinken.</p>
+        </div>
+
+        <div class="block bg-white border rounded-2xl p-5 opacity-60">
+          <h2 class="text-lg font-semibold">(frei)</h2>
+          <p class="text-sm text-neutral-600 mt-1">Weitere Tools, Leitlinien-Shortcuts, etc.</p>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    // Kompaktes Datum im Header + in der News-Kachel anzeigen
+    (async function () {
+      try {
+        const res = await fetch('./data.json', { cache: 'no-store' });
+        const data = await res.json();
+        const dt = new Date(data.generated);
+        const dateStr = dt.toLocaleDateString('de-DE');
+        const timeStr = dt.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' });
+        const txt = `Aktualisiert ${dateStr} ${timeStr}`;
+        document.getElementById('generated').textContent = txt;
+        document.getElementById('tile-news-upd').textContent = txt;
+      } catch (e) {
+        document.getElementById('generated').textContent = 'Aktualisierungszeit nicht verfügbar';
+        const t = document.getElementById('tile-news-upd');
+        if (t) t.textContent = 'Aktualisierungszeit nicht verfügbar';
+      }
+    })();
+  </script>
+</body>
+</html>
