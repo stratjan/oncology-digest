@@ -18,7 +18,7 @@ rss_groups:
       - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1PeFS8XE8OyMjjoETx51aPa8MZkE7GBaJpRaKsX71zvOnxtMT3/?limit=15&utm_campaign=pubmed-2&fc=20250908161431"
 
 # Anzeige-/Filterlogik
-days_back: 7
+days_back: 14
 
 # Metrik (unverändert)
 metric:
@@ -26,3 +26,4 @@ metric:
   csv_path: "data/journals_sjr.csv"   # falls du SJR-CSV nutzt, sonst leer lassen
   journal_col: "Journal"
   value_col: "SJR_2024"
+
