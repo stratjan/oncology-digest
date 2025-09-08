@@ -35,7 +35,31 @@
           <option value="metric">Sortierung: Metrik (↓)</option>
           <option value="date">Sortierung: Datum (↓)</option>
         </select>
+
+        <label class="flex items-center gap-2 ml-2">
+          <input id="boostGuidelines" type="checkbox" class="h-4 w-4">
+          <span class="text-sm">Guidelines zuerst</span>
+        </label>
+
         <button id="refresh" class="border rounded-lg px-3 py-2">Neu laden</button>
+      </div>
+
+      <div class="mt-3 text-xs flex flex-wrap gap-3 items-center">
+        <span class="inline-flex items-center gap-2">
+          <span class="inline-block w-3 h-3 bg-emerald-500 rounded-sm"></span> Prospektiv
+        </span>
+        <span class="inline-flex items-center gap-2">
+          <span class="inline-block w-3 h-3 bg-blue-500 rounded-sm"></span> Review
+        </span>
+        <span class="inline-flex items-center gap-2">
+          <span class="inline-block w-3 h-3 bg-amber-500 rounded-sm"></span> Guideline
+        </span>
+        <span class="inline-flex items-center gap-2">
+          <span class="inline-block w-3 h-3 bg-purple-500 rounded-sm"></span> Präklinisch
+        </span>
+        <span class="inline-flex items-center gap-2">
+          <span class="inline-block w-3 h-3 bg-neutral-300 rounded-sm"></span> Sonstige
+        </span>
       </div>
     </header>
 
