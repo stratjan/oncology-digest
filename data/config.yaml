@@ -1,26 +1,28 @@
-# Kontakt-E-Mail für NCBI/Unpaywall (bitte anpassen!)
+# Kontakt-E-Mail für NCBI/Unpaywall
 contact_email: "stratjan@googlemail.com"
 
-# Deine 4 PubMed-RSS-Links (bitte ersetzen)
-rss_feeds:
-  - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1BE6Yf6ex8r7DRZ-LxK6Qy_Yppx64TDA8j4_HI5WAOLZADjUt4/?limit=15&utm_campaign=pubmed-2&fc=20250904042858"
-  - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1deGMjvjVspo9hsDtk91neqW_t2WGjlrJnU9MGCo6mXWR1mQuz/?limit=100&utm_campaign=pubmed-2&fc=20250904042946"
-  - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1Z74b2Om5LibvidIw7pqs8Z-n48D7V78QvmdyPOGmh0TXMOMH3/?limit=100&utm_campaign=pubmed-2&fc=20250904043024"
-  - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1pEhTjOZGNUOUl_mTk5yi9XPhKJDXTxfMVF-FbfwNLeiUVSYWX/?limit=100&utm_campaign=pubmed-2&fc=20250904043054"
-  - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1RcY2Y-NYSs3xrA4cVKJzHldHBBYyvZqTIkc4eJ1m7I3VouwyY/?limit=100&utm_campaign=pubmed-2&fc=20250904043128"
+# NEU: RSS-Gruppen (Kategorien)
+rss_groups:
+  - key: "lc"
+    label: "Lungenkrebs – Studien"
+    feeds:
+      - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1BE6Yf6ex8r7DRZ-LxK6Qy_Yppx64TDA8j4_HI5WAOLZADjUt4/?limit=15&utm_campaign=pubmed-2&fc=20250904042858"
+      - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1deGMjvjVspo9hsDtk91neqW_t2WGjlrJnU9MGCo6mXWR1mQuz/?limit=100&utm_campaign=pubmed-2&fc=20250904042946"
+      - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1Z74b2Om5LibvidIw7pqs8Z-n48D7V78QvmdyPOGmh0TXMOMH3/?limit=100&utm_campaign=pubmed-2&fc=20250904043024"
+      - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1pEhTjOZGNUOUl_mTk5yi9XPhKJDXTxfMVF-FbfwNLeiUVSYWX/?limit=100&utm_campaign=pubmed-2&fc=20250904043054"
+      - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1RcY2Y-NYSs3xrA4cVKJzHldHBBYyvZqTIkc4eJ1m7I3VouwyY/?limit=100&utm_campaign=pubmed-2&fc=20250904043128"
+      
+  - key: "vte"
+    label: "VTE & Lungenkrebs – News"
+    feeds:
+      - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1PeFS8XE8OyMjjoETx51aPa8MZkE7GBaJpRaKsX71zvOnxtMT3/?limit=15&utm_campaign=pubmed-2&fc=20250908161431"
 
 # Anzeige-/Filterlogik
-days_back: 7    # zeige nur Publikationen der letzten n Tage
+days_back: 7
 
+# Metrik (unverändert)
 metric:
   name: "SJR"
-  csv_path: "data/journals_sjr.csv"
+  csv_path: "data/journals_sjr.csv"   # falls du SJR-CSV nutzt, sonst leer lassen
   journal_col: "Journal"
   value_col: "SJR_2024"
-
-
-
-
-
-
-
