@@ -21,6 +21,7 @@ METRIC_CFG = CFG.get("metric", {}) or {}
 NCBI_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 HEADERS   = {"User-Agent": f"oncology-digest/1.0 ({EMAIL})"}
 
+# ---------- Hilfsfunktionen ----------
 def extract_pmid(s: str):
     if not s: return None
     m = re.search(r"/(\d{4,10})(?:/|\?|$)", s)
@@ -34,7 +35,7 @@ def esummary(pmids):
     if not pmids: return {}
     url = f"{NCBI_BASE}/esummary.fcgi"
     p = {"db":"pubmed","id":",".join(pmids),"retmode":"json","tool":"oncology-digest","email":EMAIL}
-    # Optional: API Key -> in GitHub Secret NCBI_API_KEY speichern und hier aktivieren:
+    # Optional: NCBI API Key (GitHub Secret NCBI_API_KEY)
     api_key = os.getenv("NCBI_API_KEY")
     if api_key: p["api_key"] = api_key
     r = requests.get(url, params=p, headers=HEADERS, timeout=45)
@@ -61,24 +62,17 @@ def within_days(pubdate_iso):
     return d >= (datetime.now(timezone.utc) - timedelta(days=DAYS_BACK))
 
 def load_metric_map(csv_path, journal_col="Journal", value_col="SJR_2024"):
-    """Liest ein CSV robust ohne pandas. Gibt {journal_lower: float(value)} zurück."""
+    """CSV robust (ohne pandas) lesen -> {journal_lower: float(value)}."""
     if not csv_path:
-        print("[metric] csv_path leer -> ohne Metrik")
         return {}
     path = os.path.join(ROOT, csv_path)
-    if not os.path.exists(path):
-        print(f"[metric] Datei nicht gefunden: {path} -> ohne Metrik")
-        return {}
-    size = os.path.getsize(path)
-    if size == 0:
-        print(f"[metric] Datei leer: {path} -> ohne Metrik")
+    if not os.path.exists(path) or os.path.getsize(path) == 0:
         return {}
     metric = {}
     try:
         with open(path, newline='', encoding='utf-8') as fh:
             reader = csv.DictReader(fh)
             if not reader.fieldnames or journal_col not in reader.fieldnames or value_col not in reader.fieldnames:
-                print(f"[metric] Spalten fehlen ({journal_col}, {value_col}); vorhanden: {reader.fieldnames}")
                 return {}
             for row in reader:
                 j = (row.get(journal_col) or "").strip().lower()
@@ -89,12 +83,42 @@ def load_metric_map(csv_path, journal_col="Journal", value_col="SJR_2024"):
                     metric[j] = float(v)
                 except ValueError:
                     continue
-    except Exception as e:
-        print(f"[metric] CSV-Lesefehler: {e} -> ohne Metrik")
+    except Exception:
         return {}
-    print(f"[metric] geladen: {len(metric)} Journale aus {path} ({size} bytes)")
     return metric
 
+# Klassifikation: Entität & Studientyp (heuristisch über Titel/PubTypes)
+PHASE_RE = re.compile(r'\bphase\s*(i{1,3}|iv|v)\b', re.I)
+def classify_entity(title: str):
+    t = (title or "").lower()
+    if any(k in t for k in ["nsclc", "non-small cell", "non–small cell", "adenocarcinoma of the lung", "squamous cell carcinoma of the lung"]):
+        return "NSCLC"
+    if any(k in t for k in ["sclc", "small cell lung"]):
+        return "SCLC"
+    if "mesothelioma" in t:
+        return "Mesothelioma"
+    if any(k in t for k in ["thymoma", "thymic"]):
+        return "Thymic"
+    if "lung" in t or "pulmonary" in t or "bronchial" in t:
+        return "Thoracic-other"
+    return "Other"
+
+def classify_trial(pubtypes, title: str):
+    pt = set([p.lower() for p in (pubtypes or [])])
+    # PubTypes aus ESummary sind recht zuverlässig für RCT/Phase
+    if any("randomized controlled trial" in p for p in pt):
+        return "RCT"
+    if any("clinical trial, phase iii" in p for p in pt) or re.search(r'\bphase\s*iii\b', title or "", flags=re.I):
+        return "Phase III"
+    if any("clinical trial, phase ii" in p for p in pt) or re.search(r'\bphase\s*ii\b', title or "", flags=re.I):
+        return "Phase II"
+    if any("practice guideline" in p or p == "guideline" for p in pt):
+        return "Guideline"
+    if any(p == "review" or "systematic review" in p or "meta-analysis" in p for p in pt):
+        return "Review/Meta"
+    return None
+
+# ---------- Pipeline ----------
 def main():
     # 0) Metric-Map laden
     metric_map = load_metric_map(
@@ -104,7 +128,7 @@ def main():
     )
     metric_name = METRIC_CFG.get("name") or ("SJR" if metric_map else None)
 
-    # 1) PMIDs einsammeln
+    # 1) PMIDs aus RSS einsammeln
     pmids = []
     for url in RSS_FEEDS:
         pmids.extend(rss_pmids(url))
@@ -128,9 +152,11 @@ def main():
             doi = next((aid.get("value") for aid in it.get("articleids", []) if aid.get("idtype") == "doi"), None)
             is_oa, oa_url = unpaywall(doi)
 
-            # Metrik lookup (case-insensitive)
-            jkey = (journal or "").strip().lower()
-            mval = metric_map.get(jkey)
+            # Klassifikation + Metrik
+            entity = classify_entity(title)
+            trial  = classify_trial(pubtypes, title)
+            jkey   = (journal or "").strip().lower()
+            mval   = metric_map.get(jkey)
 
             items.append({
                 "pmid": uid,
@@ -139,6 +165,8 @@ def main():
                 "journal": journal,
                 "pubdate": pubdate_iso,
                 "pubtypes": pubtypes,
+                "entity": entity,
+                "trial_type": trial,
                 "is_oa": is_oa,
                 "oa_url": oa_url,
                 "metric_name": (metric_name if mval is not None else None),
@@ -150,7 +178,7 @@ def main():
 
     # 3) Deduplikation & Filterung
     seen = set(); out = []
-    # Sortiergrundlage: zuerst Metrik (desc, None=-1), dann Datum (desc)
+    # Sortiergrundlage: Metrik (desc, None=-1) dann Datum (desc)
     items.sort(key=lambda x: ((x.get("metric_value") if x.get("metric_value") is not None else -1),
                               (x.get("pubdate") or "")), reverse=True)
     for x in items:
