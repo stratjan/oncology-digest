@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-08T18:28:00.529494Z",
+  "generated": "2025-09-08T20:18:12.890750Z",
   "items": [
     {
       "pmid": "40906489",
@@ -13,12 +13,15 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
       "metric_value": 6.1,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40906489/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.2891"
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.2891",
+      "abstract": "IMPORTANCE: It has been stated that especially with the advancements in imaging, systemic therapy, and local radical treatment (LRT) that patients with synchronous oligometastatic disease (sOMD) can potentially benefit from curative-intent treatment. This statement is challenged by the results of the NRG-LU002 randomized phase 2/3 trial, showing no significant progression-free survival and overall survival improvements with the addition of LRT to maintenance systemic therapy in patients with oligometastatic non-small cell lung cancer (NSCLC) who achieved at least stable disease after induction systemic therapy (approximately 90% received an immunotherapy-based regimen). This Review discusses the current challenges and controversies in the treatment of non-oncogene-addicted sOMD.\n\nOBSERVATIONS: Whether LRT indeed can improve survival in a contemporary immunotherapy-based systemic treatment regimen is discussed as well as the optimal treatment sequence. Moreover, the NRG-LU002 trial also sparks debate of whether a true sOMD state exists. Genomic alterations, the tumor microenvironment of the primary tumor and metastasis, organotropism, and tumor heterogeneity can all influence metastatic potential, giving a biological explanation that there could be existence of a true sOMD state. However, as true sOMD cannot be distinguished from early-detected widespread metastatic disease with the current imaging modalities, it becomes difficult to select patients for a radical strategy and protect patients from futile treatment.\n\nCONCLUSIONS AND RELEVANCE: It remains under debate whether synchronous oligometastatic NSCLC represents a distinct biological entity or merely a probabilistic imaging finding. Biomarkers such as circulating tumor DNA, microRNA, and radiomics may improve patient selection but require further validation. Clinical trials should prioritize translational research to address these challenges."
     },
     {
       "pmid": "40906462",
@@ -32,12 +35,15 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
       "metric_value": 6.1,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40906462/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3007"
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3007",
+      "abstract": "IMPORTANCE: Leptomeningeal metastasis (LM) is associated with limited survival and few treatment options. Photon involved-field radiotherapy (IFRT) is the most common radiotherapy treatment for patients with LM from solid tumors.\n\nOBJECTIVE: To assess whether proton craniospinal irradiation (pCSI) would result in superior central nervous system progression-free survival (CNS-PFS) compared with IFRT.\n\nDESIGN, SETTING, AND PARTICIPANTS: A randomized, phase 2 trial of pCSI vs IFRT was conducted between April 16, 2020, and October 11, 2021, and included patients with non-small cell lung cancer and breast cancer with LM. Patients with other solid tumors were also enrolled in an exploratory pCSI cohort.\n\nINTERVENTION: For the randomized groups, after stratifying by histology and systemic disease status, patients were assigned (2:1) to pCSI or IFRT.\n\nMAIN OUTCOMES AND MEASURES: The primary end point was CNS-PFS. Secondary end points included overall survival (OS).\n\nRESULTS: Of 98 total patients, 72 individuals (73.5%) were female, and the median (IQR) age was 59 (50-65) years. A total of 42 and 21 patients were randomly assigned to pCSI and IFRT, respectively. At planned interim analysis, a significant benefit in CNS-PFS was observed with pCSI compared with IFRT, leading to the early discontinuation of the trial. In this final analysis, a significant benefit was continually observed in CNS-PFS with pCSI (median, 8.2 months; 95% CI, 6.6-15.3) vs IFRT (median, 2.3 months; 95% CI, 1.2-4.0; P < .001). A statistically significant and clinically meaningful OS benefit with pCSI (median, 11.3 months; 95% CI, 7.5-18.3) vs IFRT (median, 4.9 months; 95% CI, 3.9-15.0; P = .04) was also observed. For the exploratory pCSI cohort (n = 35), the median CNS-PFS was 5.8 months (95% CI, 4.4-9.1) and OS was 7.0 months (95% CI, 5.4-10.6).\n\nCONCLUSIONS AND RELEVANCE: This randomized clinical trial that assessed the optimal radiotherapy treatment for LM found improved CNS-PFS and OS with pCSI compared with IFRT. The results suggest that pCSI should be considered when available.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04343573."
     },
     {
       "pmid": "40189749",
@@ -51,12 +57,15 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": true,
       "oa_url": "https://doi.org/10.1080/2162402x.2025.2484880",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40189749/",
-      "url_doi": "https://doi.org/10.1080/2162402X.2025.2484880"
+      "url_doi": "https://doi.org/10.1080/2162402X.2025.2484880",
+      "abstract": "Deviations in the diversity and composition of the gut microbiota are called \"gut dysbiosis\". They have been linked to various chronic diseases including cancers and resistance to immunotherapy. Stool shotgun based-metagenomics informs on the ecological composition of the gut microbiota and the prevalence of homeostatic bacteria such as Akkermansia muciniphila (Akk), while determination of the serum addressin MAdCAM-1 instructs on endothelial gut barrier dysfunction. Here we examined patient survival during chemo-immuno-therapy in 955 cancer patients across four independent cohorts of non-small cell lung (NSCLC), genitourinary (GU) and colorectal (CRC) cancers, according to hallmarks of gut dysbiosis. We show that Akk prevalence represents a stable and favorable phenotype in NSCLC and CRC cancer patients. Over-dominance of Akk above the healthy threshold was observed in dismal prognosis in NSCLC and GU and mirrored an immunosuppressive gut ecosystem and excessive intestinal epithelial exfoliation in NSCLC. In CRC, the combination of a lack of Akk and low sMAdCAM-1 levels identified a subset comprising 28% of patients with reduced survival, independent of the immunoscore. We conclude that gut dysbiosis hallmarks deserve integration within the diagnosis toolbox in oncological practice."
     },
     {
       "pmid": "40168159",
@@ -70,12 +79,15 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": true,
       "oa_url": "https://doi.org/10.1080/17581966.2025.2477411",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
-      "url_doi": "https://doi.org/10.1080/17581966.2025.2477411"
+      "url_doi": "https://doi.org/10.1080/17581966.2025.2477411",
+      "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between HYAL2 methylation in peripheral blood and LC.\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in HYAL2 gene in two independent case-control studies (168 LC cases and 167 controls in Study I, 677 LC cases and 833 controls in Study II). Logistic regression adjusted for covariates was conducted for odds ratios (ORs) and 95% confidence intervals (CIs). Non-parametric tests were applied for the comparisons of stratified groups.\n\nRESULTS: Hypomethylation of all 4 CpG sites in HYAL2 was associated with early-stage LC in the two studies (ORs range from 1.91 to 3.07 in Study I, ORs range from 1.39 to 1.86 in Study II, p < 0.05 for all). The associations were still significant for the very early-stage LC patients (stage I). Subgroup analysis indicated that the associations could be enhanced by male gender and older age. Moreover, decreased HYAL2 methylation was correlated with increased tumor size, tumor length and stage.\n\nCONCLUSIONS: Our results suggested blood-based HYAL2 hypomethylation as a potential biomarker for LC early detection."
     },
     {
       "pmid": "40684711",
@@ -89,12 +101,15 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40684711/",
-      "url_doi": "https://doi.org/10.1016/j.ejrad.2025.112290"
+      "url_doi": "https://doi.org/10.1016/j.ejrad.2025.112290",
+      "abstract": "OBJECTIVES: To investigate the performance of two segmentation algorithms for nodule volumetric classification at participant/scan level in the NELCIN-B3 cohort (Netherlands and China Big-3), a lung cancer screening program (LCS) using low-dose CT (LDCT).\n\nMETHODS: Baseline scans with qualified LDCT images from consecutive NELCIN-B3 participants were included from June 2017 to July 2018. Performance of two software algorithms were independently evaluated by two radiologists: software A (Syngo.via VB30A) by reader 1 and software B (AVIEW v1.1.39.14) by reader 2. According to the NELSON2.0 protocol, nodules with a solid component ≥ 100 mm3 were classified as indeterminate-positive, while all other nodules were classified as negative. Disagreements in classification were resolved by consensus with three senior radiologists. These results served as a reference standard for identifying positive misclassifications (PM) and negative misclassifications (NM).\n\nRESULTS: In total, 300 participants were evaluated comprising 159 women (53.0 %) and 193 (64.3 %) never smokers, with a mean ± standard deviation age of 61.2 ± 7.1 years. There were disagreements in 17 cases: in 11 (11/300, 3.7 %), this was due to differences in nodule selection and nodule type classification between readers; and in 6 (6/300, 2.0 %), this was due to variations in nodule volume metrics between algorithms. Inter-software agreement was almost perfect (κ = 0.88 [95 %CI: 0.83-0.93]). In the consensus read, reader 1/software A generated 12 misclassifications (11 PM, 1 NM), giving a negative predictive value of 99.6 % (95 % CI: 98.9 %-100.0 %). Reader 2/software B generated 5 misclassifications (2 PM, 3 NM), giving a negative predictive value of 98.9 % (95 % CI: 97.7 %-100.0 %).\n\nCONCLUSION: Two software algorithms (Syngo.via VB30A and AVIEW v1.1.39.14) showed comparable performance for lung nodule volumetric classification at participant/scan level. Further research is needed to confirm the results in other LDCT LCS programs."
     },
     {
       "pmid": "40730077",
@@ -110,12 +125,15 @@
       "entity": "NSCLC",
       "trial_type": "RCT",
       "study_class": "Prospective",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": true,
       "oa_url": "https://www.ejcancer.com/article/S0959-8049(25)00406-X/pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40730077/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.115624"
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.115624",
+      "abstract": "INTRODUCTION: Intravenous anticancer treatments present challenges for patients and healthcare professionals (HCPs), prompting the development of subcutaneous formulations. In the phase 3 PALOMA-3 study, subcutaneous amivantamab demonstrated noninferior pharmacokinetics and response rates versus intravenous amivantamab (both with lazertinib), with substantially faster administration, a 5-fold reduction in infusion-related reactions, reduced venous thromboembolism, and numerically prolonged survival.\n\nMETHODS: Participants with EGFR-mutated NSCLC and progression on osimertinib and chemotherapy were randomized to subcutaneous (n = 206) or intravenous amivantamab (n = 212), plus lazertinib. Resource utilization and participant-reported treatment satisfaction were evaluated at cycle (C) 1 day (D) 1 and C3D1.\n\nRESULTS: Time-in-chair was substantially lower for subcutaneous versus intravenous amivantamab (C1D1: median [range], 23 min or 0.4 h [0-12.0 h] vs 6.5 h [0-24.0 h]; C3D1: 35 min or 0.6 h [0-6.6 h] vs 3.4 h [0.5-9.0 h]), as were HCP time and participant time-in-room. More participants who received subcutaneous versus intravenous amivantamab reported feeling unrestricted (C1D1, 66 % vs 29 %; C3D1, 60 % vs 42 %) or unbothered (C1D1, 69 % vs 30 %; C3D1, 71 % vs 45 %) by administration, and reported gaining time for other activities (C1D1, 36 % vs 7 %; C3D1, 37 % vs 6 %). Few participants who received subcutaneous amivantamab reported moderate-to-very severe injection-site pain (C1D1, 14 %; C3D1, 16 %), swelling (C1D1, 5 %; C3D1, 6 %), or redness (C1D1, 5 %; C3D1, 6 %). Most subcutaneous amivantamab recipients preferred and were more satisfied with its administration versus historical experience with intravenous therapies and would recommend it.\n\nCONCLUSIONS: In PALOMA-3, subcutaneous amivantamab, which simplifies and shortens administration, reduces resource utilization, and enhances treatment experience, was a preferred option for patients who received amivantamab-lazertinib."
     },
     {
       "pmid": "40920097",
@@ -129,12 +147,15 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Preclinical",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40920097/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-0526"
+      "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-0526",
+      "abstract": "There is growing interest in understanding the mechanisms underlying differences in cancer incidence among species (comparative oncology). The naked mole-rat (NMR) is often referenced as \"cancer-resistant\" and prior studies focused on identifying mechanisms explaining this. However, efforts to assess this in vivo have been limited. Herein, we provide evidence that the NMR presents as a novel autochthonous model of lung tumor initiation, driven by an introduction of the oncogenic Eml4-Alk fusion protein using CRISPR-mediated genome editing. Whereas in mice the inversion alone is sufficient to drive tumorigenesis, the inversion alone was insufficient to drive tumorigenesis in the NMR lung and tumor development required additional losses of the tumor suppressors p53 and pRb. Our findings suggest that the proposed \"resistance\" of the NMR to the development of cancer may reflect that the genetic events leading to tumor initiation are likely to be comparable to those present in human cells."
     },
     {
       "pmid": "40916834",
@@ -148,12 +169,15 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40916834/",
-      "url_doi": "https://doi.org/10.1093/cei/uxaf050"
+      "url_doi": "https://doi.org/10.1093/cei/uxaf050",
+      "abstract": "INTRODUCTION: Immunosenescence remodels immune functions and was first described with aging. It is present in 25% of cancer patients but has also been described in patients with Immune-mediated inflammatory diseases (IMIDs). This study aims at quantifying cells exhibiting a phenotype of senescence in CD4+ (T4sen) and CD8+ (T8sen) T cells, analyzing its potential drivers and the effect of anti-TNF treatment in a prospective cohort of patients with rheumatoid arthritis (RA), spondyloarthritis (SpA) and Sjögren disease (SjD).\n\nMETHODS: Using flow cytometry, we assessed circulating T4sen and T8sen proportions at baseline and three months after initiating anti-TNF treatment in RA and SpA patients using flow cytometry. Circulating levels of cytokines were measured at baseline. These parameters were associated with demographic variables and disease activity. T4sen and T8sen were compared between RA, SpA, SjD, healthy donors and cancer patients.\n\nRESULTS: T8sen but not T4sen accumulated more in patients with IMIDs than in patients with lung cancer and healthy donors. CMV-seropositivity was associated with the accumulation of T8sen. T8sen were associated with high IL-6 in SpA patients and high IP10 in SjD patients. Anti-TNF did not impact the T8sen proportion of RA and SpA patients. There was a trend toward an increase of T8sen in anti-TNF non-responders after three months of treatment.\n\nCONCLUSION: Senescent CD8 T cells are enriched in IMID patients, suggesting that immune aging is a shared feature of chronic inflammatory diseases. The association between T8sen and distinct inflammatory cytokines underscores the potential role of senescence in shaping immune responses in IMIDs."
     },
     {
       "pmid": "40911432",
@@ -167,12 +191,15 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40911432/",
-      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2090"
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2090",
+      "abstract": "Seizure-related homolog protein 6 (SEZ6) is a cell surface type 1 transmembrane protein involved in neuronal development, expression of which in adult tissues is almost exclusively limited to the central nervous system. Aberrant expression of SEZ6 has been associated with neurodevelopmental and psychiatric disorders including epilepsy, schizophrenia, and Alzheimer's disease. More recently, SEZ6 overexpression has been detected in small cell lung cancer (SCLC) and other high-grade neuroendocrine malignancies, although our understanding of the function of SEZ6 as a driver of cancer is limited. A lineage-defining transcription factor of SCLC, ASCL1, has been implicated as a regulator of SEZ6 expression. SEZ6 has emerged as a novel target for antibody-drug conjugate (ADC) therapy, and early studies have shown promising antitumor activity, demonstrating the potential for SEZ6 to be targeted by drugs with alternate mechanisms of action. Here, we review the current knowledge of the biology of SEZ6 and its implications in malignancy, summarize the preclinical and clinical findings of SEZ6 targeted ADCs, and discuss future directions to further elucidate the role of SEZ6 in SCLC and other neuroendocrine neoplasms."
     },
     {
       "pmid": "40910999",
@@ -187,12 +214,15 @@
       "entity": "NSCLC",
       "trial_type": "Review/Meta",
       "study_class": "Review",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40910999/",
-      "url_doi": "https://doi.org/10.1080/14712598.2025.2555830"
+      "url_doi": "https://doi.org/10.1080/14712598.2025.2555830",
+      "abstract": "INTRODUCTION: From the 1960s and up until 2021, neoadjuvant chemotherapy has represented the standard of care for potentially resectable stage III (N2) Non-Small Cell Lung Cancer (NSCLC). However, in recent years, immunotherapy in the form of Immune Checkpoint Inhibitors (ICIs) has revolutionized oncology treatment strategies and several ICIs have been investigated for the neoadjuvant treatment of NSCLC, both in monotherapy and in combination with other ICIs or chemotherapy.\n\nAREAS COVERED: Therefore, this paper aims to review the currently available data supporting the role of immunotherapy in the neoadjuvant setting, as well as to discuss the challenges associated with it. We undertook a comprehensive literature search of PubMed, Embase, Cochrane Library, of abstracts and posters from annual meetings of American Society of Clinical Oncology (ASCO), European Society for Medical Oncology (ESMO) and American Association for Cancer Research (AACR) up until November 2024.\n\nEXPERT OPINION: We believe that in a near future ICI plus chemotherapy combinations will represent the new recommended standard of care in the neoadjuvant/perioperative setting. We look forward to the full results coming from the ongoing randomized phase III trials, that will help us guide our choice in terms of patient selection, regimen of choice and response assessment."
     },
     {
       "pmid": "40908346",
@@ -206,12 +236,15 @@
       "entity": "SCLC",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s40487-025-00372-0.pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40908346/",
-      "url_doi": "https://doi.org/10.1007/s40487-025-00372-0"
+      "url_doi": "https://doi.org/10.1007/s40487-025-00372-0",
+      "abstract": "INTRODUCTION: Tarlatamab is a bispecific T-cell engager (BiTE®) immunotherapy that binds delta-like ligand 3 on the surface of small cell lung cancer (SCLC) cells and CD3 on T cells, facilitating T cell-mediated cancer cell lysis. In the primary analysis of the phase 2 DeLLphi-301 study (NCT05060016), tarlatamab showed a favourable benefit-to-risk profile with durable objective responses and promising survival outcomes in patients with previously treated SCLC. Here, phase 2 data for the Asia region subgroup are presented.\n\nMETHODS: Patients with previously treated, advanced SCLC received 10 mg tarlatamab every 2 weeks. The primary endpoint was objective response rate (ORR) by blinded independent central review (RECIST version 1.1). Key secondary endpoints included duration of response (DOR), progression-free survival (PFS), overall survival (OS) and safety. The present analysis includes patients enrolled at sites in Asia.\n\nRESULTS: A total of 43 patients were enrolled at sites in Asia. ORR was 46.3% (95% confidence interval [CI], 30.7-62.6) and median DOR was 7.2 months (95% CI 3.9 to not estimable). The median follow-up was 16.6 months for PFS and 21.2 months for OS. Median PFS was 5.4 months (95% CI 3.0-8.1) and median OS was 19.0 months (95% CI 11.4 to not estimable). The most common treatment-emergent adverse event (AE) was cytokine release syndrome (48.8%), and all such events were grade 1 or 2. There were no discontinuations due to treatment-related AEs.\n\nCONCLUSIONS: Tarlatamab demonstrated durable responses and promising survival outcomes with a manageable safety profile in this post hoc analysis of patients from Asia with previously treated SCLC.\n\nTRIAL REGISTRATION: ClinicalTrials.gov, NCT05060016."
     },
     {
       "pmid": "40914393",
@@ -225,12 +258,15 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40914393/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.08.024"
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.08.024",
+      "abstract": "INTRODUCTION: Interval lung cancers (ILCs) are key indicators of lung cancer screening (LCS) performance. However, data on the proportion, characteristics, and mortality of ILCs under biennial screening in Asian populations remain limited.\n\nMETHODS: We analyzed participants from the baseline biennial Korean national LCS program between 2019 and 2020. Screening-detected lung cancers (SLCs) were defined as those diagnosed within 1 year of a positive screening result. ILCs were defined as cancers diagnosed more than 1 year after a negative screening result but within 2 years or before the next screening. Risk factors for ILC were assessed using multivariable logistic regression among participants with a negative screening result. All-cause mortality was compared between SLCs and ILCs using multivariable Cox regression analysis.\n\nRESULTS: Among 124,595 participants, SLCs and ILCs occurred in 0.56% and 0.17%, respectively. ILCs accounted for 18.5% of all lung cancers within 2 years; 65.4% were in Lung-RADS category 1. Risk factors for ILC included older age (adjusted odds ratio [OR], 1.14; 95% CI: 1.11-1.17; P<0.001), greater smoking exposure (adjusted OR, 1.010; 95% CI: 1.004-1.016; P=0.002), a history of malignancy (adjusted OR, 2.22; 95% CI: 1.41-3.51; P<0.001), emphysema (adjusted OR, 2.88; 95% CI: 2.15-3.85; P<0.001), and interstitial lung abnormalities (adjusted OR, 4.16; 95% CI: 2.88-6.01; P<0.001). ILCs showed higher all-cause mortality than SLCs (adjusted hazard ratio, 1.43; 95% CI: 1.13-1.80; P=0.002).\n\nCONCLUSIONS: ILCs are common under biennial LCS, making it potentially suboptimal for Asian heavy smokers."
     },
     {
       "pmid": "40904097",
@@ -245,12 +281,60 @@
       "entity": "Other",
       "trial_type": "Review/Meta",
       "study_class": "Review",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40904097/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-24-1866"
+      "url_doi": "https://doi.org/10.1158/2159-8290.CD-24-1866",
+      "abstract": "UNLABELLED: Lineage plasticity, a critical hallmark of cancer progression, enables tumor cells to evade inhibition of primary oncogenic pathways through histologic transformation. This adaptive process, driven by stemness-associated features and epigenetic reprogramming, poses significant challenges in treatment. Using non-small cell lung cancer and prostate cancer as models, we examine the utility of tissue and liquid biopsies in detecting histologic transformations and tailoring treatments to specific subtypes, which has profound clinical implications, potentially improving outcomes in patients with advanced, therapy-resistant disease. We also discuss emerging therapeutic strategies, including novel molecular targets, and address ongoing clinical challenges in managing treatment-emergent histologic transformation.\n\nSIGNIFICANCE: The advent of highly effective molecularly targeted therapies results in increased recognition of treatment-emergent histologic transformation. This review not only summarizes current evidence on diagnosis and management of lineage plasticity but also explores therapeutic strategies under study, outlining a framework for clinical translation and successful drug development."
+    },
+    {
+      "pmid": "40912643",
+      "doi": "10.1016/j.avsg.2025.08.029",
+      "title": "Temporal Patterns and Risk Factors for Pulmonary Embolism Associated with Anti-Tumor Therapies in Patients with Lung Cancer.",
+      "journal": "Annals of vascular surgery",
+      "pubdate": "2025-09-03T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "category_key": "vte",
+      "category_label": "VTE & Lungenkrebs – News",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40912643/",
+      "url_doi": "https://doi.org/10.1016/j.avsg.2025.08.029",
+      "abstract": "OBJECTIVE: This study aimed to characterize the association between pulmonary embolism (PE) onset and various anti-tumor therapeutic approaches in patients with lung cancer, with the goal of identifying potential high-risk populations.\n\nMETHODS: A retrospective analysis was conducted on clinical records from 2019 to 2025, among the 84,000 inpatients with lung cancer, 106 patients developed PE during hospitalization for anti-tumor treatment, who were confirmed using spiral computed tomography (CT) or pulmonary angiography per CTS (2018) and NEJM (2010) criteria. Data were collected on patient demographics, cancer staging, treatment type, and time to PE onset.\n\nRESULTS: Among patients who developed PE during lung cancer treatment, the mean age was 66.82 ± 10.50 years. Females comprised 64.04% of cases, adenocarcinoma was identified in 60.38%, and stage IV lung cancer was present in 56.60%. First-line therapy was administered in 63.21% of cases, and 66.04% exhibited enlarged mediastinal lymph nodes. The mean D-dimer level among this cohort was 3.559 μg/mL, indicating a heightened thrombotic risk. Temporally, 50.95% of PE cases occurred within six months of lung cancer diagnosis. Onset within three months following therapy initiation was observed across multiple modalities: 46.15% for chemotherapy, 34.78% for targeted therapy, and 77.78% following surgical intervention. Notably, 16.98% of PE events occurred during the initial chemotherapy cycle. The mean time to PE onset was 1.81 ± 2.51 months for patients undergoing surgery alone, compared to 15.52 ± 12.88 months for those receiving surgery combined with other treatments (p < 0.05). Surgical intervention was identified as an independent risk factor for PE. In early-stage lung cancer, the mean time to PE onset was significantly shorter, with a mean time of 16.38 ± 21.07 months (p < 0.05).\n\nCONCLUSION: The timing and incidence of PE vary according to the type of anti-tumor therapy administered in lung cancer treatment. These findings underscore the importance of vigilant monitoring, personalized risk assessment, and targeted anticoagulation strategies throughout the therapeutic course."
+    },
+    {
+      "pmid": "40903476",
+      "doi": "10.1038/s41598-025-13368-7",
+      "title": "Mendelian randomization analysis of the association between vitamin B12 deficiency anaemia and the risk of developing lung disease.",
+      "journal": "Scientific reports",
+      "pubdate": "2025-09-03T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "category_key": "vte",
+      "category_label": "VTE & Lungenkrebs – News",
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41598-025-13368-7.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40903476/",
+      "url_doi": "https://doi.org/10.1038/s41598-025-13368-7",
+      "abstract": "The causal relationship between vitamin B12 deficiency anaemia and the risk of developing lung diseases remains unclear. This study aimed to clarify that relationship using Mendelian randomization (MR) with Bayesian weighting, focusing on pulmonary fibrosis (PF), idiopathic PF (IPF), eosinophilic asthma (EA), squamous cell lung cancer (LUSC), chronic obstructive pulmonary disease (COPD), and pulmonary embolism (PE). We analysed genome-wide association study (GWAS) data, applied five MR models with Bayesian methods to assess causality, and validated the results via sensitivity analysis. The MVMR method explores whether vitamin B12-deficient anaemia affects the pathogenesis of IPF independently of BMI. SMR was used to explore IPF-related pathogenesis, whereas a meta-analysis was used to consolidate LUSC MR findings across ethnicities. IVW analysis revealed a positive causal link between vitamin B12 deficiency anaemia status and the risk of developing PF [OR (95% CI) = 1.161 (1.021, 1.319), P = 0.023], IPF [OR (95% CI) = 1.176 (1.002, 1.380), P = 0.047 (Bayesian MR)] and EA [OR (95% CI) = 1.394 (1.084, 1.793), P = 0.010]. The results of the study demonstrate that the development of IPF is influenced by vitamin B12 deficiency independently of BMI. Conversely, vitamin B12 deficiency anaemia status was negatively associated with the development of LUSC [OR (95% CI) = 0.879 (0.760, 0.995), P = 0.001], and no causal association was detected between vitamin B12 deficiency anaemia status and the development of COPD or PE. The reverse MR analysis yielded nonsignificant results. The SMR analysis revealed a significant association between IPF onset and CUBN, a vitamin B12 target. Post-MR meta-analysis confirmed the credibility and homogeneity of these findings. Vitamin B12 deficiency anaemia is causally associated with the development of PF, IPF, and EA but is negatively associated with the development of LUSC. No causality was observed for COPD or PE. Notably, CUBN emerged as a key IPF-related gene, highlighting the intricate relationship between vitamin B12 status and pulmonary health."
     },
     {
       "pmid": "40907070",
@@ -264,12 +348,15 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108745",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40907070/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108745"
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108745",
+      "abstract": "BACKGROUND: Brain metastases (BM) are common in non-small cell lung cancer (NSCLC). Although guidelines recommend baseline BM screening in asymptomatic patients, its benefit remains unproven. Routine imaging burdens healthcare systems and patients. Immune checkpoint inhibitors (ICI) show similar intra-and extracranial response percentages, supporting deferral of local BM treatment and possibly screening. However, dissociated responses occur. Therefore, patients newly diagnosed with BM during first-line ICI probably would have benefited most from baseline (and follow-up) screening. Identifying high-risk patients for BM progression or development during first-line ICI-based therapy is crucial to optimize screening.\n\nMETHODS: Retrospective multicenter cohort study of patients with stage IV NSCLC without known baseline BM, treated with first-line (chemo-)ICI between 2018-2021. Incidence, timing, and symptom burden of newly diagnosed BM were analyzed. Cox regression identified predictive factors, and a nomogram was developed.\n\nRESULTS: Among 589 patients, BM were diagnosed during therapy in 9.0 %, 88.7 % occurred within the first year. Most cases (90.6 %) were symptomatic. Four factors predicted higher BM risk: age < 65 years (HR 2.66; 95 % CI: 1.49-4.74), T4 stage (HR 2.08; 95 % CI: 1.18-3.65), M1c stage (HR 2.19; 95 % CI: 1.22-3.94) and PD-L1 < 50 % (HR 2.03; 95 % CI: 1.16-3.54). The nomogram showed good performance (C-index 0.70). Twelve-month cumulative incidence was 11.7 % (95 % CI: 8.5-14.9 %).\n\nCONCLUSION: BM detection during first-line (chemo-)ICI is relatively low in patients with stage IV NSCLC without known baseline BM, but the burden (symptoms) is high. Upon validation, the identified risk factors may support selective brain imaging in high-risk patients, avoiding routine screening in low-risk patients."
     },
     {
       "pmid": "40891208",
@@ -283,12 +370,25 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
+      "category_key": "lc",
+      "category_label": "Lungenkrebs – Studien",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40891208/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1989"
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1989",
+      "abstract": "Lung adenocarcinoma has become a paradigm for precision oncology and success with targeted therapies. However, large chunks of the pie chart of molecular drivers remain unknown, preventing many patients from similarly benefiting from this strategy. Here, we highlight the side-by-side release of two impactful studies from Mozzarelli and colleagues and DiMarco and colleagues in this issue of Cancer Research. Here, each team generated unique mouse models characterizing a novel and potentially actionable driver and facilitator of acquired drug resistance in lung adenocarcinoma, RIT1M90I. Both study teams describe and characterize their new mouse models, reporting the tumor latency and importantly revealing the sensitivity of RIT1-mutant lung tumors to SHP2 or RAS tricomplex inhibitors. Collectively, these findings highlight the importance of RIT1M90I as an actionable driver of lung adenocarcinoma and a potent mediator of acquired drug resistance. These new RIT1-driven lung cancer models represent valuable tools for the preclinical testing and translation of different therapeutic strategies for this patient population. See related article by Mozzarelli et al., p. 3196 See related article by DiMarco et al., p. 3207."
+    }
+  ],
+  "categories": [
+    {
+      "key": "lc",
+      "label": "Lungenkrebs – Studien"
+    },
+    {
+      "key": "vte",
+      "label": "VTE & Lungenkrebs – News"
     }
   ]
 }
