@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-08T17:42:12.602184Z",
+  "generated": "2025-09-08T18:17:47.402950Z",
   "items": [
     {
       "pmid": "40906489",
@@ -10,6 +10,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "NSCLC",
+      "trial_type": null,
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
@@ -26,6 +28,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "Other",
+      "trial_type": null,
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
@@ -42,6 +46,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "Other",
+      "trial_type": null,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1080/2162402x.2025.2484880",
       "metric_name": null,
@@ -58,6 +64,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1080/17581966.2025.2477411",
       "metric_name": null,
@@ -74,6 +82,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
@@ -92,6 +102,8 @@
         "Randomized Controlled Trial",
         "Multicenter Study"
       ],
+      "entity": "NSCLC",
+      "trial_type": "RCT",
       "is_oa": true,
       "oa_url": "https://www.ejcancer.com/article/S0959-8049(25)00406-X/pdf",
       "metric_name": null,
@@ -108,6 +120,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
@@ -124,6 +138,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "Other",
+      "trial_type": null,
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
@@ -140,6 +156,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "Other",
+      "trial_type": null,
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
@@ -157,6 +175,8 @@
         "Journal Article",
         "Review"
       ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
@@ -173,6 +193,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "SCLC",
+      "trial_type": null,
       "is_oa": true,
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s40487-025-00372-0.pdf",
       "metric_name": null,
@@ -189,6 +211,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
@@ -206,6 +230,8 @@
         "Journal Article",
         "Review"
       ],
+      "entity": "Other",
+      "trial_type": "Review/Meta",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
@@ -222,6 +248,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "NSCLC",
+      "trial_type": null,
       "is_oa": true,
       "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108745",
       "metric_name": null,
@@ -238,6 +266,8 @@
       "pubtypes": [
         "Journal Article"
       ],
+      "entity": "NSCLC",
+      "trial_type": null,
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
