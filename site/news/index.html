@@ -4,16 +4,21 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="robots" content="noindex, nofollow"/>
-  <title>Oncology Daily Digest</title>
+  <title>Oncology Daily Digest · News</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-neutral-50 text-neutral-900">
   <div class="max-w-6xl mx-auto p-6">
+    <!-- Header -->
     <header class="mb-6">
       <h1 class="text-2xl font-semibold">Oncology Daily Digest</h1>
       <p class="text-sm text-neutral-500" id="generated">Lade…</p>
+
+      <!-- Controls -->
       <div class="mt-4 flex flex-wrap gap-3 items-center">
-        <input id="q" type="search" placeholder="Suche Titel/Journal…" class="border rounded-lg px-3 py-2 w-64"/>
+        <input id="q" type="search" placeholder="Suche Titel/Journal…"
+               class="border rounded-lg px-3 py-2 w-64"/>
+
         <select id="entity" class="border rounded-lg px-3 py-2">
           <option value="">Alle Entitäten</option>
           <option value="NSCLC">NSCLC</option>
@@ -23,6 +28,7 @@
           <option value="Thoracic-other">Thoracic-other</option>
           <option value="Other">Other</option>
         </select>
+
         <select id="type" class="border rounded-lg px-3 py-2">
           <option value="">Alle Publikationstypen</option>
           <option>Randomized Controlled Trial</option>
@@ -31,6 +37,7 @@
           <option>Guideline</option>
           <option>Review</option>
         </select>
+
         <select id="sort" class="border rounded-lg px-3 py-2">
           <option value="metric">Sortierung: Metrik (↓)</option>
           <option value="date">Sortierung: Datum (↓)</option>
@@ -42,9 +49,11 @@
         </label>
 
         <button id="refresh" class="border rounded-lg px-3 py-2">Neu laden</button>
+        <button id="export" class="border rounded-lg px-3 py-2">Export CSV</button>
       </div>
 
-      <div class="mt-3 text-xs flex flex-wrap gap-3 items-center">
+      <!-- Legende -->
+      <div class="mt-3 text-xs flex flex-wrap gap-4 items-center">
         <span class="inline-flex items-center gap-2">
           <span class="inline-block w-3 h-3 bg-emerald-500 rounded-sm"></span> Prospektiv
         </span>
@@ -60,16 +69,23 @@
         <span class="inline-flex items-center gap-2">
           <span class="inline-block w-3 h-3 bg-neutral-300 rounded-sm"></span> Sonstige
         </span>
+        <span class="inline-flex items-center gap-2">
+          <span class="text-amber-500">★</span> Neu seit letztem Besuch
+        </span>
       </div>
     </header>
 
+    <!-- Top-5 -->
     <section id="top5" class="mb-6">
       <h2 class="text-lg font-semibold mb-2">Top 5</h2>
       <div id="top5list" class="grid gap-4"></div>
     </section>
 
+    <!-- Liste -->
     <main id="list" class="grid gap-4"></main>
   </div>
+
+  <!-- App -->
   <script src="./app.js"></script>
 </body>
 </html>
