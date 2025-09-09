@@ -26,4 +26,7 @@ metric:
   csv_path: "data/journals_sjr.csv"   # falls du SJR-CSV nutzt, sonst leer lassen
   journal_col: "Journal"
   value_col: "SJR_2024"
+  
+include_abstracts: true
+
 
