@@ -14,7 +14,7 @@ rss_groups:
       - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1PeFS8XE8OyMjjoETx51aPa8MZkE7GBaJpRaKsX71zvOnxtMT3/?limit=15&utm_campaign=pubmed-2&fc=20250908161431"
 
 # Anzeige-/Filterlogik
-days_back: 14
+days_back: 7
 
 # Metrik (unverändert)
 metric:
@@ -24,6 +24,7 @@ metric:
   value_col: "SJR_2024"
   
 include_abstracts: true
+
 
 
 
