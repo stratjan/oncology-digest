@@ -81,68 +81,6 @@
 </header>
 
 
-
-      <!-- Controls -->
-      <div class="mt-4 flex flex-wrap gap-3 items-center">
-        <input id="q" type="search" placeholder="Suche Titel/Journal…"
-               class="border rounded-lg px-3 py-2 w-64"/>
-
-        <select id="entity" class="border rounded-lg px-3 py-2">
-          <option value="">Alle Entitäten</option>
-          <option value="NSCLC">NSCLC</option>
-          <option value="SCLC">SCLC</option>
-          <option value="Mesothelioma">Mesothelioma</option>
-          <option value="Thymic">Thymic</option>
-          <option value="Thoracic-other">Thoracic-other</option>
-          <option value="Other">Other</option>
-        </select>
-
-        <select id="type" class="border rounded-lg px-3 py-2">
-          <option value="">Alle Publikationstypen</option>
-          <option>Randomized Controlled Trial</option>
-          <option>Clinical Trial, Phase II</option>
-          <option>Clinical Trial, Phase III</option>
-          <option>Guideline</option>
-          <option>Review</option>
-        </select>
-
-        <select id="sort" class="border rounded-lg px-3 py-2">
-          <option value="metric">Sortierung: Metrik (↓)</option>
-          <option value="date">Sortierung: Datum (↓)</option>
-        </select>
-
-        <label class="flex items-center gap-2 ml-2">
-          <input id="boostGuidelines" type="checkbox" class="h-4 w-4">
-          <span class="text-sm">Guidelines zuerst</span>
-        </label>
-
-        <button id="refresh" class="border rounded-lg px-3 py-2">Neu laden</button>
-        <button id="export" class="border rounded-lg px-3 py-2">Export CSV</button>
-      </div>
-
-      <!-- Legende -->
-      <div class="mt-3 text-xs flex flex-wrap gap-4 items-center">
-        <span class="inline-flex items-center gap-2">
-          <span class="inline-block w-3 h-3 bg-emerald-500 rounded-sm"></span> Prospektiv
-        </span>
-        <span class="inline-flex items-center gap-2">
-          <span class="inline-block w-3 h-3 bg-blue-500 rounded-sm"></span> Review
-        </span>
-        <span class="inline-flex items-center gap-2">
-          <span class="inline-block w-3 h-3 bg-amber-500 rounded-sm"></span> Guideline
-        </span>
-        <span class="inline-flex items-center gap-2">
-          <span class="inline-block w-3 h-3 bg-purple-500 rounded-sm"></span> Präklinisch
-        </span>
-        <span class="inline-flex items-center gap-2">
-          <span class="inline-block w-3 h-3 bg-neutral-300 rounded-sm"></span> Sonstige
-        </span>
-        <span class="inline-flex items-center gap-2">
-          <span class="text-amber-500">★</span> Neu seit letztem Besuch
-        </span>
-      </div>
-    </header>
-
     <!-- Top-5 -->
     <section id="top5" class="mb-6">
       <h2 class="text-lg font-semibold mb-2">Top 5</h2>
