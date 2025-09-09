@@ -9,25 +9,38 @@ async function load(bust=false) {
 
   const items = data.items || [];
 
-  // ---- "Neu seit letztem Besuch": lokale Persistenz
+  // ---- "Neu seit letztem Besuch"
   const ls = window.localStorage;
   const seenSet = new Set(JSON.parse(ls.getItem('digestSeenPMIDs') || '[]'));
-  const lastSeenGen = ls.getItem('digestLastSeenGenerated');      // ISO-String
-  const firstVisit = !lastSeenGen;                                // beim ersten Besuch keine Sterne
+  const lastSeenGen = ls.getItem('digestLastSeenGenerated');
+  const firstVisit = !lastSeenGen;
 
-  // ---- interner UI-State
+  // ---- Index für schnellen Zugriff im Modal
+  const byPMID = new Map(items.map(x => [x.pmid, x]));
+
+  // ---- State
   const state = { items, q:'', entity:'', type:'', sort:'metric', boostGuidelines:false };
 
-  // ---- DOM-Elemente
+  // ---- DOM
   const elQ = document.getElementById('q');
   const elE = document.getElementById('entity');
   const elT = document.getElementById('type');
   const elS = document.getElementById('sort');
   const elR = document.getElementById('refresh');
   const elB = document.getElementById('boostGuidelines');
-  const elX = document.getElementById('export'); // optional vorhanden
+  const elX = document.getElementById('export');
 
-  // ---- URL-Zustand lesen/schreiben (optional, falls vorhanden)
+  // Modal DOM
+  const modal = document.getElementById('modal');
+  const mTitle = document.getElementById('m_title');
+  const mMeta  = document.getElementById('m_meta');
+  const mAbs   = document.getElementById('m_abs');
+  const mPub   = document.getElementById('m_pubmed');
+  const mDoi   = document.getElementById('m_doi');
+  const mOA    = document.getElementById('m_oa');
+  const mClose = document.getElementById('modalClose');
+
+  // ---- URL-State (optional)
   function readStateFromURL() {
     const p = new URLSearchParams(location.search);
     state.q = (p.get('q') || '').toLowerCase();
@@ -51,13 +64,13 @@ async function load(bust=false) {
     history.replaceState(null, '', `${location.pathname}?${p.toString()}`);
   }
 
-  // ---- Sortierung (mit optionalem Guideline-Boost)
+  // ---- Sortierung
   function sortArr(arr) {
     arr.sort((a,b)=>{
       if (state.boostGuidelines) {
         const ag = a.study_class === 'Guideline' ? 1 : 0;
         const bg = b.study_class === 'Guideline' ? 1 : 0;
-        if (ag !== bg) return bg - ag; // Guidelines nach oben
+        if (ag !== bg) return bg - ag;
       }
       if (state.sort === 'metric') {
         const dm = (b.metric_value??-1) - (a.metric_value??-1);
@@ -71,7 +84,7 @@ async function load(bust=false) {
     });
   }
 
-  // ---- aktuelle Ergebnisliste (für Render & Export)
+  // ---- aktuelle Liste
   function getCurrent() {
     let arr = state.items.slice();
     if (state.q) {
@@ -86,7 +99,7 @@ async function load(bust=false) {
     return arr;
   }
 
-  // ---- Farbcodierung für Studienklassen
+  // ---- Farben
   const colorMap = {
     "Prospective": { border: "border-l-4 border-emerald-500", badge: "bg-emerald-500/10 text-emerald-700 border-emerald-300" },
     "Review":      { border: "border-l-4 border-blue-500",    badge: "bg-blue-500/10 text-blue-700 border-blue-300" },
@@ -94,6 +107,8 @@ async function load(bust=false) {
     "Preclinical": { border: "border-l-4 border-purple-500",  badge: "bg-purple-500/10 text-purple-700 border-purple-300" },
     "Other":       { border: "border-l-4 border-neutral-300", badge: "bg-neutral-200 text-neutral-700 border-neutral-300" },
   };
+
+  function badge(txt, cls) { return `<span class="px-2 py-0.5 rounded-full text-xs border ${cls}">${txt}</span>`; }
 
   function cardHtml(x) {
     const study = x.study_class || 'Other';
@@ -109,12 +124,12 @@ async function load(bust=false) {
       x.trial_type ? badge(x.trial_type, "bg-neutral-100 text-neutral-700 border-neutral-300") : ''
     ].filter(Boolean).join(' ');
 
-    // ⭐ Sternchen für "neu seit letztem Besuch"
     const isNew = !firstVisit && !seenSet.has(x.pmid);
     const star = isNew ? `<div class="absolute top-2 right-2 text-amber-500" title="Neu seit letztem Besuch">★</div>` : '';
 
+    // data-pmid -> für Modal-Klick
     return `
-      <article class="relative bg-white border rounded-xl p-4 shadow-sm ${cm.border}${strong}">
+      <article class="relative bg-white border rounded-xl p-4 shadow-sm ${cm.border}${strong}" data-pmid="${x.pmid}">
         ${star}
         <div class="flex justify-between items-start gap-3">
           <div>
@@ -136,9 +151,7 @@ async function load(bust=false) {
       </article>
     `;
   }
-  function badge(txt, cls) { return `<span class="px-2 py-0.5 rounded-full text-xs border ${cls}">${txt}</span>`; }
 
-  // ---- Render
   function render() {
     const arr = getCurrent();
     const top5 = arr.slice(0, 5);
@@ -148,6 +161,49 @@ async function load(bust=false) {
     const list = document.getElementById('list');
     if (top5list) top5list.innerHTML = top5.map(cardHtml).join('');
     if (list) list.innerHTML = rest.map(cardHtml).join('');
+  }
+
+  // ---- Modal Open/Close
+  function openModal(it) {
+    if (!it) return;
+    mTitle.textContent = it.title || '';
+    mMeta.textContent = `${it.journal || ''} · ${it.pubdate ? new Date(it.pubdate).toLocaleDateString('de-DE') : '—'}`;
+    if (it.abstract && it.abstract.trim().length > 0) {
+      mAbs.textContent = it.abstract;
+    } else {
+      mAbs.textContent = 'Kein Abstract vorhanden (oder noch nicht geladen). Bitte über PubMed öffnen.';
+    }
+    mPub.href = it.url_pubmed;
+    if (it.url_doi) { mDoi.classList.remove('hidden'); mDoi.href = it.url_doi; } else { mDoi.classList.add('hidden'); }
+    if (it.oa_url)  { mOA.classList.remove('hidden');  mOA.href  = it.oa_url; }  else { mOA.classList.add('hidden'); }
+    modal.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeModal() {
+    modal.classList.add('hidden');
+    document.body.style.overflow = '';
+  }
+  mClose.addEventListener('click', closeModal);
+  modal.addEventListener('click', (ev)=>{
+    if (ev.target === modal) closeModal();
+  });
+  window.addEventListener('keydown', (ev)=>{
+    if (ev.key === 'Escape' && !modal.classList.contains('hidden')) closeModal();
+  });
+
+  // Delegierter Klick auf Karten (aber Links ignorieren)
+  function attachCardClicks(containerId) {
+    const el = document.getElementById(containerId);
+    if (!el) return;
+    el.addEventListener('click', (ev)=>{
+      const t = ev.target;
+      if (t.closest('a')) return; // Links nicht abfangen
+      const card = t.closest('article[data-pmid]');
+      if (!card) return;
+      const pmid = card.getAttribute('data-pmid');
+      const it = byPMID.get(pmid);
+      openModal(it);
+    });
   }
 
   // ---- Event Listener
@@ -172,12 +228,13 @@ async function load(bust=false) {
     a.click();
   });
 
-  // ---- Start: URL-Zustand übernehmen & rendern
+  // ---- Start
   readStateFromURL();
   render();
+  attachCardClicks('top5list');
+  attachCardClicks('list');
 
-  // ---- NACH dem Rendern: alles, was jetzt sichtbar ist, als "gesehen" markieren
-  // => Beim nächsten Laden bekommen nur wirklich neue Publikationen ein ⭐
+  // Nach Rendern: alle gesehen markieren (für ⭐-Logik beim nächsten Besuch)
   (function markSeenNow() {
     for (const x of items) { if (x && x.pmid) seenSet.add(x.pmid); }
     ls.setItem('digestSeenPMIDs', JSON.stringify([...seenSet]));
@@ -185,7 +242,7 @@ async function load(bust=false) {
   })();
 }
 
-// Initialer Start
+// initial
 load().catch(() => {
   const g = document.getElementById('generated');
   if (g) g.textContent = 'Fehler beim Laden von data.json';
