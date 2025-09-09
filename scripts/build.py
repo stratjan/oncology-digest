@@ -30,7 +30,41 @@ def extract_pmid(s: str):
 
 def rss_pmids(url):
     d = feedparser.parse(url)
-    return [x for e in d.entries for x in [extract_pmid(e.get("id") or "") or extract_pmid(e.get("link") or "")] if x]
+    status = getattr(d, "status", None)
+    n = len(getattr(d, "entries", []))
+    print(f"[rss] {url} -> status={status}, entries={n}")
+    pmids = []
+    for e in d.entries:
+        candidates = []
+        for k in ("id", "link"):
+            v = e.get(k)
+            if v: candidates.append(v)
+        for ln in (e.get("links") or []):
+            href = ln.get("href")
+            if href: candidates.append(href)
+        # fallback: manchmal steckt eine PMID in title/summary
+        for k in ("title", "summary"):
+            v = e.get(k)
+            if v: candidates.append(v)
+
+        found = None
+        for c in candidates:
+            # Bevorzugt echte PubMed-Links
+            m = re.search(r"pubmed\.ncbi\.nlm\.nih\.gov/(\d{4,10})", c)
+            if m:
+                found = m.group(1); break
+            # generischer Fallback: nackte Zahl (4–10 Ziffern)
+            m = re.search(r"\b(\d{4,10})\b", c)
+            if m:
+                found = m.group(1); break
+
+        if found:
+            pmids.append(found)
+
+    pmids = list(dict.fromkeys(pmids))
+    print(f"[rss] extracted {len(pmids)} pmids (example: {pmids[:5]})")
+    return pmids
+
 
 def esummary(pmids):
     if not pmids: return {}
@@ -222,3 +256,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
