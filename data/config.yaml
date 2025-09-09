@@ -11,14 +11,10 @@ rss_groups:
       - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1Z74b2Om5LibvidIw7pqs8Z-n48D7V78QvmdyPOGmh0TXMOMH3/?limit=100&utm_campaign=pubmed-2&fc=20250904043024"
       - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1pEhTjOZGNUOUl_mTk5yi9XPhKJDXTxfMVF-FbfwNLeiUVSYWX/?limit=100&utm_campaign=pubmed-2&fc=20250904043054"
       - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1RcY2Y-NYSs3xrA4cVKJzHldHBBYyvZqTIkc4eJ1m7I3VouwyY/?limit=100&utm_campaign=pubmed-2&fc=20250904043128"
-      
-  - key: "vte"
-    label: "VTE & Lungenkrebs – News"
-    feeds:
       - "https://pubmed.ncbi.nlm.nih.gov/rss/search/1PeFS8XE8OyMjjoETx51aPa8MZkE7GBaJpRaKsX71zvOnxtMT3/?limit=15&utm_campaign=pubmed-2&fc=20250908161431"
 
 # Anzeige-/Filterlogik
-days_back: 21
+days_back: 14
 
 # Metrik (unverändert)
 metric:
@@ -28,6 +24,7 @@ metric:
   value_col: "SJR_2024"
   
 include_abstracts: true
+
 
 
 
