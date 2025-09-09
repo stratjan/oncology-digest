@@ -4,6 +4,32 @@ async function load(bust=false) {
   const res = await fetch(url, { cache: 'no-store' });
   const data = await res.json();
 
+  function readStateFromURL() {
+  const p = new URLSearchParams(location.search);
+  state.q = (p.get('q') || '').toLowerCase();
+  state.entity = p.get('ent') || '';
+  state.type = p.get('type') || '';
+  state.sort = p.get('sort') || 'metric';
+  state.boostGuidelines = p.get('g') === '1';
+  // UI sync
+  elQ.value = state.q;
+  elE.value = state.entity;
+  elT.value = state.type;
+  elS.value = state.sort;
+  elB.checked = state.boostGuidelines;
+}
+function writeStateToURL() {
+  const p = new URLSearchParams();
+  if (state.q) p.set('q', state.q);
+  if (state.entity) p.set('ent', state.entity);
+  if (state.type) p.set('type', state.type);
+  if (state.sort !== 'metric') p.set('sort', state.sort);
+  if (state.boostGuidelines) p.set('g', '1');
+  const newUrl = `${location.pathname}?${p.toString()}`;
+  history.replaceState(null, '', newUrl);
+}
+
+
   // Header-Zeit (falls du sie im News-Header zeigen willst)
   const genEl = document.getElementById('generated');
   if (genEl) {
