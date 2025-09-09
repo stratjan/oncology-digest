@@ -4,15 +4,14 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="robots" content="noindex, nofollow"/>
-  <title>Oncology Daily Digest · News</title>
+  <title>Oncology Daily Digest</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-neutral-50 text-neutral-900">
   <div class="max-w-6xl mx-auto p-6">
     <header class="mb-6">
-      <h1 class="text-2xl font-semibold">Oncology Daily Digest · News</h1>
+      <h1 class="text-2xl font-semibold">Oncology Daily Digest</h1>
       <p class="text-sm text-neutral-500" id="generated">Lade…</p>
-
       <div class="mt-4 flex flex-wrap gap-3 items-center">
         <input id="q" type="search" placeholder="Suche Titel/Journal…" class="border rounded-lg px-3 py-2 w-64"/>
         <select id="entity" class="border rounded-lg px-3 py-2">
@@ -36,15 +35,16 @@
           <option value="metric">Sortierung: Metrik (↓)</option>
           <option value="date">Sortierung: Datum (↓)</option>
         </select>
+
         <label class="flex items-center gap-2 ml-2">
           <input id="boostGuidelines" type="checkbox" class="h-4 w-4">
           <span class="text-sm">Guidelines zuerst</span>
         </label>
+
         <button id="refresh" class="border rounded-lg px-3 py-2">Neu laden</button>
-        <button id="export" class="border rounded-lg px-3 py-2">Export CSV</button>
       </div>
 
-      <div class="mt-3 text-xs flex flex-wrap gap-4 items-center">
+      <div class="mt-3 text-xs flex flex-wrap gap-3 items-center">
         <span class="inline-flex items-center gap-2">
           <span class="inline-block w-3 h-3 bg-emerald-500 rounded-sm"></span> Prospektiv
         </span>
@@ -60,9 +60,6 @@
         <span class="inline-flex items-center gap-2">
           <span class="inline-block w-3 h-3 bg-neutral-300 rounded-sm"></span> Sonstige
         </span>
-        <span class="inline-flex items-center gap-2">
-          <span class="text-amber-500">★</span> Neu seit letztem Besuch
-        </span>
       </div>
     </header>
 
@@ -73,24 +70,6 @@
 
     <main id="list" class="grid gap-4"></main>
   </div>
-
-  <!-- Modal: Abstract-Preview -->
-  <div id="modal" class="fixed inset-0 bg-black/50 backdrop-blur-sm hidden items-center justify-center z-50">
-    <div class="bg-white max-w-2xl w-[90%] rounded-2xl shadow-xl border relative">
-      <button id="modalClose" class="absolute top-3 right-3 text-neutral-500 hover:text-neutral-800" title="Schließen">✕</button>
-      <div class="p-5">
-        <h3 id="m_title" class="text-lg font-semibold leading-snug"></h3>
-        <p id="m_meta" class="text-sm text-neutral-600 mt-1"></p>
-        <pre id="m_abs" class="whitespace-pre-wrap text-[0.95rem] leading-relaxed mt-4"></pre>
-        <div class="mt-4 flex flex-wrap gap-3 text-sm">
-          <a id="m_pubmed" class="underline" target="_blank" rel="noopener">PubMed</a>
-          <a id="m_doi" class="underline hidden" target="_blank" rel="noopener">DOI</a>
-          <a id="m_oa" class="underline hidden" target="_blank" rel="noopener">OA-Volltext</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
   <script src="./app.js"></script>
 </body>
 </html>
