@@ -1,1 +1,37 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <meta name="robots" content="noindex, nofollow"/>
+  <title>Telefonverzeichnis</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-neutral-50 text-neutral-900">
+  <div class="max-w-5xl mx-auto p-6">
+    <header class="mb-4">
+      <div class="flex items-center justify-between">
+        <h1 class="text-2xl font-semibold">Telefonverzeichnis</h1>
+        <a href="/" class="text-sm underline">← Zur Startseite</a>
+      </div>
+
+      <!-- Sticky Toolbar -->
+      <div class="sticky top-0 z-40 bg-neutral-50/95 backdrop-blur border-b border-neutral-200 mt-4">
+        <div class="py-3 flex flex-wrap gap-3 items-center">
+          <input id="q" type="search" placeholder="Suche Name/Team/Funktion/Nummer…"
+                 class="border rounded-lg px-3 py-2 w-72"/>
+          <select id="team" class="border rounded-lg px-3 py-2">
+            <option value="">Alle Teams</option>
+          </select>
+          <button id="copyAll" class="border rounded-lg px-3 py-2">Alle Nummern kopieren</button>
+        </div>
+      </div>
+    </header>
+
+    <main id="list" class="grid gap-3"></main>
+  </div>
+
+  <script src="/directory/app.js"></script>
+</body>
+</html>
 
