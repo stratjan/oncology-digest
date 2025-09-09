@@ -224,6 +224,23 @@ def main():
     with open(os.path.join(ROOT, "site", "data.json"), "w", encoding="utf-8") as f:
         json.dump({"generated": datetime.utcnow().isoformat() + "Z", "items": out}, f, ensure_ascii=False, indent=2)
 
+print(f"[cfg] feeds={len(RSS_FEEDS)} days_back={DAYS_BACK}")
+
+pmids = []
+for url in RSS_FEEDS:
+    pmids.extend(rss_pmids(url))
+pmids = list(dict.fromkeys(pmids))
+print(f"[sum] total pmids collected = {len(pmids)}")
+
+items = []
+# ... (dein ESummary/Loop wie gehabt)
+print(f"[sum] items before date filter = {len(items)}")
+
+# ... nach dem Filter:
+print(f"[sum] items after date filter = {len(out)}")
+
+
 if __name__ == "__main__":
     main()
+
 
