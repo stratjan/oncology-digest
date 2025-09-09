@@ -9,44 +9,33 @@ async function load(bust=false) {
   const items = data.items || [];
   const state = { items, q:'', entity:'', type:'', sort:'metric', boostGuidelines:false };
 
-  // ---- DOM-Elemente greifen
+  // Controls
   const elQ = document.getElementById('q');
   const elE = document.getElementById('entity');
   const elT = document.getElementById('type');
   const elS = document.getElementById('sort');
   const elR = document.getElementById('refresh');
   const elB = document.getElementById('boostGuidelines');
-  const elX = document.getElementById('export'); // Export-Button
 
-  // ---- URL-Zustand lesen/schreiben (Persistenz & Shareable Links)
-  function readStateFromURL() {
-    const p = new URLSearchParams(location.search);
-    state.q = (p.get('q') || '').toLowerCase();
-    state.entity = p.get('ent') || '';
-    state.type = p.get('type') || '';
-    state.sort = p.get('sort') || 'metric';
-    state.boostGuidelines = p.get('g') === '1';
-    // UI sync
-    elQ.value = state.q;
-    elE.value = state.entity;
-    elT.value = state.type;
-    elS.value = state.sort;
-    elB.checked = state.boostGuidelines;
-  }
-  function writeStateToURL() {
-    const p = new URLSearchParams();
-    if (state.q) p.set('q', state.q);
-    if (state.entity) p.set('ent', state.entity);
-    if (state.type) p.set('type', state.type);
-    if (state.sort !== 'metric') p.set('sort', state.sort);
-    if (state.boostGuidelines) p.set('g', '1');
-    const newUrl = `${location.pathname}?${p.toString()}`;
-    history.replaceState(null, '', newUrl);
-  }
+  elQ.addEventListener('input', ()=>{ state.q = elQ.value.toLowerCase(); render(); });
+  elE.addEventListener('change', ()=>{ state.entity = elE.value; render(); });
+  elT.addEventListener('change', ()=>{ state.type = elT.value; render(); });
+  elS.addEventListener('change', ()=>{ state.sort = elS.value; render(); });
+  elR.addEventListener('click', ()=> load(true));
+  elB.addEventListener('change', ()=>{ state.boostGuidelines = elB.checked; render(); });
 
-  // ---- Sortierung
+  // Farbzuordnung (Tailwind-Klassen fest ausgeschrieben)
+  const colorMap = {
+    "Prospective": { border: "border-l-4 border-emerald-500", badge: "bg-emerald-500/10 text-emerald-700 border-emerald-300" },
+    "Review":      { border: "border-l-4 border-blue-500",    badge: "bg-blue-500/10 text-blue-700 border-blue-300" },
+    "Guideline":   { border: "border-l-4 border-amber-500",   badge: "bg-amber-500/10 text-amber-800 border-amber-300" },
+    "Preclinical": { border: "border-l-4 border-purple-500",  badge: "bg-purple-500/10 text-purple-700 border-purple-300" },
+    "Other":       { border: "border-l-4 border-neutral-300", badge: "bg-neutral-200 text-neutral-700 border-neutral-300" },
+  };
+
   function sortArr(arr) {
     arr.sort((a,b)=>{
+      // Optionaler Boost: Guidelines zuerst
       if (state.boostGuidelines) {
         const ag = a.study_class === 'Guideline' ? 1 : 0;
         const bg = b.study_class === 'Guideline' ? 1 : 0;
@@ -64,34 +53,6 @@ async function load(bust=false) {
     });
   }
 
-  // ---- Aktuelle Ergebnisliste (für Render & Export)
-  function getCurrent() {
-    let arr = state.items.slice();
-    if (state.q) {
-      arr = arr.filter(x =>
-        (x.title||'').toLowerCase().includes(state.q) ||
-        (x.journal||'').toLowerCase().includes(state.q)
-      );
-    }
-    if (state.entity) {
-      arr = arr.filter(x => (x.entity||'') === state.entity);
-    }
-    if (state.type) {
-      arr = arr.filter(x => (x.pubtypes||[]).includes(state.type));
-    }
-    sortArr(arr);
-    return arr;
-  }
-
-  // ---- Farbcodierung (Studienklasse)
-  const colorMap = {
-    "Prospective": { border: "border-l-4 border-emerald-500", badge: "bg-emerald-500/10 text-emerald-700 border-emerald-300" },
-    "Review":      { border: "border-l-4 border-blue-500",    badge: "bg-blue-500/10 text-blue-700 border-blue-300" },
-    "Guideline":   { border: "border-l-4 border-amber-500",   badge: "bg-amber-500/10 text-amber-800 border-amber-300" },
-    "Preclinical": { border: "border-l-4 border-purple-500",  badge: "bg-purple-500/10 text-purple-700 border-purple-300" },
-    "Other":       { border: "border-l-4 border-neutral-300", badge: "bg-neutral-200 text-neutral-700 border-neutral-300" },
-  };
-
   function cardHtml(x) {
     const study = x.study_class || 'Other';
     const cm = colorMap[study] || colorMap['Other'];
@@ -99,8 +60,6 @@ async function load(bust=false) {
     const m  = (x.metric_value!=null) ? `${x.metric_name}: ${x.metric_value}` : '—';
     const oa = (x.is_oa===true) ? `· OA` : (x.is_oa===false ? `· closed` : '');
     const badge = (txt, cls) => `<span class="px-2 py-0.5 rounded-full text-xs border ${cls}">${txt}</span>`;
-    const isHigh = x.trial_type === 'RCT' || x.trial_type === 'Phase III';
-    const strong = isHigh ? ' ring-1 ring-black/5' : '';
     const badges = [
       study ? badge(study, cm.badge) : '',
       x.entity ? badge(x.entity, "bg-neutral-100 text-neutral-700 border-neutral-300") : '',
@@ -108,7 +67,7 @@ async function load(bust=false) {
     ].filter(Boolean).join(' ');
 
     return `
-      <article class="bg-white border rounded-xl p-4 shadow-sm ${cm.border}${strong}">
+      <article class="bg-white border rounded-xl p-4 shadow-sm ${cm.border}">
         <div class="flex justify-between items-start gap-3">
           <div>
             <h2 class="font-semibold text-lg leading-snug">${x.title||''}</h2>
@@ -131,46 +90,38 @@ async function load(bust=false) {
   }
 
   function render() {
-    const arr = getCurrent();
+    let arr = state.items.slice();
+
+    // Suche
+    if (state.q) {
+      arr = arr.filter(x =>
+        (x.title||'').toLowerCase().includes(state.q) ||
+        (x.journal||'').toLowerCase().includes(state.q)
+      );
+    }
+    // Entität
+    if (state.entity) {
+      arr = arr.filter(x => (x.entity||'') === state.entity);
+    }
+    // Publikationstyp (rohe PubTypes)
+    if (state.type) {
+      arr = arr.filter(x => (x.pubtypes||[]).includes(state.type));
+    }
+
+    sortArr(arr);
+
+    // Top-5 und Rest
     const top5 = arr.slice(0, 5);
     const topIds = new Set(top5.map(x => x.pmid));
     const rest = arr.filter(x => !topIds.has(x.pmid));
+
     document.getElementById('top5list').innerHTML = top5.map(cardHtml).join('');
     document.getElementById('list').innerHTML = rest.map(cardHtml).join('');
   }
 
-  // ---- Event Listener (hier „lauschen“ wir auf UI-Änderungen)
-  elQ.addEventListener('input', ()=>{ state.q = elQ.value.toLowerCase(); writeStateToURL(); render(); });
-  elE.addEventListener('change', ()=>{ state.entity = elE.value; writeStateToURL(); render(); });
-  elT.addEventListener('change', ()=>{ state.type = elT.value; writeStateToURL(); render(); });
-  elS.addEventListener('change', ()=>{ state.sort = elS.value; writeStateToURL(); render(); });
-  elB.addEventListener('change', ()=>{ state.boostGuidelines = elB.checked; writeStateToURL(); render(); });
-  elR.addEventListener('click', ()=> load(true));
-
-  // Export CSV der aktuell gefilterten+sortierten Liste
-  if (elX) {
-    elX.addEventListener('click', ()=> {
-      const arr = getCurrent();
-      const head = ["pmid","doi","title","journal","pubdate","entity","trial_type","study_class","metric_name","metric_value","url_pubmed","url_doi","oa_url"];
-      const rows = [head.join(",")].concat(arr.map(x => head.map(k => {
-        const v = (x[k] ?? "");
-        const s = String(v).replace(/"/g,'""');
-        return `"${s}"`;
-      }).join(",")));
-      const blob = new Blob([rows.join("\n")], {type: "text/csv;charset=utf-8;"});
-      const a = document.createElement('a');
-      a.href = URL.createObjectURL(blob);
-      a.download = `oncology-digest_${new Date().toISOString().slice(0,10)}.csv`;
-      a.click();
-    });
-  }
-
-  // Start: URL-Parameter in UI/State übernehmen, dann rendern
-  readStateFromURL();
   render();
 }
 
-// Initialer Start
 load().catch(() => {
   document.getElementById('generated').textContent = 'Fehler beim Laden von data.json';
 });
