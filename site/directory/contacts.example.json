@@ -1,1 +1,7 @@
+[
+  { "name": "OA Dr. Müller", "role": "Onkologie Ambulanz", "team": "Ambulanz", "phone": "0681-123-456", "email": "ambulanz@zentrum.de" },
+  { "name": "Prof. Dr. Schmidt", "role": "Chefarzt Thoraxonkologie", "team": "Leitung", "mobile": "+49 171 2345678", "email": "schmidt@zentrum.de" },
+  { "name": "Station A2", "role": "Stationszimmer", "team": "Stationen", "phone": "0681-987-111" },
+  { "name": "Studiensekretariat", "role": "Kontakt Studienkoordination", "team": "Studien", "phone": "0681-987-222", "email": "studien@zentrum.de" }
+]
 
