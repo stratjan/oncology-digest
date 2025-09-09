@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-08T20:51:31.699235Z",
+  "generated": "2025-09-09T05:34:35.232042Z",
   "items": [
     {
       "pmid": "40906489",
@@ -1607,72 +1607,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40858894/",
       "url_doi": "https://doi.org/10.1007/s00520-025-09852-5",
       "abstract": "AIM: To explore the longitudinal causal relationship between anxiety and self-efficacy in lung cancer patients and the mediating role of resilience in the reciprocal relationships.\n\nDESIGN: A longitudinal observational study.\n\nMETHODS: This study collected data on anxiety, resilience, and self-efficacy in 333 Chinese first-diagnosed lung cancer patients at three time points: T1 (preoperative hospitalization), T2 (one month after surgery), and T3 (three months after surgery).\n\nRESULTS: The results of cross-lagged panel modeling showed that there was a significant mediating effect of resilience, which mediated the weakening effect of anxiety at T1 on self-efficacy at T3 and mediated the weakening effect of self-efficacy at T1 on anxiety at T3.\n\nCONCLUSION: These findings suggest that resilience longitudinally mediated the relationship between anxiety and self-efficacy in lung cancer patients.\n\nIMPLICATIONS FOR THE PROFESSION AND/OR PATIENT CARE: Enhancing medical staff's capacity to reduce the incidence of preoperative anxiety and improve self-efficacy in patients undergoing lung cancer surgery.\n\nIMPACT: Future research could develop interventions related to resilience to buffer or even block the debilitating effects of anxiety on self-efficacy and enhance the weakening effects of self-efficacy on anxiety in lung cancer patients.\n\nPATIENT OR PUBLIC CONTRIBUTION: This study directly involved the patients in hospital settings.\n\nREPORTING METHOD: This study adhered to the STROBE guidelines for cohort studies."
-    },
-    {
-      "pmid": "40884898",
-      "doi": "10.1016/j.lungcan.2025.108728",
-      "title": "DuTOC: The prospective Dutch Thoracic Oncology Cohort: A nationwide infrastructure to collect clinical data, PROMS and bio-material to support thoracic oncology studies.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-08-26T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": "Prospective (non-RCT)",
-      "study_class": "Prospective",
-      "category_key": "lc",
-      "category_label": "Lungenkrebs – Studien",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108728",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40884898/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108728",
-      "abstract": "The Dutch Thoracic Oncology Cohort (DuTOC) is a nationwide cohort for patients with thoracic malignancies collecting patient characteristics, quality of life and biomaterials after informed consent of the patient. With this data and material DuTOC is a solid infrastructure for retrospective and prospective studies involving treatment, (molecular) diagnostics, quality control, biomarkers and translational research and quality of life. DuTOC is initiated by the Dutch Association of Pulmonologists and is a collaboration of all clinicians involved in cancer-care and other stakeholders in the field of thoracic malignancies such as patient advocacies, health regulatory agencies, cancer registries and pharmaceutical companies. DuTOC has the ambition to automate real-time data acquisition. This minimizes the workload of the research staff and facilitates the transition to a self-learning health care system based on real-time data, incorporating long-term longitudinal assessment of patient reported outcome measurements. Therefore, DuTOC will play a crucial role in the improvement of the care for patients with thoracic malignancies."
-    },
-    {
-      "pmid": "40857617",
-      "doi": "10.1158/0008-5472.CAN-25-0405",
-      "title": "Neuropeptide Precursor VGF Promotes Neuroendocrine Differentiation and Cancer-Associated Fibroblast Activation in Small Cell Lung Cancer.",
-      "journal": "Cancer research",
-      "pubdate": "2025-08-26T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "category_key": "lc",
-      "category_label": "Lungenkrebs – Studien",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40857617/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0405",
-      "abstract": "Small cell lung cancer (SCLC) is a highly aggressive malignancy with limited therapeutic options. Neuroendocrine differentiation is a prominent feature of SCLC. This study identified VGF, a secreted neuropeptide precursor, as a critical regulator of neuroendocrine differentiation in SCLC, particularly the ASCL1+ subtype. VGF orchestrated upregulation of the transcription factor ASCL1 through a CREB-dependent mechanism, thereby promoting neuroendocrine differentiation. Furthermore, VGF mediated the transformation of fibroblasts into cancer-associated fibroblasts (CAFs), establishing metabolic coupling between SCLC cells and CAFs via lactate exchange. A therapeutic strategy targeting VGF and monocarboxylate transporter 1 (MCT-1) disrupted neuroendocrine differentiation and SCLC-CAF metabolic coupling, demonstrating significant efficacy in both in vitro and in vivo models. Together, this study provides insights into the mechanisms underlying SCLC neuroendocrine differentiation and reveals targets and therapeutic strategies for advanced SCLC."
-    },
-    {
-      "pmid": "40651389",
-      "doi": "10.1016/j.ejca.2025.115610",
-      "title": "Response to the letter Re: \"Five-year outcomes with first-line nivolumab plus ipilimumab with 2 cycles of chemotherapy versus 4 cycles of chemotherapy alone in patients with metastatic non-small cell lung cancer in the randomized CheckMate 9LA trial\".",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2025-08-26T00:00:00+00:00",
-      "pubtypes": [
-        "Letter"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "category_key": "lc",
-      "category_label": "Lungenkrebs – Studien",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40651389/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.115610",
-      "abstract": null
     }
   ],
   "categories": [
