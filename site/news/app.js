@@ -128,12 +128,12 @@ async function load(bust=false) {
 
     const hasAbs = !!(x.abstract && x.abstract.trim().length);
     const absBlock = hasAbs ? `
-      <div class="mt-3">
-        <button class="text-sm underline" data-action="toggle-abs">Abstract anzeigen</button>
-        <div class="mt-2 hidden" data-abs>
-          <pre class="whitespace-pre-wrap text-[0.95rem] leading-relaxed">${esc(x.abstract)}</pre>
-        </div>
-      </div>
+<div class="mt-2 hidden" data-abs>
+  <div class="whitespace-pre-wrap bg-neutral-50 border border-neutral-200 rounded-lg p-3 text-[1rem] leading-7 text-neutral-800">
+    ${esc(x.abstract)}
+  </div>
+</div>
+
     ` : '';
 
     // Klick auf die Karte (außer Links) toggelt Abstract
