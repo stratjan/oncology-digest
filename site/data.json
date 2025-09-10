@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-09T18:34:09.430908Z",
+  "generated": "2025-09-10T05:34:00.121870Z",
   "items": [
     {
       "pmid": "40906489",
@@ -223,26 +223,6 @@
       "abstract": "PURPOSE: The German sector-based healthcare system poses a major challenge to continuous patient monitoring and long-term follow-up, both essential for generating high-quality, longitudinal real-world data. The national Network for Genomic Medicine (nNGM) bridges the inpatient and outpatient care sectors to provide comprehensive molecular diagnostics and personalized treatment for non-small cell lung cancer (NSCLC) patients in Germany. Building on the established nNGM infrastructure, the DigiNet study aims to evaluate the impact of digitally integrated, personalized care on overall survival (OS) and the optimization of treatment pathways, compared to routine care.\n\nMETHODS: DigiNet is a prospective, controlled, non-randomized multicenter cohort study including patients with stage IV NSCLC in two study regions (East and West) in Germany. The results of molecular diagnostics and clinical information, along with the entire treatment data are documented in a shared database. A board of lung cancer specialists monitors critical events. Patients digitally complete quality of life questionnaires, with results visualized for physicians. To assess the impact of this personalized digital care, a population-based control group will be identified by matching cohorts within the involved cancer registries. The primary endpoint is OS, and secondary endpoints comprise time on first-line treatment and hospitalization rates. Furthermore, a health economic and business economic evaluation will be conducted. Qualitative interviews with patients and physicians will be performed to assess barriers and facilitating factors for implementing the DigiNet intervention.\n\nETHICS: The study protocol was reviewed and approved by the Ethics Committee of the University Hospital of Cologne (21-1521).\n\nTRIAL REGISTRATION: NCT05818449, registered retrospectively on December 12, 2022."
     },
     {
-      "pmid": "40912643",
-      "doi": "10.1016/j.avsg.2025.08.029",
-      "title": "Temporal Patterns and Risk Factors for Pulmonary Embolism Associated with Anti-Tumor Therapies in Patients with Lung Cancer.",
-      "journal": "Annals of vascular surgery",
-      "pubdate": "2025-09-03T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 0.707,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40912643/",
-      "url_doi": "https://doi.org/10.1016/j.avsg.2025.08.029",
-      "abstract": "OBJECTIVE: This study aimed to characterize the association between pulmonary embolism (PE) onset and various anti-tumor therapeutic approaches in patients with lung cancer, with the goal of identifying potential high-risk populations.\n\nMETHODS: A retrospective analysis was conducted on clinical records from 2019 to 2025, among the 84,000 inpatients with lung cancer, 106 patients developed PE during hospitalization for anti-tumor treatment, who were confirmed using spiral computed tomography (CT) or pulmonary angiography per CTS (2018) and NEJM (2010) criteria. Data were collected on patient demographics, cancer staging, treatment type, and time to PE onset.\n\nRESULTS: Among patients who developed PE during lung cancer treatment, the mean age was 66.82 ± 10.50 years. Females comprised 64.04% of cases, adenocarcinoma was identified in 60.38%, and stage IV lung cancer was present in 56.60%. First-line therapy was administered in 63.21% of cases, and 66.04% exhibited enlarged mediastinal lymph nodes. The mean D-dimer level among this cohort was 3.559 μg/mL, indicating a heightened thrombotic risk. Temporally, 50.95% of PE cases occurred within six months of lung cancer diagnosis. Onset within three months following therapy initiation was observed across multiple modalities: 46.15% for chemotherapy, 34.78% for targeted therapy, and 77.78% following surgical intervention. Notably, 16.98% of PE events occurred during the initial chemotherapy cycle. The mean time to PE onset was 1.81 ± 2.51 months for patients undergoing surgery alone, compared to 15.52 ± 12.88 months for those receiving surgery combined with other treatments (p < 0.05). Surgical intervention was identified as an independent risk factor for PE. In early-stage lung cancer, the mean time to PE onset was significantly shorter, with a mean time of 16.38 ± 21.07 months (p < 0.05).\n\nCONCLUSION: The timing and incidence of PE vary according to the type of anti-tumor therapy administered in lung cancer treatment. These findings underscore the importance of vigilant monitoring, personalized risk assessment, and targeted anticoagulation strategies throughout the therapeutic course."
-    },
-    {
       "pmid": "40168159",
       "doi": "10.1080/17581966.2025.2477411",
       "title": "The association between blood-based HYAL2 methylation and early-stage lung cancer: a case-control study.",
@@ -386,6 +366,26 @@
       "abstract": "INTRODUCTION: From the 1960s and up until 2021, neoadjuvant chemotherapy has represented the standard of care for potentially resectable stage III (N2) Non-Small Cell Lung Cancer (NSCLC). However, in recent years, immunotherapy in the form of Immune Checkpoint Inhibitors (ICIs) has revolutionized oncology treatment strategies and several ICIs have been investigated for the neoadjuvant treatment of NSCLC, both in monotherapy and in combination with other ICIs or chemotherapy.\n\nAREAS COVERED: Therefore, this paper aims to review the currently available data supporting the role of immunotherapy in the neoadjuvant setting, as well as to discuss the challenges associated with it. We undertook a comprehensive literature search of PubMed, Embase, Cochrane Library, of abstracts and posters from annual meetings of American Society of Clinical Oncology (ASCO), European Society for Medical Oncology (ESMO) and American Association for Cancer Research (AACR) up until November 2024.\n\nEXPERT OPINION: We believe that in a near future ICI plus chemotherapy combinations will represent the new recommended standard of care in the neoadjuvant/perioperative setting. We look forward to the full results coming from the ongoing randomized phase III trials, that will help us guide our choice in terms of patient selection, regimen of choice and response assessment."
     },
     {
+      "pmid": "40925068",
+      "doi": "10.1016/j.lungcan.2025.108732",
+      "title": "Identification of poor prognostic factors using circulating extracellular vesicles in durvalumab consolidation therapy for locally advanced non-small cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-09-04T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40925068/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108732",
+      "abstract": "BACKGROUND: The risk factors associated with treatment resistance to consolidation durvalumab following chemoradiotherapy (CRT) for locally advanced non-small cell lung cancer (NSCLC) have not been well established.\n\nMETHODS: Extracellular vesicles (EVs) were isolated from the pretreatment serum of 73 patients treated with consolidation durvalumab. Isolation was performed using CD9/CD63 antibodies, and EV proteins were identified using liquid chromatography-tandem mass spectrometry (LC-MS). The relationship between the expression of these proteins and progression-free survival (PFS) after durvalumab initiation was analyzed.\n\nRESULTS: The median PFS was not reached(NR) (95 % confidence interval [CI], 17.2 months-NR), andthe 24-month PFS rate was 54.7 % (95 % CI, 44.4-67.4). Proteomic analysis of circulating EVs identified RPS27A, SAA1, and S100A7 as the primary candidate biomarkers. Notably, patients with high RPS27A expression exhibited a significantly shorter PFS compared with those with low expression; hazard ratio (HR) 2.93 (95 % CI: 1.48-5.79),P = 0.002. Similarly, high SAA1 expression was associated with a shorter PFS; HR 2.94 (95 % CI: 1.37-6.30), P = 0.006. High S100A7 expression also correlated with poorer outcomes; HR 2.94 (95 % CI: 1.43-6.04), P = 0.003. In multivariate analysis, a high expression level of RPS27A was identified as an independent predictor of poor PFS; HR 2.29 (95 % CI: 1.01-5.17), P = 0.047. Multivariate receiver operating characteristic (ROC) analysis incorporating these three proteins yielded an area under the curve (AUC) of 0.71 (95 % CI: 0.59-0.83).\n\nCONCLUSION: This study demonstratedfavorable PFS outcomes in patients receiving durvalumab consolidation therapy. Circulating EV proteomic analysis identified RPS27A, SAA1, and S100A7, particularly RPS27A, as potential biomarkers for predicting resistance to durvalumab."
+    },
+    {
       "pmid": "40914393",
       "doi": "10.1016/j.jtho.2025.08.024",
       "title": "Screening-Detected versus Interval Lung Cancer in the Biennial Korean National Lung Cancer Screening Program: Proportion, Characteristics, and Mortality.",
@@ -404,27 +404,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40914393/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.08.024",
       "abstract": "INTRODUCTION: Interval lung cancers (ILCs) are key indicators of lung cancer screening (LCS) performance. However, data on the proportion, characteristics, and mortality of ILCs under biennial screening in Asian populations remain limited.\n\nMETHODS: We analyzed participants from the baseline biennial Korean national LCS program between 2019 and 2020. Screening-detected lung cancers (SLCs) were defined as those diagnosed within 1 year of a positive screening result. ILCs were defined as cancers diagnosed more than 1 year after a negative screening result but within 2 years or before the next screening. Risk factors for ILC were assessed using multivariable logistic regression among participants with a negative screening result. All-cause mortality was compared between SLCs and ILCs using multivariable Cox regression analysis.\n\nRESULTS: Among 124,595 participants, SLCs and ILCs occurred in 0.56% and 0.17%, respectively. ILCs accounted for 18.5% of all lung cancers within 2 years; 65.4% were in Lung-RADS category 1. Risk factors for ILC included older age (adjusted odds ratio [OR], 1.14; 95% CI: 1.11-1.17; P<0.001), greater smoking exposure (adjusted OR, 1.010; 95% CI: 1.004-1.016; P=0.002), a history of malignancy (adjusted OR, 2.22; 95% CI: 1.41-3.51; P<0.001), emphysema (adjusted OR, 2.88; 95% CI: 2.15-3.85; P<0.001), and interstitial lung abnormalities (adjusted OR, 4.16; 95% CI: 2.88-6.01; P<0.001). ILCs showed higher all-cause mortality than SLCs (adjusted hazard ratio, 1.43; 95% CI: 1.13-1.80; P=0.002).\n\nCONCLUSIONS: ILCs are common under biennial LCS, making it potentially suboptimal for Asian heavy smokers."
-    },
-    {
-      "pmid": "40903476",
-      "doi": "10.1038/s41598-025-13368-7",
-      "title": "Mendelian randomization analysis of the association between vitamin B12 deficiency anaemia and the risk of developing lung disease.",
-      "journal": "Scientific reports",
-      "pubdate": "2025-09-03T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Meta-Analysis"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41598-025-13368-7.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40903476/",
-      "url_doi": "https://doi.org/10.1038/s41598-025-13368-7",
-      "abstract": "The causal relationship between vitamin B12 deficiency anaemia and the risk of developing lung diseases remains unclear. This study aimed to clarify that relationship using Mendelian randomization (MR) with Bayesian weighting, focusing on pulmonary fibrosis (PF), idiopathic PF (IPF), eosinophilic asthma (EA), squamous cell lung cancer (LUSC), chronic obstructive pulmonary disease (COPD), and pulmonary embolism (PE). We analysed genome-wide association study (GWAS) data, applied five MR models with Bayesian methods to assess causality, and validated the results via sensitivity analysis. The MVMR method explores whether vitamin B12-deficient anaemia affects the pathogenesis of IPF independently of BMI. SMR was used to explore IPF-related pathogenesis, whereas a meta-analysis was used to consolidate LUSC MR findings across ethnicities. IVW analysis revealed a positive causal link between vitamin B12 deficiency anaemia status and the risk of developing PF [OR (95% CI) = 1.161 (1.021, 1.319), P = 0.023], IPF [OR (95% CI) = 1.176 (1.002, 1.380), P = 0.047 (Bayesian MR)] and EA [OR (95% CI) = 1.394 (1.084, 1.793), P = 0.010]. The results of the study demonstrate that the development of IPF is influenced by vitamin B12 deficiency independently of BMI. Conversely, vitamin B12 deficiency anaemia status was negatively associated with the development of LUSC [OR (95% CI) = 0.879 (0.760, 0.995), P = 0.001], and no causal association was detected between vitamin B12 deficiency anaemia status and the development of COPD or PE. The reverse MR analysis yielded nonsignificant results. The SMR analysis revealed a significant association between IPF onset and CUBN, a vitamin B12 target. Post-MR meta-analysis confirmed the credibility and homogeneity of these findings. Vitamin B12 deficiency anaemia is causally associated with the development of PF, IPF, and EA but is negatively associated with the development of LUSC. No causality was observed for COPD or PE. Notably, CUBN emerged as a key IPF-related gene, highlighting the intricate relationship between vitamin B12 status and pulmonary health."
     }
   ]
 }
