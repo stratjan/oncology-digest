@@ -1,46 +1,6 @@
 {
-  "generated": "2025-09-10T05:34:00.121870Z",
+  "generated": "2025-09-11T05:35:03.434089Z",
   "items": [
-    {
-      "pmid": "40906489",
-      "doi": "10.1001/jamaoncol.2025.2891",
-      "title": "Current Controversies and Challenges in Non-Oncogene-Addicted Synchronous Oligometastatic Non-Small Cell Lung Cancer: A Review.",
-      "journal": "JAMA oncology",
-      "pubdate": "2025-09-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 8.377,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40906489/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.2891",
-      "abstract": "IMPORTANCE: It has been stated that especially with the advancements in imaging, systemic therapy, and local radical treatment (LRT) that patients with synchronous oligometastatic disease (sOMD) can potentially benefit from curative-intent treatment. This statement is challenged by the results of the NRG-LU002 randomized phase 2/3 trial, showing no significant progression-free survival and overall survival improvements with the addition of LRT to maintenance systemic therapy in patients with oligometastatic non-small cell lung cancer (NSCLC) who achieved at least stable disease after induction systemic therapy (approximately 90% received an immunotherapy-based regimen). This Review discusses the current challenges and controversies in the treatment of non-oncogene-addicted sOMD.\n\nOBSERVATIONS: Whether LRT indeed can improve survival in a contemporary immunotherapy-based systemic treatment regimen is discussed as well as the optimal treatment sequence. Moreover, the NRG-LU002 trial also sparks debate of whether a true sOMD state exists. Genomic alterations, the tumor microenvironment of the primary tumor and metastasis, organotropism, and tumor heterogeneity can all influence metastatic potential, giving a biological explanation that there could be existence of a true sOMD state. However, as true sOMD cannot be distinguished from early-detected widespread metastatic disease with the current imaging modalities, it becomes difficult to select patients for a radical strategy and protect patients from futile treatment.\n\nCONCLUSIONS AND RELEVANCE: It remains under debate whether synchronous oligometastatic NSCLC represents a distinct biological entity or merely a probabilistic imaging finding. Biomarkers such as circulating tumor DNA, microRNA, and radiomics may improve patient selection but require further validation. Clinical trials should prioritize translational research to address these challenges."
-    },
-    {
-      "pmid": "40906462",
-      "doi": "10.1001/jamaoncol.2025.3007",
-      "title": "Proton Craniospinal Irradiation for Patients With Leptomeningeal Metastasis: A Randomized Clinical Trial.",
-      "journal": "JAMA oncology",
-      "pubdate": "2025-09-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 8.377,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40906462/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3007",
-      "abstract": "IMPORTANCE: Leptomeningeal metastasis (LM) is associated with limited survival and few treatment options. Photon involved-field radiotherapy (IFRT) is the most common radiotherapy treatment for patients with LM from solid tumors.\n\nOBJECTIVE: To assess whether proton craniospinal irradiation (pCSI) would result in superior central nervous system progression-free survival (CNS-PFS) compared with IFRT.\n\nDESIGN, SETTING, AND PARTICIPANTS: A randomized, phase 2 trial of pCSI vs IFRT was conducted between April 16, 2020, and October 11, 2021, and included patients with non-small cell lung cancer and breast cancer with LM. Patients with other solid tumors were also enrolled in an exploratory pCSI cohort.\n\nINTERVENTION: For the randomized groups, after stratifying by histology and systemic disease status, patients were assigned (2:1) to pCSI or IFRT.\n\nMAIN OUTCOMES AND MEASURES: The primary end point was CNS-PFS. Secondary end points included overall survival (OS).\n\nRESULTS: Of 98 total patients, 72 individuals (73.5%) were female, and the median (IQR) age was 59 (50-65) years. A total of 42 and 21 patients were randomly assigned to pCSI and IFRT, respectively. At planned interim analysis, a significant benefit in CNS-PFS was observed with pCSI compared with IFRT, leading to the early discontinuation of the trial. In this final analysis, a significant benefit was continually observed in CNS-PFS with pCSI (median, 8.2 months; 95% CI, 6.6-15.3) vs IFRT (median, 2.3 months; 95% CI, 1.2-4.0; P < .001). A statistically significant and clinically meaningful OS benefit with pCSI (median, 11.3 months; 95% CI, 7.5-18.3) vs IFRT (median, 4.9 months; 95% CI, 3.9-15.0; P = .04) was also observed. For the exploratory pCSI cohort (n = 35), the median CNS-PFS was 5.8 months (95% CI, 4.4-9.1) and OS was 7.0 months (95% CI, 5.4-10.6).\n\nCONCLUSIONS AND RELEVANCE: This randomized clinical trial that assessed the optimal radiotherapy treatment for LM found improved CNS-PFS and OS with pCSI compared with IFRT. The results suggest that pCSI should be considered when available.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04343573."
-    },
     {
       "pmid": "40920097",
       "doi": "10.1158/2159-8290.CD-25-0526",
@@ -60,27 +20,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40920097/",
       "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-0526",
       "abstract": "There is growing interest in understanding the mechanisms underlying differences in cancer incidence among species (comparative oncology). The naked mole-rat (NMR) is often referenced as \"cancer-resistant\" and prior studies focused on identifying mechanisms explaining this. However, efforts to assess this in vivo have been limited. Herein, we provide evidence that the NMR presents as a novel autochthonous model of lung tumor initiation, driven by an introduction of the oncogenic Eml4-Alk fusion protein using CRISPR-mediated genome editing. Whereas in mice the inversion alone is sufficient to drive tumorigenesis, the inversion alone was insufficient to drive tumorigenesis in the NMR lung and tumor development required additional losses of the tumor suppressors p53 and pRb. Our findings suggest that the proposed \"resistance\" of the NMR to the development of cancer may reflect that the genetic events leading to tumor initiation are likely to be comparable to those present in human cells."
-    },
-    {
-      "pmid": "40904097",
-      "doi": "10.1158/2159-8290.CD-24-1866",
-      "title": "Histologic Transformation in Cancer: The Path for Clinical Translation.",
-      "journal": "Cancer discovery",
-      "pubdate": "2025-09-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "Other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 7.283,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40904097/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-24-1866",
-      "abstract": "UNLABELLED: Lineage plasticity, a critical hallmark of cancer progression, enables tumor cells to evade inhibition of primary oncogenic pathways through histologic transformation. This adaptive process, driven by stemness-associated features and epigenetic reprogramming, poses significant challenges in treatment. Using non-small cell lung cancer and prostate cancer as models, we examine the utility of tissue and liquid biopsies in detecting histologic transformations and tailoring treatments to specific subtypes, which has profound clinical implications, potentially improving outcomes in patients with advanced, therapy-resistant disease. We also discuss emerging therapeutic strategies, including novel molecular targets, and address ongoing clinical challenges in managing treatment-emergent histologic transformation.\n\nSIGNIFICANCE: The advent of highly effective molecularly targeted therapies results in increased recognition of treatment-emergent histologic transformation. This review not only summarizes current evidence on diagnosis and management of lineage plasticity but also explores therapeutic strategies under study, outlining a framework for clinical translation and successful drug development."
     },
     {
       "pmid": "40923935",
@@ -141,26 +80,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40924150/",
       "url_doi": "https://doi.org/10.1007/s00259-025-07549-9",
       "abstract": "OBJECTIVE: CXCR4 and integrin α\n\nMETHODS: The effects of\n\nRESULTS: In vitro,"
-    },
-    {
-      "pmid": "40908346",
-      "doi": "10.1007/s40487-025-00372-0",
-      "title": "Asian Subgroup Analysis of Patients in the Phase 2 DeLLphi-301 Study of Tarlatamab for Previously Treated Small Cell Lung Cancer.",
-      "journal": "Oncology and therapy",
-      "pubdate": "2025-09-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/s40487-025-00372-0.pdf",
-      "metric_name": "SJR",
-      "metric_value": 1.33,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40908346/",
-      "url_doi": "https://doi.org/10.1007/s40487-025-00372-0",
-      "abstract": "INTRODUCTION: Tarlatamab is a bispecific T-cell engager (BiTE\n\nMETHODS: Patients with previously treated, advanced SCLC received 10 mg tarlatamab every 2 weeks. The primary endpoint was objective response rate (ORR) by blinded independent central review (RECIST version 1.1). Key secondary endpoints included duration of response (DOR), progression-free survival (PFS), overall survival (OS) and safety. The present analysis includes patients enrolled at sites in Asia.\n\nRESULTS: A total of 43 patients were enrolled at sites in Asia. ORR was 46.3% (95% confidence interval [CI], 30.7-62.6) and median DOR was 7.2 months (95% CI 3.9 to not estimable). The median follow-up was 16.6 months for PFS and 21.2 months for OS. Median PFS was 5.4 months (95% CI 3.0-8.1) and median OS was 19.0 months (95% CI 11.4 to not estimable). The most common treatment-emergent adverse event (AE) was cytokine release syndrome (48.8%), and all such events were grade 1 or 2. There were no discontinuations due to treatment-related AEs.\n\nCONCLUSIONS: Tarlatamab demonstrated durable responses and promising survival outcomes with a manageable safety profile in this post hoc analysis of patients from Asia with previously treated SCLC.\n\nTRIAL REGISTRATION: ClinicalTrials.gov, NCT05060016."
     },
     {
       "pmid": "40916834",
@@ -243,6 +162,86 @@
       "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
     },
     {
+      "pmid": "40931078",
+      "doi": "10.1038/s41586-025-09434-9",
+      "title": "Functional synapses between neurons and small cell lung cancer.",
+      "journal": "Nature",
+      "pubdate": "2025-09-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40931078/",
+      "url_doi": "https://doi.org/10.1038/s41586-025-09434-9",
+      "abstract": "Small cell lung cancer (SCLC) is a highly aggressive type of lung cancer, characterized by rapid proliferation, early metastatic spread, frequent early relapse and a high mortality rate"
+    },
+    {
+      "pmid": "40931076",
+      "doi": "10.1038/s41586-025-09493-y",
+      "title": "Myeloid progenitor dysregulation fuels immunosuppressive macrophages in tumours.",
+      "journal": "Nature",
+      "pubdate": "2025-09-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40931076/",
+      "url_doi": "https://doi.org/10.1038/s41586-025-09493-y",
+      "abstract": "Monocyte-derived macrophages (mo-macs) often drive immunosuppression in the tumour microenvironment (TME)"
+    },
+    {
+      "pmid": "40931074",
+      "doi": "10.1038/s41586-025-09492-z",
+      "title": "Neuronal activity-dependent mechanisms of small cell lung cancer pathogenesis.",
+      "journal": "Nature",
+      "pubdate": "2025-09-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40931074/",
+      "url_doi": "https://doi.org/10.1038/s41586-025-09492-z",
+      "abstract": "Neural activity is increasingly recognized as a crucial regulator of cancer growth. In the brain, neuronal activity robustly influences glioma growth through paracrine mechanisms"
+    },
+    {
+      "pmid": "40928991",
+      "doi": "10.1158/1078-0432.CCR-25-2134",
+      "title": "Tarlatamab exposure-efficacy and exposure-safety relationships to inform dose selection in patients with small cell lung cancer (SCLC).",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2025-09-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40928991/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2134",
+      "abstract": "PURPOSE: Tarlatamab is a first-in-class, half-life extended bispecific T-cell engager (BiTE®) immunotherapy targeting delta-like ligand 3 (DLL3) currently approved for the treatment of adult patients with small cell lung cancer (SCLC) with disease progression on or after platinum-based chemotherapy. Here we report tarlatamab exposure-response relationships to inform dose selection in patients with SCLC.\n\nEXPERIMENTAL DESIGN: Pharmacokinetic data were correlated with therapeutic effect [exposure-response (ER) analyses] for efficacy and safety measures using pooled data from DeLLphi-300 and DeLLphi-301 studies. Efficacy measures included objective response rate, disease control rate, best change from baseline in tumor size, progression-free survival, and overall survival. Safety events included treatment-emergent adverse events [TEAEs], treatment-related adverse events [TRAEs], and TEAEs of interest including cytokine release syndrome [CRS], neutropenia, and neurologic toxicity including immune effector cell-associated neurotoxicity syndrome [ICANS]). Effects of patient specific factors were also assessed. Doses ranging from 0.003 mg to 100 mg Q2W and 200 mg Q3W were explored.\n\nRESULTS: Significant positive ER relationships were established for all evaluated efficacy measures. Near maximal efficacy was reached at exposures associated with the clinical regimen of 10 mg Q2W. No relationships with exposure were identified for the following grade ³ 3 events: TEAEs, TRAEs, CRS, and neurologic toxicity including ICANS. A shallow trend was observed for higher percentage of patients experiencing grade ³ 3 neutropenia with higher exposures.\n\nCONCLUSIONS: This analysis supports 10 mg Q2W regimen and that no dose adjustment is necessary based on age, race, bodyweight, immunogenicity, number of prior therapies or disease burden."
+    },
+    {
       "pmid": "40923969",
       "doi": "10.1016/j.jtho.2025.07.117",
       "title": "Enhanced Versus Standard Dermatologic Management With Amivantamab-Lazertinib in EGFR-Mutated Advanced NSCLC: The COCOON Global Randomized Controlled Trial.",
@@ -305,6 +304,26 @@
       "abstract": "INTRODUCTION: Intravenous anticancer treatments present challenges for patients and healthcare professionals (HCPs), prompting the development of subcutaneous formulations. In the phase 3 PALOMA-3 study, subcutaneous amivantamab demonstrated noninferior pharmacokinetics and response rates versus intravenous amivantamab (both with lazertinib), with substantially faster administration, a 5-fold reduction in infusion-related reactions, reduced venous thromboembolism, and numerically prolonged survival.\n\nMETHODS: Participants with EGFR-mutated NSCLC and progression on osimertinib and chemotherapy were randomized to subcutaneous (n = 206) or intravenous amivantamab (n = 212), plus lazertinib. Resource utilization and participant-reported treatment satisfaction were evaluated at cycle (C) 1 day (D) 1 and C3D1.\n\nRESULTS: Time-in-chair was substantially lower for subcutaneous versus intravenous amivantamab (C1D1: median [range], 23 min or 0.4 h [0-12.0 h] vs 6.5 h [0-24.0 h]; C3D1: 35 min or 0.6 h [0-6.6 h] vs 3.4 h [0.5-9.0 h]), as were HCP time and participant time-in-room. More participants who received subcutaneous versus intravenous amivantamab reported feeling unrestricted (C1D1, 66 % vs 29 %; C3D1, 60 % vs 42 %) or unbothered (C1D1, 69 % vs 30 %; C3D1, 71 % vs 45 %) by administration, and reported gaining time for other activities (C1D1, 36 % vs 7 %; C3D1, 37 % vs 6 %). Few participants who received subcutaneous amivantamab reported moderate-to-very severe injection-site pain (C1D1, 14 %; C3D1, 16 %), swelling (C1D1, 5 %; C3D1, 6 %), or redness (C1D1, 5 %; C3D1, 6 %). Most subcutaneous amivantamab recipients preferred and were more satisfied with its administration versus historical experience with intravenous therapies and would recommend it.\n\nCONCLUSIONS: In PALOMA-3, subcutaneous amivantamab, which simplifies and shortens administration, reduces resource utilization, and enhances treatment experience, was a preferred option for patients who received amivantamab-lazertinib."
     },
     {
+      "pmid": "40930418",
+      "doi": "10.1016/j.jtho.2025.09.001",
+      "title": "Trajectories of Synchronous Subsolid Nodules in Patients with Resected Subsolid Lung Adenocarcinoma: A Multicenter Cohort Study.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-09-08T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40930418/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.09.001",
+      "abstract": "INTRODUCTION: Multifocal subsolid nodules (SSNs) are increasingly detected with widespread lung cancer screening and advanced thoracic imaging, representing a spectrum of multifocal lung adenocarcinomas (LUADs). When synchronous SSNs coexist with a surgically confirmed subsolid LUAD, their trajectories remain poorly understood, contributing to uncertainty regarding optimal management strategies. This study aimed to evaluate the clinical course and impact of synchronous SSNs in such patients and to identify features associated with their progression.\n\nMETHODS: We analyzed the clinical course of synchronous SSNs in individuals who underwent surgical resection for subsolid LUAD between January 2009 and December 2019 at four referral centers in South Korea, with follow-up through June 2024. Longitudinal outcomes, including growth patterns and subsequent lung cancer diagnosis, were evaluated using comprehensive nodule-level assessments. Multivariable Cox regression models were used to identify risk factors associated with SSN trajectories and patient-level mortality outcomes.\n\nRESULTS: Overall, 1,791 synchronous SSNs in 409 patients with surgically resected subsolid LUAD as the index lesion were included. During the initial surgery for the 409 index LUADs, 380 synchronous SSNs were resected concurrently, while 1,002 SSNs were followed up over a mean duration of 80.6 months. Among the 1,002 SSNs, 16.9% exhibited growth, and 7.9% were subsequently diagnosed as lung cancer-all of which were stage 0-I adenocarcinomas. Factors associated with SSN growth and lung cancer diagnosis included part-solid type, larger nodule size, presence of bubble lucency, and pleural retraction. Notably, the number of synchronous SSNs was not associated with an increased risk of growth. At the individual patient level, neither the absolute number nor the mere growth of synchronous SSNs significantly impacted lung cancer-related mortality or overall survival.\n\nCONCLUSIONS: Synchronous SSNs in patients with subsolid LUAD exhibited growth in 16.9% of cases, with varying trajectories and clinical impact. Identified risk factors were primarily related to the characteristics of each SSN. Our findings highlight the need for nodule-based, individualized management strategies, along with a more clinically relevant growth threshold to guide balanced intervention decisions."
+    },
+    {
       "pmid": "40923797",
       "doi": "10.1056/NEJMoa2503001",
       "title": "Overall Survival with Amivantamab-Lazertinib in EGFR-Mutated Advanced NSCLC.",
@@ -323,6 +342,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40923797/",
       "url_doi": "https://doi.org/10.1056/NEJMoa2503001",
       "abstract": "BACKGROUND: Previous results from this phase 3 trial showed that progression-free survival among participants with previously untreated\n\nMETHODS: We randomly assigned, in a 2:2:1 ratio, participants with previously untreated\n\nRESULTS: A total of 429 participants each were assigned to receive amivantamab-lazertinib or osimertinib. Over a median follow-up of 37.8 months, amivantamab-lazertinib led to significantly longer overall survival than osimertinib (hazard ratio for death, 0.75; 95% confidence interval, 0.61 to 0.92; P = 0.005); 3-year overall survival was 60% and 51%, respectively. At the clinical cutoff date, 38% of participants in the amivantamab-lazertinib group and 28% in the osimertinib group were still receiving the assigned treatment. Adverse events of grade 3 or higher were more common with amivantamab-lazertinib (in 80% of participants) than with osimertinib (in 52%), particularly skin-related events, venous thromboembolism, and infusion-related events; these findings were consistent with the established safety profile of each treatment. No new safety signals were observed with additional follow-up.\n\nCONCLUSIONS: Amivantamab-lazertinib led to significantly longer overall survival among participants with previously untreated"
+    },
+    {
+      "pmid": "40930114",
+      "doi": "10.1016/S0140-6736(25)01719-2",
+      "title": "The IASLC-Lancet Commission: a transformative global approach to lung cancer.",
+      "journal": "Lancet (London, England)",
+      "pubdate": "2025-09-07T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40930114/",
+      "url_doi": "https://doi.org/10.1016/S0140-6736(25)01719-2",
+      "abstract": null
     },
     {
       "pmid": "40911432",
@@ -364,46 +403,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40910999/",
       "url_doi": "https://doi.org/10.1080/14712598.2025.2555830",
       "abstract": "INTRODUCTION: From the 1960s and up until 2021, neoadjuvant chemotherapy has represented the standard of care for potentially resectable stage III (N2) Non-Small Cell Lung Cancer (NSCLC). However, in recent years, immunotherapy in the form of Immune Checkpoint Inhibitors (ICIs) has revolutionized oncology treatment strategies and several ICIs have been investigated for the neoadjuvant treatment of NSCLC, both in monotherapy and in combination with other ICIs or chemotherapy.\n\nAREAS COVERED: Therefore, this paper aims to review the currently available data supporting the role of immunotherapy in the neoadjuvant setting, as well as to discuss the challenges associated with it. We undertook a comprehensive literature search of PubMed, Embase, Cochrane Library, of abstracts and posters from annual meetings of American Society of Clinical Oncology (ASCO), European Society for Medical Oncology (ESMO) and American Association for Cancer Research (AACR) up until November 2024.\n\nEXPERT OPINION: We believe that in a near future ICI plus chemotherapy combinations will represent the new recommended standard of care in the neoadjuvant/perioperative setting. We look forward to the full results coming from the ongoing randomized phase III trials, that will help us guide our choice in terms of patient selection, regimen of choice and response assessment."
-    },
-    {
-      "pmid": "40925068",
-      "doi": "10.1016/j.lungcan.2025.108732",
-      "title": "Identification of poor prognostic factors using circulating extracellular vesicles in durvalumab consolidation therapy for locally advanced non-small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-09-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40925068/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108732",
-      "abstract": "BACKGROUND: The risk factors associated with treatment resistance to consolidation durvalumab following chemoradiotherapy (CRT) for locally advanced non-small cell lung cancer (NSCLC) have not been well established.\n\nMETHODS: Extracellular vesicles (EVs) were isolated from the pretreatment serum of 73 patients treated with consolidation durvalumab. Isolation was performed using CD9/CD63 antibodies, and EV proteins were identified using liquid chromatography-tandem mass spectrometry (LC-MS). The relationship between the expression of these proteins and progression-free survival (PFS) after durvalumab initiation was analyzed.\n\nRESULTS: The median PFS was not reached(NR) (95 % confidence interval [CI], 17.2 months-NR), andthe 24-month PFS rate was 54.7 % (95 % CI, 44.4-67.4). Proteomic analysis of circulating EVs identified RPS27A, SAA1, and S100A7 as the primary candidate biomarkers. Notably, patients with high RPS27A expression exhibited a significantly shorter PFS compared with those with low expression; hazard ratio (HR) 2.93 (95 % CI: 1.48-5.79),P = 0.002. Similarly, high SAA1 expression was associated with a shorter PFS; HR 2.94 (95 % CI: 1.37-6.30), P = 0.006. High S100A7 expression also correlated with poorer outcomes; HR 2.94 (95 % CI: 1.43-6.04), P = 0.003. In multivariate analysis, a high expression level of RPS27A was identified as an independent predictor of poor PFS; HR 2.29 (95 % CI: 1.01-5.17), P = 0.047. Multivariate receiver operating characteristic (ROC) analysis incorporating these three proteins yielded an area under the curve (AUC) of 0.71 (95 % CI: 0.59-0.83).\n\nCONCLUSION: This study demonstratedfavorable PFS outcomes in patients receiving durvalumab consolidation therapy. Circulating EV proteomic analysis identified RPS27A, SAA1, and S100A7, particularly RPS27A, as potential biomarkers for predicting resistance to durvalumab."
-    },
-    {
-      "pmid": "40914393",
-      "doi": "10.1016/j.jtho.2025.08.024",
-      "title": "Screening-Detected versus Interval Lung Cancer in the Biennial Korean National Lung Cancer Screening Program: Proportion, Characteristics, and Mortality.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-09-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40914393/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.08.024",
-      "abstract": "INTRODUCTION: Interval lung cancers (ILCs) are key indicators of lung cancer screening (LCS) performance. However, data on the proportion, characteristics, and mortality of ILCs under biennial screening in Asian populations remain limited.\n\nMETHODS: We analyzed participants from the baseline biennial Korean national LCS program between 2019 and 2020. Screening-detected lung cancers (SLCs) were defined as those diagnosed within 1 year of a positive screening result. ILCs were defined as cancers diagnosed more than 1 year after a negative screening result but within 2 years or before the next screening. Risk factors for ILC were assessed using multivariable logistic regression among participants with a negative screening result. All-cause mortality was compared between SLCs and ILCs using multivariable Cox regression analysis.\n\nRESULTS: Among 124,595 participants, SLCs and ILCs occurred in 0.56% and 0.17%, respectively. ILCs accounted for 18.5% of all lung cancers within 2 years; 65.4% were in Lung-RADS category 1. Risk factors for ILC included older age (adjusted odds ratio [OR], 1.14; 95% CI: 1.11-1.17; P<0.001), greater smoking exposure (adjusted OR, 1.010; 95% CI: 1.004-1.016; P=0.002), a history of malignancy (adjusted OR, 2.22; 95% CI: 1.41-3.51; P<0.001), emphysema (adjusted OR, 2.88; 95% CI: 2.15-3.85; P<0.001), and interstitial lung abnormalities (adjusted OR, 4.16; 95% CI: 2.88-6.01; P<0.001). ILCs showed higher all-cause mortality than SLCs (adjusted hazard ratio, 1.43; 95% CI: 1.13-1.80; P=0.002).\n\nCONCLUSIONS: ILCs are common under biennial LCS, making it potentially suboptimal for Asian heavy smokers."
     }
   ]
 }
