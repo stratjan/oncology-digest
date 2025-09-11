@@ -1,38 +1,83 @@
 <!doctype html>
 <html lang="de">
 <head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <meta name="robots" content="noindex, nofollow"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Telefonverzeichnis</title>
+
+  <!-- Tailwind (CDN) für schnelles Styling; optional -->
   <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    /* Minimaler Fallback-Stil, falls Tailwind nicht lädt */
+    .container { max-width: 1100px; margin: 0 auto; padding: 1rem; }
+    .contact-card { border: 1px solid #e5e7eb; border-radius: 0.75rem; padding: 0.75rem 1rem; background: #fff; }
+    .contact-header { display:flex; gap: .5rem; align-items: baseline; justify-content: space-between; }
+    .contact-fields { list-style: none; padding: 0; margin: .5rem 0 0 0; }
+    .contact-fields li { display: flex; gap: .5rem; padding: .25rem 0; border-bottom: 1px dashed #eee; }
+    .contact-fields li:last-child { border-bottom: none; }
+    .lbl { min-width: 12rem; color: #6b7280; } /* grau */
+    .meta { display:flex; gap:.5rem; color:#6b7280; margin-top: .25rem; }
+    .empty-hint, .error-hint { color: #ef4444; padding: .5rem 0; }
+  </style>
 </head>
-<body class="bg-neutral-50 text-neutral-900">
-  <div class="max-w-5xl mx-auto p-6">
-    <header class="mb-4">
-      <div class="flex items-center justify-between">
-        <h1 class="text-2xl font-semibold">Telefonverzeichnis</h1>
-        <a href="/" class="text-sm underline">← Zur Startseite</a>
-      </div>
 
-      <!-- Sticky Toolbar -->
-      <div class="sticky top-0 z-40 bg-neutral-50/95 backdrop-blur border-b border-neutral-200 mt-4">
-        <div class="py-3 flex flex-wrap gap-3 items-center">
-          <input id="searchAll" type="search" placeholder="Suche in Name, Abteilung, Telefon, E-Mail …" />
-                 class="border rounded-lg px-3 py-2 w-72"/>
-          <select id="team" class="border rounded-lg px-3 py-2">
-            <option value="">Alle Teams</option>
-          </select>
-          <button id="copyAll" class="border rounded-lg px-3 py-2">Alle Nummern kopieren</button>
-        </div>
-      </div>
-      <div id="contactsList"></div>
-    </header>
+<body class="bg-gray-50 text-gray-900">
+  <header class="container">
+    <div class="flex items-center justify-between mt-6 mb-4">
+      <h1 class="text-2xl font-semibold">Telefonverzeichnis</h1>
+      <a href="/" class="text-sm underline">← Zur Startseite</a>
+    </div>
 
-    <main id="list" class="grid gap-3"></main>
-  </div>
+    <!-- Toolbar / Suchleiste -->
+    <div class="flex flex-wrap items-center gap-3 bg-white border border-gray-200 rounded-xl p-3">
+      <input
+        id="searchAll"
+        type="search"
+        placeholder="Suche in Name, Abteilung"
+        class="border rounded-lg px-3 py-2 w-72"
+        aria-label="Freitextsuche in allen Feldern"
+      />
 
-  <script src="/directory/app.js"></script>
+      <!-- Optionale strukturierte Filter (werden von app.js ausgewertet, wenn befüllt) -->
+      <input
+        id="filterDepartment1"
+        type="text"
+        placeholder="Filter: Abteilung 1"
+        class="border rounded-lg px-3 py-2 w-56"
+        aria-label="Filter Abteilung 1"
+      />
+
+      <input
+        id="filterDepartment2"
+        type="text"
+        placeholder="Filter: Abteilung 2"
+        class="border rounded-lg px-3 py-2 w-56"
+        aria-label="Filter Abteilung 2"
+      />
+
+      <input
+        id="filterPosition"
+        type="text"
+        placeholder="Filter: Position"
+        class="border rounded-lg px-3 py-2 w-56"
+        aria-label="Filter Position"
+      />
+    </div>
+
+    <!-- Hinweislinie -->
+    <hr class="my-4 border-gray-200" />
+  </header>
+
+  <main class="container">
+    <!-- Hier rendert app.js die Karten -->
+    <div id="contactsList" class="grid gap-3 md:grid-cols-2 lg:grid-cols-3"></div>
+  </main>
+
+  <!-- Deine App-Logik -->
+  <script src="/app.js"></script>
+
+  <!-- Optional: Wenn du lieber den robusten Mehrpfad-Loader benutzen willst,
+       ersetze in /app.js die fetch-Stelle gemäß meiner letzten Nachricht. -->
 </body>
 </html>
-
