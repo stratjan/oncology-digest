@@ -1,7 +1,7 @@
 // app.js
 
 // === 0) Einstellungen ===
-const CONTACTS_URL = "/contacts.example.json"; // Pfad ggf. anpassen
+const CONTACTS_URL = "/site/directory/contacts.example.json"; // Pfad ggf. anpassen
 const SEARCH_FIELDS = [
   "salutation",      // Anrede
   "firstName",       // Vorname
