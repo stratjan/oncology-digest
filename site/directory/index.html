@@ -18,7 +18,7 @@
       <!-- Sticky Toolbar -->
       <div class="sticky top-0 z-40 bg-neutral-50/95 backdrop-blur border-b border-neutral-200 mt-4">
         <div class="py-3 flex flex-wrap gap-3 items-center">
-          <input id="q" type="search" placeholder="Suche Name/Team/Funktion/Nummer…"
+          <input id="searchAll" type="search" placeholder="Suche in Name, Abteilung, Telefon, E-Mail …" />
                  class="border rounded-lg px-3 py-2 w-72"/>
           <select id="team" class="border rounded-lg px-3 py-2">
             <option value="">Alle Teams</option>
@@ -26,6 +26,7 @@
           <button id="copyAll" class="border rounded-lg px-3 py-2">Alle Nummern kopieren</button>
         </div>
       </div>
+      <div id="contactsList"></div>
     </header>
 
     <main id="list" class="grid gap-3"></main>
