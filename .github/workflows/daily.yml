@@ -1,8 +1,8 @@
 name: Daily build & publish
 
 on:
-  schedule:
-    - cron: "0 5 * * *"   # 05:00 UTC ~ 07:00 Berlin (Sommerzeit)
+schedule:
+  - cron: "0 5,17 * * *"
   workflow_dispatch:
 
 permissions:
