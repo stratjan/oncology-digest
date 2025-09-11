@@ -1,7 +1,418 @@
 [
-  { "name": "OA Dr. Müller", "role": "Onkologie Ambulanz", "team": "Ambulanz", "phone": "0681-123-456", "email": "ambulanz@zentrum.de" },
-  { "name": "Prof. Dr. Schmidt", "role": "Chefarzt Thoraxonkologie", "team": "Leitung", "mobile": "+49 171 2345678", "email": "schmidt@zentrum.de" },
-  { "name": "Station A2", "role": "Stationszimmer", "team": "Stationen", "phone": "0681-987-111" },
-  { "name": "Studiensekretariat", "role": "Kontakt Studienkoordination", "team": "Studien", "phone": "0681-987-222", "email": "studien@zentrum.de" }
+  {
+    "name": "Anja Burghardt",
+    "team": "Adminteam",
+    "phone": "15992"
+  },
+  {
+    "name": "DRG Innere V",
+    "team": "Adminteam",
+    "phone": "23638"
+  },
+  {
+    "name": "Esther Kipp/Nicole Erbelding",
+    "team": "Adminteam",
+    "phone": "23627"
+  },
+  {
+    "name": "Saskia Schneider",
+    "team": "Adminteam",
+    "phone": "15994"
+  },
+  {
+    "name": "Terminvergabe",
+    "team": "Adminteam",
+    "phone": "23633"
+  },
+  {
+    "name": "Dr. Kai Borchardt",
+    "team": "Asisstenzärzte",
+    "phone": "51052"
+  },
+  {
+    "name": "Dr. Maximilian Leitner",
+    "team": "Asisstenzärzte",
+    "phone": "51217"
+  },
+  {
+    "name": "Egzona Sulollari",
+    "team": "Asisstenzärzte",
+    "phone": "51220"
+  },
+  {
+    "name": "",
+    "team": "ELZ (Stützpunkt 1)",
+    "phone": "15934"
+  },
+  {
+    "name": "",
+    "team": "ELZ (Stützpunkt 1)",
+    "phone": "00118",
+    "pager": "15059"
+  },
+  {
+    "name": "",
+    "team": "ELZ (Stützpunkt 1)",
+    "phone": "00164",
+    "pager": "15571"
+  },
+  {
+    "name": "",
+    "team": "ELZ (Stützpunkt 1)",
+    "phone": "00165",
+    "pager": "15572"
+  },
+  {
+    "name": "",
+    "team": "ELZ (Stützpunkt 1)",
+    "phone": "00166",
+    "pager": "15573"
+  },
+  {
+    "name": "Helene Jousen",
+    "team": "ELZ (Stützpunkt 1)",
+    "phone": "51974"
+  },
+  {
+    "name": "Lungenfunktion",
+    "team": "ELZ (Stützpunkt 1)",
+    "phone": "15592"
+  },
+  {
+    "name": "Monika Roth",
+    "team": "ELZ (Stützpunkt 1)",
+    "phone": "15598"
+  },
+  {
+    "name": "Schlaflabor",
+    "team": "ELZ (Stützpunkt 1)",
+    "phone": "15593"
+  },
+  {
+    "name": "Stützpunkt 2",
+    "team": "ELZ (Stützpunkt 1)",
+    "phone": "15908"
+  },
+  {
+    "name": "Arztzimmer",
+    "team": "Endoskopie",
+    "phone": "15591"
+  },
+  {
+    "name": "BSK Raum",
+    "team": "Endoskopie",
+    "phone": "15790"
+  },
+  {
+    "name": "Bereichsleitung (Boger)",
+    "team": "Endoskopie",
+    "phone": "15590"
+  },
+  {
+    "name": "Strahlentherapie Berdel",
+    "team": "Extern",
+    "phone": "24821"
+  },
+  {
+    "name": "Julius Markgraf",
+    "team": "IT",
+    "phone": "51180"
+  },
+  {
+    "name": "Spalte2",
+    "team": "IT"
+  },
+  {
+    "name": "ZIK",
+    "team": "IT"
+  },
+  {
+    "name": "Arztzimmer",
+    "team": "Intensivstation",
+    "phone": "15216"
+  },
+  {
+    "name": "Bereichsleitung",
+    "team": "Intensivstation",
+    "phone": "15213"
+  },
+  {
+    "name": "Jürgen Noe",
+    "team": "Intensivstation"
+  },
+  {
+    "name": "Spalte7",
+    "team": "Intensivstation"
+  },
+  {
+    "name": "Stationsarzt",
+    "team": "Intensivstation",
+    "phone": "51214",
+    "pager": "51216"
+  },
+  {
+    "name": "Teamassistent",
+    "team": "Intensivstation",
+    "phone": "15217"
+  },
+  {
+    "name": "",
+    "team": "M5-NCU Normalstation",
+    "phone": "15577"
+  },
+  {
+    "name": "(304 / Station 4)",
+    "team": "M5-NCU Normalstation"
+  },
+  {
+    "name": "Alexandra Baus",
+    "team": "M5-NCU Normalstation"
+  },
+  {
+    "name": "Arztzimmer",
+    "team": "M5-NCU Normalstation",
+    "phone": "15423"
+  },
+  {
+    "name": "Heike Mannschatz",
+    "team": "M5-NCU Normalstation"
+  },
+  {
+    "name": "Sekretärin",
+    "team": "M5-NCU Normalstation",
+    "phone": "15421"
+  },
+  {
+    "name": "Sekretärin (Onkologie)",
+    "team": "M5-NCU Normalstation",
+    "phone": "15424"
+  },
+  {
+    "name": "Stützpunkt",
+    "team": "M5-NCU Normalstation",
+    "phone": "15400"
+  },
+  {
+    "name": "",
+    "team": "M5-WLS Privat",
+    "phone": "15655"
+  },
+  {
+    "name": "(408/ Station 8)",
+    "team": "M5-WLS Privat"
+  },
+  {
+    "name": "Arzthelferin",
+    "team": "M5-WLS Privat"
+  },
+  {
+    "name": "M-ZIM",
+    "team": "M5-WLS Privat",
+    "phone": "15650"
+  },
+  {
+    "name": "Silke Schmelzer",
+    "team": "M5-WLS Privat",
+    "phone": "51183"
+  },
+  {
+    "name": "Stationsarzt",
+    "team": "M5-WLS Privat",
+    "phone": "15801"
+  },
+  {
+    "name": "Stützpunkt",
+    "team": "M5-WLS Privat",
+    "phone": "15800"
+  },
+  {
+    "name": "Annabelle Motsch",
+    "team": "MFA's",
+    "phone": "15422"
+  },
+  {
+    "name": "Aqsa Ali",
+    "team": "MFA's",
+    "phone": "51219"
+  },
+  {
+    "name": "Ina Masch",
+    "team": "MFA's",
+    "phone": "15420"
+  },
+  {
+    "name": "(nur Arzt an Oberarzt)",
+    "team": "Oberarzt Aufnahme"
+  },
+  {
+    "name": "Intensiv",
+    "team": "Oberarzt Aufnahme",
+    "phone": "15211",
+    "pager": "15257"
+  },
+  {
+    "name": "Konsil",
+    "team": "Oberarzt Aufnahme",
+    "phone": "51408"
+  },
+  {
+    "name": "Normalstation",
+    "team": "Oberarzt Aufnahme",
+    "phone": "51535"
+  },
+  {
+    "name": "Dr. Albert Omlor",
+    "team": "Oberärzte",
+    "phone": "15575"
+  },
+  {
+    "name": "Dr. André Becker",
+    "team": "Oberärzte",
+    "phone": "15804"
+  },
+  {
+    "name": "Dr. Carsten Zeiner",
+    "team": "Oberärzte",
+    "phone": "21624"
+  },
+  {
+    "name": "Dr. Christophe Jentgen",
+    "team": "Oberärzte",
+    "phone": "15563"
+  },
+  {
+    "name": "Dr. Frederik Seiler",
+    "team": "Oberärzte",
+    "phone": "15578"
+  },
+  {
+    "name": "Dr. Torben Rixecker",
+    "team": "Oberärzte",
+    "phone": "15459"
+  },
+  {
+    "name": "Dr. med. Angelika Krill",
+    "team": "Oberärzte",
+    "phone": "15573"
+  },
+  {
+    "name": "Dr. med. Christian Lensch",
+    "team": "Oberärzte",
+    "phone": "15056",
+    "pager": "934596"
+  },
+  {
+    "name": "Dr. med. Dorothee Böhm",
+    "team": "Oberärzte",
+    "phone": "51218",
+    "pager": "51215"
+  },
+  {
+    "name": "Dr. med. Jan Stratmann",
+    "team": "Oberärzte",
+    "phone": "15565"
+  },
+  {
+    "name": "Modar Al Khalaf",
+    "team": "Oberärzte",
+    "phone": "15574"
+  },
+  {
+    "name": "Prof. Dr. med. Heinrike Wilkens",
+    "team": "Oberärzte",
+    "phone": "15560",
+    "pager": "934740"
+  },
+  {
+    "name": "Anja Pietsch",
+    "team": "QM",
+    "phone": "21636"
+  },
+  {
+    "name": "Aline Lang",
+    "team": "Sekretariat Prof. Bals",
+    "phone": "15051"
+  },
+  {
+    "name": "Anna Seibert",
+    "team": "Sekretariat Prof. Bals",
+    "phone": "15053"
+  },
+  {
+    "name": "Prof. Dr. Dr. Robert Bals",
+    "team": "Spalte1",
+    "phone": "15050"
+  },
+  {
+    "name": "Untersuchungszimmer",
+    "team": "Spalte1",
+    "phone": "15058"
+  },
+  {
+    "name": "F. Oeschger",
+    "team": "Strahlentherapie",
+    "phone": "34616"
+  },
+  {
+    "name": "Ines Holtz",
+    "team": "Studiensekretariat",
+    "phone": "15581"
+  },
+  {
+    "name": "Katja Schmitt",
+    "team": "Studiensekretariat",
+    "phone": "15584"
+  },
+  {
+    "name": "Martina Seibert",
+    "team": "Studiensekretariat",
+    "phone": "15580"
+  },
+  {
+    "name": "Nelly Schröder",
+    "team": "Studiensekretariat",
+    "phone": "15582"
+  },
+  {
+    "name": "Al-Saidi",
+    "team": "Thoraxchirurgen",
+    "phone": "51053"
+  },
+  {
+    "name": "Dr. Langer",
+    "team": "Thoraxchirurgen",
+    "phone": "33130"
+  },
+  {
+    "name": "Dr. Mustafi",
+    "team": "Thoraxchirurgen"
+  },
+  {
+    "name": "Nasri",
+    "team": "Thoraxchirurgen",
+    "phone": "51054"
+  },
+  {
+    "name": "OA Aliyev",
+    "team": "Thoraxchirurgen"
+  },
+  {
+    "name": "AOZ",
+    "team": "Tx-Ambulanz",
+    "phone": "41000"
+  },
+  {
+    "name": "Bettina Weingard",
+    "team": "Tx-Ambulanz",
+    "phone": "15522"
+  },
+  {
+    "name": "Birgit Linz",
+    "team": "Tx-Ambulanz",
+    "phone": "15241"
+  },
+  {
+    "name": "Koordination",
+    "team": "Tx-Ambulanz"
+  }
 ]
-
