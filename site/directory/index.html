@@ -5,20 +5,17 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Telefonverzeichnis</title>
 
-  <!-- Tailwind (CDN) für schnelles Styling; optional -->
+  <!-- Optional: Tailwind für schnelles, sauberes Styling -->
   <script src="https://cdn.tailwindcss.com"></script>
 
   <style>
     /* Minimaler Fallback-Stil, falls Tailwind nicht lädt */
     .container { max-width: 1100px; margin: 0 auto; padding: 1rem; }
-    .contact-card { border: 1px solid #e5e7eb; border-radius: 0.75rem; padding: 0.75rem 1rem; background: #fff; }
-    .contact-header { display:flex; gap: .5rem; align-items: baseline; justify-content: space-between; }
-    .contact-fields { list-style: none; padding: 0; margin: .5rem 0 0 0; }
-    .contact-fields li { display: flex; gap: .5rem; padding: .25rem 0; border-bottom: 1px dashed #eee; }
-    .contact-fields li:last-child { border-bottom: none; }
-    .lbl { min-width: 12rem; color: #6b7280; } /* grau */
-    .meta { display:flex; gap:.5rem; color:#6b7280; margin-top: .25rem; }
+    .contact-row { transition: background-color .12s ease; }
+    .contact-row:hover { background-color: #f9fafb; }
+    .badge { display:inline-block; padding:.1rem .4rem; border:1px solid #e5e7eb; border-radius:.375rem; font-size:.85rem; }
     .empty-hint, .error-hint { color: #ef4444; padding: .5rem 0; }
+    .lbl { min-width: 7rem; color: #6b7280; }
   </style>
 </head>
 
@@ -29,7 +26,7 @@
       <a href="/" class="text-sm underline">← Zur Startseite</a>
     </div>
 
-    <!-- Toolbar / Suchleiste -->
+    <!-- Toolbar -->
     <div class="flex flex-wrap items-center gap-3 bg-white border border-gray-200 rounded-xl p-3">
       <input
         id="searchAll"
@@ -39,45 +36,29 @@
         aria-label="Freitextsuche in allen Feldern"
       />
 
-      <!-- Optionale strukturierte Filter (werden von app.js ausgewertet, wenn befüllt) -->
-      <input
-        id="filterDepartment1"
-        type="text"
-        placeholder="Filter: Abteilung 1"
-        class="border rounded-lg px-3 py-2 w-56"
-        aria-label="Filter Abteilung 1"
-      />
+      <!-- Team-Filter wird von app.js aus den Daten befüllt -->
+      <select id="teamFilter" class="border rounded-lg px-3 py-2">
+        <option value="">Alle Teams</option>
+      </select>
 
-      <input
-        id="filterDepartment2"
-        type="text"
-        placeholder="Filter: Abteilung 2"
-        class="border rounded-lg px-3 py-2 w-56"
-        aria-label="Filter Abteilung 2"
-      />
+      <button id="copyAllBtn" class="border rounded-lg px-3 py-2">
+        Alle Nummern kopieren
+      </button>
 
-      <input
-        id="filterPosition"
-        type="text"
-        placeholder="Filter: Position"
-        class="border rounded-lg px-3 py-2 w-56"
-        aria-label="Filter Position"
-      />
+      <div class="text-sm text-gray-500 ml-auto">
+        <span id="resultCount">0</span> Treffer
+      </div>
     </div>
 
-    <!-- Hinweislinie -->
     <hr class="my-4 border-gray-200" />
   </header>
 
   <main class="container">
-    <!-- Hier rendert app.js die Karten -->
-    <div id="contactsList" class="grid gap-3 md:grid-cols-2 lg:grid-cols-3"></div>
+    <!-- Kompakte Liste mit Trennlinien -->
+    <div id="contactsList" class="bg-white border border-gray-200 rounded-xl divide-y divide-gray-200"></div>
   </main>
 
-  <!-- Deine App-Logik -->
-  <script src="/directory/app.js"></script>
-
-  <!-- Optional: Wenn du lieber den robusten Mehrpfad-Loader benutzen willst,
-       ersetze in /app.js die fetch-Stelle gemäß meiner letzten Nachricht. -->
+  <!-- Script: Pfad ggf. anpassen (z. B. "./app.js", wenn im selben Ordner) -->
+  <script src="./app.js"></script>
 </body>
 </html>
