@@ -223,6 +223,24 @@ async function load(bust=false) {
   readStateFromURL();
   render();
 
+// Globaler Klick-Handler: Karte toggelt Abstract, Links bleiben klickbar
+document.addEventListener('click', (ev) => {
+  // Links (PubMed/DOI/OA) ignorieren
+  if (ev.target.closest('a')) return;
+
+  // Nur reagieren, wenn innerhalb einer Karte geklickt wurde
+  const card = ev.target.closest('article[data-pmid]');
+  if (!card) return;
+
+  const abs = card.querySelector('[data-abs]');
+  if (!abs) return; // kein Abstract vorhanden
+
+  const btn = card.querySelector('[data-action="toggle-abs"]');
+  const willShow = abs.classList.contains('hidden');
+  abs.classList.toggle('hidden');
+  if (btn) btn.textContent = willShow ? 'Abstract ausblenden' : 'Abstract anzeigen';
+});
+  
   // Nach Rendern: alles als "gesehen" markieren (für ⭐ beim nächsten Besuch)
   (function markSeenNow() {
     for (const x of items) { if (x && x.pmid) seenSet.add(x.pmid); }
