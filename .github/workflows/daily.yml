@@ -1,8 +1,8 @@
 name: Daily build & publish
 
 on:
-schedule:
-  - cron: "0 5,17 * * *"
+  schedule:
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 permissions:
