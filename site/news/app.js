@@ -19,7 +19,7 @@ async function load(bust=false) {
   const byPMID = new Map(items.map(x => [x.pmid, x]));
 
   // ---- UI-State
-  const state = { items, q:'', entity:'', type:'', sort:'metric', boostGuidelines:false };
+  const state = { items, q:'', entity:'', type:'', sort:'date', boostGuidelines:false };
 
   // ---- DOM Controls
   const elQ = document.getElementById('q');
@@ -36,7 +36,7 @@ async function load(bust=false) {
     state.q = (p.get('q') || '').toLowerCase();
     state.entity = p.get('ent') || '';
     state.type = p.get('type') || '';
-    state.sort = p.get('sort') || 'metric';
+    state.sort = p.get('sort') || 'date';
     state.boostGuidelines = p.get('g') === '1';
     if (elQ) elQ.value = state.q;
     if (elE) elE.value = state.entity;
