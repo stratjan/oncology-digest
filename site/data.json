@@ -1,6 +1,26 @@
 {
-  "generated": "2025-09-17T11:43:36.754638Z",
+  "generated": "2025-09-18T05:35:22.257688Z",
   "items": [
+    {
+      "pmid": "40961225",
+      "doi": "10.1126/scitranslmed.adr3718",
+      "title": "PD-1-targeted cis-delivery of an IL-2 variant induces a multifaceted antitumoral T cell response in human lung cancer.",
+      "journal": "Science translational medicine",
+      "pubdate": "2025-09-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 6.722,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40961225/",
+      "url_doi": "https://doi.org/10.1126/scitranslmed.adr3718",
+      "abstract": "Antibody-cytokine fusion proteins are being developed as next-generation cancer immunotherapies, aiming to deliver activation signals to targeted immune populations. Among these, PD1-IL2v-an engineered interleukin-2 variant (IL-2v) lacking CD25 binding, fused to a high-affinity programmed cell death protein 1 (PD-1) blocking antibody-has shown promising results in murine tumor models. Here, using human model systems, we show that PD1-IL2v elicits a multifaceted antitumor T cell response by targeting both CD8"
+    },
     {
       "pmid": "40939193",
       "doi": "10.1158/0008-5472.CAN-24-4245",
@@ -82,6 +102,26 @@
       "abstract": "INTRODUCTION: RATIONALE-304 compared first-line tislelizumab (a programmed cell death protein 1 inhibitor) plus chemotherapy versus chemotherapy in advanced non-squamous non-small cell lung cancer (nsq-NSCLC). This exploratory analysis focused on patients with tumor cell programmed death ligand 1 (PD-L1) expression ≥ 50%.\n\nMETHODS: Patients with stage IIIB/IV nsq-NSCLC were randomized (2:1) to tislelizumab plus platinum-based chemotherapy and pemetrexed every 3 weeks, followed by maintenance tislelizumab and pemetrexed, or platinum-based chemotherapy and pemetrexed followed by maintenance pemetrexed. The primary endpoint was independent review committee (IRC)-assessed progression-free survival (PFS); secondary endpoints included overall survival (OS), IRC-assessed objective response rates, and safety.\n\nRESULTS: The PD-L1 ≥ 50% population included 110 patients (tislelizumab plus chemotherapy, n = 74; chemotherapy, n = 36); 71.8% (n = 79) were male and 28.2% (n = 31) were female. Consistent with the final analysis (median follow-up 16.5 months), the 4-year follow-up data (median follow-up 23.4 months) continued to show an improvement in median PFS (17.2 vs. 4.6 months; stratified HR 0.29, 95% CI 0.17-0.50) and median OS (41.9 vs. 13.1 months; stratified HR 0.38, 95% CI 0.23-0.62) for patients who received tislelizumab plus chemotherapy versus chemotherapy. An additional post hoc analysis showed no significant differences in PFS or OS between PD-L1 50-89% and ≥ 90% subgroups in the tislelizumab plus chemotherapy arm. The safety profile of tislelizumab plus chemotherapy was manageable and consistent with previous analyses.\n\nCONCLUSIONS: In patients with advanced nsq-NSCLC and PD-L1 tumor cell expression ≥ 50%, first-line tislelizumab plus chemotherapy demonstrated clinically meaningful improvement in PFS and OS versus chemotherapy. Efficacy was consistent across subgroups of patients with high PD-L1 tumor cell expression levels (50-89% and ≥ 90%).\n\nTRIAL REGISTRATION: Clinical Trials.gov NCT03663205."
     },
     {
+      "pmid": "40963055",
+      "doi": "10.1007/s10637-025-01583-y",
+      "title": "Phase I results on the efficacy, safety and pharmacokinetics of lurbinectedin and irinotecan in advanced solid tumors.",
+      "journal": "Investigational new drugs",
+      "pubdate": "2025-09-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.074,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40963055/",
+      "url_doi": "https://doi.org/10.1007/s10637-025-01583-y",
+      "abstract": "Lurbinectedin and irinotecan showed synergistic antitumor activity when combined in preclinical studies, and have non-completely overlapping toxicity profiles. A two-stage phase I/II trial was designed to evaluate the combination. The first (dose escalation) stage of the trial assessed two schedules, lurbinectedin on Day (D)1 plus irinotecan on D1,D8 or D1 every three weeks in 83 patients with relapsed advanced solid tumors. Two recommended doses (RDs) were defined for lurbinectedin on D1 plus irinotecan on D1,D8: lurbinectedin 2.0 mg/m"
+    },
+    {
       "pmid": "40684711",
       "doi": "10.1016/j.ejrad.2025.112290",
       "title": "Comparison of nodule volumetric classification by using two different nodule segmentation algorithms in an LDCT lung cancer baseline screening dataset.",
@@ -120,6 +160,67 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
       "url_doi": "https://doi.org/10.1080/17581966.2025.2477411",
       "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
+    },
+    {
+      "pmid": "40795195",
+      "doi": "10.1200/JCO-25-01259",
+      "title": "Modern Targeted Radiation in Patients With Brain Metastases From Small Cell Lung Cancer.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-09-20T00:00:00+00:00",
+      "pubtypes": [
+        "Editorial"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40795195/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01259",
+      "abstract": null
+    },
+    {
+      "pmid": "40706016",
+      "doi": "10.1200/JCO-25-00363",
+      "title": "Phase I Dose-Escalation Results for the Delta-Like Ligand 3/CD3 IgG-Like T-Cell Engager Obrixtamig (BI 764532) in Patients With Delta-Like Ligand 3+ Small Cell Lung Cancer or Neuroendocrine Carcinomas.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-09-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1200/jco-25-00363",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40706016/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-00363",
+      "abstract": "PURPOSE: We report phase I results for obrixtamig (BI 764532), a delta-like ligand 3 (DLL3)/CD3 IgG-like T-cell engager, in patients with previously treated DLL3-positive small cell lung cancer (SCLC), extrapulmonary neuroendocrine carcinomas (epNECs), or large cell neuroendocrine carcinoma of the lung (LCNEC-L).\n\nMETHODS: Patients received escalating intravenous obrixtamig doses using four regimens: a fixed dose once every 3 weeks (A); a fixed dose once weekly (B1); a step-up dose once weekly for two weeks and target dose once weekly (B2); and a step-up dose once weekly for 3 weeks, target dose once weekly for 3 weeks, and once every 3 weeks thereafter (B3). The primary objective was maximum tolerated dose (MTD). Secondary objectives included safety, pharmacokinetics, and tumor response (RECIST v1.1).\n\nRESULTS: As of February 21, 2024, 168 patients received obrixtamig, 72% received ≥2 lines of previous anticancer therapy, and 51% received previous anti-PD-1/PD-L1 therapy. Seven dose-limiting toxicities occurred during MTD evaluation (Regimen A, n = 1; Regimen B2, n = 6). MTD was not reached. The most common treatment-related adverse event was cytokine release syndrome (any grade: 57%; grade ≥3: 3%); most cases occurred early and were reversible. Across all doses, regimens, and tumor types, the overall response rate (ORR) was 23% (95% CI, 17.4% to 30.2%), the median duration of response (DoR) was 8.5 months (95% CI, 6.2 to not reached), and the 6-month DoR rate was 70% (95% CI, 53% to 88%). All patients in Regimens B2/B3 received the minimum effective dose (≥90 μg/kg once weekly or once every 3 weeks), achieving an ORR of 28% (95% CI, 20.7% to 35.9%). With Regimens B2/B3, ORRs were 21% (95% CI, 12.9% to 33.1%), 27% (95% CI, 17.4% to 39.6%), and 70% (95% CI, 39.7% to 89.2%) for SCLC, epNECs, and LCNEC-L, respectively.\n\nCONCLUSION: The demonstrated tolerability and efficacy of obrixtamig regimens, administered as step-up followed by target doses of 90-1,080 μg/kg (once weekly or once every 3 weeks), in patients with heavily pretreated DLL3-positive tumors support further exploration in SCLC, epNEC, and LCNEC-L."
+    },
+    {
+      "pmid": "40963028",
+      "doi": "10.1038/s41586-025-09503-z",
+      "title": "Basal cell of origin resolves neuroendocrine-tuft lineage plasticity in cancer.",
+      "journal": "Nature",
+      "pubdate": "2025-09-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40963028/",
+      "url_doi": "https://doi.org/10.1038/s41586-025-09503-z",
+      "abstract": "Neuroendocrine and tuft cells are rare chemosensory epithelial lineages defined by the expression of ASCL1 and POU2F3 transcription factors, respectively. Neuroendocrine cancers, including small cell lung cancer (SCLC), frequently display tuft-like subsets, a feature linked to poor patient outcomes"
     },
     {
       "pmid": "40957950",
@@ -163,6 +264,26 @@
       "abstract": "INTRODUCTION: From the 1960s and up until 2021, neoadjuvant chemotherapy has represented the standard of care for potentially resectable stage III (N2) Non-Small Cell Lung Cancer (NSCLC). However, in recent years, immunotherapy in the form of Immune Checkpoint Inhibitors (ICIs) has revolutionized oncology treatment strategies and several ICIs have been investigated for the neoadjuvant treatment of NSCLC, both in monotherapy and in combination with other ICIs or chemotherapy.\n\nAREAS COVERED: Therefore, this paper aims to review the currently available data supporting the role of immunotherapy in the neoadjuvant setting, as well as to discuss the challenges associated with it. We undertook a comprehensive literature search of PubMed, Embase, Cochrane Library, of abstracts and posters from annual meetings of American Society of Clinical Oncology (ASCO), European Society for Medical Oncology (ESMO), and American Association for Cancer Research (AACR) up until November 2024.\n\nEXPERT OPINION: We believe that in the near future ICI plus chemotherapy combinations will represent the new recommended standard of care in the neoadjuvant/perioperative setting. We look forward to the full results coming from the ongoing randomized phase III trials, that will help us guide our choice in terms of patient selection, regimen of choice, and response assessment."
     },
     {
+      "pmid": "40962011",
+      "doi": "10.1016/j.ejphar.2025.178168",
+      "title": "Prognostic implications of antitumour efficacy and adverse events of EGFR-TKIs in non-small cell lung cancer: an ambispective cohort study.",
+      "journal": "European journal of pharmacology",
+      "pubdate": "2025-09-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40962011/",
+      "url_doi": "https://doi.org/10.1016/j.ejphar.2025.178168",
+      "abstract": "The objective of this study was to quantify the impact of longitudinal tumour dynamics, time-varying drug-related adverse events (DRAEs), and other clinical characteristics on long-term outcomes in patients with non-small cell lung cancer (NSCLC) treated with epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). An ambispective cohort of 277 patients was analysed and externally validated using independent clinical trial data from 470 patients in the Project Data Sphere. Individual tumour growth trajectories were characterised by predicted sum of the longest diameters (SLD) using tumour growth inhibition (TGI) modelling. Time-dependent Cox and parametric time-to-event models were then applied to evaluate the influence of predicted tumour growth trajectories, observed dynamic DRAE profiles, cross-sectional variables derived from these measures, and additional covariates on time-to-treatment failure (TTF) and progression-free survival (PFS). The TGI models effectively captured individual tumour dynamics. Across both Cox and parametric time-to-event models, prognostic factors consistently included DRAEs, baseline metastasis, EGFR-TKI treatment history, and the specific EGFR-TKI administered. Notably, grade 2 DRAEs were associated with an optimal balance between efficacy and safety, and this association remained robust in sensitivity analyses and was preliminarily validated using external data. These findings emphasise the clinical relevance of DRAE grades in indicating long-term clinical benefit. By linking manageable toxicity with durable therapeutic outcomes, the study provides valuable insights for developing safe and effective EGFR-TKI treatment strategies in patients with NSCLC."
+    },
+    {
       "pmid": "40953708",
       "doi": "10.1016/j.radonc.2025.111144",
       "title": "Association of artificial intelligence-screened interstitial lung disease with radiation pneumonitis in locally advanced non-small cell lung cancer.",
@@ -204,6 +325,26 @@
       "abstract": "EGFR"
     },
     {
+      "pmid": "40961811",
+      "doi": "10.1016/j.ejca.2025.115779",
+      "title": "Atezolizumab with carboplatin plus nab-paclitaxel combination therapy for TTF-1 negative advanced nonsquamous non-small cell lung cancer: A multicenter, single-arm phase 2 trial (F1NE TUNE, LOGiK 2102).",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-09-12T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40961811/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.115779",
+      "abstract": "BACKGROUND: Individuals with thyroid transcription factor-1 (TTF-1)-negative nonsquamous non-small cell lung cancer (NSCLC) have a poor prognosis. There have been no prospective studies targeting TTF-1-negative nonsquamous NSCLC.\n\nMETHODS: This multicenter, single-arm phase 2 study enrolled chemotherapy-naïve individuals with TTF-1-negative advanced nonsquamous NSCLC to receive four cycles of atezolizumab in combination with carboplatin plus nab-paclitaxel, followed by atezolizumab alone. The primary endpoint was progression-free survival (PFS).\n\nRESULTS: Between June 2022 and March 2024, 52 patients (41 male and 11 female) with a median age of 68.0 years were enrolled. Thirty-three patients had adenocarcinoma and 19 had nonadenocarcinoma. Nineteen, 30, and 3 patients were current, former, and never-smokers, respectively. The PD-L1 tumor proportion score was < 1 % in 22 cases, 1-49 % in 18 cases, ≥ 50 % in 11 cases, and unknown in 1 case. The median PFS was 4.9 months (80 % confidence interval [CI], 4.3-5.9 months). The lower limit of the 80 % CI did not exceed the prespecified threshold of 4.5 months; therefore, the study did not meet its primary endpoint. The median overall survival was 13.2 months (95 % CI, 10.3-27.2 months). The response rate was 56.9 % (95 % CI, 43.3-69.5 %). There were no new safety signals.\n\nCONCLUSIONS: This first prospective study of individuals with TTF-1-negative advanced nonsquamous NSCLC has provided evidence for the efficacy and safety of the combination of carboplatin plus nab-paclitaxel with atezolizumab in such patients. The prognosis of TTF-1-negative advanced nonsquamous NSCLC remains poor, however, warranting further treatment development."
+    },
+    {
       "pmid": "40935839",
       "doi": "10.1038/s41392-025-02382-w",
       "title": "Coinhibition of the MEK/RTK pathway has high therapeutic efficacy in KRAS-mutant non-small cell lung cancer.",
@@ -222,26 +363,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40935839/",
       "url_doi": "https://doi.org/10.1038/s41392-025-02382-w",
       "abstract": "Oncogenic KRAS mutations are frequently detected in NSCLC. It remains a major challenge to target all KRAS mutants. MEK inhibitors are considered candidates for treating KRAS-mutant NSCLC; however, their easy adaptive resistance precludes further application. Here, we found that MEK inhibitor-trametinib treatment results in the feedback activation of multiple receptor tyrosine kinases (RTKs) and that treatment with the pan-RTK inhibitor anlotinib effectively inhibits the progression of KRAS-mutant NSCLC. Furthermore, we evaluated this strategy in a clinical study (NCT04967079) involving 33 advanced non-G12C KRAS-mutant NSCLC patients. The phase Ia containing 13 patients showed that the recommended phase 2 dose (RP2D) is trametinib (2 mg) plus anlotinib (8 mg), the objective response rate (ORR) is 69.2% (95% CI: 38.6-90.9), the median progression-free survival (PFS) is 6.9 months (95% CI: 3.9 to could not be evaluated), disease control rate (DCR) is 92% (95% CI: 64.0-99.8) and the rate of adverse events (AEs) ≥grade 3 is 23%. The phase Ib containing 20 patients demonstrated the high efficacy of this combinational therapy with RP2D, with the ORR at 65% (95% CI: 40.8-84.6), the median PFS is 11.5 months (95% CI: 8.3-15.5), the median overall survival (OS) is 15.5 months (95% CI: 15.5 to could not be evaluated), the DCR at 100% (95% CI: 83.2-100.0), the median duration of overall response (DoR) is 9.3 months (95% CI: 2.5-12.1), and the rate of AEs ≥ grade 3 at 35%. Overall, this study provides a potential combinational therapeutic strategy for KRAS-mutant NSCLC through the cotargeting of MEK and RTKs."
-    },
-    {
-      "pmid": "40946714",
-      "doi": "10.1016/S1470-2045(25)00548-0",
-      "title": "2025 World Conference on Lung Cancer.",
-      "journal": "The Lancet. Oncology",
-      "pubdate": "2025-09-11T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40946714/",
-      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00548-0",
-      "abstract": null
     }
   ]
 }
