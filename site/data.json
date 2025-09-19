@@ -1,6 +1,66 @@
 {
-  "generated": "2025-09-18T05:35:22.257688Z",
+  "generated": "2025-09-19T05:34:31.571236Z",
   "items": [
+    {
+      "pmid": "40965864",
+      "doi": "10.1001/jamaoncol.2025.3497",
+      "title": "Neoadjuvant Chemoimmunotherapy in Stage III Non-Small Cell Lung Cancer-Reply.",
+      "journal": "JAMA oncology",
+      "pubdate": "2025-09-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 8.377,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40965864/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3497",
+      "abstract": null
+    },
+    {
+      "pmid": "40965918",
+      "doi": "10.1001/jamaoncol.2025.3491",
+      "title": "Neoadjuvant Chemoimmunotherapy in Stage III Non-Small Cell Lung Cancer.",
+      "journal": "JAMA oncology",
+      "pubdate": "2025-09-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 8.377,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40965918/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3491",
+      "abstract": null
+    },
+    {
+      "pmid": "40965878",
+      "doi": "10.1001/jamaoncol.2025.3494",
+      "title": "Neoadjuvant Chemoimmunotherapy in Stage III Non-Small Cell Lung Cancer.",
+      "journal": "JAMA oncology",
+      "pubdate": "2025-09-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 8.377,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40965878/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3494",
+      "abstract": null
+    },
     {
       "pmid": "40961225",
       "doi": "10.1126/scitranslmed.adr3718",
@@ -22,24 +82,24 @@
       "abstract": "Antibody-cytokine fusion proteins are being developed as next-generation cancer immunotherapies, aiming to deliver activation signals to targeted immune populations. Among these, PD1-IL2v-an engineered interleukin-2 variant (IL-2v) lacking CD25 binding, fused to a high-affinity programmed cell death protein 1 (PD-1) blocking antibody-has shown promising results in murine tumor models. Here, using human model systems, we show that PD1-IL2v elicits a multifaceted antitumor T cell response by targeting both CD8"
     },
     {
-      "pmid": "40939193",
-      "doi": "10.1158/0008-5472.CAN-24-4245",
-      "title": "Interaction and Reciprocal Stabilization of H3.3 and PARP1 Promotes DNA Damage Repair and Tumor Progression in Small Cell Lung Cancer.",
+      "pmid": "40966319",
+      "doi": "10.1158/0008-5472.CAN-24-4887",
+      "title": "Loss of UXS1 Selectively Depletes Pyrimidines and Induces Replication Stress in KEAP1-Mutant Lung Cancer.",
       "journal": "Cancer research",
-      "pubdate": "2025-09-12T00:00:00+00:00",
+      "pubdate": "2025-09-18T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "SCLC",
+      "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
       "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40939193/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-24-4245",
-      "abstract": "Multiple lines of evidence have highlighted the transcriptional regulatory activity of H3.3 at promoters and telomeres. However, H3.3 may also play transcriptional regulation-independent roles. In this study, we demonstrated that overexpression of H3F3A, the gene encoding H3.3, supported the pathogenesis of small cell lung cancer (SCLC) by protecting PARP1 from degradation. Chromatin-associated H3.3 and PARP1 physically interacted, which required the 645-662 amino acid domain of PARP1 and the 20-60 amino acid region of H3.3. Notably, the H3.3-PARP1 interaction blocked K48-linked polyubiquitination of PARP1 at K654 and H3.3 at K36, establishing a positive feedback loop that prevented ubiquitin-mediated degradation of both proteins. Functionally, the oncogenic potential of H3.3 and its role in maintaining genomic stability in SCLC could be partially attributed to the H3.3-PARP1 interaction and the subsequent accumulation of PARP1, which preserved DNA damage repair capacity. Overall, these findings uncover a reciprocal stabilization mechanism between PARP1 and H3.3 within the chromatin context that drives SCLC progression, providing valuable insights into the pathophysiological mechanisms driving this malignancy."
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40966319/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-24-4887",
+      "abstract": "Kelch-like ECH associated protein 1 (KEAP1) is the third most commonly mutated gene in non-small cell lung cancer (NSCLC) and is associated with poor prognosis. Here, we investigated synthetic lethal interaction genes in KEAP1-mutated cancer cells and identified a dependency on UDP xylose synthase 1 (UXS1), which converts UDP-glucuronic acid (UDP-GlcA) to UDP-xylose in the proteoglycan synthetic pathway. UDP glucose dehydrogenase (UGDH), a transcriptional target of NRF2 that converts UDP-glucose to UDP-GlcA, was highly expressed in KEAP1-mutant tumors. Upon UXS1 knockdown, depletion of UDP-xylose occurred in both KEAP1-mutant and wildtype (WT) cells, whereas UDP-GlcA accumulated to a greater extent in the KEAP1-mutant setting. The resulting shortage of available UDP and other pyrimidines slowed S-phase progression and stalled DNA replication fork marks, causing cells to undergo prolonged cell-cycle exit or apoptosis. Dependency on UXS1 was rescued by knocking out UGDH to prevent UDP-GlcA accumulation and UDP depletion. DNA replication stress in UXS1-depleted cells sensitized them to clinical cell-cycle checkpoint inhibitors. Further, CRISPR screening experiments identified genes that modulate UXS1 dependency. While liver had the highest normal tissue expression of UGDH, UXS1 knockout in the liver did not result in hepatotoxicity. Taken together, these data demonstrate that UXS1 is a selective dependency in KEAP1-mutant tumors and loss of UXS1 creates additional therapeutically exploitable vulnerabilities in KEAP1-mutant tumors."
     },
     {
       "pmid": "40923935",
@@ -113,8 +173,8 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1007/s10637-025-01583-y",
       "metric_name": "SJR",
       "metric_value": 1.074,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40963055/",
@@ -214,8 +274,8 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41586-025-09503-z",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40963028/",
@@ -264,6 +324,26 @@
       "abstract": "INTRODUCTION: From the 1960s and up until 2021, neoadjuvant chemotherapy has represented the standard of care for potentially resectable stage III (N2) Non-Small Cell Lung Cancer (NSCLC). However, in recent years, immunotherapy in the form of Immune Checkpoint Inhibitors (ICIs) has revolutionized oncology treatment strategies and several ICIs have been investigated for the neoadjuvant treatment of NSCLC, both in monotherapy and in combination with other ICIs or chemotherapy.\n\nAREAS COVERED: Therefore, this paper aims to review the currently available data supporting the role of immunotherapy in the neoadjuvant setting, as well as to discuss the challenges associated with it. We undertook a comprehensive literature search of PubMed, Embase, Cochrane Library, of abstracts and posters from annual meetings of American Society of Clinical Oncology (ASCO), European Society for Medical Oncology (ESMO), and American Association for Cancer Research (AACR) up until November 2024.\n\nEXPERT OPINION: We believe that in the near future ICI plus chemotherapy combinations will represent the new recommended standard of care in the neoadjuvant/perioperative setting. We look forward to the full results coming from the ongoing randomized phase III trials, that will help us guide our choice in terms of patient selection, regimen of choice, and response assessment."
     },
     {
+      "pmid": "40967135",
+      "doi": "10.1016/j.lungcan.2025.108755",
+      "title": "Prognostic implications of uncommon EGFR exon 19 deletion-insertion mutations in non-small cell lung cancer treated with third-generation EGFR-TKIs.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-09-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40967135/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108755",
+      "abstract": "PURPOSE: The sensitivity of various epidermal growth factor receptor (EGFR) mutations to different EGFR tyrosine kinase inhibitors (EGFR-TKI) varies significantly. This study evaluated the survival outcomes of patients with advanced non-small cell lung cancer (NSCLC) harboring EGFR exon 19 deletion-insertion (19delins) to third-generation EGFR-TKIs administered as first- or second-line therapy.\n\nMETHODS: We retrospectively analyzed clinical, molecular, and survival data from 215 patients detected with EGFR 19delins between March 2020 and July 2024. To evaluate progression-free survival, 57 patients with EGFR 19del who received first-line third-generation EGFR-TKIs (cohort A), and 48 patients who received the same treatment as second-line therapy (cohort B) were selected using 1:1 propensity score matching and served as control group.\n\nRESULTS: Thirty-nine unique EGFR 19delins genotypes were identified, with L747_P753delinsS (34.0 %), L747_A750delinsP (18.1 %), and E746_S752delinsV (9.8 %) being the top three variants. Patients with EGFR 19delins had significantly shorter median PFS compared with patients with common exon19del (first-line, 12.9 vs. 19.7 months, p = 0.0039; second-line, 7.9 vs. 10.5 months, p = 0.0387). Exploratory analyses indicated that L747_P753delinsS might be associated with poorer prognosis, while E746_S752delinsV appeared to show better outcomes with third-generation EGFR-TKIs, findings that require further validation.\n\nCONCLUSION: These findings show real-world evidence that patients with EGFR 19delins derive limited clinical benefit from third-generation EGFR-TKI therapy compared to those with common EGFR 19del mutations, suggesting the need for optimal treatment regimen in this patient population."
+    },
+    {
       "pmid": "40962011",
       "doi": "10.1016/j.ejphar.2025.178168",
       "title": "Prognostic implications of antitumour efficacy and adverse events of EGFR-TKIs in non-small cell lung cancer: an ambispective cohort study.",
@@ -302,67 +382,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40953708/",
       "url_doi": "https://doi.org/10.1016/j.radonc.2025.111144",
       "abstract": "PURPOSE: Interstitial lung disease (ILD) has been correlated with an increased risk for radiation pneumonitis (RP) following lung SBRT, but the degree to which locally advanced NSCLC (LA-NSCLC) patients are affected has yet to be quantified. An algorithm to identify patients at high risk for RP may help clinicians mitigate risk.\n\nMETHODS: All LA-NSCLC patients treated with definitive radiotherapy at our institution from 2006 to 2021 were retrospectively assessed. A convolutional neural network was previously developed to identify patients with radiographic ILD using planning computed tomography (CT) images. All screen-positive (AI-ILD + ) patients were reviewed by a thoracic radiologist to identify true radiographic ILD (r-ILD). The association between the algorithm output, clinical and dosimetric variables, and the outcomes of grade ≥ 3 RP and mortality were assessed using univariate (UVA) and multivariable (MVA) logistic regression, and Kaplan-Meier survival analysis.\n\nRESULTS: 698 patients were included in the analysis. Grade (G) 0-5 RP was reported in 51 %, 27 %, 17 %, 4.4 %, 0.14 % and 0.57 % of patients, respectively. Overall, 23 % of patients were classified as AI-ILD + . On MVA, only AI-ILD status (OR 2.15, p = 0.03) and AI-ILD score (OR 35.27, p < 0.01) were significant predictors of G3 + RP. Median OS was 3.6 years in AI-ILD- patients and 2.3 years in AI-ILD + patients (NS). Patients with r-ILD had significantly higher rates of severe toxicities, with G3 + RP 25 % and G5 RP 7 %. R-ILD was associated with an increased risk for G3 + RP on MVA (OR 5.42, p < 0.01).\n\nCONCLUSION: Our AI-ILD algorithm detects patients with significantly increased risk for G3 + RP."
-    },
-    {
-      "pmid": "40782807",
-      "doi": "10.1016/j.medj.2025.100803",
-      "title": "Current paradigm of EGFR(ins20) in non-small cell lung cancer: A long way forward.",
-      "journal": "Med (New York, N.Y.)",
-      "pubdate": "2025-09-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40782807/",
-      "url_doi": "https://doi.org/10.1016/j.medj.2025.100803",
-      "abstract": "EGFR"
-    },
-    {
-      "pmid": "40961811",
-      "doi": "10.1016/j.ejca.2025.115779",
-      "title": "Atezolizumab with carboplatin plus nab-paclitaxel combination therapy for TTF-1 negative advanced nonsquamous non-small cell lung cancer: A multicenter, single-arm phase 2 trial (F1NE TUNE, LOGiK 2102).",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2025-09-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40961811/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.115779",
-      "abstract": "BACKGROUND: Individuals with thyroid transcription factor-1 (TTF-1)-negative nonsquamous non-small cell lung cancer (NSCLC) have a poor prognosis. There have been no prospective studies targeting TTF-1-negative nonsquamous NSCLC.\n\nMETHODS: This multicenter, single-arm phase 2 study enrolled chemotherapy-naïve individuals with TTF-1-negative advanced nonsquamous NSCLC to receive four cycles of atezolizumab in combination with carboplatin plus nab-paclitaxel, followed by atezolizumab alone. The primary endpoint was progression-free survival (PFS).\n\nRESULTS: Between June 2022 and March 2024, 52 patients (41 male and 11 female) with a median age of 68.0 years were enrolled. Thirty-three patients had adenocarcinoma and 19 had nonadenocarcinoma. Nineteen, 30, and 3 patients were current, former, and never-smokers, respectively. The PD-L1 tumor proportion score was < 1 % in 22 cases, 1-49 % in 18 cases, ≥ 50 % in 11 cases, and unknown in 1 case. The median PFS was 4.9 months (80 % confidence interval [CI], 4.3-5.9 months). The lower limit of the 80 % CI did not exceed the prespecified threshold of 4.5 months; therefore, the study did not meet its primary endpoint. The median overall survival was 13.2 months (95 % CI, 10.3-27.2 months). The response rate was 56.9 % (95 % CI, 43.3-69.5 %). There were no new safety signals.\n\nCONCLUSIONS: This first prospective study of individuals with TTF-1-negative advanced nonsquamous NSCLC has provided evidence for the efficacy and safety of the combination of carboplatin plus nab-paclitaxel with atezolizumab in such patients. The prognosis of TTF-1-negative advanced nonsquamous NSCLC remains poor, however, warranting further treatment development."
-    },
-    {
-      "pmid": "40935839",
-      "doi": "10.1038/s41392-025-02382-w",
-      "title": "Coinhibition of the MEK/RTK pathway has high therapeutic efficacy in KRAS-mutant non-small cell lung cancer.",
-      "journal": "Signal transduction and targeted therapy",
-      "pubdate": "2025-09-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41392-025-02382-w.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40935839/",
-      "url_doi": "https://doi.org/10.1038/s41392-025-02382-w",
-      "abstract": "Oncogenic KRAS mutations are frequently detected in NSCLC. It remains a major challenge to target all KRAS mutants. MEK inhibitors are considered candidates for treating KRAS-mutant NSCLC; however, their easy adaptive resistance precludes further application. Here, we found that MEK inhibitor-trametinib treatment results in the feedback activation of multiple receptor tyrosine kinases (RTKs) and that treatment with the pan-RTK inhibitor anlotinib effectively inhibits the progression of KRAS-mutant NSCLC. Furthermore, we evaluated this strategy in a clinical study (NCT04967079) involving 33 advanced non-G12C KRAS-mutant NSCLC patients. The phase Ia containing 13 patients showed that the recommended phase 2 dose (RP2D) is trametinib (2 mg) plus anlotinib (8 mg), the objective response rate (ORR) is 69.2% (95% CI: 38.6-90.9), the median progression-free survival (PFS) is 6.9 months (95% CI: 3.9 to could not be evaluated), disease control rate (DCR) is 92% (95% CI: 64.0-99.8) and the rate of adverse events (AEs) ≥grade 3 is 23%. The phase Ib containing 20 patients demonstrated the high efficacy of this combinational therapy with RP2D, with the ORR at 65% (95% CI: 40.8-84.6), the median PFS is 11.5 months (95% CI: 8.3-15.5), the median overall survival (OS) is 15.5 months (95% CI: 15.5 to could not be evaluated), the DCR at 100% (95% CI: 83.2-100.0), the median duration of overall response (DoR) is 9.3 months (95% CI: 2.5-12.1), and the rate of AEs ≥ grade 3 at 35%. Overall, this study provides a potential combinational therapeutic strategy for KRAS-mutant NSCLC through the cotargeting of MEK and RTKs."
     }
   ]
 }
