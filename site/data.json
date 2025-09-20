@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-19T05:34:31.571236Z",
+  "generated": "2025-09-20T05:34:17.218147Z",
   "items": [
     {
       "pmid": "40965864",
@@ -263,6 +263,26 @@
       "abstract": "PURPOSE: We report phase I results for obrixtamig (BI 764532), a delta-like ligand 3 (DLL3)/CD3 IgG-like T-cell engager, in patients with previously treated DLL3-positive small cell lung cancer (SCLC), extrapulmonary neuroendocrine carcinomas (epNECs), or large cell neuroendocrine carcinoma of the lung (LCNEC-L).\n\nMETHODS: Patients received escalating intravenous obrixtamig doses using four regimens: a fixed dose once every 3 weeks (A); a fixed dose once weekly (B1); a step-up dose once weekly for two weeks and target dose once weekly (B2); and a step-up dose once weekly for 3 weeks, target dose once weekly for 3 weeks, and once every 3 weeks thereafter (B3). The primary objective was maximum tolerated dose (MTD). Secondary objectives included safety, pharmacokinetics, and tumor response (RECIST v1.1).\n\nRESULTS: As of February 21, 2024, 168 patients received obrixtamig, 72% received ≥2 lines of previous anticancer therapy, and 51% received previous anti-PD-1/PD-L1 therapy. Seven dose-limiting toxicities occurred during MTD evaluation (Regimen A, n = 1; Regimen B2, n = 6). MTD was not reached. The most common treatment-related adverse event was cytokine release syndrome (any grade: 57%; grade ≥3: 3%); most cases occurred early and were reversible. Across all doses, regimens, and tumor types, the overall response rate (ORR) was 23% (95% CI, 17.4% to 30.2%), the median duration of response (DoR) was 8.5 months (95% CI, 6.2 to not reached), and the 6-month DoR rate was 70% (95% CI, 53% to 88%). All patients in Regimens B2/B3 received the minimum effective dose (≥90 μg/kg once weekly or once every 3 weeks), achieving an ORR of 28% (95% CI, 20.7% to 35.9%). With Regimens B2/B3, ORRs were 21% (95% CI, 12.9% to 33.1%), 27% (95% CI, 17.4% to 39.6%), and 70% (95% CI, 39.7% to 89.2%) for SCLC, epNECs, and LCNEC-L, respectively.\n\nCONCLUSION: The demonstrated tolerability and efficacy of obrixtamig regimens, administered as step-up followed by target doses of 90-1,080 μg/kg (once weekly or once every 3 weeks), in patients with heavily pretreated DLL3-positive tumors support further exploration in SCLC, epNEC, and LCNEC-L."
     },
     {
+      "pmid": "40973832",
+      "doi": "10.1038/s41586-025-09638-z",
+      "title": "Publisher Correction: Functional synapses between neurons and small cell lung cancer.",
+      "journal": "Nature",
+      "pubdate": "2025-09-19T00:00:00+00:00",
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41586-025-09638-z",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40973832/",
+      "url_doi": "https://doi.org/10.1038/s41586-025-09638-z",
+      "abstract": null
+    },
+    {
       "pmid": "40963028",
       "doi": "10.1038/s41586-025-09503-z",
       "title": "Basal cell of origin resolves neuroendocrine-tuft lineage plasticity in cancer.",
@@ -364,24 +384,24 @@
       "abstract": "The objective of this study was to quantify the impact of longitudinal tumour dynamics, time-varying drug-related adverse events (DRAEs), and other clinical characteristics on long-term outcomes in patients with non-small cell lung cancer (NSCLC) treated with epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). An ambispective cohort of 277 patients was analysed and externally validated using independent clinical trial data from 470 patients in the Project Data Sphere. Individual tumour growth trajectories were characterised by predicted sum of the longest diameters (SLD) using tumour growth inhibition (TGI) modelling. Time-dependent Cox and parametric time-to-event models were then applied to evaluate the influence of predicted tumour growth trajectories, observed dynamic DRAE profiles, cross-sectional variables derived from these measures, and additional covariates on time-to-treatment failure (TTF) and progression-free survival (PFS). The TGI models effectively captured individual tumour dynamics. Across both Cox and parametric time-to-event models, prognostic factors consistently included DRAEs, baseline metastasis, EGFR-TKI treatment history, and the specific EGFR-TKI administered. Notably, grade 2 DRAEs were associated with an optimal balance between efficacy and safety, and this association remained robust in sensitivity analyses and was preliminarily validated using external data. These findings emphasise the clinical relevance of DRAE grades in indicating long-term clinical benefit. By linking manageable toxicity with durable therapeutic outcomes, the study provides valuable insights for developing safe and effective EGFR-TKI treatment strategies in patients with NSCLC."
     },
     {
-      "pmid": "40953708",
-      "doi": "10.1016/j.radonc.2025.111144",
-      "title": "Association of artificial intelligence-screened interstitial lung disease with radiation pneumonitis in locally advanced non-small cell lung cancer.",
-      "journal": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
-      "pubdate": "2025-09-13T00:00:00+00:00",
+      "pmid": "40972189",
+      "doi": "10.1016/j.lungcan.2025.108751",
+      "title": "Efficacy and safety of taxane versus gemcitabine for advanced stage lung squamous cell carcinoma in global EHR-based retrospective cohorts: A pairwise propensity score-matched comparison.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-09-14T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "NSCLC",
+      "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40953708/",
-      "url_doi": "https://doi.org/10.1016/j.radonc.2025.111144",
-      "abstract": "PURPOSE: Interstitial lung disease (ILD) has been correlated with an increased risk for radiation pneumonitis (RP) following lung SBRT, but the degree to which locally advanced NSCLC (LA-NSCLC) patients are affected has yet to be quantified. An algorithm to identify patients at high risk for RP may help clinicians mitigate risk.\n\nMETHODS: All LA-NSCLC patients treated with definitive radiotherapy at our institution from 2006 to 2021 were retrospectively assessed. A convolutional neural network was previously developed to identify patients with radiographic ILD using planning computed tomography (CT) images. All screen-positive (AI-ILD + ) patients were reviewed by a thoracic radiologist to identify true radiographic ILD (r-ILD). The association between the algorithm output, clinical and dosimetric variables, and the outcomes of grade ≥ 3 RP and mortality were assessed using univariate (UVA) and multivariable (MVA) logistic regression, and Kaplan-Meier survival analysis.\n\nRESULTS: 698 patients were included in the analysis. Grade (G) 0-5 RP was reported in 51 %, 27 %, 17 %, 4.4 %, 0.14 % and 0.57 % of patients, respectively. Overall, 23 % of patients were classified as AI-ILD + . On MVA, only AI-ILD status (OR 2.15, p = 0.03) and AI-ILD score (OR 35.27, p < 0.01) were significant predictors of G3 + RP. Median OS was 3.6 years in AI-ILD- patients and 2.3 years in AI-ILD + patients (NS). Patients with r-ILD had significantly higher rates of severe toxicities, with G3 + RP 25 % and G5 RP 7 %. R-ILD was associated with an increased risk for G3 + RP on MVA (OR 5.42, p < 0.01).\n\nCONCLUSION: Our AI-ILD algorithm detects patients with significantly increased risk for G3 + RP."
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40972189/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108751",
+      "abstract": "BACKGROUND: Lung squamous cell carcinoma represents a significant global health challenge, with platinum-based chemotherapy regimens remaining a cornerstone of treatment. While both Taxanes and Gemcitabine are recommended as category 1 treatment options by the National Comprehensive Cancer Network (NCCN), their comparative effectiveness in real-world settings requires further investigation.\n\nMETHODS: This retrospective cohort study utilized the TriNetX global collaborative network to analyze data between January 1, 1990, and October 31, 2024. Adults with stage IV lung squamous cell carcinoma were identified using ICD-10 code C34 and the TriNetX oncology disease classification system. Patients were categorized into Taxane and Gemcitabine groups. Propensity score matching was employed to minimize selection bias. Primary and secondary outcomes included overall survival, progression-free survival, and adverse events.\n\nRESULTS: A total of 992 patients were included, with 203 patients in each group after propensity score matching. The Taxane group demonstrated significantly improved overall survival compared to the Gemcitabine group (HR: 0.638, 95 % CI: 0.497-0.0821, p = 0.0004). Progression-free survival also showed statistically significant benefit over the Taxane group (HR: 0.686, 95 % CI: 0.532-0.885, p = 0.0035). Pairwise analysis revealed that Paclitaxel demonstrated superiority compared to both Docetaxel and Gemcitabine. The incidence of adverse events was comparable between groups.\n\nCONCLUSIONS: Our findings demonstrate that Taxane, particularly Paclitaxel, offers superiority compared to Gemcitabine in patients with advanced lung squamous cell carcinoma, with comparable safety profile. These results support the prioritization of Taxane-based regimens in clinical practice. Future research should focus on combination strategies with immunotherapy to enhance treatment outcomes."
     }
   ]
 }
