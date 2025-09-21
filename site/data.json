@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-20T05:34:17.218147Z",
+  "generated": "2025-09-21T05:34:49.544767Z",
   "items": [
     {
       "pmid": "40965864",
@@ -93,13 +93,33 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/cancerres/article-pdf/doi/10.1158/0008-5472.CAN-24-4887/3651982/can-24-4887.pdf",
       "metric_name": "SJR",
       "metric_value": 3.879,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40966319/",
       "url_doi": "https://doi.org/10.1158/0008-5472.CAN-24-4887",
       "abstract": "Kelch-like ECH associated protein 1 (KEAP1) is the third most commonly mutated gene in non-small cell lung cancer (NSCLC) and is associated with poor prognosis. Here, we investigated synthetic lethal interaction genes in KEAP1-mutated cancer cells and identified a dependency on UDP xylose synthase 1 (UXS1), which converts UDP-glucuronic acid (UDP-GlcA) to UDP-xylose in the proteoglycan synthetic pathway. UDP glucose dehydrogenase (UGDH), a transcriptional target of NRF2 that converts UDP-glucose to UDP-GlcA, was highly expressed in KEAP1-mutant tumors. Upon UXS1 knockdown, depletion of UDP-xylose occurred in both KEAP1-mutant and wildtype (WT) cells, whereas UDP-GlcA accumulated to a greater extent in the KEAP1-mutant setting. The resulting shortage of available UDP and other pyrimidines slowed S-phase progression and stalled DNA replication fork marks, causing cells to undergo prolonged cell-cycle exit or apoptosis. Dependency on UXS1 was rescued by knocking out UGDH to prevent UDP-GlcA accumulation and UDP depletion. DNA replication stress in UXS1-depleted cells sensitized them to clinical cell-cycle checkpoint inhibitors. Further, CRISPR screening experiments identified genes that modulate UXS1 dependency. While liver had the highest normal tissue expression of UGDH, UXS1 knockout in the liver did not result in hepatotoxicity. Taken together, these data demonstrate that UXS1 is a selective dependency in KEAP1-mutant tumors and loss of UXS1 creates additional therapeutically exploitable vulnerabilities in KEAP1-mutant tumors."
+    },
+    {
+      "pmid": "40670667",
+      "doi": "10.1038/s41416-025-03088-0",
+      "title": "Single-cell spatial analysis with Xenium reveals anti-tumour responses of CXCL13 + T and CXCL9+ cells after radiotherapy combined with anti-PD-L1 therapy.",
+      "journal": "British journal of cancer",
+      "pubdate": "2025-10-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41416-025-03088-0.pdf",
+      "metric_name": "SJR",
+      "metric_value": 3.144,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40670667/",
+      "url_doi": "https://doi.org/10.1038/s41416-025-03088-0",
+      "abstract": "BACKGROUND: The standard treatment for unresectable non-small cell lung cancer (NSCLC) is anti-PD-L1 therapy combined with chemoradiotherapy (anti-PD-L1-CRT). Although some patients achieve complete cancer eradication and cure, more than half of patients retain persistent cancer cells. Our research aimed to unravel the nuanced mechanisms involved in both immune attack and evasion induced by anti-PD-L1-CRT with single cell spatial transcriptome.\n\nMETHODS: Xenium is a cutting-edge single-cell spatial analysis tool that enables pathology-based and single-cell analyses while preserving spatial information. In our study, we used Xenium to identify the tumour microenvironment (TME), immune dynamics, and residual cancer cells at the single-cell level following treatment with anti-PD-L1-CRT.\n\nRESULTS: Posttreatment alterations included a significant increase in CXCL9+ cells and CXCL13 + T cells, particularly around tumour cells. Additionally, we discovered that CXCL13 + T cells directly impact cancer cells in the posttreatment environment. Moreover, we identified clusters of immune-cold cancer cells posttreatment, revealing their activation of DNA repair pathways and high proliferative capacity. The novel spatial analysis tool Xenium enabled identification of the immune environment at the single-cell level following treatment with anti-PD-L1-CRT, elucidating its characteristics.\n\nCONCLUSIONS: These findings suggest potential advancements in developing new treatments to improve posttreatment immune responses and address resistance challenges."
     },
     {
       "pmid": "40923935",
@@ -122,6 +142,26 @@
       "abstract": "BACKGROUND: Trials of neoadjuvant chemoimmunotherapy (chemoIO) have changed the standard of care for resectable nonsmall cell lung cancer (NSCLC). This study characterizes the outcomes of off-trial patients who received treatment with neoadjuvant chemoIO.\n\nMETHODS: The authors analyzed records of patients with stage IB-III NSCLC who received neoadjuvant chemoIO with an intent to proceed to surgical resection at three US academic institutions. Clinical, demographic, and pathologic factors were incorporated in univariable and multivariable regression models to identify associations with outcomes (resection status, pathologic complete response [pCR], and subsequent event-free survival [EFS]) after standard-of-care neoadjuvant chemoIO.\n\nRESULTS: Analyses included 115 patients, of whom 63% had stage III disease, 77% completed three cycles of chemoIO, and 78% underwent surgical resection. Ages older than 72 years versus 64 years and younger were associated with not proceeding to surgery in univariable (p = .006) and multivariable (p = .014) regression analyses. Nineteen patients (17%) had tumors with a pCR, and 34 (30%) had a major pathologic response. Positive programmed death-ligand 1 (PD-L1) expression (≥50%; vs. negative PD-L1 expression: odds ratio, 12.1; 95% confidence interval, 2.0-73.7; p = .007) and KRAS mutations (vs. wild-type KRAS: odds ratio, 3.9; 95% confidence interval, 1.07-14.4; p = .039) were associated with a higher probability of pCR in univariable analysis. The median event-free survival was not reached and did not differ among subgroups stratified by key clinical variables.\n\nCONCLUSIONS: The results from this study confirm the trial experience of high pCR rates after neoadjuvant chemoIO. This supports the use of chemoIO irrespective of KRAS mutation status, PD-L1 expression, and histology, but suggests that this approach may be less suitable for older patients."
     },
     {
+      "pmid": "40975161",
+      "doi": "10.1016/j.canlet.2025.218046",
+      "title": "Hinokitiol preferentially suppresses metastatic lung adenocarcinoma via TMDD1-mediated ferroptosis induction and iron-sulfur cluster inhibition.",
+      "journal": "Cancer letters",
+      "pubdate": "2025-09-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 2.756,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40975161/",
+      "url_doi": "https://doi.org/10.1016/j.canlet.2025.218046",
+      "abstract": "Dysregulated ISC metabolism has been implicated in cancer progression, but its role in LUAD pathogenesis and therapeutic targeting remains poorly understood. Here, we demonstrate that ISC biogenesis is significantly upregulated in LUAD, driven by transcription factors KLF15 and ZNF384, which activate GLRX5, LYRM4, NFS1 and BOLA3 promoters. IL-1β promotes PCAF mitochondrial translocation, releasing EP300 to amplify KLF15/ZNF384-mediated transcriptional activation. The natural monoterpenoid Hinokitiol inhibits LUAD growth by disrupting EP300-KLF15/ZNF384 interactions, suppressing ISC biogenesis gene expression and inducing ferroptosis. Mechanistically, the membrane protein TMDD1, particularly its cytoplasmic domain, promotes Hinokitiol's anti-tumor effects by facilitating EP300-KLF15/ZNF384 dissociation and inhibiting ISC biogenesis. Remarkably, Hinokitiol exhibits stage-dependent efficacy, with superior suppression of metastatic (stage IV) tumors linked to heightened ferroptosis sensitivity. This study not only elucidates the transcriptional machinery governing ISC biogenesis in LUAD but also highlights Hinokitiol's dual mechanism as a promising stage-specific therapeutic agent, offering novel strategies for advanced disease management."
+    },
+    {
       "pmid": "40189749",
       "doi": "10.1080/2162402X.2025.2484880",
       "title": "Surrogate markers of intestinal dysfunction associated with survival in advanced cancers.",
@@ -142,24 +182,47 @@
       "abstract": "Deviations in the diversity and composition of the gut microbiota are called \"gut dysbiosis\". They have been linked to various chronic diseases including cancers and resistance to immunotherapy. Stool shotgun based-metagenomics informs on the ecological composition of the gut microbiota and the prevalence of homeostatic bacteria such as"
     },
     {
-      "pmid": "40946254",
-      "doi": "10.1007/s40487-025-00378-8",
-      "title": "First-Line Tislelizumab Plus Chemotherapy in Advanced Non-Squamous Non-Small Cell Lung Cancer: PD-L1 ≥ 50% Subgroup Analysis from the RATIONALE-304 Trial.",
-      "journal": "Oncology and therapy",
-      "pubdate": "2025-09-14T00:00:00+00:00",
+      "pmid": "40541589",
+      "doi": "10.1016/j.critrevonc.2025.104812",
+      "title": "The effects of race on anti-PD-(L)1 monoclonal antibodies in non-small cell lung cancer: A systematic literature review and meta-analysis.",
+      "journal": "Critical reviews in oncology/hematology",
+      "pubdate": "2025-10-01T00:00:00+00:00",
       "pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
       ],
       "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.critrevonc.2025.104812",
+      "metric_name": "SJR",
+      "metric_value": 1.82,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40541589/",
+      "url_doi": "https://doi.org/10.1016/j.critrevonc.2025.104812",
+      "abstract": "INTRODUCTION: Non-small cell lung cancer (NSCLC) represents approximately 85 % of lung cancers, with five-year survival only 4.5 % for metastatic disease. Programmed death (ligand)-1 (PD-[L]1) inhibitors have advanced NSCLC treatment, but patient demographics can potentially affect clinical outcomes. This systematic literature review and meta-analysis were undertaken to determine if the benefits of anti-PD-(L)1 therapies in NSCLC are independent of race (bio-geographic background).\n\nMETHODS: PubMed, Embase, Cochrane Library and World Health Organization Global Index Medicus were systematically searched (inception-to-Aug-2024). Primary analysis focused on studies with subgroup analysis (White vs Asian, White vs Non-White, Asian vs Non-Asian) of anti-PD-(L)1 efficacy in both resectable/localized and unresectable/advanced NSCLC. Subgroup analysis included stratification by PD-L1 expression, treatment line, and treatment regimen. Bayesian inferential meta-analysis was performed for outcomes with ≥ 1 study.\n\nRESULTS: From 4406 records, 22 randomized controlled trials, 3 pooled analyses, and 2 pharmacokinetic studies were included. In unresectable/advanced NSCLC, anti-PD-(L)1 therapy significantly improved overall survival and progression-free survival (PFS) for White (hazard ratio [HR] 0.80; 95 % credible interval [95 % CrI] 0.74-0.87, p < 0.001 and HR 0.68; 95 % CrI 0.61-0.77, p < 0.001, respectively) and Asian (HR 0.81; 95 % CrI 0.69-0.96, p = 0.027 and HR 0.63; 95 % CrI 0.50-0.80, p = 0.002) patients. The significant improvements in PFS were maintained for both groups within all sub-analyses. Limited data prohibited conduction of meta-analysis for resectable/localized NSCLC.\n\nCONCLUSIONS: The benefits of anti-PD-(L)1 therapy in unresectable/advanced NSCLC appear similar for White and Asian patients. Increased quality and quantity of data is required to draw definitive conclusions for resectable/localized NSCLC and with respect to treatment line/regimen and PD-L1 expression."
+    },
+    {
+      "pmid": "40581545",
+      "doi": "10.1016/j.critrevonc.2025.104821",
+      "title": "Resistance mechanisms in anaplastic lymphoma kinase-positive lung cancer.",
+      "journal": "Critical reviews in oncology/hematology",
+      "pubdate": "2025-10-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 1.33,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40946254/",
-      "url_doi": "https://doi.org/10.1007/s40487-025-00378-8",
-      "abstract": "INTRODUCTION: RATIONALE-304 compared first-line tislelizumab (a programmed cell death protein 1 inhibitor) plus chemotherapy versus chemotherapy in advanced non-squamous non-small cell lung cancer (nsq-NSCLC). This exploratory analysis focused on patients with tumor cell programmed death ligand 1 (PD-L1) expression ≥ 50%.\n\nMETHODS: Patients with stage IIIB/IV nsq-NSCLC were randomized (2:1) to tislelizumab plus platinum-based chemotherapy and pemetrexed every 3 weeks, followed by maintenance tislelizumab and pemetrexed, or platinum-based chemotherapy and pemetrexed followed by maintenance pemetrexed. The primary endpoint was independent review committee (IRC)-assessed progression-free survival (PFS); secondary endpoints included overall survival (OS), IRC-assessed objective response rates, and safety.\n\nRESULTS: The PD-L1 ≥ 50% population included 110 patients (tislelizumab plus chemotherapy, n = 74; chemotherapy, n = 36); 71.8% (n = 79) were male and 28.2% (n = 31) were female. Consistent with the final analysis (median follow-up 16.5 months), the 4-year follow-up data (median follow-up 23.4 months) continued to show an improvement in median PFS (17.2 vs. 4.6 months; stratified HR 0.29, 95% CI 0.17-0.50) and median OS (41.9 vs. 13.1 months; stratified HR 0.38, 95% CI 0.23-0.62) for patients who received tislelizumab plus chemotherapy versus chemotherapy. An additional post hoc analysis showed no significant differences in PFS or OS between PD-L1 50-89% and ≥ 90% subgroups in the tislelizumab plus chemotherapy arm. The safety profile of tislelizumab plus chemotherapy was manageable and consistent with previous analyses.\n\nCONCLUSIONS: In patients with advanced nsq-NSCLC and PD-L1 tumor cell expression ≥ 50%, first-line tislelizumab plus chemotherapy demonstrated clinically meaningful improvement in PFS and OS versus chemotherapy. Efficacy was consistent across subgroups of patients with high PD-L1 tumor cell expression levels (50-89% and ≥ 90%).\n\nTRIAL REGISTRATION: Clinical Trials.gov NCT03663205."
+      "metric_value": 1.82,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40581545/",
+      "url_doi": "https://doi.org/10.1016/j.critrevonc.2025.104821",
+      "abstract": "Non-small cell lung cancer has been discovered to have many unique molecular subsets that are associated with different phenotypic behaviors and overall prognoses. In particular, anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancers (NSCLCs) have distinctive presentations and disease courses. Patients with ALK NSCLC are typically younger, have significantly less smoking exposure, and often experience prolonged survival. When patients recur, drug-tolerant persister (DTP) cells may be implicated in disease recurrence. In this review we will discuss the phenomenon of DTP related to ALK NSCLC, possible mechanistic explanations and potential treatment strategies to eliminate DTPs."
     },
     {
       "pmid": "40963055",
@@ -174,7 +237,7 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1007/s10637-025-01583-y",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s10637-025-01583-y.pdf",
       "metric_name": "SJR",
       "metric_value": 1.074,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40963055/",
@@ -220,6 +283,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
       "url_doi": "https://doi.org/10.1080/17581966.2025.2477411",
       "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
+    },
+    {
+      "pmid": "40945529",
+      "doi": "10.1016/S0140-6736(25)01388-1",
+      "title": "Benchmarking progress in non-communicable diseases: a global analysis of cause-specific mortality from 2001 to 2019.",
+      "journal": "Lancet (London, England)",
+      "pubdate": "2025-09-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/s0140-6736(25)01388-1",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40945529/",
+      "url_doi": "https://doi.org/10.1016/S0140-6736(25)01388-1",
+      "abstract": "BACKGROUND: Non-communicable diseases (NCDs) have received substantial policy attention globally and in most countries. Our aim was to quantify how much NCD mortality changed from 2010 to 2019 in different countries, especially compared with the preceding decade and with the best-performing country in each region, and the specific NCD causes of death that contributed to change.\n\nMETHODS: We used data on NCD mortality by sex, age group, and underlying cause of death for 185 countries and territories from the 2021 WHO Global Health Estimates. Our primary outcome was the probability of dying from an NCD between birth and age 80 years in the absence of competing causes of death, and was calculated using age-specific death rates from NCDs and lifetable methods. We calculated change in the probability of death as the difference between values in the final and first year of each period (2001-10 and 2010-19). For 51 countries with high-quality mortality data and 12 countries with large populations within their region, we used the Horiuchi method of decomposition to calculate how much specific causes of death and 5-year age groups contributed towards: (1) increases or decreases in NCD mortality from 2010 to 2019; (2) improvements or deteriorations compared with the preceding decade (2001-10); and (3) differences from the country that had the largest reduction in each region.\n\nFINDINGS: From 2010 to 2019, the probability of dying from an NCD between birth and age 80 years decreased in 152 (82%) of 185 countries for females and in 147 (79%) countries for males; it increased in the remaining 33 (18%) countries for females and 38 (21%) countries for males. The countries where NCD mortality declined for females accounted for 72% of the world female population in 2019, and those where NCD mortality declined for males accounted for 73% of the world male population. NCD mortality declined in all high-income western countries, with Denmark experiencing the largest decline for both sexes and the USA experiencing the smallest decline. Among the largest countries in other regions, NCD mortality declined for both sexes in China, Egypt, Nigeria, Russia, and Brazil, and increased for both sexes in India and Papua New Guinea. On average, females in countries in the central Asia, Middle East and north Africa region had the greatest reduction in NCD mortality followed by those in central and eastern Europe. For males, the largest reduction was among countries in central and eastern Europe, followed by those in central Asia, Middle East and north Africa. The smallest declines were those in the Pacific Island nations. Circulatory diseases were the greatest contributors to declines in NCD mortality from 2010 to 2019 in most countries, with some cancers (eg, stomach and colorectal cancers for both sexes, cervical and breast cancers for females, and lung and prostate cancers for males) also contributing towards lower NCD mortality in 2019 than in 2010 in many countries. Neuropsychiatric conditions and pancreatic and liver cancers contributed towards higher NCD mortality from 2010 to 2019 in most countries. In some countries, NCD mortality in working and older (≥65 years) ages changed in the same direction leading to large overall declines or increases; in others, it changed in opposite directions, diminishing the magnitude of the overall change. In 75 (41%) of 185 countries for females and in 73 (39%) countries for males, the change in NCD mortality from 2010 to 2019 was an improvement (ie, larger decline, smaller increase, or reversal of an increase) compared with the change from 2001 to 2010. These countries accounted for 29% and 63% of the world female and male population, respectively, and included both sexes in Russia and Egypt, and males in China, India, and Brazil. Decadal changes saw a deterioration (ie, smaller decline, larger increase, or reversal of a decline) in the remaining 110 (59%) countries for females and 112 (61%) countries for males, including in both sexes in the USA, Nigeria, and Papua New Guinea, and females in China, India, and Brazil. Change from 2010 to 2019 saw deterioration in direction or size compared with the preceding decade for both sexes in most high-income western countries, most countries in Latin America and the Caribbean, and in east and southeast Asia, and for females in south Asia. There was a decadal improvement in the direction or size of change for many countries in central and eastern Europe (eg, Russia) and central Asia, and in parts of the Middle East and north Africa. Improvements or deteriorations in the direction or size of change in NCD mortality between the two decades resulted from multiple NCD causes of death. Among causes of death, the decline in mortality from circulatory diseases was smaller from 2010 to 2019 than from 2001 to 2010 in most countries, except in countries in central and eastern Europe and some countries in central Asia, where these declines were larger from 2010 to 2019 than from 2001 to 2010. Change in lung cancer saw a decadal improvement in many countries, especially for males, and many other cancers saw a mix of improvement and deterioration.\n\nINTERPRETATION: From 2010 to 2019, NCD mortality declined in four of every five countries in the world. These improvements were not as large as the preceding decade for most countries, driven by smaller declines in mortality from multiple NCDs.\n\nFUNDING: UK Medical Research Council, UK National Institute for Health and Care Research, and NCD Alliance."
     },
     {
       "pmid": "40795195",
@@ -275,7 +358,7 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41586-025-09638-z",
+      "oa_url": "https://www.nature.com/articles/s41586-025-09638-z.pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40973832/",
@@ -295,12 +378,32 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41586-025-09503-z",
+      "oa_url": "https://www.nature.com/articles/s41586-025-09503-z.pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40963028/",
       "url_doi": "https://doi.org/10.1038/s41586-025-09503-z",
       "abstract": "Neuroendocrine and tuft cells are rare chemosensory epithelial lineages defined by the expression of ASCL1 and POU2F3 transcription factors, respectively. Neuroendocrine cancers, including small cell lung cancer (SCLC), frequently display tuft-like subsets, a feature linked to poor patient outcomes"
+    },
+    {
+      "pmid": "40974872",
+      "doi": "10.1016/j.lungcan.2025.108756",
+      "title": "Biological impact of chemotherapy during treatment with EGFR tyrosine kinase inhibitors for non-small cell lung cancer positive for EGFR activating mutations.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-09-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108756",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40974872/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108756",
+      "abstract": "BACKGROUND: The aim of this study was to explore the biological impact of chemotherapy during epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) treatment in individuals with non-small cell lung cancer (NSCLC).\n\nMETHODS: Plasma and tumor tissue specimens were prospectively collected from NSCLC patients with EGFR activating mutations who participated in a randomized phase III study comparing EGFR-TKI therapy with or without inserted chemotherapy (JCOG1404/WJOG8214L). The specimens were analyzed for genetic mutations by droplet digital polymerase chain reaction analysis and next-generation sequencing.\n\nRESULTS: Two hundred patients were enrolled in this biomarker study, with 113 and 87 individuals receiving EGFR-TKI monotherapy and EGFR-TKI treatment plus inserted chemotherapy, respectively. Although progression-free survival (PFS) for EGFR-TKI monotherapy was shorter in patients with than in those without detectable EGFR activating mutations in cell-free DNA at baseline, inserted chemotherapy improved PFS compared with EGFR-TKI monotherapy for the former patients (median, 17.5 vs. 11.8 months). Inserted chemotherapy suppressed the number of alleles positive for activating and T790M mutations of EGFR in cell-free DNA at disease progression. The benefit of inserted chemotherapy relative to EGFR-TKI monotherapy was more apparent in patients with (median PFS, 18.8 vs. 13.5 months) than in those without detectable concurrent mutations of TP53.\n\nCONCLUSIONS: Chemotherapy has the potential to suppress the development of EGFR-TKI resistance as well as to inhibit tumor growth for NSCLC positive for EGFR activating mutations. Our results provide biological insight into combination treatment with EGFR-TKIs and chemotherapy for such patients."
     },
     {
       "pmid": "40957950",
@@ -382,26 +485,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40962011/",
       "url_doi": "https://doi.org/10.1016/j.ejphar.2025.178168",
       "abstract": "The objective of this study was to quantify the impact of longitudinal tumour dynamics, time-varying drug-related adverse events (DRAEs), and other clinical characteristics on long-term outcomes in patients with non-small cell lung cancer (NSCLC) treated with epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). An ambispective cohort of 277 patients was analysed and externally validated using independent clinical trial data from 470 patients in the Project Data Sphere. Individual tumour growth trajectories were characterised by predicted sum of the longest diameters (SLD) using tumour growth inhibition (TGI) modelling. Time-dependent Cox and parametric time-to-event models were then applied to evaluate the influence of predicted tumour growth trajectories, observed dynamic DRAE profiles, cross-sectional variables derived from these measures, and additional covariates on time-to-treatment failure (TTF) and progression-free survival (PFS). The TGI models effectively captured individual tumour dynamics. Across both Cox and parametric time-to-event models, prognostic factors consistently included DRAEs, baseline metastasis, EGFR-TKI treatment history, and the specific EGFR-TKI administered. Notably, grade 2 DRAEs were associated with an optimal balance between efficacy and safety, and this association remained robust in sensitivity analyses and was preliminarily validated using external data. These findings emphasise the clinical relevance of DRAE grades in indicating long-term clinical benefit. By linking manageable toxicity with durable therapeutic outcomes, the study provides valuable insights for developing safe and effective EGFR-TKI treatment strategies in patients with NSCLC."
-    },
-    {
-      "pmid": "40972189",
-      "doi": "10.1016/j.lungcan.2025.108751",
-      "title": "Efficacy and safety of taxane versus gemcitabine for advanced stage lung squamous cell carcinoma in global EHR-based retrospective cohorts: A pairwise propensity score-matched comparison.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-09-14T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40972189/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108751",
-      "abstract": "BACKGROUND: Lung squamous cell carcinoma represents a significant global health challenge, with platinum-based chemotherapy regimens remaining a cornerstone of treatment. While both Taxanes and Gemcitabine are recommended as category 1 treatment options by the National Comprehensive Cancer Network (NCCN), their comparative effectiveness in real-world settings requires further investigation.\n\nMETHODS: This retrospective cohort study utilized the TriNetX global collaborative network to analyze data between January 1, 1990, and October 31, 2024. Adults with stage IV lung squamous cell carcinoma were identified using ICD-10 code C34 and the TriNetX oncology disease classification system. Patients were categorized into Taxane and Gemcitabine groups. Propensity score matching was employed to minimize selection bias. Primary and secondary outcomes included overall survival, progression-free survival, and adverse events.\n\nRESULTS: A total of 992 patients were included, with 203 patients in each group after propensity score matching. The Taxane group demonstrated significantly improved overall survival compared to the Gemcitabine group (HR: 0.638, 95 % CI: 0.497-0.0821, p = 0.0004). Progression-free survival also showed statistically significant benefit over the Taxane group (HR: 0.686, 95 % CI: 0.532-0.885, p = 0.0035). Pairwise analysis revealed that Paclitaxel demonstrated superiority compared to both Docetaxel and Gemcitabine. The incidence of adverse events was comparable between groups.\n\nCONCLUSIONS: Our findings demonstrate that Taxane, particularly Paclitaxel, offers superiority compared to Gemcitabine in patients with advanced lung squamous cell carcinoma, with comparable safety profile. These results support the prioritization of Taxane-based regimens in clinical practice. Future research should focus on combination strategies with immunotherapy to enhance treatment outcomes."
     }
   ]
 }
