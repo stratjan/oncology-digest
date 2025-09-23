@@ -1,39 +1,35 @@
 [
   {
     "id": "tb-0001",
-    "title": "Erstdiagnose NSCLC – Arztbrief-Einleitung",
+    "title": "Onkologische Diagnose – Übersicht",
     "author": "J. Stratmann",
     "entity": "NSCLC",
     "timepoint": "Diagnosestellung",
     "protocol": "—",
-    "created": "2025-09-01T08:30:00Z",
-    "updated": "2025-09-10T07:20:00Z",
-    "tags": ["Erstdiagnose","Brief"],
-    "body": "Bei der o.g. Patientin zeigte sich in der weiterführenden Bildgebung ein suspekter pulmonaler Rundherd rechts oberlappenbetont..."
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Diagnose",
+      "Anamnese",
+      "Checkliste"
+    ],
+    "body": "Onkologische Diagnose\nNSCLC               (ED <||>)\nHistologie                <||>\nHistologie aus            <||>\nTNM                       <||> (METs)\nUICC                      <||>\nLok Primarius             <||>\nPDL1 Status               <||>% TPS / <||>% IC\nMolekularpathologie       <||> (nur positive Nachweise, angefordert am:) (Entnahmestelle) (nNGM Panel 2.0)\nRauchstatus               <||>py\nECOG                      <||>\nLungenfunktion (Datum): FEV1: , DCO:\n\nProzedere:\n<||>\n\nRauchentwöhnung:\nangeboten                 <||>\nwahrgenommen              <||>\n\nAntiresorptive Therapie:         <||>\nDistress Syndrom Screening:      <||>\nPalliativfragebogen:             <||>\nPatientenverfügung:              <||>\nPrimäre prophylaktische Antikoagulation: <||>\n\nVorerkrankungen:"
   },
   {
     "id": "tb-0002",
-    "title": "Immunchemotherapie – Aufklärung Kernaussagen",
-    "author": "Team Studien",
+    "title": "Nachsorgeempfehlung nach Therapieabschluss",
+    "author": "J. Stratmann",
     "entity": "NSCLC",
-    "timepoint": "Therapie",
-    "protocol": "Pembrolizumab + Carboplatin + Pemetrexed",
-    "created": "2025-08-21T09:00:00Z",
-    "updated": "2025-09-05T17:45:00Z",
-    "tags": ["Aufklärung","Chemo-IO"],
-    "body": "Die geplante Behandlung kombiniert eine platinbasierte Chemotherapie mit einer PD-1-Inhibition. Ziel ist eine Verlängerung des progressionsfreien und des Gesamtüberlebens..."
-  },
-  {
-    "id": "tb-0003",
-    "title": "Nachsorge-Baustein (3 Monate post Therapieende)",
-    "author": "H. Wilkens",
-    "entity": "SCLC",
     "timepoint": "Nachsorge",
     "protocol": "—",
-    "created": "2025-07-10T10:12:00Z",
-    "updated": "2025-07-10T10:12:00Z",
-    "tags": ["Nachsorge"],
-    "body": "Die Patientin stellt sich drei Monate nach Abschluss der Therapie zur klinischen und bildgebenden Verlaufskontrolle vor..."
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Nachsorge",
+      "Therapieabschluss",
+      "Leitlinie",
+      "Impfungen"
+    ],
+    "body": "Nach Therapieabschluss empfehlen wir die strukturierte Nachsorge zur frühen Identifizierung von Rezidiven, Zweitkarzinomen, Komplikationen und Toxizitäten der Therapie. Zusätzlich kann der Bedarf an Psychoonkologie und Sozialberatung evaluiert werden.\n\nNach abgeschlossener multimodaler Therapie (inklusive OP oder CTx/RTx) sollten die Patienten in den ersten 2 Jahren vierteljährlich (alle 3 Monate), ab dem 3. Jahr halbjährlich untersucht und nach 5 Jahren in ein Screeningprogramm eingeschlossen werden. Diese Intervalle beginnen mit der Erstvorstellung innerhalb von 8 Wochen nach Abschluss der Therapie.\n\nDarüber hinaus empfehlen wir eine Anschlussheilbehandlung.\n\nImpfungen zur Infektionsprophyklaxe nach/unter Behandlung solider Tumore analog der Onkopedia Leitlinie (Aug 2019) und ASCO Leitlinie (2024) umfassen, sofern nicht bereits durchgeführt, Influenza, Covid19 (sofern in den letzten 12 Monaten keine Infektion vorlag), Diphterie, Tetanus, Pertussis, Pneumokokken, RSV und gegebenenfalls Herpes Zoster (starke Empfehlung).\n\nDie Empfehlungen orientieren sich an der aktuellen S3 Leitlinie Lungenkarzinom (Dez 2023), sowie an der Onkopedia Leitlinie zu Impfungen bei Tumorpatienten (Aug 2019).\n\nBei Rückfragen stehen wir gerne zur Verfügung."
   }
 ]
-
