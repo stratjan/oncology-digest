@@ -1,1 +1,39 @@
+[
+  {
+    "id": "tb-0001",
+    "title": "Erstdiagnose NSCLC – Arztbrief-Einleitung",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Diagnosestellung",
+    "protocol": "—",
+    "created": "2025-09-01T08:30:00Z",
+    "updated": "2025-09-10T07:20:00Z",
+    "tags": ["Erstdiagnose","Brief"],
+    "body": "Bei der o.g. Patientin zeigte sich in der weiterführenden Bildgebung ein suspekter pulmonaler Rundherd rechts oberlappenbetont..."
+  },
+  {
+    "id": "tb-0002",
+    "title": "Immunchemotherapie – Aufklärung Kernaussagen",
+    "author": "Team Studien",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Pembrolizumab + Carboplatin + Pemetrexed",
+    "created": "2025-08-21T09:00:00Z",
+    "updated": "2025-09-05T17:45:00Z",
+    "tags": ["Aufklärung","Chemo-IO"],
+    "body": "Die geplante Behandlung kombiniert eine platinbasierte Chemotherapie mit einer PD-1-Inhibition. Ziel ist eine Verlängerung des progressionsfreien und des Gesamtüberlebens..."
+  },
+  {
+    "id": "tb-0003",
+    "title": "Nachsorge-Baustein (3 Monate post Therapieende)",
+    "author": "H. Wilkens",
+    "entity": "SCLC",
+    "timepoint": "Nachsorge",
+    "protocol": "—",
+    "created": "2025-07-10T10:12:00Z",
+    "updated": "2025-07-10T10:12:00Z",
+    "tags": ["Nachsorge"],
+    "body": "Die Patientin stellt sich drei Monate nach Abschluss der Therapie zur klinischen und bildgebenden Verlaufskontrolle vor..."
+  }
+]
 
