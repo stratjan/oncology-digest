@@ -13,7 +13,7 @@
       "Anamnese",
       "Checkliste"
     ],
-    "body": "Onkologische Diagnose\nNSCLC               (ED <||>)\nHistologie                <||>\nHistologie aus            <||>\nTNM                       <||> (METs)\nUICC                      <||>\nLok Primarius             <||>\nPDL1 Status               <||>% TPS / <||>% IC\nMolekularpathologie       <||> (nur positive Nachweise, angefordert am:) (Entnahmestelle) (nNGM Panel 2.0)\nRauchstatus               <||>py\nECOG                      <||>\nLungenfunktion (Datum): FEV1: , DCO:\n\nProzedere:\n<||>\n\nRauchentwöhnung:\nangeboten                 <||>\nwahrgenommen              <||>\n\nAntiresorptive Therapie:         <||>\nDistress Syndrom Screening:      <||>\nPalliativfragebogen:             <||>\nPatientenverfügung:              <||>\nPrimäre prophylaktische Antikoagulation: <||>\n\nVorerkrankungen:"
+    "body": "Onkologische Diagnose\nNSCLC               (ED <||>)\nHistologie                <||>\nHistologie aus            <||>\nTNM                       <||> (METs)\nUICC                      <||>\nLok Primarius             <||>\nPDL1 Status               <||>% TPS / <||>% IC\nMolekularpathologie       <||> (nur positive Nachweise, angefordert am:) (Entnahmestelle) (nNGM Panel 2.0)\nRauchstatus               <||>py\nECOG                      <||>\nLungenfunktion (Datum): FEV1: , DCO: \n\nProzedere:\n<||>\n\nRauchentwöhnung:\nangeboten                 <||>\nwahrgenommen              <||>\n\nAntiresorptive Therapie:         <||>\nDistress Syndrom Screening:      <||>\nPalliativfragebogen:             <||>\nPatientenverfügung:              <||>\nPrimäre prophylaktische Antikoagulation: <||>\n\nVorerkrankungen:"
   },
   {
     "id": "tb-0002",
@@ -30,6 +30,268 @@
       "Leitlinie",
       "Impfungen"
     ],
-    "body": "Nach Therapieabschluss empfehlen wir die strukturierte Nachsorge zur frühen Identifizierung von Rezidiven, Zweitkarzinomen, Komplikationen und Toxizitäten der Therapie. Zusätzlich kann der Bedarf an Psychoonkologie und Sozialberatung evaluiert werden.\n\nNach abgeschlossener multimodaler Therapie (inklusive OP oder CTx/RTx) sollten die Patienten in den ersten 2 Jahren vierteljährlich (alle 3 Monate), ab dem 3. Jahr halbjährlich untersucht und nach 5 Jahren in ein Screeningprogramm eingeschlossen werden. Diese Intervalle beginnen mit der Erstvorstellung innerhalb von 8 Wochen nach Abschluss der Therapie.\n\nDarüber hinaus empfehlen wir eine Anschlussheilbehandlung.\n\nImpfungen zur Infektionsprophyklaxe nach/unter Behandlung solider Tumore analog der Onkopedia Leitlinie (Aug 2019) und ASCO Leitlinie (2024) umfassen, sofern nicht bereits durchgeführt, Influenza, Covid19 (sofern in den letzten 12 Monaten keine Infektion vorlag), Diphterie, Tetanus, Pertussis, Pneumokokken, RSV und gegebenenfalls Herpes Zoster (starke Empfehlung).\n\nDie Empfehlungen orientieren sich an der aktuellen S3 Leitlinie Lungenkarzinom (Dez 2023), sowie an der Onkopedia Leitlinie zu Impfungen bei Tumorpatienten (Aug 2019).\n\nBei Rückfragen stehen wir gerne zur Verfügung."
+    "body": "Nach Therapieabschluss empfehlen wir die strukturierte Nachsorge zur frühen Identifizierung von Rezidiven, Zweitkarzinomen, Komplikationen und Toxizitäten der Therapie. Zusätzlich kann der Bedarf an Psychoonkologie und Sozialberatung evaluiert werden.\n\nNach abgeschlossener multimodaler Therapie (inklusive OP oder CTx/RTx) sollten die Patienten in den ersten 2 Jahren vierteljährlich (alle 3 Monate), ab dem 3. Jahr halbjährlich untersucht und nach 5 Jahren in ein Screeningprogramm eingeschlossen werden. \nDiese Intervalle beginnen mit der Erstvorstellung innerhalb von 8 Wochen nach Abschluss der Therapie. \n\nDarüber hinaus empfehlen wir eine Anschlussheilbehandlung.\n\nImpfungen zur Infektionsprophyklaxe nach/unter Behandlung solider Tumore analog der Onkopedia Leitlinie (Aug 2019) und ASCO Leitlinie (2024) umfassen, sofern nicht bereits durchgeführt, Influenza, Covid19 (sofern in den letzten 12 Monaten keine Infektion vorlag), Diphterie, Tetanus, Pertussis, Pneumokokken, RSV und gegebenenfalls Herpes Zoster (starke Empfehlung).\n\nDie Empfehlungen orientieren sich an der aktuellen S3 Leitlinie Lungenkarzinom (Dez 2023), sowie an der Onkopedia Leitlinie zu Impfungen bei Tumorpatienten (Aug 2019).\n\nBei Rückfragen stehen wir gerne zur Verfügung."
+  },
+  {
+    "id": "tb-0003",
+    "title": "Nachsorgeabschluss – Empfehlung fortgesetztes Screening",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Nachsorge",
+    "protocol": "—",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Nachsorge",
+      "Screening",
+      "Rezidiv",
+      "SPLC",
+      "Impfungen"
+    ],
+    "body": "Wir berichten zum Ende der strukturierten Nachsorge 5 Jahre nach Erstdiagnose ohne Nachweis eines Rezidives.\n\nDas Risiko, nach einer initialen Lungenkrebserkrankung einen zweiten primären Lungenkrebs (SPLC) zu entwickeln, liegt laut Studien bei 1–2 % pro Jahr. Dieses Risiko ist besonders hoch bei Patienten, die weiterhin rauchen, oder bei solchen mit bestimmten genetischen Prädispositionen. Nach chirurgischer Behandlung von nicht-kleinzelligem Lungenkrebs (NSCLC) beträgt die kumulative 10-Jahres-Inzidenz eines SPLC etwa 8–9 %. \n\nAus diesem Grund empfehlen wir in Anlehnung an prospektive Lungenkrebsscreening Studien (z.B. NELSON) die fortgeführte bildgebende Überwachung mittels low-dose CT alle 12-24 Monate bis zum 75. Lebensjahr.\n\nImpfungen zur Infektionsprophyklaxe nach/unter Behandlung solider Tumore analog der Onkopedia Leitlinie (Aug 2019) und ASCO Leitlinie (2024) umfassen, sofern nicht bereits durchgeführt, Influenza, Covid19 (sofern in den letzten 12 Monaten keine Infektion vorlag), Diphterie, Tetanus, Pertussis, Pneumokokken, RSV und gegebenenfalls Herpes Zoster (starke Empfehlung)."
+  },
+  {
+    "id": "tb-0004",
+    "title": "Adjuvante Immuntherapie mit Atezolizumab – Monitoring und Nebenwirkungen",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Atezolizumab adjuvant",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "Adjuvant",
+      "Immuntherapie",
+      "Atezolizumab",
+      "Nebenwirkungen",
+      "Monitoring"
+    ],
+    "body": "Aufgrund der Tumorausdehnung und Tumorphänotypisierung empfehlen wir eine postoperative, sogenannte adjuvante Checkpoint-InhibitorTherapie. Dabei wird Atezolizumab alle 3 Wochen für insgsamt 1 Jahr gegeben. \n\nUnter einer Immuntherapie sollte auf die Gabe von systemischen Steroiden (Kortison) verzichtet werden. Dies sollte nur in Rücksprache mit unserem Zentrum oder bei lebensbedrohlichen Notfällen erfolgen.\n\nDas Nebenwirkungsspektrum dieser Therapie umfasst im Wesentlichen allergische Reaktionen oder Autoimmunphänomene:\n- Pneumonitis (progrediente Dyspnoe, Husten)\n- Darmentzündung (Schleimig, blutige Durchfälle)\n- Hepatitis (Ikterus, Leberwerterhöhung)\n- Endokrine Nebenwirkungen (Erschöpfung, Schilddrüse, Elektrolytstörung)\n- Nephritis\n- Diabetes mellitus (analog Typ I)\n- Hautausschlag, Juckreiz\n- Neuropathie\n\nBei Auftreten oder V.a. auf eine dieser Nebenwirkungen bitten wir um umgehende Vorstellung. \n\nIn der Zusammenschau der ASCO/ESMO/NCCN und SITC Leitlinien empfehlen wir folgendes Routine-Basis-Monitoring vor Therapiestart:\n- Blutbild mit Differential-Blutbild \n- Leber- (Bilirubin, Transaminasen, AP, yGT) und Nierenwerte (Kreatinin, Harnstoff)\n- Calcium, Natrium, Kalium, Albumin\n- Glukose und HbA1c\n- TSH/fT4\n- CK\n\nund folgendes Routine-Monitoring vor jedem Zyklus (idR alle 3 Wochen):\n- Blutbild mit DifferentialBlutbild\n- Leber- (Bilirubin und Transaminasen) und Nierenwerte (Kreatinin und Harnstoff)\n- Calcium, Natrium, Kalium, Albumin\n- TSH/fT4 (Cortisol bei fallendem TSH)\n- Glukose \n\nBei spezifischem Verdacht oder Nebenwirkungsnachweis muss eine weiterführende Diagnostik gemäß den o.g. Empfehlungen erfolgen.\n\nDie Immuntherapie sollte 3-8 Wochen nach Operation oder - bei regelhaft außerdem erfolgender adjuvanter Chemotherapie - 3-8 Wochen nach dem letzten adjuvanten Chemotherapiezyklus eingeleitet werden."
+  },
+  {
+    "id": "tb-0005",
+    "title": "Adjuvante Chemotherapie mit Cisplatin/Vinorelbin",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Cisplatin + Vinorelbin",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "Adjuvant",
+      "Chemotherapie",
+      "Cisplatin",
+      "Vinorelbin"
+    ],
+    "body": "Aufgrund der Tumorausdehnung empfehlen wir eine postoperative, sogenannte adjuvante Chemotherapie. Hierzu werden standardmäßig Cisplatin und Vinorelbin eingesetzt. Cisplatin/Vinorelbin werden dabei für insgesamt 4 Zyklen à 21 Tage gegeben. Dabei werden Cisplatin und Vinoreblin an Tag 1 und Vinorelbin erneut an Tag 8 eines jeden Zyklus gegeben. \n\nVinorelbin ist gewebeschädigend, daher muss auf eine sicher intravenöse Gabe im Rahmen der Applikation geachtet werden. Die Gaben können ambulant erfolgen, aufgrund der mehrstündigen Infusionen im Rahmen der Begleitmedikation sollte dann ein früher Termin in unserem Ambulanten Onkologischen Zentrum (AOZ) vereinbart werden.\n\nNebenwirkungen umfassen v.a. Nierenschädigung, Nervenschädigung und Schädigung des Gehörs. Im Rahmen der Therapie sollten daher einmal wöchentliche Blutbild- und Labor-Kontrollen inkl. Leber- und Nierenwerte beim Hausarzt erfolgen.\n\nVor jeder Gabe sind aktuelle Laborwerte (<4d) erforderlich. Der applizierende Arzt wird Sie auf Nebenwirkungen hinsichtlich einer potentiellen Nervenschädigung oder Schädigung des Gerhörs ansprechen und die Therapie ggf. anpassen. \n\nDer Nutzen dieser adjuvanten Therapie ist durch Meta-Analysen belegt. Statistisch wird ein 5 Jahres Überlebensvorteil von absolut ca. 5% (NNT 20) erreicht.\n\nDie Chemotherapie sollte 4-8 Wochen nach der Operation beginnen."
+  },
+  {
+    "id": "tb-0006",
+    "title": "Therapieempfehlung Alectinib",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Alectinib",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "ALK",
+      "Alectinib",
+      "TKI"
+    ],
+    "body": "Aufgrund der oben aufgeführten ALK Translokation empfehlen wir eine Therapie mit Alectinib. Alectinib ist ein ALK-Inhibitor der 3. Generation, ZN-gängig und weist gegenüber anderen 3. Generations-TKI (direkte Vergleiche liegen nicht vor) das günstigste Nebenwirkungsspektrum bei soweit beurteilbar vergleichbarem Overall Survival auf.  \n\nDie empfohlene Dosis beträgt 150mg Alectinib oral 4-0-4. (D.h. 1200mg/d)\nDas Medikament soll zusammen mit einer Mahlzeit eingenommen werden. \n\nNebenwirkungen umfassen vor allem: gastrointestinale Nebenwirkungen (Durchfall, Erbrechen), erhöhte Leberwerte, Ödeme, Muskelschmerzen, Sehstörungen, Lungenentzündungen, Blutbildveränderungen und weniger häufig neurologische Auffälligkeiten.\n\nBei Auftreten nicht zu tolerierender Nebenwirkungen bitten wir die MEdikation zu pausieren und Rücksprache mit uns zu halten. Sie kann dann ggf. in Dosisreduktion wieder eingeleitet werden. Bei Durchfall kann Loperamid (Immodium) gemäß den allgemeinen Empfehlungen eingesetzt werden.\n\nLaborkontrollen sollten initial nach 2 Wochen, dann alle 4 Wochen stattfinden. Zu Beginn sollte außerdem eine einmalige EKG-Kontrolle erfolgen. Ein erster Termin wurde heute vereinbart. Das Medikament rezeptiert."
+  },
+  {
+    "id": "tb-0007",
+    "title": "Ambulante Re-Staging-Kontrollen",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapieverlauf",
+    "protocol": "—",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapieverlauf",
+      "Restaging",
+      "Bildgebung"
+    ],
+    "body": "Wir bitten bereits jetzt ambulante Re-Staging Kontrolluntersuchungen mittels CT-Thorax und Oberbauch und cMRT in 3 Monaten zu vereinbaren und die Befunde im Rahmen der Wiedervorstellungen schrifltich und auf digital (a.e. auf CD) vorzulegen."
+  },
+  {
+    "id": "tb-0008",
+    "title": "Therapieempfehlung Cabozantinib (2nd line, CABINET)",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Cabozantinib",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "2nd line",
+      "Cabozantinib",
+      "Nebenwirkungen"
+    ],
+    "body": "Wir besprachen die Einleitungl einer Systemtherapie analog der CABINET Studie mit Cabozantinib\n60mg QD.\nCabozantinib ist mit einer Vielzahl von Nebenwirkungen verbunden.\nSehr häufige Nebenwirkungen (ca. 10%) umfassen Durchfall, Mundschleimhautentzündung,\nHand-Fuß-Syndrom, Gewichtsverlust, verminderten Appetit, Übelkeit, Erbrechen, Müdigkeit,\nVerstopfung, Haarfarbreänderungen, Hautausschlag und erhöhte Leberenzyme.\nHäufige Nebenwirkungen (1-10%) sind unter anderem Probleme mit der Wundheilung,\nBluthochdruck, Schluckbeschwerden, Blutungen, Verlängerung des QT-Intervalls im EKG,\nNierenversagen und Fistelbildungen.\nZu den schwerwiegenden Nebenwirkungen zählen schwere Blutungen, Perforationen des\nMagen-Darm-Trakts, thromboembolische Ereignisse, Herzinfarkt, Bluthochdruckkrisen und\nnekrotisierende Fasziitis."
+  },
+  {
+    "id": "tb-0009",
+    "title": "Therapieempfehlung Crizotinib bei ROS1 Fusion",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Crizotinib",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "ROS1",
+      "Crizotinib",
+      "Interaktionen",
+      "Monitoring"
+    ],
+    "body": "Mittlerweile vorliegende Molekularpathologie. Hier Vorliegen einer ROS1 Fusion wie oben beschrieben. Diesbezüglich liegt trotz des guten Therapieansprechens unter Immunchemotherapie eine Überlegenheit zugelassener TKI-Medikamente vor. Bei fehlenden Hirnmetastasen empfehlen wir aktuell in Anbetracht der besseren Verträglichkeit die Therapieumstellung auf Crizotinib. \n\nCrizotinib wird als 250mg Tablette 1-0-1 unabhängig von den Mahlzeiten eingenommen.\n\nGrapefruit oder Grapefruitsaft sollten vermieden werden. Johanniskraut sollte nicht eingenommen werden. Ebenso sollten keine Protonenpumpeninhibitoren eingenommen und auf Medikamenteninteraktionen bei Neuverschreibungen bzgl. CYP3A4 geachtet werden.\n\nRelevante Nebenwirkungen sind Zytopenien, Neuropathie, Sehstörungen, Herzinsuffizienz, EKG Veränderungen, Pneumonitis, gastrointestinale Nebenwirkungen, Leberschädigung, Ausschlag und Ödeme.\n\nEs wird ein Routinemonitoring mittels EKG und Blutentnahme initial nach 14 Tagen dann mindestens alle 4 Wochen empfohlen.\n\nDosismodifikation bei Leberwerterhöhung\nBei Erhöhung des Bilirubins auf mehr als das 2-fache des ULN sollte die Therapie dauerhaft beendet werden.\nBei Transaminasenerhöhung auf mehr als das 5-fache des ULN ohne Bilirubinerhöhung kann nach Absetzen und Erholung auf < 3x ULN eine Wiederaufnahme mit initial 1x 250mg/d erwogen werden.\n\nWir bitten bereits jetzt ambulante Re-Staging Kontrolluntersuchungen mittels CT-Thorax und Oberbauch und cMRT in 3 Monaten zu vereinbaren und die Befunde im Rahmen der Wiedervorstellungen schrifltich und auf digital (a.e. auf CD) vorzulegen."
+  },
+  {
+    "id": "tb-0010",
+    "title": "2nd line Therapie Docetaxel + Nintedanib",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Docetaxel + Nintedanib",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "2nd line",
+      "Docetaxel",
+      "Nintedanib",
+      "Monitoring"
+    ],
+    "body": "Die 2nd line Chemotherapie mit Docetaxel wird als Infusion alle 21 Tage (Tag 1 eines jeden Zyklus) gegeben. \n\nNintedanib wird als 100mg Tablette 2-0-2 von Tag 2-21 mit den Mahlzeiten eingenommen (keine Einnahme am Tag der Chemotherapie).\n\nDie Therapie wird bis zur Unverträglichkeit oder Krankheitsprogression fortgeführt. Eine Reevaluation sollte zum 4. Zyklus mittels CT-Thorax/Oberbauch erfolgen. \n\nWährend der Chemotherapie ist insbesondere auf hämatologische Toxizitäten zu achten. Wir empfehlen 1-mal wöchentliche Kontrollen von BB, Leber und Nierenwerten und ggf. um Vorlage im Rahmen der Vorstellung zum nächsten Therapiezyklus. Aktuelle Laborwerte sind maximal 4 Tage vor Chemotherapieapplikation erforderlich.  \n\nEine Routine-antimikrobielle Prophylaxe wird grundsätzlich unabhängig vom ANC (absolute neutrophil count) nicht empfohlen. Bei Fieber oder Blutungszeichen bitten wir um telefonische Rücksprache oder ggf. Vorstellung in einer internistischen Notaufnahme.\n\nHauptnebenwirkungen von Nintedanib sind gastrointestinal. Bezüglich Hämatotoxizität ist keine Dosisanpassung erforderlich. Bei nicht vertretbaren hpts gastrointestinalen Nebenwirkungen bitten wir die Medikation mit Nintedanib primär zu pausieren. Sie kann dann in Rücksprache mit uns ggf. in reduzierter Dosis wieder eingeleitet werden. \n\nIm Rahmen der Routinekontrollen sollten bzgl. Nintedanib 1mal monatliche Leberwertkontrollen erfolgen."
+  },
+  {
+    "id": "tb-0011",
+    "title": "2nd line Therapie Docetaxel + Ramucirumab",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Docetaxel + Ramucirumab",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "2nd line",
+      "Docetaxel",
+      "Ramucirumab",
+      "Monitoring"
+    ],
+    "body": "Daher Indikation zur Therapieumstellung auf eine 2nd line mit Docetaxel/Ramucirumab. \n\nDocetaxel wird alle 3 Wochen bis zum Krankheitsprogress intravenös gegeben.  \n\nRamucirumab wird als Infusion an den Docetaxel Tagen verabreicht.\n\nDie Therapie wird bis zur Unverträglichkeit oder Krankheitsprogression fortgeführt. Eine Reevaluation sollte zum 4. Zyklus mittels CT-Thorax/Oberbauch erfolgen. \n\nWährend der Chemotherapie ist insbesondere auf hämatologische Toxizitäten zu achten. Wir empfehlen 1-mal wöchentliche Kontrollen von BB, Leber und Nierenwerten und ggf. um Vorlage im Rahmen der Vorstellung zum nächsten Therapiezyklus. Aktuelle Laborwerte sind maximal 4 Tage vor Chemotherapieapplikation erforderlich.  \n\nEine Routine-antimikrobielle Prophylaxe wird grundsätzlich unabhängig vom ANC (absolute neutrophil count) nicht empfohlen. Bei Fieber oder Blutungszeichen bitten wir um telefonische Rücksprache oder ggf. Vorstellung in einer internistischen Notaufnahme. \n\nNebenwirkungen von Ramucirumab umfassen hpts arterielle Hypertonie, Ödeme, Proteinurie, Blutungs- und Thrombembolie-Neigung. Eine spezifische Prävention wird allerdings nicht empfohlen. Es sollten regelmäßige Blutdruckkontrollen im häuslichen Umfeld erfolgen."
+  },
+  {
+    "id": "tb-0012",
+    "title": "Therapieempfehlung Entrectinib",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Entrectinib",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "Entrectinib",
+      "TRK/ROS1",
+      "Monitoring",
+      "Nebenwirkungen"
+    ],
+    "body": "Die Kapseln sollten im Ganzen, vorzugsweise mit Wasser, geschluckt werden und sollten nicht zerdrückt, aufgelöst oder geöffnet werden. Sie können mit oder ohne Nahrung eingenommen werden.\n\nGrapefruit oder Grapefruitsaft sollten vermieden werden. Falls eine Dosis vergessen wurde, sollte sie nachgeholt werden, sobald der Patient dieses bemerkt. Falls die nächste Dosis in weniger als 12 Stunden fällig ist, sollte der Patient die vergessene Dosis nicht mehr einnehmen. Patienten dürfen keine doppelte Dosis zur selben Zeit einnehmen, um eine vergessene Dosis nachzuholen.\n\nWenn es unmittelbar nach der Einnahme zu Erbrechen kommt, kann der Patient diese Dosis erneut einnehmen.\n\nRelevante Nebenwirkungen sind:\nHerzinsuffizienz (Luftnot, Wassereinlagerungen)\n- Vor Therapieinleitung sollte bei Patienten mit Risikofaktoren eine Echokardiographie mit LV-EF Bestimmung erfolgen.\n- Bei symptomatischer HI unter Therapie muss die Therapie bis zum Abklingen der Symptomatik pausiert werden und kann bei Besserung in Dosisreduktion (1. Reduktion 400mg/d, 2. Reduktion 200mg/d) wiedereingeleitet werden.\n\nLeberwerterhöhung/Leberschädigung\n- Bei Transaminasenerhöhung auf mehr als das 5-fache des ULN ohne Bilirubinerhöhung kann nach Absetzen und Erholung auf < 3x ULN eineWiederaufnahme mit initial 1x 400mg/d erwogen werden. Nächste Dosisreduktion wären 200mg/d.\n\nEKG-Veränderungen / Herzrhythmusstörungen: QT-Intervall Verlängerungen\n- Ein Ausgangs-EKG und Kontrollen alle 4 Wochen werden empfohlen.\n\nHyperurikämie / Gicht\n\nGastrointestinal\n- Obstipation, Übelkeit, Durchfall, Erbrechen\n\nKognitive Störungen\n- Schwindel, Kopfschmerzen, Schlafstörungen, Wesensveränderungen, Gangstörungen.\n\nMuskelschmerzen, Knochenschmerzen, Knochenbrüche.\n\nLichtempfindlichkeit\n- Konsequenter Sonnenschutz mit Faktor Lichtschutzfaktor > 50\n\nSehstörungen\n\nLaborkontrollen sind initial nach 14 Tagen dann mindestens alle 4 Wochen notwendig und umfassen BB, Kreatinin, GOT, GPT, gamma-GT, Bilirubin, Harnsäure."
+  },
+  {
+    "id": "tb-0013",
+    "title": "Therapieempfehlung Lorlatinib",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Lorlatinib",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "Lorlatinib",
+      "ALK",
+      "Monitoring"
+    ],
+    "body": "Die empfohlene Dosis beträgt 100 mg Lorlatinib oral einmal täglich unabhängig von den Mahlzeiten.\n\nNebenwirkungen umfassen vor allem erhöhte Blutfette, psychiatrische Nebenwirkungen mit Affektneigung, periphere Neuropathie, Sehstörung, Hypertonie, abdominelle Beschwerden, Ausschlag, Pneumonitis, Gewichtszunahme und EKG Veränderungen inkl. AV Block.\n\nEs sollten routinemäßig monatliche EKG Kontrollen mit Beurteilung der PQ Zeit erfolgen. Laborkontrollen inkl. Cholesterin und Triglyzeriden sollten initial nach 2 Wochen, dann alle 4 Wochen stattfinden."
+  },
+  {
+    "id": "tb-0014",
+    "title": "Neoadjuvante Chemoimmuntherapie – Monitoring und Nebenwirkungen",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Chemoimmuntherapie (neoadjuvant)",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "Neoadjuvant",
+      "Immuntherapie",
+      "Chemotherapie",
+      "Monitoring"
+    ],
+    "body": "Aufgrund der Tumorausdehnung wird unsererseits ein neoadjuvantes Therapiekonzept (auch Induktionstherapie) empfohlen. Diese Therapie wird als Chemoimmuntherapie durchgeführt. \n\nDabei wird die Chemoimmun-Kombination 1x alle 3 Wochen für insgesamt 3 Zyklen gegeben.\n\nWährend der Chemotherapie ist insbesondere auf hämatologische Toxizitäten zu achten. Wir empfehlen im Rahmen des 1. Therapiezyklus 1-mal wöchentliche Kontrollen von BB, Leber und Nierenwerten und um Vorlage im Rahmen der Vorstellung zum 2. Therapiezyklus. Ab dem 2. Zyklus sollten Routinekontrollen nur vor der Chemotherapie-Applikation (maximal 4 Tage vorher) oder bei Dosisänderungen erfolgen. Wir bitten diese Kontrollen beim Hausarzt durchzuführen und zum Therapietermin mitzubringen. \n\nEine Routine-antimikrobielle Prophylaxe wird grundsätzlich unabhängig vom ANC (absolute neutrophil count) nicht empfohlen. Bei Fieber oder Blutungszeichen bitten wir um telefonische Rücksprache oder ggf. Vorstellung in einer internistischen Notaufnahme. \n\nUnter einer Immuntherapie sollte auf die Gabe von systemischen Steroiden (Kortison) verzichtet werden. Dies sollte nur in Rücksprache mit unserem Zentrum oder bei lebensbedrohlichen Notfällen erfolgen.\n\nDas Nebenwirkungsspektrum dieser Therapie umfasst im Wesentlichen allergische Reaktionen oder Autoimmunphänomene:\n- Pneumonitis (progrediente Dyspnoe, Husten)\n- Darmentzündung (Schleimig, blutige Durchfälle)\n- Hepatitis (Ikterus, Leberwerterhöhung)\n- Endokrine Nebenwirkungen (Erschöpfung, Schilddrüse, Elektrolytstörung)\n- Nephritis\n- Diabetes mellitus (analog Typ I)\n- Hautausschlag, Juckreiz\n- Neuropathie\n\nBei Auftreten oder V.a. auf eine dieser Nebenwirkungen bitten wir um umgehende Vorstellung. \n\nIn der Zusammenschau der ASCO/ESMO/NCCN und SITC Leitlinien empfehlen wir folgendes Routine-Basis-Monitoring vor Therapiestart:\n- Blutbild mit Differential-Blutbild \n- Leber- (Bilirubin, Transaminasen, AP, yGT) und Nierenwerte (Kreatinin, Harnstoff)\n- Calcium, Natrium, Kalium, Albumin\n- Glukose und HbA1c\n- TSH/fT4\n- CK\n\nund folgendes Routine-Monitoring vor jedem Zyklus (idR alle 3 Wochen):\n- Blutbild mit DifferentialBlutbild\n- Leber- (Bilirubin und Transaminasen) und Nierenwerte (Kreatinin und Harnstoff)\n- Calcium, Natrium, Kalium, Albumin\n- TSH/fT4 (Cortisol bei fallendem TSH)\n- Glukose \n\nBei spezifischem Verdacht oder Nebenwirkungsnachweis muss eine weiterführende Diagnostik gemäß den o.g. Empfehlungen erfolgen.\n\nDie Operation sollte innerhalb von 6 Wochen nach der letzten Therapiegabe erfolgen und das Ansprechen zuvor im Rahmen eines erneuten PET-CT's reevaluiert werden."
+  },
+  {
+    "id": "tb-0015",
+    "title": "Therapieempfehlung Osimertinib",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Osimertinib",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "EGFR",
+      "Osimertinib",
+      "Monitoring"
+    ],
+    "body": "Osimertinib wird standardmäßig als 80mg Tablette 1x/d unabhängig von den Mahlzeiten\neingenommen.\n\nUnter einer Therapie mit Osimertinib treten v.a. Hautausschläge oder Akne, Durchfälle\noder abdominelle Nebenwirkungen, Veränderungen der Nägel oder Stomatitis auf. Seltener\nkommt es zu Leberwerterhöhungen, QT-Zeit Verlängerung, Haarausfall, Verschlechterung einer\nvorbestehenden Herzinsuffizienzoder, aplastischen Anämien.\n\nZur Therapie von Durchfällen kann Loperamid 2mg (Immodium) bis 4x/d eingenommen werden. Bezüglich der Hautnebenwirkungen empfehlen wir bereits zu Therapiebeginn eine rückfettende Basistherapie\nmit einer harnstoffhaltigen Salbe zu beginnen und mechanisch belastende Tätigkeiten vermeiden. Bei fehlender Kontrolle kann im Verlauf eine Antibiotika-haltige Salbe (Metronidazol oder Erythrommycin) notwendig werden. Bitte sprechen Sie den behandelnden Arzt bei Auftreten auf diese Nebenwirkungen an. \n\nEin Therapiezyklus umfasst 28 Tage einer einmal täglichen Einnahme von standardmäßig\n80mg Osimertinib unabhängig von der Nahrungsaufnahme.\n\nVor der ersten Einnahme sind folgende Routinekontrollen erforderlich:\nBlutbild + Diff BB, Nieren- und Leberwerte, Calcium, Magnesium, EKG.\nZu weiteren EKG Routinekontrollen existieren keine einheitlichen Empfehlungen.\nFür unsere Klinik wird daher eine einmalige EKG Routinekontrolle im Rahmen der Wiedervorstellung 14 Tage nach Therapiestart empfohlen.\n\nBei QTc > 500ms muss die Behandlung unterbrochen werden bis die QTc < 480ms beträgt. Sie\nkann dann in reduzierter Dosis wieder aufgenommen werden.\n\nLaborwertkontrollen sollten initial 1-malig nach 14 Tagen danach monatlich erfolgen.\n\nWir bitten davon unabhängig bereits jetzt um Terminvereinbarung eines CT-Thorax inkl. Oberbauch\nin 3 Monaten zum Re-Staging beim Niedergelassenen Radiologen. Wir bitten den BEfund sowohl\nschriftlich als auch auf CD im Rahmen der Vorstellung in 3 Monaten bei uns vorzulegen."
+  },
+  {
+    "id": "tb-0016",
+    "title": "Immunmonotherapie allgemein – Monitoring und Nebenwirkungen",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Immunmonotherapie",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "Immuntherapie",
+      "Monitoring"
+    ],
+    "body": "Die Vorstellung von XXXXXX erfolgt zur Einleitung einer palliativen Immunmonotherapie.\n\nDie Immunmonotherapie wird gemäß der für den eingesetzten Wirkstoff gültigen Standarddosierung verabreicht (z. B. Pembrolizumab 200 mg alle 3 Wochen als Infusion). \n\nBei fehlenden klinischen und laborchemischen Kontraindikationen konnte die aktuelle Therapie wie geplant verabreicht werden und wurde im Beobachtungszeitraum problemlos vertragen.\n\nUnter einer Immuntherapie sollte auf die Gabe von systemischen Steroiden (Kortison) verzichtet werden. Dies sollte nur in Rücksprache mit unserem Zentrum oder bei lebensbedrohlichen Notfällen erfolgen.\n\nDas Nebenwirkungsspektrum dieser Therapie umfasst im Wesentlichen allergische Reaktionen oder Autoimmunphänomene:\n- Pneumonitis (progrediente Dyspnoe, Husten)\n- Darmentzündung (Schleimig, blutige Durchfälle)\n- Hepatitis (Ikterus, Leberwerterhöhung)\n- Endokrine Nebenwirkungen (Erschöpfung, Schilddrüse, Elektrolytstörung)\n- Nephritis\n- Diabetes mellitus (analog Typ I)\n- Hautausschlag, Juckreiz\n- Neuropathie\n\nBei Auftreten oder V.a. auf eine dieser Nebenwirkungen bitten wir um umgehende Vorstellung. \n\nIn der Zusammenschau der ASCO/ESMO/NCCN und SITC Leitlinien empfehlen wir folgendes Routine-Basis-Monitoring vor Therapiestart:\n- Blutbild mit Differential-Blutbild \n- Leber- (Bilirubin, Transaminasen, AP, yGT) und Nierenwerte (Kreatinin, Harnstoff)\n- Calcium, Natrium, Kalium, Albumin\n- Glukose und HbA1c\n- TSH/fT4\n- CK\n\nund folgendes Routine-Monitoring vor jedem Zyklus (idR alle 3 Wochen):\n- Blutbild mit DifferentialBlutbild\n- Leber- (Bilirubin und Transaminasen) und Nierenwerte (Kreatinin und Harnstoff)\n- Calcium, Natrium, Kalium, Albumin\n- TSH/fT4 (Cortisol bei fallendem TSH)\n- Glukose \n\nBei spezifischem Verdacht oder Nebenwirkungsnachweis muss eine weiterführende Diagnostik gemäß den o.g. Empfehlungen erfolgen.\n\nFür Rückfragen stehen wir gern zur Verfügung."
+  },
+  {
+    "id": "tb-0017",
+    "title": "Therapieempfehlung Sotorasib",
+    "author": "J. Stratmann",
+    "entity": "NSCLC",
+    "timepoint": "Therapie",
+    "protocol": "Sotorasib",
+    "created": "2025-09-23T08:00:00Z",
+    "updated": "2025-09-23T08:00:00Z",
+    "tags": [
+      "Therapie",
+      "KRAS G12C",
+      "Sotorasib",
+      "Monitoring"
+    ],
+    "body": "Sotorasib: Einnahme: 120mg 8-0-0 (960mg gesamt)\n\nDie Behandlung mit LUMYKRAS wird bis zum Krankheitsprogress oder bis zum Auftreten von nicht tolerierbaren Toxizitäten empfohlen.\n\nDie Kapseln sollten im Ganzen, vorzugsweise mit Wasser, geschluckt werden und sollten nicht zerdrückt, aufgelöst oder geöffnet werden. Sie können mit oder ohne Nahrung eingenommen werden.\nGrapefruit oder Grapefruitsaft sollten vermieden werden.\n\nAuf die Einnahme von PPI (Pantoprazol) oder H1 Blockern (Sostril) muss verzichtet werden. Bei Problemen bitte Rücksprache.\n\nWenn nach der Einnahme von LUMYKRAS Erbrechen auftritt, darf der Patient keine zusätzliche Dosis am selben Tag einnehmen. Die Behandlung muss am nächsten Tag wie verordnet fortgesetzt werden.\n\nRelevante Nebenwirkungen sind:\n- Leberwerterhöhung/Leberschädigung (Leberversagen):\nBei Erhöhung des Bilirubins auf mehr als das 2-fache des ULN sollte die Therapie dauerhaft beendet werden.\nBei Transaminasenerhöhung auf mehr als das 5-fache des ULN ohne Bilirubinerhöhung kann nach Absetzen und Erholung auf < 3x ULN eine\n- Pneumonitis/ILD\nBei bestätigter ILD/Pneumonitis muss die Therapie dauerhaft beendet werden.\n- Müdigkeitssyndrom\n- Gastrointestinal\n\nBei nicht tolerablen Nebenwirkungen sollte die Therapie pausiert und in erster Dosisreduktion (1x 480mg/d) bei Erholung wieder aufgenommen werden.\n\nLaborkontrollen sind initial nach 14 Tagen dann mindestens alle 4 Wochen notwendig und umfassen BB, Kreatinin, GOT, GPT, gamma-GT, Bilirubin, Harnsäure."
   }
 ]
