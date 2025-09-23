@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-22T05:35:14.435207Z",
+  "generated": "2025-09-23T05:17:12.176412Z",
   "items": [
     {
       "pmid": "40965864",
@@ -216,8 +216,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1111/cas.70188",
       "metric_name": "SJR",
       "metric_value": 1.661,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40976711/",
@@ -404,67 +404,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40963028/",
       "url_doi": "https://doi.org/10.1038/s41586-025-09503-z",
       "abstract": "Neuroendocrine and tuft cells are rare chemosensory epithelial lineages defined by the expression of ASCL1 and POU2F3 transcription factors, respectively. Neuroendocrine cancers, including small cell lung cancer (SCLC), frequently display tuft-like subsets, a feature linked to poor patient outcomes"
-    },
-    {
-      "pmid": "40974872",
-      "doi": "10.1016/j.lungcan.2025.108756",
-      "title": "Biological impact of chemotherapy during treatment with EGFR tyrosine kinase inhibitors for non-small cell lung cancer positive for EGFR activating mutations.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-09-16T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108756",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40974872/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108756",
-      "abstract": "BACKGROUND: The aim of this study was to explore the biological impact of chemotherapy during epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) treatment in individuals with non-small cell lung cancer (NSCLC).\n\nMETHODS: Plasma and tumor tissue specimens were prospectively collected from NSCLC patients with EGFR activating mutations who participated in a randomized phase III study comparing EGFR-TKI therapy with or without inserted chemotherapy (JCOG1404/WJOG8214L). The specimens were analyzed for genetic mutations by droplet digital polymerase chain reaction analysis and next-generation sequencing.\n\nRESULTS: Two hundred patients were enrolled in this biomarker study, with 113 and 87 individuals receiving EGFR-TKI monotherapy and EGFR-TKI treatment plus inserted chemotherapy, respectively. Although progression-free survival (PFS) for EGFR-TKI monotherapy was shorter in patients with than in those without detectable EGFR activating mutations in cell-free DNA at baseline, inserted chemotherapy improved PFS compared with EGFR-TKI monotherapy for the former patients (median, 17.5 vs. 11.8 months). Inserted chemotherapy suppressed the number of alleles positive for activating and T790M mutations of EGFR in cell-free DNA at disease progression. The benefit of inserted chemotherapy relative to EGFR-TKI monotherapy was more apparent in patients with (median PFS, 18.8 vs. 13.5 months) than in those without detectable concurrent mutations of TP53.\n\nCONCLUSIONS: Chemotherapy has the potential to suppress the development of EGFR-TKI resistance as well as to inhibit tumor growth for NSCLC positive for EGFR activating mutations. Our results provide biological insight into combination treatment with EGFR-TKIs and chemotherapy for such patients."
-    },
-    {
-      "pmid": "40957950",
-      "doi": "10.1038/s41388-025-03571-1",
-      "title": "PLK1-mediated PDHA1 phosphorylation drives metabolic reprogramming in lung cancer.",
-      "journal": "Oncogene",
-      "pubdate": "2025-09-16T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40957950/",
-      "url_doi": "https://doi.org/10.1038/s41388-025-03571-1",
-      "abstract": "Although the involvement of polo-like kinase 1 (PLK1) in metabolic reprogramming from oxidative phosphorylation (OXPHOS) to glycolysis has been previously described, the underlying molecular mechanism remains unclear. Pyruvate dehydrogenase (PDH) catalyzes the conversion of pyruvate into acetyl-CoA, the starting material for the tricarboxylic acid (TCA) cycle. In a companion study by Zhang et al., we demonstrated that PLK1 phosphorylation of PDHA1 at threonine 57 (PDHA1-T57) drives its protein degradation via mitophagy activation. Using a stable-isotope resolved metabolomics (SIRM) approach, we now show that PLK1 phosphorylation of PDHA1-T57 results in metabolic reprogramming from OXPHOS to glycolysis. Notably, cells mimicking PDHA1-T57 phosphorylation rely more on the aspartate-malate shuttle than on glucose-derived pyruvate to sustain the TCA cycle. This metabolic shift was also observed in mouse embryonic fibroblasts (MEFs) and transgenic mice conditionally expressing the PDHA1-T57D variant, highlighting the role of PLK1 in metabolic reprogramming in vivo. It is well-established that pyruvate dehydrogenase kinase (PDK)-mediated phosphorylation of PDH leads to its inactivation and that dichloroacetic acid (DCA), a PDK inhibitor, has been investigated in preclinical and early clinical studies as a potential therapeutic agent for lung cancer. We demonstrated that DCA combined with Onvansertib, a PLK1 inhibitor, synergistically inhibits lung tumor growth by enhancing mitochondrial ROS, inhibiting glycolysis, and inducing apoptosis. This study aims to elucidate how PLK1-associated activity drives the metabolic reprogramming from OXPHOS to glycolysis during cellular transformation, thereby contributing to lung carcinogenesis. Our results provide support for a clinical trial to evaluate the efficacy of Onvansertib plus DCA in treating lung cancer."
-    },
-    {
-      "pmid": "40910999",
-      "doi": "10.1080/14712598.2025.2555830",
-      "title": "Neoadjuvant therapy of NSCLC: a review of the use and impact of monoclonal antibodies.",
-      "journal": "Expert opinion on biological therapy",
-      "pubdate": "2025-09-16T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40910999/",
-      "url_doi": "https://doi.org/10.1080/14712598.2025.2555830",
-      "abstract": "INTRODUCTION: From the 1960s and up until 2021, neoadjuvant chemotherapy has represented the standard of care for potentially resectable stage III (N2) Non-Small Cell Lung Cancer (NSCLC). However, in recent years, immunotherapy in the form of Immune Checkpoint Inhibitors (ICIs) has revolutionized oncology treatment strategies and several ICIs have been investigated for the neoadjuvant treatment of NSCLC, both in monotherapy and in combination with other ICIs or chemotherapy.\n\nAREAS COVERED: Therefore, this paper aims to review the currently available data supporting the role of immunotherapy in the neoadjuvant setting, as well as to discuss the challenges associated with it. We undertook a comprehensive literature search of PubMed, Embase, Cochrane Library, of abstracts and posters from annual meetings of American Society of Clinical Oncology (ASCO), European Society for Medical Oncology (ESMO), and American Association for Cancer Research (AACR) up until November 2024.\n\nEXPERT OPINION: We believe that in the near future ICI plus chemotherapy combinations will represent the new recommended standard of care in the neoadjuvant/perioperative setting. We look forward to the full results coming from the ongoing randomized phase III trials, that will help us guide our choice in terms of patient selection, regimen of choice, and response assessment."
     }
   ]
 }
