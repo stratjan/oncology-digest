@@ -16,6 +16,18 @@
     "body": "Onkologische Diagnose\nNSCLC               (ED <||>)\nHistologie                <||>\nHistologie aus            <||>\nTNM                       <||> (METs)\nUICC                      <||>\nLok Primarius             <||>\nPDL1 Status               <||>% TPS / <||>% IC\nMolekularpathologie       <||> (nur positive Nachweise, angefordert am:) (Entnahmestelle) (nNGM Panel 2.0)\nRauchstatus               <||>py\nECOG                      <||>\nLungenfunktion (Datum): FEV1: , DCO: \n\nProzedere:\n<||>\n\nRauchentwöhnung:\nangeboten                 <||>\nwahrgenommen              <||>\n\nAntiresorptive Therapie:         <||>\nDistress Syndrom Screening:      <||>\nPalliativfragebogen:             <||>\nPatientenverfügung:              <||>\nPrimäre prophylaktische Antikoagulation: <||>\n\nVorerkrankungen:"
   },
   {
+  "id": "tb-0018",
+  "title": "Fortsetzung Watch & Wait Konzept – Kontrolle in 3 Monaten",
+  "author": "J. Stratmann",
+  "entity": "NSCLC",
+  "timepoint": "Therapieverlauf",
+  "protocol": "Watch & Wait",
+  "created": "2025-09-23T08:00:00Z",
+  "updated": "2025-09-23T08:00:00Z",
+  "tags": ["Therapieverlauf", "Watch & Wait", "Bildgebung", "CT"],
+  "body": "Bei stabiler Tumorsituation empfehlen wir die Fortsetzung des Watch & Wait Konzeptes. \n\nEs sollte eine erneute bildgebende Kontrolle in 3 Monaten erfolgen (CT-Thorax unter Einschluss von Leber und Nebennieren). \n\nDie Befunde bitten wir sowohl schriftlich als auch in digitaler Form (z. B. CD) zur Wiedervorstellung mitzubringen."
+},
+  {
     "id": "tb-0002",
     "title": "Nachsorgeempfehlung nach Therapieabschluss",
     "author": "J. Stratmann",
