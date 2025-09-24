@@ -1,1 +1,52 @@
 
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <meta name="robots" content="noindex, nofollow"/>
+  <title>Dokumente & Links</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-neutral-50 text-neutral-900">
+  <div class="max-w-6xl mx-auto p-6">
+    <header class="mb-6">
+      <div class="flex items-center justify-between">
+        <h1 class="text-2xl font-semibold">Dokumente & Links</h1>
+        <a href="/" class="text-sm underline">← Zur Startseite</a>
+      </div>
+      <p class="text-sm text-neutral-600" id="meta">Lade…</p>
+
+      <!-- STICKY Toolbar -->
+      <div class="sticky top-0 z-40 bg-neutral-50/95 backdrop-blur border-b border-neutral-200 mt-4">
+        <div class="py-3 flex flex-wrap gap-3 items-center">
+          <input id="q" type="search" placeholder="Suche Titel/Beschreibung/Tags…"
+                 class="border rounded-lg px-3 py-2 w-80"/>
+
+          <select id="category" class="border rounded-lg px-3 py-2">
+            <option value="">Alle Kategorien</option>
+          </select>
+
+          <select id="dtype" class="border rounded-lg px-3 py-2">
+            <option value="">Alle Typen</option>
+            <option value="Dokument">Dokument</option>
+            <option value="Link">Link</option>
+          </select>
+
+          <select id="source" class="border rounded-lg px-3 py-2">
+            <option value="">Alle Quellen</option>
+            <option value="Intern">Intern</option>
+            <option value="Extern">Extern</option>
+          </select>
+
+          <button id="export" class="border rounded-lg px-3 py-2">Export CSV</button>
+        </div>
+      </div>
+    </header>
+
+    <main id="list" class="grid gap-4"></main>
+  </div>
+
+  <script src="/docs/app.js"></script>
+</body>
+</html>
