@@ -22,8 +22,8 @@
   "entity": "SCLC",
   "timepoint": "Therapie",
   "protocol": "Tarlatamab",
-  "created": "2025-09-23T08:00:00Z",
-  "updated": "2025-09-23T08:00:00Z",
+  "created": "2025-09-24T10:00:00Z",
+  "updated": "2025-09-24T10:00:00Z",
   "tags": ["Therapie", "SCLC", "BiTE", "Tarlatamab", "Nebenwirkungen", "Monitoring"],
   "body": "Tarlatamab ist ein bispezifischer T-Zell-Engager (BiTE®), der spezifisch an DLL3 (Delta-like Ligand 3), ein auf kleinzelligen Lungenkarzinomen (SCLC) stark exprimiertes Oberflächenprotein, sowie an CD3-Rezeptoren auf T-Lymphozyten bindet. Durch die simultane Bindung wird eine zielgerichtete T-Zell-vermittelte Zytotoxizität gegen DLL3-exprimierende Tumorzellen induziert.\n\nDie Therapie erfolgt als intravenöse Infusion. Aufgrund des Risikos für immunvermittelte Nebenwirkungen, insbesondere Zytokinfreisetzungssyndrom (CRS) und neurotoxische Ereignisse einschließlich ICANS (immune effector cell-associated neurotoxicity syndrome), ist die Gabe der ersten Zyklen stationär unter engmaschiger klinischer und laborchemischer Überwachung erforderlich.\n\nDie wichtigsten Nebenwirkungen umfassen CRS (häufig Grad 1–2, selten höhergradig), neurologische Ereignisse (u. a. Kopfschmerzen, Verwirrtheit, Tremor, selten ICANS), Zytopenien (Neutropenie, Anämie, Thrombozytopenie), sowie gastrointestinale Symptome (Übelkeit, Appetitverlust). Weitere berichtete Nebenwirkungen sind Fatigue, Infektionen, Hypotonie und Transaminasenerhöhungen."
 },
