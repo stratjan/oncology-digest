@@ -16,6 +16,18 @@
     "body": "Onkologische Diagnose\nNSCLC               (ED <||>)\nHistologie                <||>\nHistologie aus            <||>\nTNM                       <||> (METs)\nUICC                      <||>\nLok Primarius             <||>\nPDL1 Status               <||>% TPS / <||>% IC\nMolekularpathologie       <||> (nur positive Nachweise, angefordert am:) (Entnahmestelle) (nNGM Panel 2.0)\nRauchstatus               <||>py\nECOG                      <||>\nLungenfunktion (Datum): FEV1: , DCO: \n\nProzedere:\n<||>\n\nRauchentwöhnung:\nangeboten                 <||>\nwahrgenommen              <||>\n\nAntiresorptive Therapie:         <||>\nDistress Syndrom Screening:      <||>\nPalliativfragebogen:             <||>\nPatientenverfügung:              <||>\nPrimäre prophylaktische Antikoagulation: <||>\n\nVorerkrankungen:"
   },
   {
+  "id": "tb-0019",
+  "title": "Therapieempfehlung Tarlatamab",
+  "author": "J. Stratmann",
+  "entity": "SCLC",
+  "timepoint": "Therapie",
+  "protocol": "Tarlatamab",
+  "created": "2025-09-23T08:00:00Z",
+  "updated": "2025-09-23T08:00:00Z",
+  "tags": ["Therapie", "SCLC", "BiTE", "Tarlatamab", "Nebenwirkungen", "Monitoring"],
+  "body": "Tarlatamab ist ein bispezifischer T-Zell-Engager (BiTE®), der spezifisch an DLL3 (Delta-like Ligand 3), ein auf kleinzelligen Lungenkarzinomen (SCLC) stark exprimiertes Oberflächenprotein, sowie an CD3-Rezeptoren auf T-Lymphozyten bindet. Durch die simultane Bindung wird eine zielgerichtete T-Zell-vermittelte Zytotoxizität gegen DLL3-exprimierende Tumorzellen induziert.\n\nDie Therapie erfolgt als intravenöse Infusion. Aufgrund des Risikos für immunvermittelte Nebenwirkungen, insbesondere Zytokinfreisetzungssyndrom (CRS) und neurotoxische Ereignisse einschließlich ICANS (immune effector cell-associated neurotoxicity syndrome), ist die Gabe der ersten Zyklen stationär unter engmaschiger klinischer und laborchemischer Überwachung erforderlich.\n\nDie wichtigsten Nebenwirkungen umfassen CRS (häufig Grad 1–2, selten höhergradig), neurologische Ereignisse (u. a. Kopfschmerzen, Verwirrtheit, Tremor, selten ICANS), Zytopenien (Neutropenie, Anämie, Thrombozytopenie), sowie gastrointestinale Symptome (Übelkeit, Appetitverlust). Weitere berichtete Nebenwirkungen sind Fatigue, Infektionen, Hypotonie und Transaminasenerhöhungen."
+},
+  {
   "id": "tb-0018",
   "title": "Fortsetzung Watch & Wait Konzept – Kontrolle in 3 Monaten: CT u MRT",
   "author": "J. Stratmann",
