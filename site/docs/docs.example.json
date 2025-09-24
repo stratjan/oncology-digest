@@ -13,6 +13,45 @@
     "description": "Interner Laufzettel AGSMO."
   },
   {
+  "id": "doc-0401",
+  "title": "Molekularpathologie – Anforderungsscheine (NNGM)",
+  "category": "Molekularpathologie",
+  "type": "Link",
+  "source": "Extern",
+  "owner": "NNGM",
+  "created": "2025-09-24T00:00:00Z",
+  "updated": "2025-09-24T00:00:00Z",
+  "url": "https://anforderungsscheine.nngm.de/",
+  "tags": ["Anforderungsschein","MolPath","NGS"],
+  "description": "Zentrale Anforderungsscheine für molekularpathologische Untersuchungen (NNGM)."
+},
+{
+  "id": "doc-0402",
+  "title": "Pathologie UKS – Anforderungsscheine",
+  "category": "Pathologie",
+  "type": "Link",
+  "source": "Extern",
+  "owner": "UKS Pathologie",
+  "created": "2025-09-24T00:00:00Z",
+  "updated": "2025-09-24T00:00:00Z",
+  "url": "https://www.uks.eu/kliniken-einrichtungen/pathologie-rechtsmedizin/allgemeine-spezielle-pathologie",
+  "tags": ["Anforderungsschein","UKS"],
+  "description": "Formulare und Hinweise der Allgemeinen & Speziellen Pathologie am UKS."
+},
+{
+  "id": "doc-0403",
+  "title": "Pathologie Mainz – Anträge & Formulare",
+  "category": "Pathologie",
+  "type": "Link",
+  "source": "Extern",
+  "owner": "UM Mainz",
+  "created": "2025-09-24T00:00:00Z",
+  "updated": "2025-09-24T00:00:00Z",
+  "url": "https://www.unimedizin-mainz.de/pathologie/infos-fuer-einsender-und-patienten/antraege-und-formulare.html",
+  "tags": ["Anforderungsschein","Mainz"],
+  "description": "Anträge/Formulare der Pathologie der Universitätsmedizin Mainz."
+},
+  {
     "id": "doc-0102",
     "title": "Flyer: Impfungen",
     "category": "Sprechstunde",
