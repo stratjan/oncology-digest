@@ -1,7 +1,7 @@
 // site/docs/app.js
 
-const PRIMARY_URL  = '/docs/docs.json';          // echte Daten (optional)
-const FALLBACK_URL = '/docs/docs.example.json';  // Beispiel/Fallback
+const PRIMARY_URL  = '/docs/docs.json';
+const FALLBACK_URL = '/docs/docs.example.json';
 
 function esc(s){return String(s ?? '')
   .replace(/&/g,'&amp;').replace(/</g,'&lt;')
@@ -39,10 +39,8 @@ function fillSelect(sel, values){
 }
 
 function iconFor(x){
-  // rein kosmetisch
   const url = (x.url || '').toLowerCase();
   if (url.endsWith('.pdf') || x.mime === 'application/pdf') return '📄';
-  if (url.includes('patholog')) return '🧪';
   if (x.type === 'Dokument') return '📘';
   return '🔗';
 }
@@ -87,28 +85,36 @@ function cardHtml(x){
   `;
 }
 
+// Einordnung in die Spalten
+function isPdfDoc(x){
+  const url = (x.url || '').toLowerCase();
+  return x.type === 'Dokument' || url.endsWith('.pdf') || x.mime === 'application/pdf' || x.source === 'Intern';
+}
+function isExternalLink(x){
+  const url = (x.url || '').toLowerCase();
+  return x.type === 'Link' || (!!url && !url.endsWith('.pdf')) || x.source === 'Extern';
+}
+
 function matches(x, q){
   if(!q) return true;
   const hay = [
-    x.title, x.description, x.category, x.type, x.source, x.owner,
-    (x.tags||[]).join(' ')
+    x.title, x.description, x.category, x.type, x.source, x.owner, (x.tags||[]).join(' ')
   ].map(v => (v||'').toString().toLowerCase()).join(' ');
   return hay.includes(q);
 }
 
 async function load(){
   const items = await fetchDocs();
-
-  // neueste zuerst
   items.sort((a,b)=> new Date(b.updated||b.created||0) - new Date(a.updated||a.created||0));
 
-  const {categories, types, sources} = buildFilters(items);
+  const {categories} = buildFilters(items);
   const elQ = document.getElementById('q');
   const elC = document.getElementById('category'); fillSelect(elC, categories);
-  const elT = document.getElementById('dtype');    // Typ (Dokument/Link)
-  const elS = document.getElementById('source');   fillSelect(elS, sources);
-  const elL = document.getElementById('list');
-  const elE = document.getElementById('export');
+  const elT = document.getElementById('dtype');
+  const elS = document.getElementById('source');
+  const elLD = document.getElementById('list-docs');
+  const elLL = document.getElementById('list-links');
+  const elE  = document.getElementById('export');
 
   function render(){
     const q = (elQ.value||'').toLowerCase().trim();
@@ -116,14 +122,21 @@ async function load(){
     const t = elT.value || '';
     const s = elS.value || '';
 
-    const arr = items.filter(x=>{
+    const filtered = items.filter(x=>{
       if (c && x.category !== c) return false;
       if (t && x.type     !== t) return false;
       if (s && x.source   !== s) return false;
       return matches(x,q);
     });
 
-    elL.innerHTML = arr.map(cardHtml).join('');
+    const docs  = filtered.filter(isPdfDoc);
+    const links = filtered.filter(x => !isPdfDoc(x) && isExternalLink(x));
+
+    elLD.innerHTML = docs.map(cardHtml).join('');
+    elLL.innerHTML = links.map(cardHtml).join('');
+
+    const meta = document.getElementById('meta');
+    if (meta) meta.textContent = `Einträge: ${filtered.length} (Dokumente: ${docs.length} · Links: ${links.length})`;
   }
 
   elQ.addEventListener('input', render);
@@ -143,7 +156,7 @@ async function load(){
       }
       return;
     }
-    if (ev.target.closest('a')) return; // echte Links nicht abfangen
+    if (ev.target.closest('a')) return;
     const card = ev.target.closest('article[data-id]');
     if (!card) return;
     const body = card.querySelector('[data-body]');
@@ -151,11 +164,9 @@ async function load(){
     body.classList.toggle('hidden');
   });
 
-  const meta = document.getElementById('meta');
-  if (meta) meta.textContent = `Einträge: ${items.length}`;
   render();
 
-  // Export CSV
+  // CSV-Export (unverändert)
   elE.addEventListener('click', ()=>{
     const head = ["id","title","category","type","source","owner","created","updated","url","tags","description"];
     const rows = [head.join(",")].concat(items.map(x =>
@@ -176,4 +187,3 @@ load().catch(()=>{
   const m = document.getElementById('meta');
   if (m) m.textContent = 'Fehler beim Laden.';
 });
-
