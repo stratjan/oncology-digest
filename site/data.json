@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-23T05:17:12.176412Z",
+  "generated": "2025-09-24T05:17:13.016142Z",
   "items": [
     {
       "pmid": "40965864",
@@ -62,11 +62,11 @@
       "abstract": null
     },
     {
-      "pmid": "40961225",
-      "doi": "10.1126/scitranslmed.adr3718",
-      "title": "PD-1-targeted cis-delivery of an IL-2 variant induces a multifaceted antitumoral T cell response in human lung cancer.",
-      "journal": "Science translational medicine",
-      "pubdate": "2025-09-17T00:00:00+00:00",
+      "pmid": "40986428",
+      "doi": "10.1158/2159-8290.CD-24-1417",
+      "title": "EML4-ALK variant-specific genetic interactions shape lung tumorigenesis.",
+      "journal": "Cancer discovery",
+      "pubdate": "2025-09-23T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
@@ -76,10 +76,10 @@
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 6.722,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40961225/",
-      "url_doi": "https://doi.org/10.1126/scitranslmed.adr3718",
-      "abstract": "Antibody-cytokine fusion proteins are being developed as next-generation cancer immunotherapies, aiming to deliver activation signals to targeted immune populations. Among these, PD1-IL2v-an engineered interleukin-2 variant (IL-2v) lacking CD25 binding, fused to a high-affinity programmed cell death protein 1 (PD-1) blocking antibody-has shown promising results in murine tumor models. Here, using human model systems, we show that PD1-IL2v elicits a multifaceted antitumor T cell response by targeting both CD8"
+      "metric_value": 7.283,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40986428/",
+      "url_doi": "https://doi.org/10.1158/2159-8290.CD-24-1417",
+      "abstract": "Diverse fusions of EML4 and ALK are oncogenic drivers in lung adenocarcinomas. EML4-ALK variants have distinct breakpoints within EML4, but their functional differences remain poorly understood. Here, we use somatic genome editing to generate autochthonous mouse models of EML4-ALK-driven lung tumors and show that V3 is more oncogenic than V1. By employing multiplexed genome editing and quantifying the effects of 29 putative tumor suppressor genes on V1- and V3-driven lung cancer growth, we show that many tumor suppressor genes have variant-specific effects on tumorigenesis. Pharmacogenomic analyses further suggest that tumor genotype can influence therapeutic responses. Analysis of human EML4-ALK-positive lung cancers also identified variant-specific differences in their genomic landscapes. These findings suggest that EML4-ALK variants behave more like distinct oncogenes rather than a uniform entity and highlight the dramatic impact of oncogenic fusion partner proteins and coincident tumor suppressor gene alterations on the biology of oncogenic fusion-driven cancers."
     },
     {
       "pmid": "40966319",
@@ -217,7 +217,7 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1111/cas.70188",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.70188",
       "metric_name": "SJR",
       "metric_value": 1.661,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40976711/",
@@ -285,6 +285,66 @@
       "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
     },
     {
+      "pmid": "40983286",
+      "doi": "10.1016/j.jtho.2025.09.010",
+      "title": "Brief Report: Critical Role for DNA-Based Sequencing in Discriminating Distinct Primary Lung Cancers with Different MET Exon 14 Skipping Mutations.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-09-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40983286/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.09.010",
+      "abstract": "BACKGROUND: MET exon 14 skipping (METex14) mutations are found in 3-4% of non-small cell lung cancer (NSCLC) and can be detected through DNA- and/or RNA-based sequencing assays. Whereas RNA sequencing simply reports skipping of exon 14, DNA sequencing assays indicate the precise DNA nucleotide changes which result in MET exon 14 skipping. Here, we demonstrate the importance of DNA-based sequencing assays for identifying patients with multiple, distinct, METex14 mutant lung cancers.\n\nMETHODS: NSCLC cases with available targeted exome next-generation sequencing (NGS) through OncoPanel or MSK-IMPACT assays were evaluated. Patients with METex14 mutations in ≥2 NSCLC tumor samples at any stage were reviewed to assess tumor relatedness based on clinicopathologic and genomic criteria.\n\nRESULTS: Among 589 patients with METex14 mutant NSCLC and available in-house NGS, 112 had ≥2 NSCLC tumor samples sequenced with METex14 mutations; among these, 7 patients had two distinct METex14 mutant primary lung cancers, and one patient had three primary METex14 mutant lung cancers. Four cases were synchronous primary cancers, occurring within 12 months of the initial diagnosis, while the other four were metachronous, occurring after 12 months. Comprehensive DNA genomic analysis confirmed the distinct clonality of the tumors, with each case showing different METex14 alterations as well as other distinct genomic events, supporting the diagnosis of independent primary lung cancers.\n\nCONCLUSIONS: DNA-based sequencing of the MET gene improves staging accuracy to guide appropriate management for patients with multiple primary METex14 mutant NSCLCs."
+    },
+    {
+      "pmid": "40986990",
+      "doi": "10.1016/j.lungcan.2025.108750",
+      "title": "Unveiling the molecular and clinical risk landscape of second primary lung cancer in resected non-small cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-09-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40986990/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108750",
+      "abstract": "BACKGROUND: Lung cancer (LC) survivors have a 4-6-fold higher risk of developing a second primary LC than the general population. In prospective multicenter studies, 15-17 % of patients undergoing surgical resection for LC develop a second malignancy, often in the lung, with risk persisting beyond 5 years. We characterized its incidence and risk factors, including genetic mutations, in a large retrospective cohort.\n\nMETHODS: This study retrospectively analyzed 5,274 patients undergoing complete resection for non-small cell lung cancer at the National Cancer Center Hospital Tokyo between 2011 and 2023. Second primary LCs were identified using the Martini and Melamed criteria. We estimated cumulative incidence with the Fine-Gray competing-risk method, treating death as a competing event, and calculated sub-distribution hazard ratios (SHRs).\n\nRESULTS: The median follow-up was 4.4 years (range: 0-12). Overall, 365 (6.9 %) patients developed a second primary LC at a median interval of 4.1 years. Cumulative incidence from surgery was 0.7 % at 1 year, 6.1 % at 5 years, and 15.1 % at 10 years. Multivariate analysis identified heavy smoking history ([SHR]: 1.47, 95 % confidence interval [CI]: 1.07-2.30, p = 0.02), first status of multiple primary lung cancer (MPLC), defined as ≥ 2 synchronous tumors at baseline (SHR: 1.88, 95 % CI: 1.25-2.85, p = 0.002), and higher consolidation-to-tumor ratio (CTR) (SHR: 2.40, 95 % CI: 1.67-3.47, p < 0.001) as independent risk factors. Among 1,292 (24.5 %) patients assessed for genetic mutations, 699 (13.2 %) harbored at least one clinically targetable driver mutation; however, mutation status did not affect risk of second primary LC (p = 0.46).\n\nCONCLUSIONS: Heavy smoking history, first status of MPLC, and higher CTR increase the risk of second primary LC; mutation status does not. Patients with these features require intensified, long-term surveillance."
+    },
+    {
+      "pmid": "40983284",
+      "doi": "10.1016/j.jtho.2025.09.011",
+      "title": "Active surveillance of multifocal ground-glass opacities: results of a prospective multi-center trial (ECTOP1021).",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-09-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": "Prospective (non-RCT)",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40983284/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.09.011",
+      "abstract": "INTRODUCTION: This study aimed to evaluate the safety of active surveillance and establish an individualized management approach for multifocal ground-glass opacities (GGOs).\n\nMETHODS: This prospective multicenter trial (ECTOP1021, NCT06097910) enrolled patients with ≥3 GGOs (tumor diameter ≤2 cm, consolidation-to-tumor ratio [CTR] ≤0.25). The primary endpoint was 5-year overall survival; secondary endpoints included lesion progression. The surgical curative time window was defined as tumor diameter ≤2.0 cm and CTR ≤0.25, a safe radiologic profile during which patients could achieve definite cure after resection.\n\nRESULTS: A total of 406 patients were recruited from five centers. The cohort consisted predominantly of females (75.6%) and never smokers (87.2%), with a median age of 53 years. In total, 1,496 lesions were under surveillance, with a median of three GGOs per patient. The median diameter of the dominant lesion was 0.8 cm. At a median follow-up of 35.4 months, the 5-year overall survival was 100%. Progression occurred in 8.1% of patients, while 1.5% developed new lesions. The median increase in tumor diameter was 0.3 cm. Eight patients underwent surgery after enrollment, all pathologic stage IA1; four had invasive adenocarcinoma and four had minimally invasive adenocarcinoma. Patients were categorized into three groups based on estimated lung function loss if complete resection, with tailored strategies accordingly.\n\nCONCLUSIONS: Active surveillance within the surgical curative time window appears to be safe and feasible for patients with multifocal GGOs in the short term. It offers an alternative to immediate surgery and rationalized individualized, scenario-based management strategies."
+    },
+    {
       "pmid": "40945529",
       "doi": "10.1016/S0140-6736(25)01388-1",
       "title": "Benchmarking progress in non-communicable diseases: a global analysis of cause-specific mortality from 2001 to 2019.",
@@ -303,26 +363,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40945529/",
       "url_doi": "https://doi.org/10.1016/S0140-6736(25)01388-1",
       "abstract": "BACKGROUND: Non-communicable diseases (NCDs) have received substantial policy attention globally and in most countries. Our aim was to quantify how much NCD mortality changed from 2010 to 2019 in different countries, especially compared with the preceding decade and with the best-performing country in each region, and the specific NCD causes of death that contributed to change.\n\nMETHODS: We used data on NCD mortality by sex, age group, and underlying cause of death for 185 countries and territories from the 2021 WHO Global Health Estimates. Our primary outcome was the probability of dying from an NCD between birth and age 80 years in the absence of competing causes of death, and was calculated using age-specific death rates from NCDs and lifetable methods. We calculated change in the probability of death as the difference between values in the final and first year of each period (2001-10 and 2010-19). For 51 countries with high-quality mortality data and 12 countries with large populations within their region, we used the Horiuchi method of decomposition to calculate how much specific causes of death and 5-year age groups contributed towards: (1) increases or decreases in NCD mortality from 2010 to 2019; (2) improvements or deteriorations compared with the preceding decade (2001-10); and (3) differences from the country that had the largest reduction in each region.\n\nFINDINGS: From 2010 to 2019, the probability of dying from an NCD between birth and age 80 years decreased in 152 (82%) of 185 countries for females and in 147 (79%) countries for males; it increased in the remaining 33 (18%) countries for females and 38 (21%) countries for males. The countries where NCD mortality declined for females accounted for 72% of the world female population in 2019, and those where NCD mortality declined for males accounted for 73% of the world male population. NCD mortality declined in all high-income western countries, with Denmark experiencing the largest decline for both sexes and the USA experiencing the smallest decline. Among the largest countries in other regions, NCD mortality declined for both sexes in China, Egypt, Nigeria, Russia, and Brazil, and increased for both sexes in India and Papua New Guinea. On average, females in countries in the central Asia, Middle East and north Africa region had the greatest reduction in NCD mortality followed by those in central and eastern Europe. For males, the largest reduction was among countries in central and eastern Europe, followed by those in central Asia, Middle East and north Africa. The smallest declines were those in the Pacific Island nations. Circulatory diseases were the greatest contributors to declines in NCD mortality from 2010 to 2019 in most countries, with some cancers (eg, stomach and colorectal cancers for both sexes, cervical and breast cancers for females, and lung and prostate cancers for males) also contributing towards lower NCD mortality in 2019 than in 2010 in many countries. Neuropsychiatric conditions and pancreatic and liver cancers contributed towards higher NCD mortality from 2010 to 2019 in most countries. In some countries, NCD mortality in working and older (≥65 years) ages changed in the same direction leading to large overall declines or increases; in others, it changed in opposite directions, diminishing the magnitude of the overall change. In 75 (41%) of 185 countries for females and in 73 (39%) countries for males, the change in NCD mortality from 2010 to 2019 was an improvement (ie, larger decline, smaller increase, or reversal of an increase) compared with the change from 2001 to 2010. These countries accounted for 29% and 63% of the world female and male population, respectively, and included both sexes in Russia and Egypt, and males in China, India, and Brazil. Decadal changes saw a deterioration (ie, smaller decline, larger increase, or reversal of a decline) in the remaining 110 (59%) countries for females and 112 (61%) countries for males, including in both sexes in the USA, Nigeria, and Papua New Guinea, and females in China, India, and Brazil. Change from 2010 to 2019 saw deterioration in direction or size compared with the preceding decade for both sexes in most high-income western countries, most countries in Latin America and the Caribbean, and in east and southeast Asia, and for females in south Asia. There was a decadal improvement in the direction or size of change for many countries in central and eastern Europe (eg, Russia) and central Asia, and in parts of the Middle East and north Africa. Improvements or deteriorations in the direction or size of change in NCD mortality between the two decades resulted from multiple NCD causes of death. Among causes of death, the decline in mortality from circulatory diseases was smaller from 2010 to 2019 than from 2001 to 2010 in most countries, except in countries in central and eastern Europe and some countries in central Asia, where these declines were larger from 2010 to 2019 than from 2001 to 2010. Change in lung cancer saw a decadal improvement in many countries, especially for males, and many other cancers saw a mix of improvement and deterioration.\n\nINTERPRETATION: From 2010 to 2019, NCD mortality declined in four of every five countries in the world. These improvements were not as large as the preceding decade for most countries, driven by smaller declines in mortality from multiple NCDs.\n\nFUNDING: UK Medical Research Council, UK National Institute for Health and Care Research, and NCD Alliance."
-    },
-    {
-      "pmid": "40795195",
-      "doi": "10.1200/JCO-25-01259",
-      "title": "Modern Targeted Radiation in Patients With Brain Metastases From Small Cell Lung Cancer.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-09-20T00:00:00+00:00",
-      "pubtypes": [
-        "Editorial"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40795195/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01259",
-      "abstract": null
     },
     {
       "pmid": "40706016",
@@ -366,6 +406,26 @@
       "abstract": null
     },
     {
+      "pmid": "40983066",
+      "doi": "10.1016/S2213-2600(25)00209-7",
+      "title": "Retifanlimab versus placebo in combination with platinum-based chemotherapy in patients with first-line non-squamous or squamous metastatic non-small-cell lung cancer (POD1UM-304): a phase 3, multiregional, placebo-controlled, double-blind, randomised study.",
+      "journal": "The Lancet. Respiratory medicine",
+      "pubdate": "2025-09-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40983066/",
+      "url_doi": "https://doi.org/10.1016/S2213-2600(25)00209-7",
+      "abstract": "BACKGROUND: Checkpoint inhibitors, including combinations with standard-of-care chemotherapy, have shown survival benefit in patients with metastatic non-small-cell lung cancer (NSCLC); however, access to these drugs varies. We aimed to evaluate the efficacy of the PD-1 inhibitor retifanlimab plus platinum-based chemotherapy as first-line treatment for non-squamous or squamous metastatic NSCLC.\n\nMETHODS: POD1UM-304 was a phase 3, multiregional, placebo-controlled, double-blind, randomised study conducted in approximately 124 hospitals and private clinical centres in 16 countries. Male and female adults aged 18 years or older with squamous or non-squamous stage IV NSCLC (staging by American Joint Committee on Cancer version 8) with Eastern Cooperative Oncology Group performance status 0 or 1 and no previous systemic therapy for metastatic NSCLC were eligible. Patients were randomly assigned (2:1) using interactive response technology to receive intravenous retifanlimab 375 mg or matching placebo on day 1 of each 21-day cycle plus standard platinum-based chemotherapy according to tumour histology for up to 2 years. Patients with non-squamous NSCLC received pemetrexed 500 mg/m\n\nFINDINGS: Between Sept 11, 2020, and March 14, 2023, 1388 patients were assessed for eligibility, 583 of whom were randomly assigned to retifanlimab plus chemotherapy (n=391) or placebo plus chemotherapy (n=192). 381 (65%) patients had non-squamous NSCLC and 202 (35%) had squamous NSCLC; 467 (80%) patients were male and 116 (20%) were female. Median age was 64 years (IQR 58-68). Median overall survival was longer in the retifanlimab plus chemotherapy group than in the placebo plus chemotherapy group (18·1 months [95% CI 16·2-21·0] vs 13·4 months [11·0-16·7]; hazard ratio 0·75 [95% CI 0·60-0·93]; p=0·0042). Overall, higher incidences of treatment-emergent adverse events that were serious (158 [41%] of 389 vs 57 [30%] of 190), grade 3 or worse (238 [61%] vs 103 [54%]), or led to retifanlimab or placebo dose delay (169 [43%] vs 67 [35%]) or discontinuation (33 [8%] vs nine [5%]) were observed in the retifanlimab plus chemotherapy group than in the placebo plus chemotherapy group. The proportions of fatal COVID-19-related treatment-emergent adverse events were similar in the retifanlimab plus chemotherapy group and the placebo plus chemotherapy group (four [1%] vs five [3%]).\n\nINTERPRETATION: Retifanlimab improved overall survival compared with placebo when added to platinum-based chemotherapy, with a safety profile that is representative of previous PD-1 and PD-L1 inhibitor-chemotherapy combinations. Adding retifanlimab to first-line chemotherapy could be a potential treatment option for patients with squamous or non-squamous metastatic NSCLC.\n\nFUNDING: Incyte."
+    },
+    {
       "pmid": "40976544",
       "doi": "10.1016/j.jtcvs.2025.09.017",
       "title": "TROPION-Lung12: A phase 3 study of adjuvant datopotamab deruxtecan and rilvegostomig in ctDNA-positive or high-risk pathology stage I NSCLC.",
@@ -384,26 +444,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40976544/",
       "url_doi": "https://doi.org/10.1016/j.jtcvs.2025.09.017",
       "abstract": "OBJECTIVE: Five-year disease recurrence rates for patients with stage I non-small cell lung cancer (NSCLC) post-surgery are variable (15%-40%). There is an urgent need for novel biomarker strategies to identify high-risk patients who may benefit from adjuvant treatment. High-risk pathological features, including high-grade histology and lymphovascular or visceral pleural invasion, serve as independent risk factors for worse outcomes. Pre-operative circulating tumor DNA (ctDNA) detection is also correlated with poorer outcomes in stage I NSCLC. Datopotamab deruxtecan (Dato-DXd), an antibody-drug conjugate composed of a humanized anti-TROP2 antibody conjugated to a potent topoisomerase I inhibitor via a plasma-stable linker, and rilvegostomig, an Fc-reduced, monovalent, bispecific, humanized IgG1 antibody targeting both PD-1 and TIGIT receptors, have shown promise in NSCLC studies. Combining Dato-DXd with rilvegostomig may improve treatment outcomes in select patients with stage I NSCLC.\n\nMETHODS: TROPION-Lung12 (NCT06564844) is a phase 3, randomized study enrolling approximately 660 patients with stage I adenocarcinoma without actionable genomic alterations who have undergone complete surgical resection. Eligible patients must have pre-operative ctDNA-positive status or ≥1 high-risk pathological feature(s). Patients will be randomized 2:1:2 to receive Dato-DXd (6 mg/kg IV Q3W) plus rilvegostomig (750 mg IV Q3W) for 4 cycles followed by rilvegostomig (up to 12 months/18 cycles total); rilvegostomig alone (up to 12 months/18 cycles total); or standard of care (SoC) for up to 12 months. The primary endpoint is disease-free survival assessed using blinded independent central review per RECIST v1.1, with key secondary endpoints including overall survival, for Dato-DXd plus rilvegostomig vs SoC arms."
-    },
-    {
-      "pmid": "40963028",
-      "doi": "10.1038/s41586-025-09503-z",
-      "title": "Basal cell of origin resolves neuroendocrine-tuft lineage plasticity in cancer.",
-      "journal": "Nature",
-      "pubdate": "2025-09-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41586-025-09503-z.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40963028/",
-      "url_doi": "https://doi.org/10.1038/s41586-025-09503-z",
-      "abstract": "Neuroendocrine and tuft cells are rare chemosensory epithelial lineages defined by the expression of ASCL1 and POU2F3 transcription factors, respectively. Neuroendocrine cancers, including small cell lung cancer (SCLC), frequently display tuft-like subsets, a feature linked to poor patient outcomes"
     }
   ]
 }
