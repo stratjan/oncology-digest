@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="de">
 <head>
@@ -27,6 +26,7 @@
             <option value="">Alle Kategorien</option>
           </select>
 
+          <!-- Typ/Quelle lassen wir für Feintuning drin, sie wirken auf beide Spalten -->
           <select id="dtype" class="border rounded-lg px-3 py-2">
             <option value="">Alle Typen</option>
             <option value="Dokument">Dokument</option>
@@ -44,7 +44,17 @@
       </div>
     </header>
 
-    <main id="list" class="grid gap-4"></main>
+    <!-- Zweispaltiges Grid -->
+    <main class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <section>
+        <h2 class="text-lg font-semibold mb-2">📄 Dokumente (PDF/Intern)</h2>
+        <div id="list-docs" class="grid gap-4"></div>
+      </section>
+      <section>
+        <h2 class="text-lg font-semibold mb-2">🔗 Externe Links</h2>
+        <div id="list-links" class="grid gap-4"></div>
+      </section>
+    </main>
   </div>
 
   <script src="/docs/app.js"></script>
