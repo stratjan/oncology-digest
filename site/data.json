@@ -1,66 +1,6 @@
 {
-  "generated": "2025-09-24T05:17:13.016142Z",
+  "generated": "2025-09-25T05:16:02.060470Z",
   "items": [
-    {
-      "pmid": "40965864",
-      "doi": "10.1001/jamaoncol.2025.3497",
-      "title": "Neoadjuvant Chemoimmunotherapy in Stage III Non-Small Cell Lung Cancer-Reply.",
-      "journal": "JAMA oncology",
-      "pubdate": "2025-09-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 8.377,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40965864/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3497",
-      "abstract": null
-    },
-    {
-      "pmid": "40965918",
-      "doi": "10.1001/jamaoncol.2025.3491",
-      "title": "Neoadjuvant Chemoimmunotherapy in Stage III Non-Small Cell Lung Cancer.",
-      "journal": "JAMA oncology",
-      "pubdate": "2025-09-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 8.377,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40965918/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3491",
-      "abstract": null
-    },
-    {
-      "pmid": "40965878",
-      "doi": "10.1001/jamaoncol.2025.3494",
-      "title": "Neoadjuvant Chemoimmunotherapy in Stage III Non-Small Cell Lung Cancer.",
-      "journal": "JAMA oncology",
-      "pubdate": "2025-09-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 8.377,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40965878/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3494",
-      "abstract": null
-    },
     {
       "pmid": "40986428",
       "doi": "10.1158/2159-8290.CD-24-1417",
@@ -82,51 +22,31 @@
       "abstract": "Diverse fusions of EML4 and ALK are oncogenic drivers in lung adenocarcinomas. EML4-ALK variants have distinct breakpoints within EML4, but their functional differences remain poorly understood. Here, we use somatic genome editing to generate autochthonous mouse models of EML4-ALK-driven lung tumors and show that V3 is more oncogenic than V1. By employing multiplexed genome editing and quantifying the effects of 29 putative tumor suppressor genes on V1- and V3-driven lung cancer growth, we show that many tumor suppressor genes have variant-specific effects on tumorigenesis. Pharmacogenomic analyses further suggest that tumor genotype can influence therapeutic responses. Analysis of human EML4-ALK-positive lung cancers also identified variant-specific differences in their genomic landscapes. These findings suggest that EML4-ALK variants behave more like distinct oncogenes rather than a uniform entity and highlight the dramatic impact of oncogenic fusion partner proteins and coincident tumor suppressor gene alterations on the biology of oncogenic fusion-driven cancers."
     },
     {
-      "pmid": "40966319",
-      "doi": "10.1158/0008-5472.CAN-24-4887",
-      "title": "Loss of UXS1 Selectively Depletes Pyrimidines and Induces Replication Stress in KEAP1-Mutant Lung Cancer.",
+      "pmid": "40991405",
+      "doi": "10.1158/0008-5472.CAN-25-1141",
+      "title": "PRT3789 is a First-in-Human SMARCA2-Selective Degrader that Induces Synthetic Lethality in SMARCA4-Mutated Cancers.",
       "journal": "Cancer research",
-      "pubdate": "2025-09-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerres/article-pdf/doi/10.1158/0008-5472.CAN-24-4887/3651982/can-24-4887.pdf",
-      "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40966319/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-24-4887",
-      "abstract": "Kelch-like ECH associated protein 1 (KEAP1) is the third most commonly mutated gene in non-small cell lung cancer (NSCLC) and is associated with poor prognosis. Here, we investigated synthetic lethal interaction genes in KEAP1-mutated cancer cells and identified a dependency on UDP xylose synthase 1 (UXS1), which converts UDP-glucuronic acid (UDP-GlcA) to UDP-xylose in the proteoglycan synthetic pathway. UDP glucose dehydrogenase (UGDH), a transcriptional target of NRF2 that converts UDP-glucose to UDP-GlcA, was highly expressed in KEAP1-mutant tumors. Upon UXS1 knockdown, depletion of UDP-xylose occurred in both KEAP1-mutant and wildtype (WT) cells, whereas UDP-GlcA accumulated to a greater extent in the KEAP1-mutant setting. The resulting shortage of available UDP and other pyrimidines slowed S-phase progression and stalled DNA replication fork marks, causing cells to undergo prolonged cell-cycle exit or apoptosis. Dependency on UXS1 was rescued by knocking out UGDH to prevent UDP-GlcA accumulation and UDP depletion. DNA replication stress in UXS1-depleted cells sensitized them to clinical cell-cycle checkpoint inhibitors. Further, CRISPR screening experiments identified genes that modulate UXS1 dependency. While liver had the highest normal tissue expression of UGDH, UXS1 knockout in the liver did not result in hepatotoxicity. Taken together, these data demonstrate that UXS1 is a selective dependency in KEAP1-mutant tumors and loss of UXS1 creates additional therapeutically exploitable vulnerabilities in KEAP1-mutant tumors."
-    },
-    {
-      "pmid": "40670667",
-      "doi": "10.1038/s41416-025-03088-0",
-      "title": "Single-cell spatial analysis with Xenium reveals anti-tumour responses of CXCL13 + T and CXCL9+ cells after radiotherapy combined with anti-PD-L1 therapy.",
-      "journal": "British journal of cancer",
-      "pubdate": "2025-10-01T00:00:00+00:00",
+      "pubdate": "2025-09-24T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41416-025-03088-0.pdf",
+      "is_oa": false,
+      "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 3.144,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40670667/",
-      "url_doi": "https://doi.org/10.1038/s41416-025-03088-0",
-      "abstract": "BACKGROUND: The standard treatment for unresectable non-small cell lung cancer (NSCLC) is anti-PD-L1 therapy combined with chemoradiotherapy (anti-PD-L1-CRT). Although some patients achieve complete cancer eradication and cure, more than half of patients retain persistent cancer cells. Our research aimed to unravel the nuanced mechanisms involved in both immune attack and evasion induced by anti-PD-L1-CRT with single cell spatial transcriptome.\n\nMETHODS: Xenium is a cutting-edge single-cell spatial analysis tool that enables pathology-based and single-cell analyses while preserving spatial information. In our study, we used Xenium to identify the tumour microenvironment (TME), immune dynamics, and residual cancer cells at the single-cell level following treatment with anti-PD-L1-CRT.\n\nRESULTS: Posttreatment alterations included a significant increase in CXCL9+ cells and CXCL13 + T cells, particularly around tumour cells. Additionally, we discovered that CXCL13 + T cells directly impact cancer cells in the posttreatment environment. Moreover, we identified clusters of immune-cold cancer cells posttreatment, revealing their activation of DNA repair pathways and high proliferative capacity. The novel spatial analysis tool Xenium enabled identification of the immune environment at the single-cell level following treatment with anti-PD-L1-CRT, elucidating its characteristics.\n\nCONCLUSIONS: These findings suggest potential advancements in developing new treatments to improve posttreatment immune responses and address resistance challenges."
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40991405/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1141",
+      "abstract": "SMARCA2 and SMARCA4 are the core catalytic subunits of the SWI/SNF chromatin remodeling complex. Approximately 10% of non-small cell lung cancer (NSCLC) patients harbor SMARCA4 mutations, resulting in protein loss or loss-of-function (LOF) alterations. These SMARCA4-deficient cancers are highly dependent on SMARCA2 for proliferation, growth, and survival, making SMARCA2 a promising synthetic lethal target. Here, we developed and characterized PRT3789, a clinical-stage SMARCA2-selective targeted protein degrader (TPD). It induced polyubiquitination at lysine residues unique to SMARCA2 through stable ternary complex formation with the VHL E3 ligase. The selectivity was driven by interactions with an extended loop unique to SMARCA2, as revealed by structure-based analyses. PRT3789 promoted selective degradation of SMARCA2, while sparing its highly homologous paralog, SMARCA4. In SMARCA4-deficient models, SMARCA2 degradation disrupted SWI/SNF complex integrity by inducing dissociation of multiple subunits, leading to downstream transcriptional reprogramming. PRT3789 induced robust tumor growth inhibition and regression in SMARCA4-deficient models, both as monotherapy and in combination with targeted therapies or chemotherapies. In contrast, SMARCA4-wild-type models exhibited minimal response despite confirmed SMARCA2 degradation, consistent with SMARCA4 sparing and preserved SWI/SNF complex integrity. In clinical settings, PRT3789 reduced SMARCA2 protein levels in peripheral blood mononuclear cells (PBMCs) from patients with SMARCA4-mutated cancers. Initial signs of clinical activity have been observed, including RECIST-confirmed partial responses. Together, these findings demonstrate the selective targeting of SMARCA2 and the potential for a favorable therapeutic index with PRT3789. Phase I/II clinical trials with PRT3789 are ongoing in biomarker-selected patients with SMARCA4-mutated solid tumors."
     },
     {
-      "pmid": "40975161",
-      "doi": "10.1016/j.canlet.2025.218046",
-      "title": "Hinokitiol preferentially suppresses metastatic lung adenocarcinoma via TMDD1-mediated ferroptosis induction and iron-sulfur cluster inhibition.",
-      "journal": "Cancer letters",
-      "pubdate": "2025-09-18T00:00:00+00:00",
+      "pmid": "40991294",
+      "doi": "10.1158/0008-5472.CAN-25-0021",
+      "title": "MEN1 Promotes Ferroptosis by Disrupting CD44 Alternative Splicing to Suppress Lung Cancer.",
+      "journal": "Cancer research",
+      "pubdate": "2025-09-24T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
@@ -136,10 +56,10 @@
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 2.756,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40975161/",
-      "url_doi": "https://doi.org/10.1016/j.canlet.2025.218046",
-      "abstract": "Dysregulated ISC metabolism has been implicated in cancer progression, but its role in LUAD pathogenesis and therapeutic targeting remains poorly understood. Here, we demonstrate that ISC biogenesis is significantly upregulated in LUAD, driven by transcription factors KLF15 and ZNF384, which activate GLRX5, LYRM4, NFS1 and BOLA3 promoters. IL-1β promotes PCAF mitochondrial translocation, releasing EP300 to amplify KLF15/ZNF384-mediated transcriptional activation. The natural monoterpenoid Hinokitiol inhibits LUAD growth by disrupting EP300-KLF15/ZNF384 interactions, suppressing ISC biogenesis gene expression and inducing ferroptosis. Mechanistically, the membrane protein TMDD1, particularly its cytoplasmic domain, promotes Hinokitiol's anti-tumor effects by facilitating EP300-KLF15/ZNF384 dissociation and inhibiting ISC biogenesis. Remarkably, Hinokitiol exhibits stage-dependent efficacy, with superior suppression of metastatic (stage IV) tumors linked to heightened ferroptosis sensitivity. This study not only elucidates the transcriptional machinery governing ISC biogenesis in LUAD but also highlights Hinokitiol's dual mechanism as a promising stage-specific therapeutic agent, offering novel strategies for advanced disease management."
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40991294/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0021",
+      "abstract": "Ferroptosis is a characteristic form of cell death triggered by excessive iron-dependent reactive oxygen species (ROS) that plays an important role in suppressing tumor development. Here, we identified MEN1 as a driver of ferroptosis in lung cancer. MEN1 facilitated lipid ROS generation and sensitized lung cancer cells to ferroptosis by perturbing CD44 precursor messenger RNA (pre-mRNA) splicing. CD44 variant isoforms were highly expressed and correlated with poor prognosis in human lung cancers. Loss of Men1 profoundly accelerated the progression of mutant Kras driven lung adenocarcinoma (LUAD) and promoted the accumulation of CD44 variant isoforms. Mechanistically, MEN1 maintained a relatively slow RNA polymerase II (Pol II) elongation by controlling the release of PAF1 from the CD44 pre-mRNA, which in turn prevented the inclusion of CD44 variable exons (CD44v). Furthermore, CD44v6-interfering peptides effectively abrogated the growth and metastasis of established MEN1 deficient tumors by activating ferroptosis. Collectively, this study unveils a mechanism of tumor suppression based on MEN1 regulation of CD44 alternative splicing, ROS production, and ferroptosis induction."
     },
     {
       "pmid": "40189749",
@@ -162,49 +82,6 @@
       "abstract": "Deviations in the diversity and composition of the gut microbiota are called \"gut dysbiosis\". They have been linked to various chronic diseases including cancers and resistance to immunotherapy. Stool shotgun based-metagenomics informs on the ecological composition of the gut microbiota and the prevalence of homeostatic bacteria such as"
     },
     {
-      "pmid": "40541589",
-      "doi": "10.1016/j.critrevonc.2025.104812",
-      "title": "The effects of race on anti-PD-(L)1 monoclonal antibodies in non-small cell lung cancer: A systematic literature review and meta-analysis.",
-      "journal": "Critical reviews in oncology/hematology",
-      "pubdate": "2025-10-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Meta-Analysis",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.critrevonc.2025.104812",
-      "metric_name": "SJR",
-      "metric_value": 1.82,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40541589/",
-      "url_doi": "https://doi.org/10.1016/j.critrevonc.2025.104812",
-      "abstract": "INTRODUCTION: Non-small cell lung cancer (NSCLC) represents approximately 85 % of lung cancers, with five-year survival only 4.5 % for metastatic disease. Programmed death (ligand)-1 (PD-[L]1) inhibitors have advanced NSCLC treatment, but patient demographics can potentially affect clinical outcomes. This systematic literature review and meta-analysis were undertaken to determine if the benefits of anti-PD-(L)1 therapies in NSCLC are independent of race (bio-geographic background).\n\nMETHODS: PubMed, Embase, Cochrane Library and World Health Organization Global Index Medicus were systematically searched (inception-to-Aug-2024). Primary analysis focused on studies with subgroup analysis (White vs Asian, White vs Non-White, Asian vs Non-Asian) of anti-PD-(L)1 efficacy in both resectable/localized and unresectable/advanced NSCLC. Subgroup analysis included stratification by PD-L1 expression, treatment line, and treatment regimen. Bayesian inferential meta-analysis was performed for outcomes with ≥ 1 study.\n\nRESULTS: From 4406 records, 22 randomized controlled trials, 3 pooled analyses, and 2 pharmacokinetic studies were included. In unresectable/advanced NSCLC, anti-PD-(L)1 therapy significantly improved overall survival and progression-free survival (PFS) for White (hazard ratio [HR] 0.80; 95 % credible interval [95 % CrI] 0.74-0.87, p < 0.001 and HR 0.68; 95 % CrI 0.61-0.77, p < 0.001, respectively) and Asian (HR 0.81; 95 % CrI 0.69-0.96, p = 0.027 and HR 0.63; 95 % CrI 0.50-0.80, p = 0.002) patients. The significant improvements in PFS were maintained for both groups within all sub-analyses. Limited data prohibited conduction of meta-analysis for resectable/localized NSCLC.\n\nCONCLUSIONS: The benefits of anti-PD-(L)1 therapy in unresectable/advanced NSCLC appear similar for White and Asian patients. Increased quality and quantity of data is required to draw definitive conclusions for resectable/localized NSCLC and with respect to treatment line/regimen and PD-L1 expression."
-    },
-    {
-      "pmid": "40581545",
-      "doi": "10.1016/j.critrevonc.2025.104821",
-      "title": "Resistance mechanisms in anaplastic lymphoma kinase-positive lung cancer.",
-      "journal": "Critical reviews in oncology/hematology",
-      "pubdate": "2025-10-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 1.82,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40581545/",
-      "url_doi": "https://doi.org/10.1016/j.critrevonc.2025.104821",
-      "abstract": "Non-small cell lung cancer has been discovered to have many unique molecular subsets that are associated with different phenotypic behaviors and overall prognoses. In particular, anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancers (NSCLCs) have distinctive presentations and disease courses. Patients with ALK NSCLC are typically younger, have significantly less smoking exposure, and often experience prolonged survival. When patients recur, drug-tolerant persister (DTP) cells may be implicated in disease recurrence. In this review we will discuss the phenomenon of DTP related to ALK NSCLC, possible mechanistic explanations and potential treatment strategies to eliminate DTPs."
-    },
-    {
       "pmid": "40976711",
       "doi": "10.1111/cas.70188",
       "title": "Durvalumab Post Concurrent Chemoradiotherapy in Japanese Patients With Limited-Stage Small-Cell Lung Cancer in the Phase 3 ADRIATIC Trial.",
@@ -225,64 +102,24 @@
       "abstract": "At the first interim analysis of the global, randomized, phase 3, double-blind ADRIATIC trial in patients with limited-stage small-cell lung cancer (LS-SCLC) not progressing after concurrent chemoradiotherapy (cCRT), consolidation durvalumab significantly improved overall survival (OS; hazard ratio [HR] 0.73) and progression-free survival (PFS) by blinded independent central review (BICR; HR 0.76) versus placebo (dual primary endpoints). We report an exploratory analysis in patients enrolled in Japan. Patients received durvalumab 1500 mg (N = 264), durvalumab+tremelimumab 75 mg (4 doses, N = 200; arm remained blinded), or placebo (N = 266) every 4 weeks for ≤ 24 months. Prior cCRT ± prophylactic cranial irradiation (PCI) was per local standards of care. In the Japan subgroup, 19 and 31 patients received durvalumab and placebo, respectively; prior cCRT comprised cisplatin-etoposide/carboplatin-etoposide in 94.7/5.3% and 87.1/12.9% and once-daily/twice-daily radiotherapy in 10.5/89.5% and 0/100%; 52.6% and 58.1% received PCI. Median OS was not reached versus 44.9 months (3-year OS 67.4% versus 58.1%; HR 0.67, 95% CI 0.24-1.62). Median PFS by BICR was 44.2 versus 29.4 months (24-month PFS 59.6% vs. 58.6%; HR 1.05, 95% CI 0.44-2.36); median PFS by investigator assessment (sensitivity analysis) was 44.2 versus 19.7 months (24-month PFS 65.6% vs. 47.0%; HR 0.68, 95% CI 0.28-1.51). With durvalumab and placebo, 21.1% and 19.4% had maximum grade 3-4 adverse events (AEs), 21.1% and 9.7% had AEs leading to treatment discontinuation, and 52.6% and 45.2% had pneumonitis/radiation pneumonitis (grade 3-4: 0% and 6.5%). In conclusion, consolidation durvalumab demonstrated a favorable risk/benefit profile in Japanese patients with LS-SCLC post cCRT. Trial Registration: ClinicalTrials.gov identifier: NCT03703297."
     },
     {
-      "pmid": "40963055",
-      "doi": "10.1007/s10637-025-01583-y",
-      "title": "Phase I results on the efficacy, safety and pharmacokinetics of lurbinectedin and irinotecan in advanced solid tumors.",
-      "journal": "Investigational new drugs",
-      "pubdate": "2025-09-18T00:00:00+00:00",
+      "pmid": "40986990",
+      "doi": "10.1016/j.lungcan.2025.108750",
+      "title": "Unveiling the molecular and clinical risk landscape of second primary lung cancer in resected non-small cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-09-20T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/s10637-025-01583-y.pdf",
-      "metric_name": "SJR",
-      "metric_value": 1.074,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40963055/",
-      "url_doi": "https://doi.org/10.1007/s10637-025-01583-y",
-      "abstract": "Lurbinectedin and irinotecan showed synergistic antitumor activity when combined in preclinical studies, and have non-completely overlapping toxicity profiles. A two-stage phase I/II trial was designed to evaluate the combination. The first (dose escalation) stage of the trial assessed two schedules, lurbinectedin on Day (D)1 plus irinotecan on D1,D8 or D1 every three weeks in 83 patients with relapsed advanced solid tumors. Two recommended doses (RDs) were defined for lurbinectedin on D1 plus irinotecan on D1,D8: lurbinectedin 2.0 mg/m"
-    },
-    {
-      "pmid": "40684711",
-      "doi": "10.1016/j.ejrad.2025.112290",
-      "title": "Comparison of nodule volumetric classification by using two different nodule segmentation algorithms in an LDCT lung cancer baseline screening dataset.",
-      "journal": "European journal of radiology",
-      "pubdate": "2025-10-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
+      "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
       "is_oa": false,
       "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 1.003,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40684711/",
-      "url_doi": "https://doi.org/10.1016/j.ejrad.2025.112290",
-      "abstract": "OBJECTIVES: To investigate the performance of two segmentation algorithms for nodule volumetric classification at participant/scan level in the NELCIN-B3 cohort (Netherlands and China Big-3), a lung cancer screening program (LCS) using low-dose CT (LDCT).\n\nMETHODS: Baseline scans with qualified LDCT images from consecutive NELCIN-B3 participants were included from June 2017 to July 2018. Performance of two software algorithms were independently evaluated by two radiologists: software A (Syngo.via VB30A) by reader 1 and software B (AVIEW v1.1.39.14) by reader 2. According to the NELSON2.0 protocol, nodules with a solid component ≥ 100 mm\n\nRESULTS: In total, 300 participants were evaluated comprising 159 women (53.0 %) and 193 (64.3 %) never smokers, with a mean ± standard deviation age of 61.2 ± 7.1 years. There were disagreements in 17 cases: in 11 (11/300, 3.7 %), this was due to differences in nodule selection and nodule type classification between readers; and in 6 (6/300, 2.0 %), this was due to variations in nodule volume metrics between algorithms. Inter-software agreement was almost perfect (κ = 0.88 [95 %CI: 0.83-0.93]). In the consensus read, reader 1/software A generated 12 misclassifications (11 PM, 1 NM), giving a negative predictive value of 99.6 % (95 % CI: 98.9 %-100.0 %). Reader 2/software B generated 5 misclassifications (2 PM, 3 NM), giving a negative predictive value of 98.9 % (95 % CI: 97.7 %-100.0 %).\n\nCONCLUSION: Two software algorithms (Syngo.via VB30A and AVIEW v1.1.39.14) showed comparable performance for lung nodule volumetric classification at participant/scan level. Further research is needed to confirm the results in other LDCT LCS programs."
-    },
-    {
-      "pmid": "40168159",
-      "doi": "10.1080/17581966.2025.2477411",
-      "title": "The association between blood-based HYAL2 methylation and early-stage lung cancer: a case-control study.",
-      "journal": "Lung cancer management",
-      "pubdate": "2025-12-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1080/17581966.2025.2477411",
-      "metric_name": "SJR",
-      "metric_value": 0.506,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
-      "url_doi": "https://doi.org/10.1080/17581966.2025.2477411",
-      "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40986990/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108750",
+      "abstract": "BACKGROUND: Lung cancer (LC) survivors have a 4-6-fold higher risk of developing a second primary LC than the general population. In prospective multicenter studies, 15-17 % of patients undergoing surgical resection for LC develop a second malignancy, often in the lung, with risk persisting beyond 5 years. We characterized its incidence and risk factors, including genetic mutations, in a large retrospective cohort.\n\nMETHODS: This study retrospectively analyzed 5,274 patients undergoing complete resection for non-small cell lung cancer at the National Cancer Center Hospital Tokyo between 2011 and 2023. Second primary LCs were identified using the Martini and Melamed criteria. We estimated cumulative incidence with the Fine-Gray competing-risk method, treating death as a competing event, and calculated sub-distribution hazard ratios (SHRs).\n\nRESULTS: The median follow-up was 4.4 years (range: 0-12). Overall, 365 (6.9 %) patients developed a second primary LC at a median interval of 4.1 years. Cumulative incidence from surgery was 0.7 % at 1 year, 6.1 % at 5 years, and 15.1 % at 10 years. Multivariate analysis identified heavy smoking history ([SHR]: 1.47, 95 % confidence interval [CI]: 1.07-2.30, p = 0.02), first status of multiple primary lung cancer (MPLC), defined as ≥ 2 synchronous tumors at baseline (SHR: 1.88, 95 % CI: 1.25-2.85, p = 0.002), and higher consolidation-to-tumor ratio (CTR) (SHR: 2.40, 95 % CI: 1.67-3.47, p < 0.001) as independent risk factors. Among 1,292 (24.5 %) patients assessed for genetic mutations, 699 (13.2 %) harbored at least one clinically targetable driver mutation; however, mutation status did not affect risk of second primary LC (p = 0.46).\n\nCONCLUSIONS: Heavy smoking history, first status of MPLC, and higher CTR increase the risk of second primary LC; mutation status does not. Patients with these features require intensified, long-term surveillance."
     },
     {
       "pmid": "40983286",
@@ -303,26 +140,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40983286/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.09.010",
       "abstract": "BACKGROUND: MET exon 14 skipping (METex14) mutations are found in 3-4% of non-small cell lung cancer (NSCLC) and can be detected through DNA- and/or RNA-based sequencing assays. Whereas RNA sequencing simply reports skipping of exon 14, DNA sequencing assays indicate the precise DNA nucleotide changes which result in MET exon 14 skipping. Here, we demonstrate the importance of DNA-based sequencing assays for identifying patients with multiple, distinct, METex14 mutant lung cancers.\n\nMETHODS: NSCLC cases with available targeted exome next-generation sequencing (NGS) through OncoPanel or MSK-IMPACT assays were evaluated. Patients with METex14 mutations in ≥2 NSCLC tumor samples at any stage were reviewed to assess tumor relatedness based on clinicopathologic and genomic criteria.\n\nRESULTS: Among 589 patients with METex14 mutant NSCLC and available in-house NGS, 112 had ≥2 NSCLC tumor samples sequenced with METex14 mutations; among these, 7 patients had two distinct METex14 mutant primary lung cancers, and one patient had three primary METex14 mutant lung cancers. Four cases were synchronous primary cancers, occurring within 12 months of the initial diagnosis, while the other four were metachronous, occurring after 12 months. Comprehensive DNA genomic analysis confirmed the distinct clonality of the tumors, with each case showing different METex14 alterations as well as other distinct genomic events, supporting the diagnosis of independent primary lung cancers.\n\nCONCLUSIONS: DNA-based sequencing of the MET gene improves staging accuracy to guide appropriate management for patients with multiple primary METex14 mutant NSCLCs."
-    },
-    {
-      "pmid": "40986990",
-      "doi": "10.1016/j.lungcan.2025.108750",
-      "title": "Unveiling the molecular and clinical risk landscape of second primary lung cancer in resected non-small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-09-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40986990/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108750",
-      "abstract": "BACKGROUND: Lung cancer (LC) survivors have a 4-6-fold higher risk of developing a second primary LC than the general population. In prospective multicenter studies, 15-17 % of patients undergoing surgical resection for LC develop a second malignancy, often in the lung, with risk persisting beyond 5 years. We characterized its incidence and risk factors, including genetic mutations, in a large retrospective cohort.\n\nMETHODS: This study retrospectively analyzed 5,274 patients undergoing complete resection for non-small cell lung cancer at the National Cancer Center Hospital Tokyo between 2011 and 2023. Second primary LCs were identified using the Martini and Melamed criteria. We estimated cumulative incidence with the Fine-Gray competing-risk method, treating death as a competing event, and calculated sub-distribution hazard ratios (SHRs).\n\nRESULTS: The median follow-up was 4.4 years (range: 0-12). Overall, 365 (6.9 %) patients developed a second primary LC at a median interval of 4.1 years. Cumulative incidence from surgery was 0.7 % at 1 year, 6.1 % at 5 years, and 15.1 % at 10 years. Multivariate analysis identified heavy smoking history ([SHR]: 1.47, 95 % confidence interval [CI]: 1.07-2.30, p = 0.02), first status of multiple primary lung cancer (MPLC), defined as ≥ 2 synchronous tumors at baseline (SHR: 1.88, 95 % CI: 1.25-2.85, p = 0.002), and higher consolidation-to-tumor ratio (CTR) (SHR: 2.40, 95 % CI: 1.67-3.47, p < 0.001) as independent risk factors. Among 1,292 (24.5 %) patients assessed for genetic mutations, 699 (13.2 %) harbored at least one clinically targetable driver mutation; however, mutation status did not affect risk of second primary LC (p = 0.46).\n\nCONCLUSIONS: Heavy smoking history, first status of MPLC, and higher CTR increase the risk of second primary LC; mutation status does not. Patients with these features require intensified, long-term surveillance."
     },
     {
       "pmid": "40983284",
@@ -365,27 +182,6 @@
       "abstract": "BACKGROUND: Non-communicable diseases (NCDs) have received substantial policy attention globally and in most countries. Our aim was to quantify how much NCD mortality changed from 2010 to 2019 in different countries, especially compared with the preceding decade and with the best-performing country in each region, and the specific NCD causes of death that contributed to change.\n\nMETHODS: We used data on NCD mortality by sex, age group, and underlying cause of death for 185 countries and territories from the 2021 WHO Global Health Estimates. Our primary outcome was the probability of dying from an NCD between birth and age 80 years in the absence of competing causes of death, and was calculated using age-specific death rates from NCDs and lifetable methods. We calculated change in the probability of death as the difference between values in the final and first year of each period (2001-10 and 2010-19). For 51 countries with high-quality mortality data and 12 countries with large populations within their region, we used the Horiuchi method of decomposition to calculate how much specific causes of death and 5-year age groups contributed towards: (1) increases or decreases in NCD mortality from 2010 to 2019; (2) improvements or deteriorations compared with the preceding decade (2001-10); and (3) differences from the country that had the largest reduction in each region.\n\nFINDINGS: From 2010 to 2019, the probability of dying from an NCD between birth and age 80 years decreased in 152 (82%) of 185 countries for females and in 147 (79%) countries for males; it increased in the remaining 33 (18%) countries for females and 38 (21%) countries for males. The countries where NCD mortality declined for females accounted for 72% of the world female population in 2019, and those where NCD mortality declined for males accounted for 73% of the world male population. NCD mortality declined in all high-income western countries, with Denmark experiencing the largest decline for both sexes and the USA experiencing the smallest decline. Among the largest countries in other regions, NCD mortality declined for both sexes in China, Egypt, Nigeria, Russia, and Brazil, and increased for both sexes in India and Papua New Guinea. On average, females in countries in the central Asia, Middle East and north Africa region had the greatest reduction in NCD mortality followed by those in central and eastern Europe. For males, the largest reduction was among countries in central and eastern Europe, followed by those in central Asia, Middle East and north Africa. The smallest declines were those in the Pacific Island nations. Circulatory diseases were the greatest contributors to declines in NCD mortality from 2010 to 2019 in most countries, with some cancers (eg, stomach and colorectal cancers for both sexes, cervical and breast cancers for females, and lung and prostate cancers for males) also contributing towards lower NCD mortality in 2019 than in 2010 in many countries. Neuropsychiatric conditions and pancreatic and liver cancers contributed towards higher NCD mortality from 2010 to 2019 in most countries. In some countries, NCD mortality in working and older (≥65 years) ages changed in the same direction leading to large overall declines or increases; in others, it changed in opposite directions, diminishing the magnitude of the overall change. In 75 (41%) of 185 countries for females and in 73 (39%) countries for males, the change in NCD mortality from 2010 to 2019 was an improvement (ie, larger decline, smaller increase, or reversal of an increase) compared with the change from 2001 to 2010. These countries accounted for 29% and 63% of the world female and male population, respectively, and included both sexes in Russia and Egypt, and males in China, India, and Brazil. Decadal changes saw a deterioration (ie, smaller decline, larger increase, or reversal of a decline) in the remaining 110 (59%) countries for females and 112 (61%) countries for males, including in both sexes in the USA, Nigeria, and Papua New Guinea, and females in China, India, and Brazil. Change from 2010 to 2019 saw deterioration in direction or size compared with the preceding decade for both sexes in most high-income western countries, most countries in Latin America and the Caribbean, and in east and southeast Asia, and for females in south Asia. There was a decadal improvement in the direction or size of change for many countries in central and eastern Europe (eg, Russia) and central Asia, and in parts of the Middle East and north Africa. Improvements or deteriorations in the direction or size of change in NCD mortality between the two decades resulted from multiple NCD causes of death. Among causes of death, the decline in mortality from circulatory diseases was smaller from 2010 to 2019 than from 2001 to 2010 in most countries, except in countries in central and eastern Europe and some countries in central Asia, where these declines were larger from 2010 to 2019 than from 2001 to 2010. Change in lung cancer saw a decadal improvement in many countries, especially for males, and many other cancers saw a mix of improvement and deterioration.\n\nINTERPRETATION: From 2010 to 2019, NCD mortality declined in four of every five countries in the world. These improvements were not as large as the preceding decade for most countries, driven by smaller declines in mortality from multiple NCDs.\n\nFUNDING: UK Medical Research Council, UK National Institute for Health and Care Research, and NCD Alliance."
     },
     {
-      "pmid": "40706016",
-      "doi": "10.1200/JCO-25-00363",
-      "title": "Phase I Dose-Escalation Results for the Delta-Like Ligand 3/CD3 IgG-Like T-Cell Engager Obrixtamig (BI 764532) in Patients With Delta-Like Ligand 3+ Small Cell Lung Cancer or Neuroendocrine Carcinomas.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-09-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1200/jco-25-00363",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40706016/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-00363",
-      "abstract": "PURPOSE: We report phase I results for obrixtamig (BI 764532), a delta-like ligand 3 (DLL3)/CD3 IgG-like T-cell engager, in patients with previously treated DLL3-positive small cell lung cancer (SCLC), extrapulmonary neuroendocrine carcinomas (epNECs), or large cell neuroendocrine carcinoma of the lung (LCNEC-L).\n\nMETHODS: Patients received escalating intravenous obrixtamig doses using four regimens: a fixed dose once every 3 weeks (A); a fixed dose once weekly (B1); a step-up dose once weekly for two weeks and target dose once weekly (B2); and a step-up dose once weekly for 3 weeks, target dose once weekly for 3 weeks, and once every 3 weeks thereafter (B3). The primary objective was maximum tolerated dose (MTD). Secondary objectives included safety, pharmacokinetics, and tumor response (RECIST v1.1).\n\nRESULTS: As of February 21, 2024, 168 patients received obrixtamig, 72% received ≥2 lines of previous anticancer therapy, and 51% received previous anti-PD-1/PD-L1 therapy. Seven dose-limiting toxicities occurred during MTD evaluation (Regimen A, n = 1; Regimen B2, n = 6). MTD was not reached. The most common treatment-related adverse event was cytokine release syndrome (any grade: 57%; grade ≥3: 3%); most cases occurred early and were reversible. Across all doses, regimens, and tumor types, the overall response rate (ORR) was 23% (95% CI, 17.4% to 30.2%), the median duration of response (DoR) was 8.5 months (95% CI, 6.2 to not reached), and the 6-month DoR rate was 70% (95% CI, 53% to 88%). All patients in Regimens B2/B3 received the minimum effective dose (≥90 μg/kg once weekly or once every 3 weeks), achieving an ORR of 28% (95% CI, 20.7% to 35.9%). With Regimens B2/B3, ORRs were 21% (95% CI, 12.9% to 33.1%), 27% (95% CI, 17.4% to 39.6%), and 70% (95% CI, 39.7% to 89.2%) for SCLC, epNECs, and LCNEC-L, respectively.\n\nCONCLUSION: The demonstrated tolerability and efficacy of obrixtamig regimens, administered as step-up followed by target doses of 90-1,080 μg/kg (once weekly or once every 3 weeks), in patients with heavily pretreated DLL3-positive tumors support further exploration in SCLC, epNEC, and LCNEC-L."
-    },
-    {
       "pmid": "40973832",
       "doi": "10.1038/s41586-025-09638-z",
       "title": "Publisher Correction: Functional synapses between neurons and small cell lung cancer.",
@@ -404,46 +200,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40973832/",
       "url_doi": "https://doi.org/10.1038/s41586-025-09638-z",
       "abstract": null
-    },
-    {
-      "pmid": "40983066",
-      "doi": "10.1016/S2213-2600(25)00209-7",
-      "title": "Retifanlimab versus placebo in combination with platinum-based chemotherapy in patients with first-line non-squamous or squamous metastatic non-small-cell lung cancer (POD1UM-304): a phase 3, multiregional, placebo-controlled, double-blind, randomised study.",
-      "journal": "The Lancet. Respiratory medicine",
-      "pubdate": "2025-09-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40983066/",
-      "url_doi": "https://doi.org/10.1016/S2213-2600(25)00209-7",
-      "abstract": "BACKGROUND: Checkpoint inhibitors, including combinations with standard-of-care chemotherapy, have shown survival benefit in patients with metastatic non-small-cell lung cancer (NSCLC); however, access to these drugs varies. We aimed to evaluate the efficacy of the PD-1 inhibitor retifanlimab plus platinum-based chemotherapy as first-line treatment for non-squamous or squamous metastatic NSCLC.\n\nMETHODS: POD1UM-304 was a phase 3, multiregional, placebo-controlled, double-blind, randomised study conducted in approximately 124 hospitals and private clinical centres in 16 countries. Male and female adults aged 18 years or older with squamous or non-squamous stage IV NSCLC (staging by American Joint Committee on Cancer version 8) with Eastern Cooperative Oncology Group performance status 0 or 1 and no previous systemic therapy for metastatic NSCLC were eligible. Patients were randomly assigned (2:1) using interactive response technology to receive intravenous retifanlimab 375 mg or matching placebo on day 1 of each 21-day cycle plus standard platinum-based chemotherapy according to tumour histology for up to 2 years. Patients with non-squamous NSCLC received pemetrexed 500 mg/m\n\nFINDINGS: Between Sept 11, 2020, and March 14, 2023, 1388 patients were assessed for eligibility, 583 of whom were randomly assigned to retifanlimab plus chemotherapy (n=391) or placebo plus chemotherapy (n=192). 381 (65%) patients had non-squamous NSCLC and 202 (35%) had squamous NSCLC; 467 (80%) patients were male and 116 (20%) were female. Median age was 64 years (IQR 58-68). Median overall survival was longer in the retifanlimab plus chemotherapy group than in the placebo plus chemotherapy group (18·1 months [95% CI 16·2-21·0] vs 13·4 months [11·0-16·7]; hazard ratio 0·75 [95% CI 0·60-0·93]; p=0·0042). Overall, higher incidences of treatment-emergent adverse events that were serious (158 [41%] of 389 vs 57 [30%] of 190), grade 3 or worse (238 [61%] vs 103 [54%]), or led to retifanlimab or placebo dose delay (169 [43%] vs 67 [35%]) or discontinuation (33 [8%] vs nine [5%]) were observed in the retifanlimab plus chemotherapy group than in the placebo plus chemotherapy group. The proportions of fatal COVID-19-related treatment-emergent adverse events were similar in the retifanlimab plus chemotherapy group and the placebo plus chemotherapy group (four [1%] vs five [3%]).\n\nINTERPRETATION: Retifanlimab improved overall survival compared with placebo when added to platinum-based chemotherapy, with a safety profile that is representative of previous PD-1 and PD-L1 inhibitor-chemotherapy combinations. Adding retifanlimab to first-line chemotherapy could be a potential treatment option for patients with squamous or non-squamous metastatic NSCLC.\n\nFUNDING: Incyte."
-    },
-    {
-      "pmid": "40976544",
-      "doi": "10.1016/j.jtcvs.2025.09.017",
-      "title": "TROPION-Lung12: A phase 3 study of adjuvant datopotamab deruxtecan and rilvegostomig in ctDNA-positive or high-risk pathology stage I NSCLC.",
-      "journal": "The Journal of thoracic and cardiovascular surgery",
-      "pubdate": "2025-09-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40976544/",
-      "url_doi": "https://doi.org/10.1016/j.jtcvs.2025.09.017",
-      "abstract": "OBJECTIVE: Five-year disease recurrence rates for patients with stage I non-small cell lung cancer (NSCLC) post-surgery are variable (15%-40%). There is an urgent need for novel biomarker strategies to identify high-risk patients who may benefit from adjuvant treatment. High-risk pathological features, including high-grade histology and lymphovascular or visceral pleural invasion, serve as independent risk factors for worse outcomes. Pre-operative circulating tumor DNA (ctDNA) detection is also correlated with poorer outcomes in stage I NSCLC. Datopotamab deruxtecan (Dato-DXd), an antibody-drug conjugate composed of a humanized anti-TROP2 antibody conjugated to a potent topoisomerase I inhibitor via a plasma-stable linker, and rilvegostomig, an Fc-reduced, monovalent, bispecific, humanized IgG1 antibody targeting both PD-1 and TIGIT receptors, have shown promise in NSCLC studies. Combining Dato-DXd with rilvegostomig may improve treatment outcomes in select patients with stage I NSCLC.\n\nMETHODS: TROPION-Lung12 (NCT06564844) is a phase 3, randomized study enrolling approximately 660 patients with stage I adenocarcinoma without actionable genomic alterations who have undergone complete surgical resection. Eligible patients must have pre-operative ctDNA-positive status or ≥1 high-risk pathological feature(s). Patients will be randomized 2:1:2 to receive Dato-DXd (6 mg/kg IV Q3W) plus rilvegostomig (750 mg IV Q3W) for 4 cycles followed by rilvegostomig (up to 12 months/18 cycles total); rilvegostomig alone (up to 12 months/18 cycles total); or standard of care (SoC) for up to 12 months. The primary endpoint is disease-free survival assessed using blinded independent central review per RECIST v1.1, with key secondary endpoints including overall survival, for Dato-DXd plus rilvegostomig vs SoC arms."
     }
   ]
 }
