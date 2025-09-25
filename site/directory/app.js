@@ -1,84 +1,119 @@
-// =====================
-// Einstellungen
-// =====================
+// site/directory/app.js
 
-// Wenn dein Publish-Root "site/" ist, liegt contacts.example.json unter /directory/… (ohne /site Präfix)
-const CONTACTS_URL = "/directory/contacts.example.json";
+// --- Datenquellen ------------------------------------------------------------
+const PRIMARY_URL  = '/directory/contacts.json';
+const FALLBACK_URL = '/directory/contacts.example.json';
 
-// Felder, die durchsucht werden
-const SEARCH_FIELDS = [
-  "salutation", "firstName", "lastName", "fullName",
-  "department1", "department2", "position",
-  "phoneWork", "phoneWork2", "mobile", "fax", "phoneOther", "pager",
-  "emailDisplay"
-];
-
-let CONTACTS = [];
-let FILTERED = [];
-
-// =====================
-// Utilities
-// =====================
-
-const norm = (v) => (v ?? "").toString().trim().toLowerCase();
-
-function escapeHtml(s) {
-  return (s || "").replace(/[&<>"']/g, m => ({
-    "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#039;"
-  }[m]));
+// --- Utilities ----------------------------------------------------------------
+function esc(s){
+  return String(s ?? '')
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;')
+    .replace(/'/g,'&#39;');
 }
 
-function telHref(val) {
-  return `tel:${(val || "").toString().replace(/[^+\d]/g, "")}`;
+async function fetchContacts() {
+  let res = await fetch(PRIMARY_URL, { cache: 'no-store' });
+  if (!res.ok) res = await fetch(FALLBACK_URL, { cache: 'no-store' });
+  if (!res.ok) throw new Error('Konnte contacts.json nicht laden');
+  const data = await res.json();
+  return Array.isArray(data) ? data : (data.items || []);
 }
 
-function debounce(fn, delay = 150) {
-  let t;
-  return (...args) => {
-    clearTimeout(t);
-    t = setTimeout(() => fn.apply(null, args), delay);
-  };
+// --- Rendering ----------------------------------------------------------------
+function card(x) {
+  return `
+    <article class="bg-white border rounded-xl p-4 shadow-sm">
+      <div class="flex justify-between gap-3">
+        <div class="min-w-0">
+          <h2 class="font-semibold truncate">${esc(x.name || '')}</h2>
+          <p class="text-sm text-neutral-600">
+            ${esc(x.role || '')}${x.team ? ` · ${esc(x.team)}` : ''}${x.room ? ` · Raum ${esc(x.room)}` : ''}
+          </p>
+          <div class="mt-2 text-sm flex flex-wrap gap-3">
+            ${x.phone  ? `<span>☎️ <a class="underline" href="tel:${esc(x.phone)}">${esc(x.phone)}</a></span>` : ''}
+            ${x.mobile ? `<span>📱 <a class="underline" href="tel:${esc(x.mobile)}">${esc(x.mobile)}</a></span>` : ''}
+            ${x.pager  ? `<span>📟 ${esc(x.pager)}</span>` : ''}
+            ${x.email  ? `<span>✉️ <a class="underline" href="mailto:${esc(x.email)}">${esc(x.email)}</a></span>` : ''}
+          </div>
+        </div>
+        <button class="text-sm border rounded-lg px-3 py-2 self-start"
+                data-copy="${esc(x.phone || x.mobile || '')}">
+          Nummer kopieren
+        </button>
+      </div>
+    </article>
+  `;
 }
 
-// =====================
-// Laden & Initialisieren
-// =====================
+// --- Hauptlogik ---------------------------------------------------------------
+async function load() {
+  // DOM
+  const elQ = document.getElementById('q');
+  const elT = document.getElementById('team');
+  const elL = document.getElementById('list');
+  const elC = document.getElementById('copyAll');
 
-async function loadContacts() {
-  // Robust: mehrere Kandidatenpfade testen (optional)
-  const candidates = [
-    new URL(CONTACTS_URL, window.location.origin).toString(),
-    new URL("/site/directory/contacts.example.json", window.location.origin).toString()
-  ];
+  // Daten
+  const items = await fetchContacts();
 
-  let data = null, usedUrl = null;
-  for (const u of candidates) {
-    try {
-      const res = await fetch(u, { cache: "no-store" });
-      if (res.ok) {
-        data = await res.json();
-        usedUrl = u;
-        console.info("[contacts] geladen von:", usedUrl);
-        break;
+  // Teams in Dropdown füllen
+  const teams = [...new Set(items.map(x => x.team).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'de'));
+  for (const t of teams) {
+    const opt = document.createElement('option');
+    opt.value = t; opt.textContent = t;
+    elT.appendChild(opt);
+  }
+
+  function getFiltered() {
+    const q = (elQ.value || '').toLowerCase().trim();
+    const t = elT.value || '';
+
+    return items.filter(x => {
+      if (t && (x.team || '') !== t) return false;
+      if (!q) return true;
+      const hay = [
+        x.name, x.role, x.team, x.room, x.phone, x.mobile, x.pager, x.email
+      ].map(v => (v || '').toString().toLowerCase()).join(' ');
+      return hay.includes(q);
+    });
+  }
+
+  function render() {
+    const arr = getFiltered();
+    elL.innerHTML = arr.map(card).join('');
+  }
+
+  // Suche / Filter
+  elQ.addEventListener('input', render);
+  elT.addEventListener('change', render);
+
+  // „Alle Nummern kopieren“ (aus dem aktuell gefilterten Set)
+  if (elC) elC.addEventListener('click', ()=>{
+    const nums = getFiltered().map(x => x.phone || x.mobile).filter(Boolean);
+    if (nums.length) navigator.clipboard.writeText(nums.join('\n'));
+  });
+
+  // Delegiertes Copy-Handling pro Karte (nur 1x binden)
+  if (!window.__dirCopyBound) {
+    document.addEventListener('click', (ev)=>{
+      const btn = ev.target.closest('button[data-copy]');
+      if (!btn) return;
+      const num = btn.getAttribute('data-copy');
+      if (num) {
+        navigator.clipboard.writeText(num);
+        btn.textContent = 'Kopiert!';
+        setTimeout(()=>{ btn.textContent = 'Nummer kopieren'; }, 900);
       }
-    } catch (e) {
-      // next
-    }
+    });
+    window.__dirCopyBound = true;
   }
 
-  if (!data) {
-    const container = document.querySelector("#contactsList");
-    if (container) {
-      container.innerHTML = `<div class="p-4 error-hint">Fehler beim Laden der Kontakte. Geprüfte Pfade:<br>${candidates.map(c => `<code>${escapeHtml(c)}</code>`).join("<br>")}</div>`;
-    }
-    throw new Error("Konnte keine contacts.example.json laden.");
-  }
-  
-  // --- NEU: Eintragen-Panel toggeln
-  const elAdd   = document.getElementById('addEntry');
-  const elPanel = document.getElementById('addPanel');
-  const elCancel= document.getElementById('cancelAdd');
-  const form    = document.forms['phone-entry'];
+  // ---- Eintragen-Panel + Netlify-Forms --------------------------------------
+  const elAdd    = document.getElementById('addEntry');
+  const elPanel  = document.getElementById('addPanel');
+  const elCancel = document.getElementById('cancelAdd');
+  const form     = document.forms['phone-entry'];
 
   function togglePanel(show) {
     if (!elPanel) return;
@@ -88,7 +123,6 @@ async function loadContacts() {
   if (elAdd)    elAdd.addEventListener('click', ()=> togglePanel(true));
   if (elCancel) elCancel.addEventListener('click', ()=> togglePanel(false));
 
-  // Netlify-Form via AJAX einsenden (bleibt auf der Seite)
   function encode(data) {
     return Object.keys(data)
       .map(k => encodeURIComponent(k) + '=' + encodeURIComponent(data[k] ?? ''))
@@ -98,22 +132,21 @@ async function loadContacts() {
   if (form) form.addEventListener('submit', async (ev) => {
     ev.preventDefault();
     const fd = new FormData(form);
-    // Pflichtfelder (minimal)
+
     if (!(fd.get('name') && fd.get('phone'))) {
       alert('Bitte mindestens Name und Telefonnummer ausfüllen.');
       return;
     }
 
-    // Payload inkl. Netlify Form-Name
     const payload = {
       'form-name': 'phone-entry',
-      name:   fd.get('name'),
-      role:   fd.get('role'),
-      team:   fd.get('team'),
-      room:   fd.get('room'),
-      phone:  fd.get('phone'),
-      email:  fd.get('email'),
-      comment:fd.get('comment'),
+      name:    fd.get('name'),
+      role:    fd.get('role'),
+      team:    fd.get('team'),
+      room:    fd.get('room'),
+      phone:   fd.get('phone'),
+      email:   fd.get('email'),
+      comment: fd.get('comment'),
     };
 
     try {
@@ -124,7 +157,6 @@ async function loadContacts() {
       });
       if (!r.ok) throw new Error('Submit failed: ' + r.status);
 
-      // Erfolg: Formular zurücksetzen und Panel schließen
       form.reset();
       togglePanel(false);
       alert('Danke! Die Telefonnummer wurde übermittelt.');
@@ -134,188 +166,13 @@ async function loadContacts() {
     }
   });
 
-  // Defensive Normalisierung
-  CONTACTS = (Array.isArray(data) ? data : []).map((r) => {
-    const row = {};
-    for (const key of SEARCH_FIELDS) row[key] = (r?.[key] ?? "").toString();
-    if (!row.fullName) {
-      const fn = (row.firstName || "").trim();
-      const ln = (row.lastName || "").trim();
-      row.fullName = [fn, ln].filter(Boolean).join(" ").trim();
-    }
-    return row;
-  });
-
-  // Sortierung
-  CONTACTS.sort((a, b) => norm(a.fullName).localeCompare(norm(b.fullName)));
-
-  // Team-Filter befüllen
-  fillTeamFilter(CONTACTS);
-
   // Initial render
-  FILTERED = CONTACTS.slice();
-  renderList(FILTERED);
-  wireUI();
+  render();
 }
 
-// =====================
-// UI Verdrahtung
-// =====================
-
-function wireUI() {
-  const searchAll = document.querySelector("#searchAll");
-  const teamFilter = document.querySelector("#teamFilter");
-  const copyAllBtn = document.querySelector("#copyAllBtn");
-
-  if (searchAll) searchAll.addEventListener("input", debounce(applySearch, 120));
-  if (teamFilter) teamFilter.addEventListener("change", applySearch);
-  if (copyAllBtn) copyAllBtn.addEventListener("click", copyAllNumbers);
-}
-
-function fillTeamFilter(rows) {
-  const select = document.querySelector("#teamFilter");
-  if (!select) return;
-  // Teams aus department1 sammeln
-  const set = new Set();
-  rows.forEach(r => {
-    const d = (r.department1 || "").trim();
-    if (d) set.add(d);
-  });
-  const teams = Array.from(set).sort((a,b)=>a.localeCompare(b, "de"));
-  // Bestehende Optionen (Alle Teams) lassen, Rest auffüllen
-  for (const t of teams) {
-    const opt = document.createElement("option");
-    opt.value = t;
-    opt.textContent = t;
-    select.appendChild(opt);
-  }
-}
-
-// =====================
-// Suche & Filter
-// =====================
-
-function applySearch() {
-  const q = norm(document.querySelector("#searchAll")?.value || "");
-  const team = norm(document.querySelector("#teamFilter")?.value || "");
-
-  FILTERED = CONTACTS.filter((row) => {
-    const matchesText = !q || SEARCH_FIELDS.some((f) => norm(row[f]).includes(q));
-    const matchesTeam = !team || norm(row.department1) === team;
-    return matchesText && matchesTeam;
-  });
-
-  // Treffer, die mit Suchstring beginnen, nach vorne
-  if (q) {
-    const starts = [], rest = [];
-    for (const r of FILTERED) {
-      (norm(r.fullName).startsWith(q) ? starts : rest).push(r);
-    }
-    FILTERED = [...starts, ...rest];
-  }
-
-  renderList(FILTERED);
-}
-
-// =====================
-// Rendering (Listenlayout)
-// =====================
-
-function renderList(list) {
-  const container = document.querySelector("#contactsList");
-  const countEl = document.querySelector("#resultCount");
-  if (countEl) countEl.textContent = String(list?.length ?? 0);
-
-  if (!container) return;
-
-  if (!list || list.length === 0) {
-    container.innerHTML = `<div class="p-4 text-red-500">Keine Treffer.</div>`;
-    return;
-  }
-
-  container.innerHTML = list.map(renderRow).join("");
-}
-
-function renderRow(r) {
-  const name = escapeHtml(r.fullName || `${r.firstName || ""} ${r.lastName || ""}`.trim()) || "—";
-  const pos  = r.position ? `<span class="text-gray-500"> · ${escapeHtml(r.position)}</span>` : "";
-
-  const d1 = r.department1 ? `<span class="badge">${escapeHtml(r.department1)}</span>` : "";
-  const d2 = r.department2 ? `<span class="badge">${escapeHtml(r.department2)}</span>` : "";
-  const depts = (d1 || d2) ? `<div class="flex flex-wrap gap-2 mt-1">${d1}${d2}</div>` : "";
-
-  const right = [
-    linePhone("Tel", r.phoneWork),
-    linePhone("Tel2", r.phoneWork2),
-    linePhone("Mobil", r.mobile),
-    linePhone("Fax", r.fax),
-    linePhone("Weitere Nr.", r.phoneOther),
-    linePhone("Pager", r.pager),
-    lineMail("E-Mail", r.emailDisplay),
-  ].filter(Boolean).join("");
-
-  return `
-    <div class="contact-row flex items-start justify-between gap-4 p-3">
-      <div class="min-w-0">
-        <div class="font-medium truncate">${name}${pos}</div>
-        ${depts}
-        ${r.salutation ? `<div class="text-sm text-gray-500 mt-1">${escapeHtml(r.salutation)}</div>` : ""}
-      </div>
-      <div class="text-sm text-gray-700 flex flex-col gap-1 text-right">
-        ${right || `<span class="text-gray-400">—</span>`}
-      </div>
-    </div>
-  `;
-}
-
-function linePhone(label, value) {
-  if (!value) return "";
-  const valEsc = escapeHtml(value);
-  return `<div><span class="text-gray-500">${label}:</span> <a class="underline" href="${telHref(value)}">${valEsc}</a></div>`;
-}
-
-function lineMail(label, value) {
-  if (!value) return "";
-  const valEsc = escapeHtml(value);
-  return `<div><span class="text-gray-500">${label}:</span> <a class="underline" href="mailto:${valEsc}">${valEsc}</a></div>`;
-}
-
-// =====================
-// Extra: Alle Nummern kopieren
-// =====================
-
-async function copyAllNumbers() {
-  const btn = document.querySelector("#copyAllBtn");
-  try {
-    // Sammle primär die "phoneWork" der gefilterten Liste
-    const nums = FILTERED
-      .map(r => (r.phoneWork || "").trim())
-      .filter(Boolean);
-
-    const text = nums.join(", ");
-    await navigator.clipboard.writeText(text);
-
-    if (btn) {
-      const old = btn.textContent;
-      btn.textContent = "Kopiert!";
-      setTimeout(() => (btn.textContent = old || "Alle Nummern kopieren"), 1200);
-    }
-  } catch (e) {
-    console.error("Clipboard-Fehler:", e);
-    if (btn) btn.textContent = "Kopieren fehlgeschlagen";
-  }
-}
-
-// =====================
 // Start
-// =====================
-
-document.addEventListener("DOMContentLoaded", () => {
-  loadContacts().catch(err => {
-    console.error(err);
-    const container = document.querySelector("#contactsList");
-    if (container) {
-      container.innerHTML = `<div class="p-4 error-hint">Fehler beim Laden der Kontakte. Bitte Pfad prüfen: <code>${escapeHtml(CONTACTS_URL)}</code></div>`;
-    }
-  });
+load().catch((err) => {
+  console.error(err);
+  const elL = document.getElementById('list');
+  if (elL) elL.innerHTML = '<div class="text-sm text-neutral-600">Konnte Verzeichnis nicht laden.</div>';
 });
