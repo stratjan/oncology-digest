@@ -1,104 +1,64 @@
 <!doctype html>
 <html lang="de">
 <head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <meta name="robots" content="noindex, nofollow"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Telefonverzeichnis</title>
+
+  <!-- Optional: Tailwind für schnelles, sauberes Styling -->
   <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    /* Minimaler Fallback-Stil, falls Tailwind nicht lädt */
+    .container { max-width: 1100px; margin: 0 auto; padding: 1rem; }
+    .contact-row { transition: background-color .12s ease; }
+    .contact-row:hover { background-color: #f9fafb; }
+    .badge { display:inline-block; padding:.1rem .4rem; border:1px solid #e5e7eb; border-radius:.375rem; font-size:.85rem; }
+    .empty-hint, .error-hint { color: #ef4444; padding: .5rem 0; }
+    .lbl { min-width: 7rem; color: #6b7280; }
+  </style>
 </head>
-<body class="bg-neutral-50 text-neutral-900">
-  <div class="max-w-6xl mx-auto p-6">
-    <header class="mb-4">
-      <div class="flex items-center justify-between">
-        <h1 class="text-2xl font-semibold">Telefonverzeichnis</h1>
-        <a href="/" class="text-sm underline">← Zur Startseite</a>
+
+<body class="bg-gray-50 text-gray-900">
+  <header class="container">
+    <div class="flex items-center justify-between mt-6 mb-4">
+      <h1 class="text-2xl font-semibold">Telefonverzeichnis</h1>
+      <a href="/" class="text-sm underline">← Zur Startseite</a>
+    </div>
+
+    <!-- Toolbar -->
+    <div class="flex flex-wrap items-center gap-3 bg-white border border-gray-200 rounded-xl p-3">
+      <input
+        id="searchAll"
+        type="search"
+        placeholder="Suche in Name, Abteilung"
+        class="border rounded-lg px-3 py-2 w-72"
+        aria-label="Freitextsuche in allen Feldern"
+      />
+
+      <!-- Team-Filter wird von app.js aus den Daten befüllt -->
+      <select id="teamFilter" class="border rounded-lg px-3 py-2">
+        <option value="">Alle Teams</option>
+      </select>
+
+      <button id="copyAllBtn" class="border rounded-lg px-3 py-2">
+        Alle Nummern kopieren
+      </button>
+
+      <div class="text-sm text-gray-500 ml-auto">
+        <span id="resultCount">0</span> Treffer
       </div>
+    </div>
 
-      <!-- STICKY Toolbar -->
-      <div class="sticky top-0 z-40 bg-neutral-50/95 backdrop-blur border-b border-neutral-200 mt-4">
-        <div class="py-3 flex flex-wrap gap-3 items-center">
-          <input id="q" type="search" placeholder="Suchen (Name, Team, Nummer …)"
-                 class="border rounded-lg px-3 py-2 w-72"/>
+    <hr class="my-4 border-gray-200" />
+  </header>
 
-          <select id="team" class="border rounded-lg px-3 py-2">
-            <option value="">Alle Teams</option>
-          </select>
+  <main class="container">
+    <!-- Kompakte Liste mit Trennlinien -->
+    <div id="contactsList" class="bg-white border border-gray-200 rounded-xl divide-y divide-gray-200"></div>
+  </main>
 
-          <button id="copyAll" class="border rounded-lg px-3 py-2">Alle Nummern kopieren</button>
-
-          <!-- Eintragen-Button -->
-          <button id="addEntry" class="ml-auto border rounded-lg px-3 py-2 bg-amber-50 hover:bg-amber-100">
-            Telefonnummer eintragen
-          </button>
-        </div>
-      </div>
-    </header>
-
-    <!-- Eingabemaske (eingeklappt) -->
-    <section id="addPanel" class="hidden mb-6">
-      <!-- Netlify Forms -->
-      <form name="phone-entry"
-            method="POST"
-            data-netlify="true"
-            data-netlify-honeypot="bot-field"
-            class="bg-white border rounded-xl p-4 shadow-sm grid grid-cols-1 sm:grid-cols-2 gap-4">
-
-        <input type="hidden" name="form-name" value="phone-entry"/>
-        <div class="hidden">
-          <label>Bitte leer lassen: <input name="bot-field"/></label>
-        </div>
-
-        <div>
-          <label class="block text-sm font-medium mb-1">Name</label>
-          <input name="name" required class="border rounded-lg px-3 py-2 w-full"/>
-        </div>
-
-        <div>
-          <label class="block text-sm font-medium mb-1">Funktion</label>
-          <input name="role" class="border rounded-lg px-3 py-2 w-full"/>
-        </div>
-
-        <div>
-          <label class="block text-sm font-medium mb-1">Abteilung / Team</label>
-          <input name="team" class="border rounded-lg px-3 py-2 w-full"/>
-        </div>
-
-        <div>
-          <label class="block text-sm font-medium mb-1">Raum</label>
-          <input name="room" class="border rounded-lg px-3 py-2 w-full"/>
-        </div>
-
-        <div>
-          <label class="block text-sm font-medium mb-1">Telefonnummer</label>
-          <input name="phone" required class="border rounded-lg px-3 py-2 w-full"/>
-        </div>
-
-        <div>
-          <label class="block text-sm font-medium mb-1">E-Mail (optional)</label>
-          <input type="email" name="email" class="border rounded-lg px-3 py-2 w-full"/>
-        </div>
-
-        <div class="sm:col-span-2">
-          <label class="block text-sm font-medium mb-1">Kommentar (optional)</label>
-          <textarea name="comment" rows="3" class="border rounded-lg px-3 py-2 w-full"></textarea>
-        </div>
-
-        <div class="sm:col-span-2 flex gap-3 justify-end">
-          <button type="button" id="cancelAdd" class="border rounded-lg px-3 py-2">Abbrechen</button>
-          <button type="submit" class="border rounded-lg px-3 py-2 bg-emerald-50 hover:bg-emerald-100">Senden</button>
-        </div>
-
-        <p class="sm:col-span-2 text-xs text-neutral-500">
-          Hinweis: Die Eingabe wird als Formular an das Team übermittelt (Betreff: „neue Telefonnummer“) und in Netlify Forms gespeichert.
-        </p>
-      </form>
-    </section>
-
-    <!-- Liste -->
-    <main id="list" class="grid gap-4"></main>
-  </div>
-
-  <script src="/directory/app.js"></script>
+  <!-- Script: Pfad ggf. anpassen (z. B. "./app.js", wenn im selben Ordner) -->
+  <script src="./app.js"></script>
 </body>
 </html>
