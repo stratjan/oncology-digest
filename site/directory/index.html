@@ -53,6 +53,69 @@
     <hr class="my-4 border-gray-200" />
   </header>
 
+  
+    <!-- NEU: Eingabemaske (eingeklappt) -->
+    <section id="addPanel" class="hidden mb-6">
+      <!-- Netlify Forms: Sichtbares Formular -->
+      <form name="phone-entry"
+            method="POST"
+            data-netlify="true"
+            data-netlify-honeypot="bot-field"
+            class="bg-white border rounded-xl p-4 shadow-sm grid grid-cols-1 sm:grid-cols-2 gap-4">
+
+        <!-- Netlify benötigt den form-name im Payload -->
+        <input type="hidden" name="form-name" value="phone-entry"/>
+        <!-- Honeypot gegen Bots -->
+        <div class="hidden">
+          <label>Bitte leer lassen: <input name="bot-field"/></label>
+        </div>
+
+        <div>
+          <label class="block text-sm font-medium mb-1">Name</label>
+          <input name="name" required class="border rounded-lg px-3 py-2 w-full"/>
+        </div>
+
+        <div>
+          <label class="block text-sm font-medium mb-1">Funktion</label>
+          <input name="role" class="border rounded-lg px-3 py-2 w-full"/>
+        </div>
+
+        <div>
+          <label class="block text-sm font-medium mb-1">Abteilung / Team</label>
+          <input name="team" class="border rounded-lg px-3 py-2 w-full"/>
+        </div>
+
+        <div>
+          <label class="block text-sm font-medium mb-1">Raum</label>
+          <input name="room" class="border rounded-lg px-3 py-2 w-full"/>
+        </div>
+
+        <div>
+          <label class="block text-sm font-medium mb-1">Telefonnummer</label>
+          <input name="phone" required class="border rounded-lg px-3 py-2 w-full"/>
+        </div>
+
+        <div>
+          <label class="block text-sm font-medium mb-1">E-Mail (optional)</label>
+          <input type="email" name="email" class="border rounded-lg px-3 py-2 w-full"/>
+        </div>
+
+        <div class="sm:col-span-2">
+          <label class="block text-sm font-medium mb-1">Kommentar (optional)</label>
+          <textarea name="comment" rows="3" class="border rounded-lg px-3 py-2 w-full"></textarea>
+        </div>
+
+        <div class="sm:col-span-2 flex gap-3 justify-end">
+          <button type="button" id="cancelAdd" class="border rounded-lg px-3 py-2">Abbrechen</button>
+          <button type="submit" class="border rounded-lg px-3 py-2 bg-emerald-50 hover:bg-emerald-100">Senden</button>
+        </div>
+
+        <p class="sm:col-span-2 text-xs text-neutral-500">
+          Hinweis: Die Eingabe wird an das Team übermittelt (Betreff: „neue Telefonnummer“) und lokal gespeichert (Netlify Forms).
+        </p>
+      </form>
+    </section>
+
   <main class="container">
     <!-- Kompakte Liste mit Trennlinien -->
     <div id="contactsList" class="bg-white border border-gray-200 rounded-xl divide-y divide-gray-200"></div>
