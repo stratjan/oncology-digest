@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-29T05:17:53.693202Z",
+  "generated": "2025-09-30T05:16:42.916403Z",
   "items": [
     {
       "pmid": "40996757",
@@ -20,26 +20,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40996757/",
       "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3320",
       "abstract": null
-    },
-    {
-      "pmid": "40986428",
-      "doi": "10.1158/2159-8290.CD-24-1417",
-      "title": "EML4-ALK variant-specific genetic interactions shape lung tumorigenesis.",
-      "journal": "Cancer discovery",
-      "pubdate": "2025-09-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 7.283,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40986428/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-24-1417",
-      "abstract": "Diverse fusions of EML4 and ALK are oncogenic drivers in lung adenocarcinomas. EML4-ALK variants have distinct breakpoints within EML4, but their functional differences remain poorly understood. Here, we use somatic genome editing to generate autochthonous mouse models of EML4-ALK-driven lung tumors and show that V3 is more oncogenic than V1. By employing multiplexed genome editing and quantifying the effects of 29 putative tumor suppressor genes on V1- and V3-driven lung cancer growth, we show that many tumor suppressor genes have variant-specific effects on tumorigenesis. Pharmacogenomic analyses further suggest that tumor genotype can influence therapeutic responses. Analysis of human EML4-ALK-positive lung cancers also identified variant-specific differences in their genomic landscapes. These findings suggest that EML4-ALK variants behave more like distinct oncogenes rather than a uniform entity and highlight the dramatic impact of oncogenic fusion partner proteins and coincident tumor suppressor gene alterations on the biology of oncogenic fusion-driven cancers."
     },
     {
       "pmid": "40991405",
@@ -144,6 +124,27 @@
       "abstract": "INTRODUCTION: Non-small cell lung cancer (NSCLC) represents approximately 85 % of lung cancers, with five-year survival only 4.5 % for metastatic disease. Programmed death (ligand)-1 (PD-[L]1) inhibitors have advanced NSCLC treatment, but patient demographics can potentially affect clinical outcomes. This systematic literature review and meta-analysis were undertaken to determine if the benefits of anti-PD-(L)1 therapies in NSCLC are independent of race (bio-geographic background).\n\nMETHODS: PubMed, Embase, Cochrane Library and World Health Organization Global Index Medicus were systematically searched (inception-to-Aug-2024). Primary analysis focused on studies with subgroup analysis (White vs Asian, White vs Non-White, Asian vs Non-Asian) of anti-PD-(L)1 efficacy in both resectable/localized and unresectable/advanced NSCLC. Subgroup analysis included stratification by PD-L1 expression, treatment line, and treatment regimen. Bayesian inferential meta-analysis was performed for outcomes with ≥ 1 study.\n\nRESULTS: From 4406 records, 22 randomized controlled trials, 3 pooled analyses, and 2 pharmacokinetic studies were included. In unresectable/advanced NSCLC, anti-PD-(L)1 therapy significantly improved overall survival and progression-free survival (PFS) for White (hazard ratio [HR] 0.80; 95 % credible interval [95 % CrI] 0.74-0.87, p < 0.001 and HR 0.68; 95 % CrI 0.61-0.77, p < 0.001, respectively) and Asian (HR 0.81; 95 % CrI 0.69-0.96, p = 0.027 and HR 0.63; 95 % CrI 0.50-0.80, p = 0.002) patients. The significant improvements in PFS were maintained for both groups within all sub-analyses. Limited data prohibited conduction of meta-analysis for resectable/localized NSCLC.\n\nCONCLUSIONS: The benefits of anti-PD-(L)1 therapy in unresectable/advanced NSCLC appear similar for White and Asian patients. Increased quality and quantity of data is required to draw definitive conclusions for resectable/localized NSCLC and with respect to treatment line/regimen and PD-L1 expression."
     },
     {
+      "pmid": "40581545",
+      "doi": "10.1016/j.critrevonc.2025.104821",
+      "title": "Resistance mechanisms in anaplastic lymphoma kinase-positive lung cancer.",
+      "journal": "Critical reviews in oncology/hematology",
+      "pubdate": "2025-10-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.82,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40581545/",
+      "url_doi": "https://doi.org/10.1016/j.critrevonc.2025.104821",
+      "abstract": "Non-small cell lung cancer has been discovered to have many unique molecular subsets that are associated with different phenotypic behaviors and overall prognoses. In particular, anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancers (NSCLCs) have distinctive presentations and disease courses. Patients with ALK NSCLC are typically younger, have significantly less smoking exposure, and often experience prolonged survival. When patients recur, drug-tolerant persister (DTP) cells may be implicated in disease recurrence. In this review we will discuss the phenomenon of DTP related to ALK NSCLC, possible mechanistic explanations and potential treatment strategies to eliminate DTPs."
+    },
+    {
       "pmid": "40684711",
       "doi": "10.1016/j.ejrad.2025.112290",
       "title": "Comparison of nodule volumetric classification by using two different nodule segmentation algorithms in an LDCT lung cancer baseline screening dataset.",
@@ -162,6 +163,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40684711/",
       "url_doi": "https://doi.org/10.1016/j.ejrad.2025.112290",
       "abstract": "OBJECTIVES: To investigate the performance of two segmentation algorithms for nodule volumetric classification at participant/scan level in the NELCIN-B3 cohort (Netherlands and China Big-3), a lung cancer screening program (LCS) using low-dose CT (LDCT).\n\nMETHODS: Baseline scans with qualified LDCT images from consecutive NELCIN-B3 participants were included from June 2017 to July 2018. Performance of two software algorithms were independently evaluated by two radiologists: software A (Syngo.via VB30A) by reader 1 and software B (AVIEW v1.1.39.14) by reader 2. According to the NELSON2.0 protocol, nodules with a solid component ≥ 100 mm\n\nRESULTS: In total, 300 participants were evaluated comprising 159 women (53.0 %) and 193 (64.3 %) never smokers, with a mean ± standard deviation age of 61.2 ± 7.1 years. There were disagreements in 17 cases: in 11 (11/300, 3.7 %), this was due to differences in nodule selection and nodule type classification between readers; and in 6 (6/300, 2.0 %), this was due to variations in nodule volume metrics between algorithms. Inter-software agreement was almost perfect (κ = 0.88 [95 %CI: 0.83-0.93]). In the consensus read, reader 1/software A generated 12 misclassifications (11 PM, 1 NM), giving a negative predictive value of 99.6 % (95 % CI: 98.9 %-100.0 %). Reader 2/software B generated 5 misclassifications (2 PM, 3 NM), giving a negative predictive value of 98.9 % (95 % CI: 97.7 %-100.0 %).\n\nCONCLUSION: Two software algorithms (Syngo.via VB30A and AVIEW v1.1.39.14) showed comparable performance for lung nodule volumetric classification at participant/scan level. Further research is needed to confirm the results in other LDCT LCS programs."
+    },
+    {
+      "pmid": "40168159",
+      "doi": "10.1080/17581966.2025.2477411",
+      "title": "The association between blood-based HYAL2 methylation and early-stage lung cancer: a case-control study.",
+      "journal": "Lung cancer management",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1080/17581966.2025.2477411",
+      "metric_name": "SJR",
+      "metric_value": 0.506,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
+      "url_doi": "https://doi.org/10.1080/17581966.2025.2477411",
+      "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
     },
     {
       "pmid": "41004707",
@@ -222,26 +243,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40995949/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2560225",
       "abstract": "AIM: The global phase III RELAY trial demonstrated the efficacy of ramucirumab (RAM) plus erlotinib (ERL) in patients with untreated metastatic epidermal growth factor receptor (\n\nMETHODS: Patients were randomized (1:1) to RAM (10 mg/kg) or placebo (PL) intravenously every 2 weeks plus 150 mg/day ERL orally. Primary endpoint was progression-free survival (reported elsewhere). This report describes response rates, study drug exposure, dose adjustments, safety, and post-study treatment discontinuation therapies in Japanese elderly patients (RAM+ERL, n = 12; PL+ERL, n = 17).\n\nRESULTS: Overall response rate was similar in RAM+ERL (83.3%) and PL+ERL (82.4%) arms. Median treatment duration of RAM and ERL was 6.0 and 15.4 months, respectively. Most patients had RAM and/or ERL dose adjustments. Adverse events, including grade ≥ 3 events, were similar in both treatment arms, although proteinuria occurred exclusively in the RAM+ERL arm (six patients; no grade ≥ 3 events). All patients received subsequent therapy after first-line study treatment; various subsequent therapies were used.\n\nCONCLUSION: These results suggest that RAM+ERL may be a suitable first-line treatment option for elderly patients with\n\nCLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov identifier is NCT02411448."
-    },
-    {
-      "pmid": "41005236",
-      "doi": "10.1016/j.lungcan.2025.108753",
-      "title": "An umbrella review of meta-analyses on smoking cessation and cancer survival: a brief report.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-09-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41005236/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108753",
-      "abstract": "Smoking cessation at or around the time of cancer diagnosis is associated with significant improvements in survival across multiple tumor types. This umbrella review of 12 meta-analyses demonstrates that patients who quit smoking post-diagnosis have a 15-29% reduction in mortality in lung cancer, a 20% reduction in head and neck cancers, and a 24% reduction in colorectal cancer. Suggestive benefits were also observed in breast, bladder, and gastrointestinal cancers. The strongest evidence supports the prognostic value of cessation in lung and colorectal cancers. These findings underscore the clinical importance of integrating structured tobacco cessation interventions into routine oncologic care, not only for long-term disease prevention but also to improve survival outcomes in patients already diagnosed with cancer. Despite the consistency of benefit, cessation support remains underutilized in oncology settings. Addressing this gap represents a critical and actionable step toward improving cancer prognosis with minimal toxicity and high cost-effectiveness."
     }
   ]
 }
