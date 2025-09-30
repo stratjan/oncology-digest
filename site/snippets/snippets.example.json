@@ -28,6 +28,23 @@
   "body": "Tarlatamab ist ein bispezifischer T-Zell-Engager (BiTE®), der spezifisch an DLL3 (Delta-like Ligand 3), ein auf kleinzelligen Lungenkarzinomen (SCLC) stark exprimiertes Oberflächenprotein, sowie an CD3-Rezeptoren auf T-Lymphozyten bindet. Durch die simultane Bindung wird eine zielgerichtete T-Zell-vermittelte Zytotoxizität gegen DLL3-exprimierende Tumorzellen induziert.\n\nDie Therapie erfolgt als intravenöse Infusion. Aufgrund des Risikos für immunvermittelte Nebenwirkungen, insbesondere Zytokinfreisetzungssyndrom (CRS) und neurotoxische Ereignisse einschließlich ICANS (immune effector cell-associated neurotoxicity syndrome), ist die Gabe der ersten Zyklen stationär unter engmaschiger klinischer und laborchemischer Überwachung erforderlich.\n\nDie wichtigsten Nebenwirkungen umfassen CRS (häufig Grad 1–2, selten höhergradig), neurologische Ereignisse (u. a. Kopfschmerzen, Verwirrtheit, Tremor, selten ICANS), Zytopenien (Neutropenie, Anämie, Thrombozytopenie), sowie gastrointestinale Symptome (Übelkeit, Appetitverlust). Weitere berichtete Nebenwirkungen sind Fatigue, Infektionen, Hypotonie und Transaminasenerhöhungen."
 },
   {
+  "id": "tb-0001",
+  "title": "Gezieltes Absetzen der Immuncheckpoint-Blockade bei kompletter metabolischer Remission",
+  "author": "J. Stratmann",
+  "entity": "NSCLC",
+  "timepoint": "Therapiekontrolle nach ca. 24 Monaten ICI",
+  "protocol": "—",
+  "created": "2025-09-23T08:00:00Z",
+  "updated": "2025-09-30T08:00:00Z",
+  "tags": [
+    "Immuntherapie",
+    "Therapieabbruch",
+    "Komplette metabolische Remission",
+    "PET/CT"
+  ],
+  "text": "Bei Patientinnen und Patienten mit fortgeschrittenem NSCLC, die unter Immuncheckpoint-Inhibition eine langanhaltende Remission erreicht haben, ist ein gezieltes Absetzen der Therapie nach etwa 24 Monaten in Erwägung zu ziehen, sofern eine komplette metabolische Remission in der FDG-PET/CT dokumentiert ist. Diese Strategie stützt sich auf die Beobachtung, dass das Fortschreiten der Erkrankung bei Vorliegen einer CMR nur selten auftritt, während durch ein Absetzen späte immunvermittelte Nebenwirkungen, kumulative Toxizität, Belastungen durch Dauertherapie sowie Kosten vermieden werden können. Während in der CheckMate-153-Studie ein Abbruch bereits nach einem Jahr mit einem Nachteil im progressionsfreien Überleben verbunden war, zeigen große Real-World-Kohorten übereinstimmend, dass nach zwei Jahren Immuntherapie kein signifikanter Unterschied im Gesamtüberleben zwischen Fortführung und Absetzen besteht. Besonders günstig ist das Outcome, wenn neben einer klinisch-radiologischen Komplettremission auch eine metabolische Komplettremission vorliegt, wie durch INTEPI und weitere Kohorten gezeigt werden konnte. Unter diesen Voraussetzungen ist ein Absetzen vertretbar, vorausgesetzt die Entscheidung erfolgt interdisziplinär und unter Berücksichtigung der Patientenpräferenz. Nach Absetzen ist eine engmaschige Nachsorge erforderlich, insbesondere im ersten Jahr mit Bildgebung alle drei bis vier Monate, um mögliche Rezidive frühzeitig zu erfassen und gegebenenfalls eine Immuntherapie-Rechallenge einzuleiten."
+}, 
+  {
   "id": "tb-0018",
   "title": "Fortsetzung Watch & Wait Konzept – Kontrolle in 3 Monaten: CT u MRT",
   "author": "J. Stratmann",
@@ -39,6 +56,23 @@
   "tags": ["Therapieverlauf", "Watch & Wait", "Bildgebung", "CT"],
   "body": "Bei stabiler Tumorsituation empfehlen wir die Fortsetzung des Watch & Wait Konzeptes. \n\nEs sollte eine erneute bildgebende Kontrolle in 3 Monaten erfolgen (CT-Thorax unter Einschluss von Leber und Nebennieren). \n\nDie Befunde bitten wir sowohl schriftlich als auch in digitaler Form (z. B. CD) zur Wiedervorstellung mitzubringen."
 },
+  {
+  "id": "tb-0002",
+  "title": "Lokale Sanierung persistierender PET-avider Residuen unter fortgesetzter Immuntherapie",
+  "author": "J. Stratmann",
+  "entity": "NSCLC",
+  "timepoint": "Therapiekontrolle nach Immuncheckpoint-Blockade",
+  "protocol": "—",
+  "created": "2025-09-23T08:00:00Z",
+  "updated": "2025-09-30T08:00:00Z",
+  "tags": [
+    "Immuntherapie",
+    "Lokale Konsolidation",
+    "PET/CT",
+    "Oligoresiduelle Erkrankung"
+  ],
+  "text": "Wenn nach Immuncheckpoint-Blockade keine komplette metabolische Remission erreicht wird und in der FDG-PET/CT persistierende metabolisch aktive Residuen nachweisbar bleiben, sollte eine lokale Sanierung aller aktiven Herde geprüft werden. Zahlreiche Kohortenanalysen sowie eine Phase-II-Studie belegen, dass die chirurgische Resektion, stereotaktische Radiotherapie oder thermische Ablation der verbliebenen Läsionen mit einer Verlängerung des progressionsfreien und des Gesamtüberlebens assoziiert ist, insbesondere dann, wenn nur wenige Residuen vorliegen und eine vollständige Eradikation aller Läsionen gelingt. In diesen Konzepten wird die Immuntherapie in der Regel fortgeführt, da der Nutzen der Lokaltherapie on-top zur Systemik nachgewiesen ist. Das Vorgehen erlaubt es, die systemische Therapielinie zu konsolidieren, ohne frühzeitig wechseln zu müssen, und ist insbesondere bei Patienten mit gutem Allgemeinzustand und limitierter Krankheitsausdehnung sinnvoll. Nach erfolgter lokaler Behandlung sollte ein erneutes Staging innerhalb von acht bis zwölf Wochen erfolgen, um das Ergebnis zu überprüfen. Längsschnittdaten zeigen, dass diese Strategie auch bei Oligoprogression unter Immuntherapie ein wiederholt anwendbares Konzept darstellt. Ein Absetzen der Immuntherapie allein aufgrund der Lokaltherapie ist bislang nicht durch prospektive Daten gedeckt; bei späterer kompletter metabolischer Remission nach rund 24 Monaten kann die Option eines Absetzens erneut geprüft werden."
+}, 
   {
     "id": "tb-0002",
     "title": "Nachsorgeempfehlung nach Therapieabschluss",
