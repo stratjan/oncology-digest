@@ -1,1 +1,114 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <meta name="robots" content="noindex, nofollow"/>
+  <title>Supportivtherapie</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Druck: nur die rechte Spalte ausgeben, A4, ordentliche Ränder */
+    @media print {
+      #col-left, #col-mid, #toolbar { display: none !important; }
+      #col-right { width: 100% !important; }
+      .print-block { page-break-inside: avoid; }
+    }
+    @page { size: A4; margin: 16mm; }
+  </style>
+</head>
+<body class="bg-neutral-50 text-neutral-900">
+  <div class="max-w-[1400px] mx-auto p-6">
+
+    <header class="mb-4">
+      <div class="flex items-center justify-between">
+        <h1 class="text-2xl font-semibold">Supportivtherapie</h1>
+        <a href="/" class="text-sm underline">← Zur Startseite</a>
+      </div>
+
+      <!-- Toolbar (oben, bleibt beim Scrollen sichtbar) -->
+      <div id="toolbar" class="sticky top-0 z-40 bg-neutral-50/95 backdrop-blur border-b border-neutral-200 mt-4">
+        <div class="py-3 flex flex-wrap gap-3 items-center">
+          <button id="btnReset" class="border rounded-lg px-3 py-2">Filter zurücksetzen</button>
+          <button id="btnSelectAll" class="border rounded-lg px-3 py-2">Alle wählen (Treffer)</button>
+          <button id="btnClearSel" class="border rounded-lg px-3 py-2">Auswahl leeren</button>
+          <button id="btnPrint" class="border rounded-lg px-3 py-2 bg-emerald-50 hover:bg-emerald-100">Drucken / PDF</button>
+          <span id="meta" class="ml-auto text-sm text-neutral-600">Lade…</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- 3-Spalten-Layout -->
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <!-- Spalte L: Filter -->
+      <aside id="col-left" class="bg-neutral-100 border rounded-xl p-4 lg:sticky lg:top-20 h-fit">
+        <h2 class="text-lg font-semibold mb-3">Filter</h2>
+
+        <label class="block text-sm font-medium mb-1">Regime-Kategorie</label>
+        <select id="fRegime" class="border rounded-lg px-3 py-2 w-full mb-3">
+          <option value="">Alle</option>
+        </select>
+
+        <label class="block text-sm font-medium mb-1">Medikamentenklasse</label>
+        <select id="fClass" class="border rounded-lg px-3 py-2 w-full mb-3">
+          <option value="">Alle</option>
+        </select>
+
+        <label class="block text-sm font-medium mb-1">Fachgebiet</label>
+        <select id="fSpec" class="border rounded-lg px-3 py-2 w-full mb-3">
+          <option value="">Alle</option>
+        </select>
+
+        <label class="block text-sm font-medium mb-1">Erkrankung</label>
+        <select id="fDisease" class="border rounded-lg px-3 py-2 w-full mb-4">
+          <option value="">Alle</option>
+        </select>
+
+        <label class="block text-sm font-medium mb-1">Suche (Name/Substanz)</label>
+        <input id="fQuery" type="search" class="border rounded-lg px-3 py-2 w-full" placeholder="z. B. Ondansetron"/>
+      </aside>
+
+      <!-- Spalte M: Treffer -->
+      <section id="col-mid" class="bg-neutral-100 border rounded-xl p-4">
+        <div class="flex items-baseline justify-between">
+          <h2 class="text-lg font-semibold mb-3">Trefferliste</h2>
+          <span id="hitCount" class="text-sm text-neutral-600"></span>
+        </div>
+        <div id="results" class="grid gap-3"></div>
+      </section>
+
+      <!-- Spalte R: Druckvorschau -->
+      <section id="col-right" class="bg-white border rounded-xl p-4">
+        <h2 class="text-lg font-semibold mb-3">Druckvorschau</h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-4">
+          <div>
+            <label class="block text-sm font-medium mb-1">Titel</label>
+            <input id="pTitle" class="border rounded-lg px-3 py-2 w-full" value="Supportivmedikation"/>
+          </div>
+          <div>
+            <label class="block text-sm font-medium mb-1">Datum</label>
+            <input id="pDate" class="border rounded-lg px-3 py-2 w-full"/>
+          </div>
+          <div>
+            <label class="block text-sm font-medium mb-1">Geplante Therapie / Regime</label>
+            <input id="pRegimen" class="border rounded-lg px-3 py-2 w-full" placeholder="z. B. Pembrolizumab + Carbo/Pem"/>
+          </div>
+          <div>
+            <label class="block text-sm font-medium mb-1">Ärztin/Arzt</label>
+            <input id="pPhys" class="border rounded-lg px-3 py-2 w-full"/>
+          </div>
+        </div>
+
+        <p class="text-xs text-neutral-600 mb-4">
+          Hinweis: Die Angaben ersetzen nicht die ärztliche Rücksprache. Individuelle Anpassungen möglich.
+        </p>
+
+        <div id="preview" class="space-y-4"></div>
+      </section>
+    </div>
+  </div>
+
+  <script src="/support/app.js"></script>
+</body>
+</html>
 
