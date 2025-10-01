@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sup-001",
+    "name": "Ondansetron 8 mg",
+    "substance": "Ondansetron",
+    "class": "Antiemetikum (5-HT3)",
+    "indication": "Übelkeit/Erbrechen unter Chemotherapie",
+    "dosing": "8 mg p.o. 1–2×/Tag, 30–60 min vor Chemotherapie",
+    "max_daily": "16 mg/Tag",
+    "side_effects": "Kopfschmerz, Obstipation, QT-Verlängerung (selten)",
+    "warnings": "Bei kardialer Vorerkrankung EKG erwägen",
+    "regimen_category": "Chemotherapie",
+    "specialty": "Thoraxonkologie",
+    "disease": "NSCLC"
+  },
+  {
+    "id": "sup-002",
+    "name": "Dexamethason 4 mg",
+    "substance": "Dexamethason",
+    "class": "Glukokortikoid",
+    "indication": "Antiemese, Hypersensitivitätsprophylaxe",
+    "dosing": "4–8 mg p.o. 1–2×/Tag, schemaabhängig",
+    "max_daily": "16 mg/Tag (kurzzeitig, schemaabhängig)",
+    "side_effects": "Schlafstörung, Hyperglykämie, Stimmungsschwankungen",
+    "warnings": "Diabetiker engmaschig kontrollieren",
+    "regimen_category": "Chemotherapie",
+    "specialty": "Thoraxonkologie",
+    "disease": "SCLC"
+  },
+  {
+    "id": "sup-003",
+    "name": "Pantoprazol 40 mg",
+    "substance": "Pantoprazol",
+    "class": "PPI",
+    "indication": "Gastroprotektion bei Steroiden/NSAR",
+    "dosing": "40 mg p.o. 1×/Tag",
+    "max_daily": "40 mg/Tag",
+    "side_effects": "Kopfschmerz, Diarrhö",
+    "warnings": "Interaktionen, Hypomagnesiämie bei Langzeit",
+    "regimen_category": "Sonstige",
+    "specialty": "Thoraxonkologie",
+    "disease": "NSCLC"
+  },
+  {
+    "id": "sup-004",
+    "name": "Loperamid 2 mg",
+    "substance": "Loperamid",
+    "class": "Antidiarrhoikum",
+    "indication": "Diarrhö",
+    "dosing": "Initial 4 mg, dann 2 mg nach jedem ungeformten Stuhl (max. 8 Kapseln/Tag)",
+    "max_daily": "16 mg/Tag",
+    "side_effects": "Obstipation, Bauchschmerzen",
+    "warnings": "Bei Fieber/Blut im Stuhl ärztliche Vorstellung",
+    "regimen_category": "Zielgerichtete Therapie",
+    "specialty": "Gastroenterologie",
+    "disease": "CRC"
+  }
+]
