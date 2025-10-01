@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-30T05:16:42.916403Z",
+  "generated": "2025-10-01T05:17:21.732011Z",
   "items": [
     {
       "pmid": "40996757",
@@ -22,11 +22,31 @@
       "abstract": null
     },
     {
-      "pmid": "40991405",
-      "doi": "10.1158/0008-5472.CAN-25-1141",
-      "title": "PRT3789 is a First-in-Human SMARCA2-Selective Degrader that Induces Synthetic Lethality in SMARCA4-Mutated Cancers.",
-      "journal": "Cancer research",
-      "pubdate": "2025-09-24T00:00:00+00:00",
+      "pmid": "41022528",
+      "doi": "10.1136/jitc-2025-012423",
+      "title": "Transformer-based AI approach to unravel long-term, time-dependent prognostic complexity in patients with advanced NSCLC and PD-L1 ≥50%: insights from the pembrolizumab 5-year global registry.",
+      "journal": "Journal for immunotherapy of cancer",
+      "pubdate": "2025-09-29T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://jitc.bmj.com/content/13/9/e012423.full.pdf",
+      "metric_name": "SJR",
+      "metric_value": 4.22,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41022528/",
+      "url_doi": "https://doi.org/10.1136/jitc-2025-012423",
+      "abstract": "BACKGROUND: With nearly one-third of patients with advanced non-small cell lung cancer (NSCLC) and PD-L1 Tumor Proportion Score≥50% surviving beyond 5 years following first-line pembrolizumab, long-term outcomes challenge traditional paradigms of cancer prognostication. The emergence of non-cancer-related factors and time-dependent trends underscores the need for advanced analytical frameworks to unravel their complex interplay.\n\nMETHODS: We analyzed the Pembro-real 5Y registry, a global real-world dataset of 1050 patients treated across 61 institutions in 14 countries with a long-term follow-up and a large panel of baseline variables. Two complementary approaches were employed: ridge regression, chosen for its ability to address multicollinearity while retaining interpretability, and not another imputation method (NAIM), a transformer-based artificial intelligence model designed to handle missing data without imputation. Endpoints included risk of death at 6, 12, 24, 60 months and 5-year survival.\n\nRESULTS: The ridge regression model achieved a c-statistic of 0.66 (95% CI: 0.59 to 0.72) for the risk of death and an area under the curve (AUC) of 0.72 (95% CI: 0.65 to 0.78) for 5-year survival, identifying Eastern Cooperative Oncology Group Performance Status (ECOG-PS)≥2, increasing age, and metastatic burden as primary risk factors. However, wide CIs for some predictors highlighted statistical instability. NAIM demonstrated robust handling of missing data, with a c-index of 62.98±2.11 for risk of death and an AUC of 60.52±3.71 for 5-year survival. The comprehensive SHapley Additive exPlanations analysis revealed dynamic, time-dependent patterns, with early mortality dominated by acute factors (eg, ECOG-PS, steroids) and long-term outcomes increasingly influenced by systemic health markers (eg, absence of hypertension, increasing body mass index). Unexpected insights included the protective role of dyslipidemia (but not statins) and the nuanced impact of smoking status, reflecting evolving disease dynamics and host-tumor interplay.\n\nCONCLUSIONS: Our integrative framework illuminates the complexity of long-term outcomes in patients with NSCLC treated with pembrolizumab, uncovering dynamic, non-linear prognostication trends. This analysis provides insights into patient trajectories, emphasizing the need for holistic, long-term management strategies."
+    },
+    {
+      "pmid": "41027069",
+      "doi": "10.1016/j.esmoop.2025.105811",
+      "title": "Venous thromboembolic event risk with PARP inhibitors in solid tumors: a systematic review and meta-analysis.",
+      "journal": "ESMO open",
+      "pubdate": "2025-09-29T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
@@ -36,30 +56,30 @@
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40991405/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1141",
-      "abstract": "SMARCA2 and SMARCA4 are the core catalytic subunits of the SWI/SNF chromatin remodeling complex. Approximately 10% of non-small cell lung cancer (NSCLC) patients harbor SMARCA4 mutations, resulting in protein loss or loss-of-function (LOF) alterations. These SMARCA4-deficient cancers are highly dependent on SMARCA2 for proliferation, growth, and survival, making SMARCA2 a promising synthetic lethal target. Here, we developed and characterized PRT3789, a clinical-stage SMARCA2-selective targeted protein degrader (TPD). It induced polyubiquitination at lysine residues unique to SMARCA2 through stable ternary complex formation with the VHL E3 ligase. The selectivity was driven by interactions with an extended loop unique to SMARCA2, as revealed by structure-based analyses. PRT3789 promoted selective degradation of SMARCA2, while sparing its highly homologous paralog, SMARCA4. In SMARCA4-deficient models, SMARCA2 degradation disrupted SWI/SNF complex integrity by inducing dissociation of multiple subunits, leading to downstream transcriptional reprogramming. PRT3789 induced robust tumor growth inhibition and regression in SMARCA4-deficient models, both as monotherapy and in combination with targeted therapies or chemotherapies. In contrast, SMARCA4-wild-type models exhibited minimal response despite confirmed SMARCA2 degradation, consistent with SMARCA4 sparing and preserved SWI/SNF complex integrity. In clinical settings, PRT3789 reduced SMARCA2 protein levels in peripheral blood mononuclear cells (PBMCs) from patients with SMARCA4-mutated cancers. Initial signs of clinical activity have been observed, including RECIST-confirmed partial responses. Together, these findings demonstrate the selective targeting of SMARCA2 and the potential for a favorable therapeutic index with PRT3789. Phase I/II clinical trials with PRT3789 are ongoing in biomarker-selected patients with SMARCA4-mutated solid tumors."
+      "metric_value": 3.582,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41027069/",
+      "url_doi": "https://doi.org/10.1016/j.esmoop.2025.105811",
+      "abstract": "BACKGROUND: Poly (ADP-ribose) polymerase inhibitors (PARPi) are linked to thrombotic events, but the thrombosis risk in various cancers is unclear. This study evaluates the incidence and risk of venous thromboembolic events (VTEs) in patients with solid tumors treated with PARPi.\n\nMATERIALS AND METHODS: This meta-analysis included randomized controlled phase II and III clinical trials in which patients with prostate, breast, ovarian, pancreatic, glioblastoma, small-cell lung (SCLC), and non-small-cell lung (NSCLC) cancers were treated with PARPi as monotherapy or in combination. The primary endpoint was to assess the frequency and risk of VTEs in patients treated with PARPi, while the secondary endpoint compared the incidence across different cancer subtypes.\n\nRESULTS: The analysis included 15 008 patients from 38 studies: 8805 in the PARPi group and 6203 in the control group. There were 11 ovarian cancer (n = 4348), 8 prostate cancer (n = 3872), 9 breast cancer (n = 4448), 4 NSCLC (n = 1063), and 3 SCLC (n = 583) studies, and 1 study each for pancreatic cancer (n = 50), glioblastoma (n = 123), and gastric (n = 521) cancer. The incidence of any-grade VTEs with PARPi was observed to be 2.4%, compared with 1.6% in controls, suggesting a possible increase in risk [odds ratio (OR) 1.37, 95% confidence interval (CI) 1.00-1.88, P = 0.050]. This association appeared to be more pronounced in patients with prostate cancer (OR 1.98, 95% CI 1.06-3.70, P = 0.030) and pancreatic cancer (OR 7.22, 95% CI 1.40-37.25, P = 0.020).\n\nCONCLUSIONS: While our findings indicate a possible association between PARPi and VTE risk in certain cancer types, this risk appears to be influenced by factors such as cancer subtype and treatment combinations. The overall contribution of PARPi monotherapy to VTE risk may be limited, and the results should be interpreted with caution due to study heterogeneity, wide CIs, and the absence of patient-level data."
     },
     {
-      "pmid": "40991294",
-      "doi": "10.1158/0008-5472.CAN-25-0021",
-      "title": "MEN1 Promotes Ferroptosis by Disrupting CD44 Alternative Splicing to Suppress Lung Cancer.",
-      "journal": "Cancer research",
-      "pubdate": "2025-09-24T00:00:00+00:00",
+      "pmid": "40721523",
+      "doi": "10.1038/s41416-025-03126-x",
+      "title": "Enhanced HER2 internalization by clathrin-dependent endocytosis in non-small cell lung cancer positive for HER2 mutations.",
+      "journal": "British journal of cancer",
+      "pubdate": "2025-10-01T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "Thoracic-other",
+      "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerres/article-pdf/doi/10.1158/0008-5472.CAN-25-0021/3654559/can-25-0021.pdf",
+      "is_oa": false,
+      "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40991294/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0021",
-      "abstract": "Ferroptosis is a characteristic form of cell death triggered by excessive iron-dependent reactive oxygen species (ROS) that plays an important role in suppressing tumor development. Here, we identified MEN1 as a driver of ferroptosis in lung cancer. MEN1 facilitated lipid ROS generation and sensitized lung cancer cells to ferroptosis by perturbing CD44 precursor messenger RNA (pre-mRNA) splicing. CD44 variant isoforms were highly expressed and correlated with poor prognosis in human lung cancers. Loss of Men1 profoundly accelerated the progression of mutant Kras driven lung adenocarcinoma (LUAD) and promoted the accumulation of CD44 variant isoforms. Mechanistically, MEN1 maintained a relatively slow RNA polymerase II (Pol II) elongation by controlling the release of PAF1 from the CD44 pre-mRNA, which in turn prevented the inclusion of CD44 variable exons (CD44v). Furthermore, CD44v6-interfering peptides effectively abrogated the growth and metastasis of established MEN1 deficient tumors by activating ferroptosis. Collectively, this study unveils a mechanism of tumor suppression based on MEN1 regulation of CD44 alternative splicing, ROS production, and ferroptosis induction."
+      "metric_value": 3.144,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40721523/",
+      "url_doi": "https://doi.org/10.1038/s41416-025-03126-x",
+      "abstract": "BACKGROUND: HER2-targeted antibody-drug conjugates (ADCs) have shown marked efficacy for HER2 mutation-positive non-small cell lung cancer (NSCLC). The intracellular trafficking of mutant HER2 has remained to be fully elucidated, however.\n\nMETHODS: HER2 dynamics were examined in cells expressing wild-type (WT) or mutant HER2 with the use of live cell imaging and an in situ proximity ligation assay. Proteins related to mutant HER2 trafficking were identified by liquid chromatography and tandem mass spectrometry.\n\nRESULTS: HER2 internalization was enhanced in NSCLC cells expressing mutant HER2 compared with those expressing HER2(WT). Homodimers of HER2(WT) were localized mainly at the cell surface, whereas those of mutant HER2 were present mostly in the cytoplasm. Knockdown of EGFR or HER3 suppressed internalization of HER2(WT) but not that of mutant HER2. The enhanced internalization of mutant HER2 was mediated by clathrin-dependent endocytosis, as was reflected by increased binding of the ubiquitin ligase c-Cbl to mutant HER2 and its consequent ubiquitination, and was attenuated by treatment with zongertinib, a HER2-specific tyrosine kinase inhibitor.\n\nCONCLUSIONS: Upregulation of HER2 phosphorylation promotes internalization of mutant HER2 mediated by clathrin-dependent endocytosis, likely contributing to the efficacy of HER2-targeted ADCs in NSCLC positive for HER2 mutations."
     },
     {
       "pmid": "40670667",
@@ -100,28 +120,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40189749/",
       "url_doi": "https://doi.org/10.1080/2162402X.2025.2484880",
       "abstract": "Deviations in the diversity and composition of the gut microbiota are called \"gut dysbiosis\". They have been linked to various chronic diseases including cancers and resistance to immunotherapy. Stool shotgun based-metagenomics informs on the ecological composition of the gut microbiota and the prevalence of homeostatic bacteria such as"
-    },
-    {
-      "pmid": "40541589",
-      "doi": "10.1016/j.critrevonc.2025.104812",
-      "title": "The effects of race on anti-PD-(L)1 monoclonal antibodies in non-small cell lung cancer: A systematic literature review and meta-analysis.",
-      "journal": "Critical reviews in oncology/hematology",
-      "pubdate": "2025-10-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Meta-Analysis",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.critrevonc.2025.104812",
-      "metric_name": "SJR",
-      "metric_value": 1.82,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40541589/",
-      "url_doi": "https://doi.org/10.1016/j.critrevonc.2025.104812",
-      "abstract": "INTRODUCTION: Non-small cell lung cancer (NSCLC) represents approximately 85 % of lung cancers, with five-year survival only 4.5 % for metastatic disease. Programmed death (ligand)-1 (PD-[L]1) inhibitors have advanced NSCLC treatment, but patient demographics can potentially affect clinical outcomes. This systematic literature review and meta-analysis were undertaken to determine if the benefits of anti-PD-(L)1 therapies in NSCLC are independent of race (bio-geographic background).\n\nMETHODS: PubMed, Embase, Cochrane Library and World Health Organization Global Index Medicus were systematically searched (inception-to-Aug-2024). Primary analysis focused on studies with subgroup analysis (White vs Asian, White vs Non-White, Asian vs Non-Asian) of anti-PD-(L)1 efficacy in both resectable/localized and unresectable/advanced NSCLC. Subgroup analysis included stratification by PD-L1 expression, treatment line, and treatment regimen. Bayesian inferential meta-analysis was performed for outcomes with ≥ 1 study.\n\nRESULTS: From 4406 records, 22 randomized controlled trials, 3 pooled analyses, and 2 pharmacokinetic studies were included. In unresectable/advanced NSCLC, anti-PD-(L)1 therapy significantly improved overall survival and progression-free survival (PFS) for White (hazard ratio [HR] 0.80; 95 % credible interval [95 % CrI] 0.74-0.87, p < 0.001 and HR 0.68; 95 % CrI 0.61-0.77, p < 0.001, respectively) and Asian (HR 0.81; 95 % CrI 0.69-0.96, p = 0.027 and HR 0.63; 95 % CrI 0.50-0.80, p = 0.002) patients. The significant improvements in PFS were maintained for both groups within all sub-analyses. Limited data prohibited conduction of meta-analysis for resectable/localized NSCLC.\n\nCONCLUSIONS: The benefits of anti-PD-(L)1 therapy in unresectable/advanced NSCLC appear similar for White and Asian patients. Increased quality and quantity of data is required to draw definitive conclusions for resectable/localized NSCLC and with respect to treatment line/regimen and PD-L1 expression."
     },
     {
       "pmid": "40581545",
@@ -183,6 +181,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
       "url_doi": "https://doi.org/10.1080/17581966.2025.2477411",
       "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
+    },
+    {
+      "pmid": "41026583",
+      "doi": "10.1158/1078-0432.CCR-25-0089",
+      "title": "D3-GPC2-directed CAR T cells are safe and efficacious in preclinical models of neuroblastoma and small cell lung cancer.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2025-09-30T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41026583/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-0089",
+      "abstract": "BACKGROUND: We previously identified glypican 2 (GPC2) as a cell surface MYCN-regulated neuroblastoma oncoprotein and developed a D3-GPC2 antibody that specifically binds a conformational, tumor-specific epitope conserved between mouse and human.\n\nEXPERIMENTAL DESIGN: Here we sought to further validate GPC2 as an immunotherapeutic target and develop Investigational New Drug application-enabling data to support the clinical translation of D3-GPC2 chimeric antigen receptor (CAR) T cells.\n\nRESULTS: Immunohistochemistry validated that GPC2 is widely expressed on human neuroblastomas and flow cytometry showed high levels of cell surface GPC2 on neuroblastoma cellular models. Second-generation D3-GPC2 CAR T cells with either a 4-1BB or CD28 co-stimulatory domain were selectively activated and induced potent neuroblastoma cell cytotoxicity in several complementary in vitro co-incubation assays. Conversely, no measurable cytotoxicity or D3-GPC2 CAR T cell activation was observed in co-incubation studies with nine primary human normal tissue cell lines. Moreover, GPC2 CAR T cells induced significant regression of GPC2-expressing neuroblastoma xenografts. No GPC2 CAR-related toxicities were noted, including in comprehensive mouse necropsies performed after GPC2 CAR T cell administration. Finally, to explore the potential broader clinical impact of GPC2 CAR T cells we showed that they are also potently cytotoxic to preclinical models of GPC2-expressing small cell lung cancers.\n\nCONCLUSIONS: These data validate GPC2 as a bona fide CAR T cell target in neuroblastoma and other cancers. The safety and preliminary efficacy of GPC2 CAR T cells are being tested in a first-in-human phase 1 clinical trial for children with relapsed/refractory neuroblastoma (NCT05650749)."
+    },
+    {
+      "pmid": "41027867",
+      "doi": "10.1038/s41467-025-63696-5",
+      "title": "Tumor immune dynamics and long-term clinical outcome of stage IIIA NSCLC patients treated with neoadjuvant chemoimmunotherapy.",
+      "journal": "Nature communications",
+      "pubdate": "2025-09-30T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41467-025-63696-5",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41027867/",
+      "url_doi": "https://doi.org/10.1038/s41467-025-63696-5",
+      "abstract": "Neoadjuvant chemoimmunotherapy offers promise to improve outcomes for patients with resectable non-small cell lung cancer (NSCLC). Yet not all patients derive treatment benefits, and reliable biomarkers of response are still lacking. We here assess the long-term clinical outcome of neoadjuvant chemotherapy and perioperative anti-PD-L1 inhibition in resectable stage IIIA NSCLC in the SAKK 16/14 trial and provide a comprehensive characterization of anti-tumor immune responses for biomarker-based treatment personalization. We report secondary outcomes of median event-free survival (EFS) of 4.0 years and median overall survival not being reached after a median follow-up of 5.4 years. Computer-aided spatial image analysis emphasizes the importance of CD8"
     },
     {
       "pmid": "41004707",
