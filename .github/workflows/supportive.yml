@@ -1,0 +1,40 @@
+name: Build supportive.json
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/supportive.xlsx'
+      - 'scripts/excel_to_supportive_json.py'
+
+jobs:
+  build-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install pandas openpyxl
+
+      - name: Build supportive.json
+        run: |
+          python scripts/excel_to_supportive_json.py data/supportive.xlsx --out site/support/supportive.json
+
+      - name: Commit JSON if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/support/supportive.json
+          git diff --staged --quiet || git commit -m "update supportive.json"
+          git pull --rebase origin ${{ github.ref_name }} || true
+          git push
