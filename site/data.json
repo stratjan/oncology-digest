@@ -1,25 +1,25 @@
 {
-  "generated": "2025-10-01T05:17:21.732011Z",
+  "generated": "2025-10-02T05:16:34.648049Z",
   "items": [
     {
-      "pmid": "40996757",
-      "doi": "10.1001/jamaoncol.2025.3320",
-      "title": "Understanding Lung Cancer in Younger People.",
-      "journal": "JAMA oncology",
-      "pubdate": "2025-09-25T00:00:00+00:00",
+      "pmid": "41032288",
+      "doi": "10.1093/jnci/djaf272",
+      "title": "Stratifying lung adenocarcinoma risk with multi-ancestry polygenic risk scores in East Asian never-smokers.",
+      "journal": "Journal of the National Cancer Institute",
+      "pubdate": "2025-10-01T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
       "entity": "Thoracic-other",
       "trial_type": null,
-      "study_class": "Other",
+      "study_class": "Preclinical",
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 8.377,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40996757/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3320",
-      "abstract": null
+      "metric_value": 5.703,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41032288/",
+      "url_doi": "https://doi.org/10.1093/jnci/djaf272",
+      "abstract": "BACKGROUND: Lung adenocarcinoma (LUAD) in never-smokers is a major public health burden, especially among East Asian women. Polygenic risk scores (PRSs) are promising for risk stratification but are primarily developed in European-ancestry populations. We aimed to develop and validate single- and multi-ancestry PRSs for East Asian never-smokers to improve LUAD risk prediction.\n\nMETHODS: PRSs were developed using genome-wide association study summary statistics from East Asian (8,002 cases; 20,782 controls) and European (2,058 cases; 5,575 controls) populations. Single-ancestry models included PRS-25, PRS-CT, and LDpred2; multi-ancestry models included LDpred2+PRS-EUR128, PRS-CSx, and CT-SLEB. Performance was evaluated in independent East Asian data from the Female Lung Cancer Consortium (FLCCA) and externally validated in the Nanjing Lung Cancer Cohort (NJLCC). We assessed predictive accuracy via AUC, with 10-year and (age 30-80) absolute risks estimates.\n\nRESULTS: The best multi-ancestry PRS, using East Asian and European data via CT-SLEB (clumping and thresholding, super learning, empirical Bayes), outperformed the best East Asian-only PRS (LDpred2; AUC = 0.629, 95% CI:0.618,0.641), achieving an AUC of 0.640 (95% CI : 0.629,0.653) and odds ratio of 1.71 (95% CI : 1.61,1.82) per SD increase. NJLCC Validation confirmed robust performance (AUC =0.649, 95% CI: 0.623, 0.676). The top 20% PRS group had a 3.92-fold higher LUAD risk than the bottom 20%. Further, the top 5% PRS group reached a 6.69% lifetime absolute risk. Notably, this group reached the average population 10-year LUAD risk at age 50 (0.42%) by age 41, nine years earlier.\n\nCONCLUSIONS: Multi-ancestry PRS approaches enhance LUAD risk stratification in East Asian never-smokers, with consistent external validation, suggesting future clinical utility."
     },
     {
       "pmid": "41022528",
@@ -53,8 +53,8 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.esmoop.2025.105811",
       "metric_name": "SJR",
       "metric_value": 3.582,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41027069/",
@@ -183,6 +183,27 @@
       "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
     },
     {
+      "pmid": "41032719",
+      "doi": "10.1056/NEJMc2511884",
+      "title": "Tarlatamab in Small-Cell Lung Cancer. Reply.",
+      "journal": "The New England journal of medicine",
+      "pubdate": "2025-10-02T00:00:00+00:00",
+      "pubtypes": [
+        "Letter",
+        "Comment"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41032719/",
+      "url_doi": "https://doi.org/10.1056/NEJMc2511884",
+      "abstract": null
+    },
+    {
       "pmid": "41026583",
       "doi": "10.1158/1078-0432.CCR-25-0089",
       "title": "D3-GPC2-directed CAR T cells are safe and efficacious in preclinical models of neuroblastoma and small cell lung cancer.",
@@ -223,6 +244,26 @@
       "abstract": "Neoadjuvant chemoimmunotherapy offers promise to improve outcomes for patients with resectable non-small cell lung cancer (NSCLC). Yet not all patients derive treatment benefits, and reliable biomarkers of response are still lacking. We here assess the long-term clinical outcome of neoadjuvant chemotherapy and perioperative anti-PD-L1 inhibition in resectable stage IIIA NSCLC in the SAKK 16/14 trial and provide a comprehensive characterization of anti-tumor immune responses for biomarker-based treatment personalization. We report secondary outcomes of median event-free survival (EFS) of 4.0 years and median overall survival not being reached after a median follow-up of 5.4 years. Computer-aided spatial image analysis emphasizes the importance of CD8"
     },
     {
+      "pmid": "41033335",
+      "doi": "10.1016/S2213-2600(25)00240-1",
+      "title": "Durvalumab, carboplatin, and etoposide in patients who are treatment-naive with extensive-stage small-cell lung cancer and poor performance status (NEJ045A): a single-arm phase 2 trial.",
+      "journal": "The Lancet. Respiratory medicine",
+      "pubdate": "2025-09-28T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41033335/",
+      "url_doi": "https://doi.org/10.1016/S2213-2600(25)00240-1",
+      "abstract": "BACKGROUND: Treating patients with extensive-stage small-cell lung cancer (SCLC) with poor performance status poses considerable challenges. We aimed to evaluate the combination of an immune checkpoint inhibitor with platinum-based therapy in this population.\n\nMETHODS: This open-label, single-arm phase 2 NEJ045A trial enrolled untreated patients with extensive-stage SCLC with performance status 2 or 3. Participants received four cycles of durvalumab, carboplatin, and etoposide, followed by durvalumab maintenance. A dose adjustment strategy was used, with initial reductions in carboplatin-etoposide dosages, subsequently adjusted based on adverse events, allowing for potential escalation. The primary endpoint was tolerability, assessed by the proportion of patients completing induction therapy. A key secondary endpoint was 1-year survival rate. This trial is registered at the Japan Registry of Clinical Trials (jRCTs031200319) and has been completed.\n\nFINDINGS: Between April 8, 2021, and Oct 3, 2023, 57 patients (performance status 2 n=43 and performance status 3 n=14) were enrolled with a median age of 73·5 years (IQR 69·0-77·5), 44 (79%) of 56 were male. 26 (67%; 80% CI 55·2-76·7; p<0·0001) of 39 patients with performance status 2 and five (50%; 26·7-73·3; p=0·0088) of ten with performance status 3 completed induction therapy, exceeding the pre-specified threshold. Grade 3 or higher adverse events occurred in 52 (93%) of 56 patients, and 12 (21%) of 56 discontinued due to adverse events. The 1-year survival rates were 43·4% (80% CI 34·1-53·1) overall (p<0·0001), 50·0% (39·1-60·9) in performance status 2 (p<0·0001), and 18·2% (5·0-41·5) in performance status 3.\n\nINTERPRETATION: Durvalumab, carboplatin, and etoposide showed tolerability and promising efficacy as a first-line treatment for patients with untreated extensive-stage SCLC with poor performance status, supporting the integration of immune checkpoint inhibitors in this therapeutically challenging population.\n\nFUNDING: AstraZeneca KK."
+    },
+    {
       "pmid": "41004707",
       "doi": "10.1200/JCO-25-01817",
       "title": "Bridging the Gap: The Evolving Landscape of CNS Management in Small Cell Lung Cancer: Prophylactic Cranial Irradiation in the Modern Era.",
@@ -261,26 +302,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41006257/",
       "url_doi": "https://doi.org/10.1038/s41467-025-63461-8",
       "abstract": "Characterizing and validating which mutations influence development of cancer is challenging. Artificial intelligence (AI) has delivered significant advances in protein structure prediction, but its utility for identifying cancer drivers is less explored. We evaluate multiple computational methods for identifying cancer driver mutations. For re-identifying known drivers, methods incorporating protein structure or functional genomic data outperform methods trained only on evolutionary data. We validate variants of unknown significance (VUSs) annotated as pathogenic by testing their association with overall survival in two cohorts of patients with non-small cell lung cancer (N = 7965 and 977). VUSs identified as pathogenic drivers by AI in KEAP1 and SMARCA4 are associated with worse survival, unlike \"benign\" VUSs. \"Pathogenic\" VUSs also exhibit mutual exclusivity with known oncogenic alterations at the pathway level, further suggesting biological validity. AI predictions thus contribute to a more comprehensive understanding of tumor genetics as validated by real-world data."
-    },
-    {
-      "pmid": "40995949",
-      "doi": "10.1080/14796694.2025.2560225",
-      "title": "RELAY: safety and efficacy of ramucirumab plus erlotinib in elderly Japanese patients with metastatic EGFR-mutated NSCLC.",
-      "journal": "Future oncology (London, England)",
-      "pubdate": "2025-09-25T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40995949/",
-      "url_doi": "https://doi.org/10.1080/14796694.2025.2560225",
-      "abstract": "AIM: The global phase III RELAY trial demonstrated the efficacy of ramucirumab (RAM) plus erlotinib (ERL) in patients with untreated metastatic epidermal growth factor receptor (\n\nMETHODS: Patients were randomized (1:1) to RAM (10 mg/kg) or placebo (PL) intravenously every 2 weeks plus 150 mg/day ERL orally. Primary endpoint was progression-free survival (reported elsewhere). This report describes response rates, study drug exposure, dose adjustments, safety, and post-study treatment discontinuation therapies in Japanese elderly patients (RAM+ERL, n = 12; PL+ERL, n = 17).\n\nRESULTS: Overall response rate was similar in RAM+ERL (83.3%) and PL+ERL (82.4%) arms. Median treatment duration of RAM and ERL was 6.0 and 15.4 months, respectively. Most patients had RAM and/or ERL dose adjustments. Adverse events, including grade ≥ 3 events, were similar in both treatment arms, although proteinuria occurred exclusively in the RAM+ERL arm (six patients; no grade ≥ 3 events). All patients received subsequent therapy after first-line study treatment; various subsequent therapies were used.\n\nCONCLUSION: These results suggest that RAM+ERL may be a suitable first-line treatment option for elderly patients with\n\nCLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov identifier is NCT02411448."
     }
   ]
 }
