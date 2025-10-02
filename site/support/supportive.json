@@ -7,6 +7,166 @@
       "aliases": [
         "Cabozantinib"
       ]
+    },
+    {
+      "id": "reg-cis-pem",
+      "name": "Cisplatin + Pemetrexed",
+      "group": null,
+      "aliases": [
+        "Cisplatin + Pemetrexed"
+      ]
+    },
+    {
+      "id": "reg-carbo-pem",
+      "name": "Carboplatin + Pemetrexed",
+      "group": null,
+      "aliases": [
+        "Carboplatin + Pemetrexed"
+      ]
+    },
+    {
+      "id": "reg-cis-gem",
+      "name": "Cisplatin + Gemcitabin",
+      "group": null,
+      "aliases": [
+        "Cisplatin + Gemcitabin"
+      ]
+    },
+    {
+      "id": "reg-carbo-pac",
+      "name": "Carboplatin + Paclitaxel",
+      "group": null,
+      "aliases": [
+        "Carboplatin + Paclitaxel"
+      ]
+    },
+    {
+      "id": "reg-carbo-pem-pembro",
+      "name": "Carboplatin + Pemetrexed + Pembrolizumab",
+      "group": null,
+      "aliases": [
+        "Carboplatin + Pemetrexed + Pembrolizumab"
+      ]
+    },
+    {
+      "id": "reg-carbo-pac-pembro",
+      "name": "Carboplatin + Paclitaxel + Pembrolizumab",
+      "group": null,
+      "aliases": [
+        "Carboplatin + Paclitaxel + Pembrolizumab"
+      ]
+    },
+    {
+      "id": "reg-pembro",
+      "name": "Pembrolizumab Monotherapie",
+      "group": null,
+      "aliases": [
+        "Pembrolizumab Monotherapie"
+      ]
+    },
+    {
+      "id": "reg-nivo-ipi",
+      "name": "Nivolumab + Ipilimumab",
+      "group": null,
+      "aliases": [
+        "Nivolumab + Ipilimumab"
+      ]
+    },
+    {
+      "id": "reg-osim",
+      "name": "Osimertinib",
+      "group": null,
+      "aliases": [
+        "Osimertinib"
+      ]
+    },
+    {
+      "id": "reg-alec",
+      "name": "Alectinib",
+      "group": null,
+      "aliases": [
+        "Alectinib"
+      ]
+    },
+    {
+      "id": "reg-soto",
+      "name": "Sotorasib",
+      "group": null,
+      "aliases": [
+        "Sotorasib"
+      ]
+    },
+    {
+      "id": "reg-dab-tram",
+      "name": "Dabrafenib + Trametinib",
+      "group": null,
+      "aliases": [
+        "Dabrafenib + Trametinib"
+      ]
+    },
+    {
+      "id": "reg-cis-eto",
+      "name": "Cisplatin + Etoposid",
+      "group": null,
+      "aliases": [
+        "Cisplatin + Etoposid"
+      ]
+    },
+    {
+      "id": "reg-carbo-eto-atezo",
+      "name": "Carboplatin + Etoposid + Atezolizumab",
+      "group": null,
+      "aliases": [
+        "Carboplatin + Etoposid + Atezolizumab"
+      ]
+    },
+    {
+      "id": "reg-topo",
+      "name": "Topotecan",
+      "group": null,
+      "aliases": [
+        "Topotecan"
+      ]
+    },
+    {
+      "id": "reg-cav",
+      "name": "Cyclophosphamid + Doxorubicin + Vincristin",
+      "group": null,
+      "aliases": [
+        "Cyclophosphamid + Doxorubicin + Vincristin"
+      ]
+    },
+    {
+      "id": "reg-cap",
+      "name": "Cisplatin + Doxorubicin + Cyclophosphamid (CAP)",
+      "group": null,
+      "aliases": [
+        "Cisplatin + Doxorubicin + Cyclophosphamid (CAP)"
+      ]
+    },
+    {
+      "id": "reg-vip",
+      "name": "Ifosfamid + Cisplatin + Etoposid (VIP)",
+      "group": null,
+      "aliases": [
+        "Ifosfamid + Cisplatin + Etoposid (VIP)"
+      ]
+    },
+    {
+      "id": "reg-oct",
+      "name": "Octreotid",
+      "group": null,
+      "aliases": [
+        "Octreotid"
+      ]
+    },
+    {
+      "id": "reg-evero",
+      "name": "Everolimus",
+      "group": null,
+      "aliases": [
+        "Everolimus"
+      ]
     }
   ],
   "items": [
@@ -70,6 +230,291 @@
       "regimen_category": "Zielgerichtete Therapie",
       "specialty": "Gastroenterologie",
       "disease": "CRC",
+      "regimens": []
+    },
+    {
+      "id": "sup-ond",
+      "name": "Ondansetron 8 mg",
+      "substance": "Ondansetron",
+      "class": "Antiemetikum (5-HT3)",
+      "indication": "Übelkeit/Erbrechen unter Chemo vorbeugen",
+      "dosing": "8 mg p.o. 1–2×/Tag, 30–60 min vor Chemo",
+      "max_daily": "16 mg/Tag",
+      "side_effects": "Kopfschmerzen, Verstopfung, selten Herzrhythmus",
+      "warnings": "Bei anhaltendem Erbrechen oder Herzrasen Arzt kontaktieren",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "NSCLC; SCLC",
+      "regimens": []
+    },
+    {
+      "id": "sup-grani",
+      "name": "Granisetron 2 mg",
+      "substance": "Granisetron",
+      "class": "Antiemetikum (5-HT3)",
+      "indication": "Antiemese am Chemotag",
+      "dosing": "1–2 mg p.o. am Chemotag",
+      "max_daily": "2 mg/Tag",
+      "side_effects": "Kopfschmerz, Verstopfung",
+      "warnings": "Bei schwerer Verstopfung Arzt kontaktieren",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "NSCLC; SCLC",
+      "regimens": []
+    },
+    {
+      "id": "sup-palon",
+      "name": "Palonosetron 0,25 mg",
+      "substance": "Palonosetron",
+      "class": "Antiemetikum (5-HT3)",
+      "indication": "Lang wirksame Antiemese (bis 3 Tage)",
+      "dosing": "0,25 mg i.v. ca. 30 min vor Chemo",
+      "max_daily": "0,25 mg/Tag",
+      "side_effects": "Kopfschmerz, Verstopfung",
+      "warnings": "Bei Obstipation abklären",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "NSCLC; SCLC",
+      "regimens": []
+    },
+    {
+      "id": "sup-apre",
+      "name": "Aprepitant",
+      "substance": "Aprepitant",
+      "class": "Antiemetikum (NK1)",
+      "indication": "Verzögertes Erbrechen (v.a. Cisplatin)",
+      "dosing": "Tag1: 125 mg; Tag2–3: 80 mg p.o.",
+      "max_daily": "125 mg (Tag1)",
+      "side_effects": "Müdigkeit, Aufstoßen",
+      "warnings": "Interaktionen mit Cortison beachten",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "NSCLC; SCLC",
+      "regimens": []
+    },
+    {
+      "id": "sup-dex",
+      "name": "Dexamethason",
+      "substance": "Dexamethason",
+      "class": "Glukokortikoid",
+      "indication": "Teil der Antiemese / Prämedikation",
+      "dosing": "4–8 mg p.o./i.v. an Chemo-Tagen",
+      "max_daily": "16 mg/Tag",
+      "side_effects": "Schlafstörungen, Blutzuckeranstieg",
+      "warnings": "Bei Diabetes Blutzucker engmaschig kontrollieren",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "Alle",
+      "regimens": []
+    },
+    {
+      "id": "sup-mcp",
+      "name": "Metoclopramid 10 mg",
+      "substance": "Metoclopramid",
+      "class": "Antiemetikum (D2)",
+      "indication": "Durchbruchübelkeit",
+      "dosing": "10 mg p.o. bis 3×/Tag bei Bedarf",
+      "max_daily": "30 mg/Tag",
+      "side_effects": "Müdigkeit, selten Muskelzuckungen",
+      "warnings": "Bei Zuckungen sofort absetzen und Arzt kontaktieren",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "Alle",
+      "regimens": []
+    },
+    {
+      "id": "sup-olza",
+      "name": "Olanzapin 5–10 mg",
+      "substance": "Olanzapin",
+      "class": "Antiemetikum (Neuroleptikum)",
+      "indication": "Refraktäre Übelkeit",
+      "dosing": "5–10 mg p.o. abends für 3–4 Tage",
+      "max_daily": "10 mg/Tag",
+      "side_effects": "Müdigkeit, Schwindel",
+      "warnings": "Nach Einnahme nicht Auto fahren",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "Alle",
+      "regimens": []
+    },
+    {
+      "id": "sup-clem",
+      "name": "Clemastin 2 mg i.v.",
+      "substance": "Clemastin",
+      "class": "H1-Antihistaminikum",
+      "indication": "Allergieprophylaxe (z.B. Paclitaxel)",
+      "dosing": "2 mg i.v. ca. 30 min vor Chemo",
+      "max_daily": "2 mg/Tag",
+      "side_effects": "Müdigkeit, Mundtrockenheit",
+      "warnings": "Nach Gabe nicht selbst Auto fahren",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "Alle",
+      "regimens": []
+    },
+    {
+      "id": "sup-famo",
+      "name": "Famotidin 20 mg i.v.",
+      "substance": "Famotidin",
+      "class": "H2-Blocker",
+      "indication": "Teil der Paclitaxel-Prämedikation",
+      "dosing": "20 mg i.v. vor Chemo",
+      "max_daily": "20 mg/Tag",
+      "side_effects": "Kopfschmerz, Schwindel",
+      "warnings": "Bei Schwindel vorsichtig sein",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "Alle",
+      "regimens": []
+    },
+    {
+      "id": "sup-mesna",
+      "name": "Mesna",
+      "substance": "Mesna",
+      "class": "Uroprotektor",
+      "indication": "Schutz vor Ifosfamid-Zystitis",
+      "dosing": "i.v./p.o. verteilt – nach Ifos-Dosis",
+      "max_daily": "schemaabhängig",
+      "side_effects": "Übelkeit, Geruch/Geschmack",
+      "warnings": "Viel trinken, Harndrang beachten",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "Thymustumoren",
+      "regimens": []
+    },
+    {
+      "id": "sup-atrop",
+      "name": "Atropin 0,25–0,5 mg s.c.",
+      "substance": "Atropin",
+      "class": "Anticholinergikum",
+      "indication": "Irinotecan-bedingtes cholinerges Syndrom",
+      "dosing": "0,25–0,5 mg s.c. vor Gabe oder bei Symptomen",
+      "max_daily": "0,5 mg/Tag",
+      "side_effects": "Mundtrockenheit, Herzrasen",
+      "warnings": "Bei Sehstörungen/Herzrasen Arzt",
+      "regimen_category": "Chemotherapie",
+      "specialty": "Thoraxonkologie",
+      "disease": "NSCLC",
+      "regimens": []
+    },
+    {
+      "id": "sup-lop",
+      "name": "Loperamid 2 mg",
+      "substance": "Loperamid",
+      "class": "Antidiarrhoikum",
+      "indication": "Durchfälle unter Chemo/TKI",
+      "dosing": "4 mg, dann 2 mg nach jedem ungeformten Stuhl",
+      "max_daily": "16 mg/Tag",
+      "side_effects": "Verstopfung, Bauchkrämpfe",
+      "warnings": "Bei Fieber oder Blut im Stuhl sofort Arzt",
+      "regimen_category": "Sonstige",
+      "specialty": "Thoraxonkologie",
+      "disease": "Alle",
+      "regimens": []
+    },
+    {
+      "id": "sup-doxy",
+      "name": "Doxycyclin 100 mg",
+      "substance": "Doxycyclin",
+      "class": "Antibiotikum",
+      "indication": "Prophylaxe EGFR-TKI-Hautausschlag",
+      "dosing": "100 mg p.o. 2×/Tag für ~6 Wochen",
+      "max_daily": "200 mg/Tag",
+      "side_effects": "Sonnenempfindlichkeit, Übelkeit",
+      "warnings": "Sonnenschutz; nicht nüchtern einnehmen",
+      "regimen_category": "Sonstige",
+      "specialty": "Thoraxonkologie",
+      "disease": "NSCLC (EGFR)",
+      "regimens": []
+    },
+    {
+      "id": "sup-panto",
+      "name": "Pantoprazol 40 mg",
+      "substance": "Pantoprazol",
+      "class": "PPI",
+      "indication": "Magenschutz (z.B. unter Steroiden)",
+      "dosing": "40 mg p.o. 1×/Tag",
+      "max_daily": "40 mg/Tag",
+      "side_effects": "Durchfall, Kopfschmerzen",
+      "warnings": "Nur so lange wie nötig einnehmen",
+      "regimen_category": "Sonstige",
+      "specialty": "Thoraxonkologie",
+      "disease": "Alle",
+      "regimens": []
+    },
+    {
+      "id": "sup-b12",
+      "name": "Vitamin B12 1000 µg i.m.",
+      "substance": "Cyanocobalamin",
+      "class": "Vitamin",
+      "indication": "Pemetrexed-Begleitmedikation",
+      "dosing": "1000 µg i.m. alle ~9 Wochen",
+      "max_daily": "1000 µg i.m.",
+      "side_effects": "Einstichschmerz",
+      "warnings": "Selten Allergie",
+      "regimen_category": "Sonstige",
+      "specialty": "Thoraxonkologie",
+      "disease": "NSCLC; Mesotheliom",
+      "regimens": []
+    },
+    {
+      "id": "sup-folat",
+      "name": "Folsäure 1 mg",
+      "substance": "Folsäure",
+      "class": "Vitamin",
+      "indication": "Pemetrexed-Begleitmedikation",
+      "dosing": "1 mg p.o. täglich",
+      "max_daily": "1 mg/Tag",
+      "side_effects": "i.d.R. keine",
+      "warnings": "Nicht überdosieren",
+      "regimen_category": "Sonstige",
+      "specialty": "Thoraxonkologie",
+      "disease": "NSCLC; Mesotheliom",
+      "regimens": []
+    },
+    {
+      "id": "sup-pegfil",
+      "name": "Pegfilgrastim 6 mg",
+      "substance": "Pegfilgrastim",
+      "class": "G-CSF",
+      "indication": "Prophylaxe febrile Neutropenie",
+      "dosing": "6 mg s.c. ≥24 h nach Chemo",
+      "max_daily": "6 mg/Applikation",
+      "side_effects": "Knochenschmerzen, Fieber",
+      "warnings": "Bei linken Oberbauchschmerzen Arzt",
+      "regimen_category": "Sonstige",
+      "specialty": "Thoraxonkologie",
+      "disease": "Alle",
+      "regimens": []
+    },
+    {
+      "id": "sup-epo",
+      "name": "Epoetin alfa 40.000 IE",
+      "substance": "Epoetin alfa",
+      "class": "Erythropoetin",
+      "indication": "Anämie unter Chemo (palliativ)",
+      "dosing": "40.000 IE s.c. 1×/Woche",
+      "max_daily": "40.000 IE",
+      "side_effects": "Bluthochdruck, Thrombosen",
+      "warnings": "Hb nicht >12 g/dl anheben",
+      "regimen_category": "Sonstige",
+      "specialty": "Thoraxonkologie",
+      "disease": "Alle",
+      "regimens": []
+    },
+    {
+      "id": "sup-deno",
+      "name": "Denosumab 120 mg",
+      "substance": "Denosumab",
+      "class": "RANKL-Inhibitor",
+      "indication": "Vorbeugung von Knochenkomplikationen",
+      "dosing": "120 mg s.c. alle 4 Wochen",
+      "max_daily": "120 mg",
+      "side_effects": "Hypokalzämie, Knochenschmerzen",
+      "warnings": "Calcium/Vitamin D; Zahnstatus prüfen",
+      "regimen_category": "Sonstige",
+      "specialty": "Thoraxonkologie",
+      "disease": "NSCLC; SCLC",
       "regimens": []
     }
   ]
