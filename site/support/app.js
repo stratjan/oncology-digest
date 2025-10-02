@@ -1,4 +1,4 @@
-// site/support/app.js  (normalisiert: regimen_catalog + items)
+// site/support/app.js — Hierarchie: Klasse → (Therapiegruppe → Regime)
 
 const PRIMARY_URL  = '/support/supportive.json';
 const FALLBACK_URL = '/support/supportive.example.json';
@@ -9,21 +9,21 @@ function esc(s){return String(s??'')
 
 const state = {
   items: [],
-  catalog: [],           // [{id,name,group,aliases:[]}, ...]
+  catalog: [],              // [{id,name,group,aliases:[]}, ...]
+  byRegimen: new Map(),     // id -> catalog entry
   filtered: [],
   selection: new Set(),
-  filters: { regime:'', cls:'', spec:'', disease:'', therapy:'', q:'' }
+  // Filter: Klasse (Medikamentenklasse), Therapiegruppe, konkretes Regime, Freitext
+  filters: { cls:'', therapyGroup:'', therapy:'', q:'' }
 };
 
-// ---- Laden
+// ===== Laden =====
 async function loadData(){
   let r = await fetch(PRIMARY_URL, {cache:'no-store'});
   if(!r.ok) r = await fetch(FALLBACK_URL, {cache:'no-store'});
   if(!r.ok) throw new Error('supportive.json nicht gefunden');
 
   const raw = await r.json();
-
-  // Rückwärtskompatibilität: früher war es ein Array
   if (Array.isArray(raw)) {
     state.items = raw;
     state.catalog = [];
@@ -32,41 +32,35 @@ async function loadData(){
     state.catalog = Array.isArray(raw.regimen_catalog) ? raw.regimen_catalog : [];
   }
 
-  // Sortierung: nach Klasse, dann Name
+  // Maps
+  state.byRegimen = new Map(state.catalog.map(r => [r.id, r]));
+
+  // Sortierung: zuerst Klasse, dann Name
   state.items.sort((a,b)=>{
     const c = (a.class||'').localeCompare(b.class||'', 'de');
     if (c) return c;
     return (a.name||'').localeCompare(b.name||'', 'de');
   });
+
   document.getElementById('meta').textContent =
     `Einträge: ${state.items.length} · Regime: ${state.catalog.length}`;
 }
 
-// ---- Options füllen
+// ===== Optionen füllen =====
 function fillOptions(){
-  const by = (key) => [...new Set(state.items.map(x => x[key]).filter(Boolean))]
+  // Klassen (Medikamentenklasse) aus items
+  const classes = [...new Set(state.items.map(x => x.class).filter(Boolean))]
     .sort((a,b)=>a.localeCompare(b,'de'));
-  fillSelect('fRegime', by('regimen_category'));
-  fillSelect('fClass',  by('class'));
-  fillSelect('fSpec',   by('specialty'));
+  fillSelect('fClass', classes);
 
-  // disease abhängig von specialty (initial: alle)
-  const allDis = [...new Set(state.items.map(x => x.disease).filter(Boolean))]
+  // Therapie-Gruppen aus catalog.group (z. B. Chemotherapie, TKI Therapie)
+  const groups = [...new Set(state.catalog.map(x => x.group).filter(Boolean))]
     .sort((a,b)=>a.localeCompare(b,'de'));
-  fillSelect('fDisease', allDis);
+  fillSelect('fTherapyGroup', groups);
 
-  // Therapy/Regime aus catalog (Anzeige: name, value: regimen_id)
-  const el = document.getElementById('fTherapy');
-  if (el) {
-    const arr = [...state.catalog].sort((a,b)=> (a.name||'').localeCompare(b.name||'', 'de'));
-    for (const r of arr) {
-      const o = document.createElement('option');
-      o.value = r.id;
-      o.textContent = r.name + (r.group ? ` (${r.group})` : '');
-      el.appendChild(o);
-    }
-  }
-
+  // Regime (vollständig, initial ungefiltert)
+  refillTherapies('');
+  
   // Datum vorbelegen
   const d = new Date();
   document.getElementById('pDate').value = d.toLocaleDateString('de-DE');
@@ -75,6 +69,8 @@ function fillOptions(){
 function fillSelect(id, values){
   const el = document.getElementById(id);
   if (!el) return;
+  // existierende Optionen >erste behalten (Alle …), Rest entfernen
+  el.querySelectorAll('option:not(:first-child)').forEach(o=>o.remove());
   for(const v of values){
     const o = document.createElement('option');
     o.value = v; o.textContent = v;
@@ -82,37 +78,64 @@ function fillSelect(id, values){
   }
 }
 
-// ---- Filtern (inkl. Therapy/Regime)
+function refillTherapies(group){
+  const el = document.getElementById('fTherapy');
+  if (!el) return;
+  // Alle entfernen außer der ersten Option
+  el.querySelectorAll('option:not(:first-child)').forEach(o=>o.remove());
+
+  const arr = state.catalog
+    .filter(r => !group || (r.group||'') === group)
+    .sort((a,b)=> (a.name||'').localeCompare(b.name||'', 'de'));
+
+  for (const r of arr){
+    const o = document.createElement('option');
+    o.value = r.id;
+    o.textContent = r.name + (r.group ? ` (${r.group})` : '');
+    el.appendChild(o);
+  }
+}
+
+// ===== Filtern =====
 function applyFilters(){
-  const {regime, cls, spec, disease, therapy, q} = state.filters;
+  const { cls, therapyGroup, therapy, q } = state.filters;
   const ql = (q||'').toLowerCase().trim();
 
   state.filtered = state.items.filter(x=>{
-    if (regime  && x.regimen_category !== regime) return false;
-    if (cls     && x.class !== cls) return false;
-    if (spec    && x.specialty !== spec) return false;
-    if (disease && x.disease !== disease) return false;
+    // 1) Klasse
+    if (cls && x.class !== cls) return false;
 
+    // 2) Therapiegruppe (mind. ein zugeordnetes Regime in dieser Gruppe)
+    if (therapyGroup) {
+      const rids = Array.isArray(x.regimens) ? x.regimens : [];
+      const hit = rids.some(rid => {
+        const r = state.byRegimen.get(rid);
+        return r && (r.group||'') === therapyGroup;
+      });
+      if (!hit) return false;
+    }
+
+    // 3) Konkretes Regime
     if (therapy) {
-      const arr = Array.isArray(x.regimens) ? x.regimens : [];
-      if (!arr.includes(therapy)) return false;
+      const rids = Array.isArray(x.regimens) ? x.regimens : [];
+      if (!rids.includes(therapy)) return false;
     }
 
+    // 4) Freitext inkl. Aliasse der Regime
     if (ql) {
-      // Freitext: Name/Substanz/Indikation/alias-Treffer
       let aliasHit = false;
-      if (state.catalog.length && x.regimens && x.regimens.length) {
-        for (const rid of x.regimens) {
-          const r = state.catalog.find(c => c.id === rid);
-          if (!r) continue;
-          const hay = [r.name, ...(r.aliases||[])].join(' ').toLowerCase();
-          if (hay.includes(ql)) { aliasHit = true; break; }
-        }
+      const rids = Array.isArray(x.regimens) ? x.regimens : [];
+      for (const rid of rids) {
+        const r = state.byRegimen.get(rid);
+        if (!r) continue;
+        const hay = [r.name, ...(r.aliases||[])].join(' ').toLowerCase();
+        if (hay.includes(ql)) { aliasHit = true; break; }
       }
-      const hay = [x.name, x.substance, x.class, x.indication]
+      const hay2 = [x.name, x.substance, x.class, x.indication]
         .map(s => (s||'').toLowerCase()).join(' ');
-      if (!(hay.includes(ql) || aliasHit)) return false;
+      if (!(aliasHit || hay2.includes(ql))) return false;
     }
+
     return true;
   });
 
@@ -121,16 +144,24 @@ function applyFilters(){
   document.getElementById('hitCount').textContent = `${state.filtered.length} Treffer`;
 }
 
-// ---- Trefferliste
+// ===== Rendering Trefferliste & Vorschau =====
 function resCard(x){
+  // (Optional) Regimen-Badges (Namen aus Katalog auflösen)
+  const regs = (Array.isArray(x.regimens)?x.regimens:[])
+    .map(rid => state.byRegimen.get(rid)?.name)
+    .filter(Boolean);
+
+  const badges = regs.map(n => `<span class="px-2 py-0.5 rounded-full text-xs bg-neutral-200">${esc(n)}</span>`).join(' ');
+
   return `
     <label class="block bg-white border rounded-lg p-3 shadow-sm cursor-pointer">
       <div class="flex items-start gap-3">
         <input type="checkbox" class="mt-1" data-id="${esc(x.id)}" ${state.selection.has(x.id)?'checked':''}/>
         <div class="min-w-0">
           <div class="font-semibold">${esc(x.name)}</div>
-          <div class="text-sm text-neutral-700">
-            <div><span class="font-medium">Klasse:</span> ${esc(x.class||'—')} | <span class="font-medium">Substanz:</span> ${esc(x.substance||'—')}</div>
+          ${badges ? `<div class="mt-1 flex gap-1 flex-wrap">${badges}</div>` : ''}
+          <div class="text-sm text-neutral-700 mt-1">
+            <div><span class="font-medium">Klasse:</span> ${esc(x.class||'—')} · <span class="font-medium">Substanz:</span> ${esc(x.substance||'—')}</div>
             <div><span class="font-medium">Indikation:</span> ${esc(x.indication||'—')}</div>
             <div><span class="font-medium">Dosierung:</span> ${esc(x.dosing||'—')}</div>
             <div><span class="font-medium">Tageshöchstdosis:</span> ${esc(x.max_daily||'—')}</div>
@@ -146,7 +177,6 @@ function renderResults(){
   document.getElementById('results').innerHTML = state.filtered.map(resCard).join('');
 }
 
-// ---- Druckvorschau (Gruppierung nach Klasse)
 function renderPreview(){
   const selected = state.items.filter(x => state.selection.has(x.id));
   const byClass = new Map();
@@ -178,24 +208,26 @@ function renderPreview(){
   document.getElementById('preview').innerHTML = out.join('') || `<div class="text-sm text-neutral-600">Noch keine Auswahl.</div>`;
 }
 
-// ---- Events
+// ===== Events =====
 function wireUI(){
-  const elReg = document.getElementById('fRegime');
-  const elCls = document.getElementById('fClass');
-  const elSpec= document.getElementById('fSpec');
-  const elDis = document.getElementById('fDisease');
-  const elQ   = document.getElementById('fQuery');
-  const elTher= document.getElementById('fTherapy');
+  const elCls   = document.getElementById('fClass');
+  const elTGrp  = document.getElementById('fTherapyGroup');
+  const elTher  = document.getElementById('fTherapy');
+  const elQ     = document.getElementById('fQuery');
 
-  elReg.addEventListener('change', ()=>{ state.filters.regime  = elReg.value;  applyFilters(); });
-  elCls.addEventListener('change', ()=>{ state.filters.cls     = elCls.value;  applyFilters(); });
-  elSpec.addEventListener('change', ()=>{
-    state.filters.spec = elSpec.value;
-    refillDisease(elSpec.value);
+  elCls.addEventListener('change', ()=>{ state.filters.cls = elCls.value; applyFilters(); });
+
+  elTGrp.addEventListener('change', ()=>{
+    state.filters.therapyGroup = elTGrp.value;
+    // Regime-Auswahlliste entsprechend der Gruppe neu füllen und Auswahl zurücksetzen
+    refillTherapies(state.filters.therapyGroup);
+    elTher.value = '';
+    state.filters.therapy = '';
     applyFilters();
   });
-  elDis.addEventListener('change', ()=>{ state.filters.disease = elDis.value;  applyFilters(); });
-  elTher.addEventListener('change', ()=>{ state.filters.therapy= elTher.value; applyFilters(); });
+
+  elTher.addEventListener('change', ()=>{ state.filters.therapy = elTher.value; applyFilters(); });
+
   elQ.addEventListener('input', ()=>{ state.filters.q = elQ.value; applyFilters(); });
 
   // Checkbox-Delegation
@@ -207,12 +239,11 @@ function wireUI(){
     renderPreview();
   });
 
-  // Toolbar Buttons
+  // Toolbar
   document.getElementById('btnReset').addEventListener('click', ()=>{
     for (const k of Object.keys(state.filters)) state.filters[k]='';
-    elReg.value = elCls.value = elSpec.value = elDis.value = elTher.value = '';
-    elQ.value = '';
-    refillDisease('');
+    elCls.value = ''; elTGrp.value = ''; elTher.value = ''; elQ.value = '';
+    refillTherapies('');
     applyFilters();
   });
   document.getElementById('btnSelectAll').addEventListener('click', ()=>{
@@ -224,24 +255,14 @@ function wireUI(){
   });
   document.getElementById('btnPrint').addEventListener('click', ()=> window.print());
 
-  // Kopf-Felder (keine Logik nötig)
+  // Kopf-Felder (nur im Druck)
   ['pTitle','pRegimen','pDate','pPhys'].forEach(id=>{
     const el = document.getElementById(id);
     if (el) el.addEventListener('input', ()=>{ /* no-op */ });
   });
 }
 
-function refillDisease(spec){
-  const elDis = document.getElementById('fDisease');
-  elDis.innerHTML = `<option value="">Alle</option>`;
-  const pool = state.items.filter(x => !spec || x.specialty===spec).map(x=>x.disease).filter(Boolean);
-  const uniq = [...new Set(pool)].sort((a,b)=>a.localeCompare(b,'de'));
-  for(const v of uniq){
-    const o = document.createElement('option'); o.value=v; o.textContent=v; elDis.appendChild(o);
-  }
-}
-
-// ---- Start
+// ===== Start =====
 (async function(){
   try{
     await loadData();
