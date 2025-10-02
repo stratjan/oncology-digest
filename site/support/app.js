@@ -1,4 +1,4 @@
-// site/support/app.js
+// site/support/app.js  (normalisiert: regimen_catalog + items)
 
 const PRIMARY_URL  = '/support/supportive.json';
 const FALLBACK_URL = '/support/supportive.example.json';
@@ -9,9 +9,10 @@ function esc(s){return String(s??'')
 
 const state = {
   items: [],
+  catalog: [],           // [{id,name,group,aliases:[]}, ...]
   filtered: [],
   selection: new Set(),
-  filters: { regime:'', cls:'', spec:'', disease:'', q:'' }
+  filters: { regime:'', cls:'', spec:'', disease:'', therapy:'', q:'' }
 };
 
 // ---- Laden
@@ -19,31 +20,58 @@ async function loadData(){
   let r = await fetch(PRIMARY_URL, {cache:'no-store'});
   if(!r.ok) r = await fetch(FALLBACK_URL, {cache:'no-store'});
   if(!r.ok) throw new Error('supportive.json nicht gefunden');
-  const data = await r.json();
-  state.items = Array.isArray(data) ? data : (data.items||[]);
+
+  const raw = await r.json();
+
+  // Rückwärtskompatibilität: früher war es ein Array
+  if (Array.isArray(raw)) {
+    state.items = raw;
+    state.catalog = [];
+  } else {
+    state.items = Array.isArray(raw.items) ? raw.items : [];
+    state.catalog = Array.isArray(raw.regimen_catalog) ? raw.regimen_catalog : [];
+  }
+
   // Sortierung: nach Klasse, dann Name
   state.items.sort((a,b)=>{
     const c = (a.class||'').localeCompare(b.class||'', 'de');
     if (c) return c;
     return (a.name||'').localeCompare(b.name||'', 'de');
   });
-  document.getElementById('meta').textContent = `Einträge: ${state.items.length}`;
+  document.getElementById('meta').textContent =
+    `Einträge: ${state.items.length} · Regime: ${state.catalog.length}`;
 }
 
-// ---- Filterquellen füllen
+// ---- Options füllen
 function fillOptions(){
   const by = (key) => [...new Set(state.items.map(x => x[key]).filter(Boolean))]
     .sort((a,b)=>a.localeCompare(b,'de'));
   fillSelect('fRegime', by('regimen_category'));
   fillSelect('fClass',  by('class'));
   fillSelect('fSpec',   by('specialty'));
-  // disease ist abhängig von specialty → initial alle
-  const allDis = [...new Set(state.items.map(x => x.disease).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'de'));
+
+  // disease abhängig von specialty (initial: alle)
+  const allDis = [...new Set(state.items.map(x => x.disease).filter(Boolean))]
+    .sort((a,b)=>a.localeCompare(b,'de'));
   fillSelect('fDisease', allDis);
-  // Datum vorbesetzen
+
+  // Therapy/Regime aus catalog (Anzeige: name, value: regimen_id)
+  const el = document.getElementById('fTherapy');
+  if (el) {
+    const arr = [...state.catalog].sort((a,b)=> (a.name||'').localeCompare(b.name||'', 'de'));
+    for (const r of arr) {
+      const o = document.createElement('option');
+      o.value = r.id;
+      o.textContent = r.name + (r.group ? ` (${r.group})` : '');
+      el.appendChild(o);
+    }
+  }
+
+  // Datum vorbelegen
   const d = new Date();
   document.getElementById('pDate').value = d.toLocaleDateString('de-DE');
 }
+
 function fillSelect(id, values){
   const el = document.getElementById(id);
   if (!el) return;
@@ -54,24 +82,40 @@ function fillSelect(id, values){
   }
 }
 
-// ---- Filtern
+// ---- Filtern (inkl. Therapy/Regime)
 function applyFilters(){
-  const {regime, cls, spec, disease, q} = state.filters;
+  const {regime, cls, spec, disease, therapy, q} = state.filters;
   const ql = (q||'').toLowerCase().trim();
 
   state.filtered = state.items.filter(x=>{
-    if (regime && x.regimen_category !== regime) return false;
-    if (cls    && x.class !== cls) return false;
-    if (spec   && x.specialty !== spec) return false;
-    if (disease&& x.disease !== disease) return false;
+    if (regime  && x.regimen_category !== regime) return false;
+    if (cls     && x.class !== cls) return false;
+    if (spec    && x.specialty !== spec) return false;
+    if (disease && x.disease !== disease) return false;
+
+    if (therapy) {
+      const arr = Array.isArray(x.regimens) ? x.regimens : [];
+      if (!arr.includes(therapy)) return false;
+    }
+
     if (ql) {
-      const hay = [
-        x.name, x.substance, x.class, x.indication
-      ].map(s => (s||'').toLowerCase()).join(' ');
-      if (!hay.includes(ql)) return false;
+      // Freitext: Name/Substanz/Indikation/alias-Treffer
+      let aliasHit = false;
+      if (state.catalog.length && x.regimens && x.regimens.length) {
+        for (const rid of x.regimens) {
+          const r = state.catalog.find(c => c.id === rid);
+          if (!r) continue;
+          const hay = [r.name, ...(r.aliases||[])].join(' ').toLowerCase();
+          if (hay.includes(ql)) { aliasHit = true; break; }
+        }
+      }
+      const hay = [x.name, x.substance, x.class, x.indication]
+        .map(s => (s||'').toLowerCase()).join(' ');
+      if (!(hay.includes(ql) || aliasHit)) return false;
     }
     return true;
   });
+
   renderResults();
   renderPreview();
   document.getElementById('hitCount').textContent = `${state.filtered.length} Treffer`;
@@ -99,8 +143,7 @@ function resCard(x){
   `;
 }
 function renderResults(){
-  const box = document.getElementById('results');
-  box.innerHTML = state.filtered.map(resCard).join('');
+  document.getElementById('results').innerHTML = state.filtered.map(resCard).join('');
 }
 
 // ---- Druckvorschau (Gruppierung nach Klasse)
@@ -132,7 +175,6 @@ function renderPreview(){
       `).join('') +
       `</div></div>`);
   }
-  // Kopf (Titel/Regime/Datum/Arzt) wird im HTML gepflegt → hier nur Liste
   document.getElementById('preview').innerHTML = out.join('') || `<div class="text-sm text-neutral-600">Noch keine Auswahl.</div>`;
 }
 
@@ -143,19 +185,20 @@ function wireUI(){
   const elSpec= document.getElementById('fSpec');
   const elDis = document.getElementById('fDisease');
   const elQ   = document.getElementById('fQuery');
+  const elTher= document.getElementById('fTherapy');
 
-  elReg.addEventListener('change', ()=>{ state.filters.regime = elReg.value; applyFilters(); });
-  elCls.addEventListener('change', ()=>{ state.filters.cls    = elCls.value; applyFilters(); });
+  elReg.addEventListener('change', ()=>{ state.filters.regime  = elReg.value;  applyFilters(); });
+  elCls.addEventListener('change', ()=>{ state.filters.cls     = elCls.value;  applyFilters(); });
   elSpec.addEventListener('change', ()=>{
     state.filters.spec = elSpec.value;
-    // Erkrankungen abhängig vom Fachgebiet neu füllen
     refillDisease(elSpec.value);
     applyFilters();
   });
-  elDis.addEventListener('change', ()=>{ state.filters.disease= elDis.value; applyFilters(); });
+  elDis.addEventListener('change', ()=>{ state.filters.disease = elDis.value;  applyFilters(); });
+  elTher.addEventListener('change', ()=>{ state.filters.therapy= elTher.value; applyFilters(); });
   elQ.addEventListener('input', ()=>{ state.filters.q = elQ.value; applyFilters(); });
 
-  // Checkbox-Klicks (Delegation)
+  // Checkbox-Delegation
   document.getElementById('col-mid').addEventListener('change', (ev)=>{
     const cb = ev.target.closest('input[type="checkbox"][data-id]');
     if (!cb) return;
@@ -164,10 +207,10 @@ function wireUI(){
     renderPreview();
   });
 
-  // Buttons
+  // Toolbar Buttons
   document.getElementById('btnReset').addEventListener('click', ()=>{
     for (const k of Object.keys(state.filters)) state.filters[k]='';
-    elReg.value = elCls.value = elSpec.value = elDis.value = '';
+    elReg.value = elCls.value = elSpec.value = elDis.value = elTher.value = '';
     elQ.value = '';
     refillDisease('');
     applyFilters();
@@ -181,17 +224,15 @@ function wireUI(){
   });
   document.getElementById('btnPrint').addEventListener('click', ()=> window.print());
 
-  // Sync Preview-Header live (Titel/Regime/Datum/Arzt sind editierbar → nicht weiter verarbeitet)
+  // Kopf-Felder (keine Logik nötig)
   ['pTitle','pRegimen','pDate','pPhys'].forEach(id=>{
     const el = document.getElementById(id);
-    if (!el) return;
-    el.addEventListener('input', ()=>{/* no-op; Felder sind Teil der Druckseite */});
+    if (el) el.addEventListener('input', ()=>{ /* no-op */ });
   });
 }
 
 function refillDisease(spec){
   const elDis = document.getElementById('fDisease');
-  // clear
   elDis.innerHTML = `<option value="">Alle</option>`;
   const pool = state.items.filter(x => !spec || x.specialty===spec).map(x=>x.disease).filter(Boolean);
   const uniq = [...new Set(pool)].sort((a,b)=>a.localeCompare(b,'de'));
@@ -206,10 +247,9 @@ function refillDisease(spec){
     await loadData();
     fillOptions();
     wireUI();
-    applyFilters(); // initial
+    applyFilters();
   }catch(e){
     console.error(e);
     document.getElementById('meta').textContent = 'Fehler beim Laden.';
   }
 })();
-
