@@ -1,6 +1,26 @@
 {
-  "generated": "2025-10-02T05:16:34.648049Z",
+  "generated": "2025-10-03T05:16:14.264352Z",
   "items": [
+    {
+      "pmid": "41037288",
+      "doi": "10.1001/jamaoncol.2025.3768",
+      "title": "Nationwide Response to Carboplatin and Cisplatin Shortages in Lung Cancer.",
+      "journal": "JAMA oncology",
+      "pubdate": "2025-10-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 8.377,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41037288/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3768",
+      "abstract": null
+    },
     {
       "pmid": "41032288",
       "doi": "10.1093/jnci/djaf272",
@@ -163,6 +183,26 @@
       "abstract": "OBJECTIVES: To investigate the performance of two segmentation algorithms for nodule volumetric classification at participant/scan level in the NELCIN-B3 cohort (Netherlands and China Big-3), a lung cancer screening program (LCS) using low-dose CT (LDCT).\n\nMETHODS: Baseline scans with qualified LDCT images from consecutive NELCIN-B3 participants were included from June 2017 to July 2018. Performance of two software algorithms were independently evaluated by two radiologists: software A (Syngo.via VB30A) by reader 1 and software B (AVIEW v1.1.39.14) by reader 2. According to the NELSON2.0 protocol, nodules with a solid component ≥ 100 mm\n\nRESULTS: In total, 300 participants were evaluated comprising 159 women (53.0 %) and 193 (64.3 %) never smokers, with a mean ± standard deviation age of 61.2 ± 7.1 years. There were disagreements in 17 cases: in 11 (11/300, 3.7 %), this was due to differences in nodule selection and nodule type classification between readers; and in 6 (6/300, 2.0 %), this was due to variations in nodule volume metrics between algorithms. Inter-software agreement was almost perfect (κ = 0.88 [95 %CI: 0.83-0.93]). In the consensus read, reader 1/software A generated 12 misclassifications (11 PM, 1 NM), giving a negative predictive value of 99.6 % (95 % CI: 98.9 %-100.0 %). Reader 2/software B generated 5 misclassifications (2 PM, 3 NM), giving a negative predictive value of 98.9 % (95 % CI: 97.7 %-100.0 %).\n\nCONCLUSION: Two software algorithms (Syngo.via VB30A and AVIEW v1.1.39.14) showed comparable performance for lung nodule volumetric classification at participant/scan level. Further research is needed to confirm the results in other LDCT LCS programs."
     },
     {
+      "pmid": "41037966",
+      "doi": "10.1016/j.ctarc.2025.101008",
+      "title": "Study protocol of an open-label prospective phase II study of Durvalumab plus Carboplatin and Etoposide in advanced large cell neuroendocrine carcinoma of the lung (LOGIK2401: NECTAR study).",
+      "journal": "Cancer treatment and research communications",
+      "pubdate": "2025-09-27T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Phase II",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ctarc.2025.101008",
+      "metric_name": "SJR",
+      "metric_value": 0.971,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41037966/",
+      "url_doi": "https://doi.org/10.1016/j.ctarc.2025.101008",
+      "abstract": "INTRODUCTION: Large cell neuroendocrine carcinoma (LCNEC) of the lung is a rare histologic type and is placed in the neuroendocrine tumor category along with small cell lung cancer (SCLC) at the latest histologic classification. Combination therapy with chemotherapy and immune checkpoint inhibitors is the standard of care for both non-small cell lung cancer and SCLC. However, the efficacy of immunochemotherapy for LCNEC has not yet been established.\n\nMETHODS AND ANALYSIS: This prospective, multicenter, single-arm study will evaluate the efficacy of durvalumab plus carboplatin and etoposide in patients with advanced or relapsed LCNEC. Thirty patients were enrolled in this study. Patients will receive durvalumab intravenously combined with up to four cycles of carboplatin and etoposide, followed by durvalumab maintenance treatment. The primary endpoint is the objective response rate, and the key secondary endpoints are the duration of response, progression-free survival, overall survival, and safety.\n\nCONCLUSION: This is the prospective study to evaluate the efficacy of immunochemotherapy in patients with advanced or relapsed LCNEC. The results are expected to contribute to establishing the treatment strategy for LCNEC."
+    },
+    {
       "pmid": "40168159",
       "doi": "10.1080/17581966.2025.2477411",
       "title": "The association between blood-based HYAL2 methylation and early-stage lung cancer: a case-control study.",
@@ -181,6 +221,48 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
       "url_doi": "https://doi.org/10.1080/17581966.2025.2477411",
       "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
+    },
+    {
+      "pmid": "40961811",
+      "doi": "10.1016/j.ejca.2025.115779",
+      "title": "Atezolizumab with carboplatin plus nab-paclitaxel combination therapy for TTF-1 negative advanced nonsquamous non-small cell lung cancer: A multicenter, single-arm phase 2 trial (F1NE TUNE, LOGiK 2102).",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-10-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ejca.2025.115779",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40961811/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.115779",
+      "abstract": "BACKGROUND: Individuals with thyroid transcription factor-1 (TTF-1)-negative nonsquamous non-small cell lung cancer (NSCLC) have a poor prognosis. There have been no prospective studies targeting TTF-1-negative nonsquamous NSCLC.\n\nMETHODS: This multicenter, single-arm phase 2 study enrolled chemotherapy-naïve individuals with TTF-1-negative advanced nonsquamous NSCLC to receive four cycles of atezolizumab in combination with carboplatin plus nab-paclitaxel, followed by atezolizumab alone. The primary endpoint was progression-free survival (PFS).\n\nRESULTS: Between June 2022 and March 2024, 52 patients (41 male and 11 female) with a median age of 68.0 years were enrolled. Thirty-three patients had adenocarcinoma and 19 had nonadenocarcinoma. Nineteen, 30, and 3 patients were current, former, and never-smokers, respectively. The PD-L1 tumor proportion score was < 1 % in 22 cases, 1-49 % in 18 cases, ≥ 50 % in 11 cases, and unknown in 1 case. The median PFS was 4.9 months (80 % confidence interval [CI], 4.3-5.9 months). The lower limit of the 80 % CI did not exceed the prespecified threshold of 4.5 months; therefore, the study did not meet its primary endpoint. The median overall survival was 13.2 months (95 % CI, 10.3-27.2 months). The response rate was 56.9 % (95 % CI, 43.3-69.5 %). There were no new safety signals.\n\nCONCLUSIONS: This first prospective study of individuals with TTF-1-negative advanced nonsquamous NSCLC has provided evidence for the efficacy and safety of the combination of carboplatin plus nab-paclitaxel with atezolizumab in such patients. The prognosis of TTF-1-negative advanced nonsquamous NSCLC remains poor, however, warranting further treatment development."
+    },
+    {
+      "pmid": "40957291",
+      "doi": "10.1016/j.ejca.2025.115693",
+      "title": "A phase II study of afatinib in combination with pemetrexed and carboplatin in patients with EGFR mutation-positive non-squamous, advanced non-small cell lung cancer (NSCLC) refractory to first-line osimertinib treatment: NEJ025B study.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-10-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Phase II",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40957291/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.115693",
+      "abstract": "BACKGROUND: Osimertinib is commonly used as a first-line treatment for EGFR-mutated advanced non-small cell lung cancer (NSCLC). However, the optimal treatment strategy following osimertinib failure remains unclear.\n\nMETHODS: Patients with EGFR-mutated NSCLC and exon 19 deletion or L858R mutation after failure of osimertinib treatment were assigned to a regimen of afatinib (20 mg daily) combined with carboplatin (AUC 5 mg/mL/min) and pemetrexed (500 mg/m\n\nRESULTS: Thirty-six patients were enrolled. One patient met the exclusion criteria, and the efficacy was evaluated in the remaining 35 patients. The 6M-PFSR, the primary endpoint, was 57.1 %. The confidence interval of 39.3-71.5 % exceeded the predefined threshold of 35 %, thereby meeting its primary endpoint. Notably, 28.6 % of patients achieved a long-term PFS of 1 year or longer. The objective response rate (ORR) was 51.4 %, the disease control rate (DCR) was 88.6 %, the median PFS was 8.2 months, the median duration of response (DOR) was 5.6 months, and the median overall survival (OS) was 22.5 months. The most common adverse events were diarrhea (52.8 %) and anorexia (47.2 %), both of which were predictable and manageable. Interstitial pneumonia developed in three patients (8.3 %), one of whom died. Another patient died from sepsis, bringing the total number of deaths in the study to two.\n\nCONCLUSIONS: The combination of afatinib and the platinum doublet demonstrated satisfactory efficacy with manageable adverse events in tumors refractory to osimertinib, meeting its primary endpoint.\n\nTRIAL REGISTRATION NUMBER: jRCTs021200005."
     },
     {
       "pmid": "41032719",
@@ -202,6 +284,70 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41032719/",
       "url_doi": "https://doi.org/10.1056/NEJMc2511884",
       "abstract": null
+    },
+    {
+      "pmid": "41038185",
+      "doi": "10.1016/S1470-2045(25)00409-7",
+      "title": "First-line immunotherapy with or without chemotherapy versus BRAF plus MEK inhibitors in BRAF(V600E)-mutated metastatic non-small-cell lung cancer (FRONT-BRAF): a multicentre, retrospective cohort study.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-10-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41038185/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00409-7",
+      "abstract": "BACKGROUND: Patients with BRAF\n\nMETHODS: In this retrospective cohort study conducted across 17 centres in the USA, Italy, France, and Brazil, clinicopathological data were collected from participants aged 18 years and older with stage IV, treatment-naive, metastatic BRAF\n\nFINDINGS: 284 participants were identified for this study, of whom 88 (31%) received ICIs with or without chemotherapy and 196 (69%) received BRAF and MEK inhibitors. The median age of participants was 68 years (IQR 61-74), and 148 (52%) participants were female and 136 (48%) male. Participants in the ICIs with or without chemotherapy group had a higher history of smoking (73 [83%] vs 118 [60%]; p=0·0002) and a higher PD-L1 expression (≥50% in 58 [66%] vs 76 [39%], 1-49% in 16 [18%] vs 67 [34%], and <1% in eight [9%] vs 31 [16%]; p=0·0003) than those in the BRAF and MEK inhibitor group. At a median follow-up time of 45·0 months (95% CI 39·0-55·7), ICIs with or without chemotherapy were associated with improved median overall survival compared with BRAF and MEK inhibitors (40·9 months [95% CI 33·3-not reached] vs 25·2 months [19·9-31·1]; hazard ratio [HR] 0·69 [0·49-0·98], p=0·039). In subgroup analyses, ICIs with or without chemotherapy, compared with BRAF and MEK inhibitors, were associated with longer median overall survival in participants with a history of smoking (HR 0·60 [0·40-0·90], p=0·013), with a PD-L1 tumour proportion score of ≥1% or higher (HR 0·66 [0·45-0·98], p=0·039), aged 70 years or older (HR 0·54 [0·31-0·94], p=0·029), with TP53 co-mutations (HR 0·46 [0·27-0·79], p=0·0048), and without brain metastases (HR 0·66 [0·45-0·99], p=0·045). With BRAF and MEK inhibitors, frequencies of adverse events of any grade and of grade 3 and higher were similar whether administered as first-line therapy or as second-line therapy following ICIs with or without chemotherapy.\n\nINTERPRETATION: First-line ICIs with or without chemotherapy were associated with improved overall survival compared with BRAF and MEK inhibitors in participants with metastatic BRAF\n\nFUNDING: NextGenerationEU."
+    },
+    {
+      "pmid": "40934933",
+      "doi": "10.1016/S1470-2045(25)00480-2",
+      "title": "Safety and activity of tarlatamab in combination with a PD-L1 inhibitor as first-line maintenance therapy after chemo-immunotherapy in patients with extensive-stage small-cell lung cancer (DeLLphi-303): a multicentre, non-randomised, phase 1b study.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-10-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40934933/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00480-2",
+      "abstract": "BACKGROUND: Tarlatamab is a delta-like ligand 3 (DLL3)-directed bispecific T-cell engager immunotherapy that has improved survival in patients with previously treated small-cell lung cancer (SCLC). We evaluated the safety and activity of tarlatamab in combination with atezolizumab or durvalumab as first-line maintenance therapy in patients with extensive-stage (ES)-SCLC.\n\nMETHODS: In this multicentre, non-randomised, phase 1b study, patients aged 18 years and older, with Eastern Cooperative Oncology Group performance status of 0-1 and without disease progression after four to six cycles of platinum-etoposide chemotherapy plus a programmed cell death ligand 1 (PD-L1) inhibitor (if available), received tarlatamab 10 mg intravenously once every 2 weeks, after an initial tarlatamab 1 mg dose, with atezolizumab intravenously (1680 mg once every 4 weeks) or durvalumab intravenously (1500 mg once every 4 weeks) as maintenance until disease progression. Patients were enrolled from 30 centres in 13 countries. The primary objective was to evaluate safety and to determine the recommended phase 2 dose or maximum tolerated dose of tarlatamab in combination with a PD-L1 inhibitor through assessment of dose-limiting toxicities, treatment-emergent adverse events, treatment-related adverse events, and changes in vital signs, electrocardiograms, and clinical laboratory tests. All patients who received at least one dose of tarlatamab were included in the analyses. Because overall survival data were immature at the primary analysis, in this Article, we report a non-specified interim analysis to provide an updated examination of overall survival and longer-term safety. This study is registered with ClinicalTrials.gov, NCT05361395; the EU Clinical Trials registry, 2021-005462-17; and EudraCT, 2024-511021-58.\n\nFINDINGS: Between Aug 31, 2022, and Jan 30, 2024, 88 patients received tarlatamab with atezolizumab or durvalumab after standard-of-care first-line chemo-immunotherapy. The median time from start of standard-of-care first-line chemo-immunotherapy to start of tarlatamab maintenance was 3·6 months (IQR 3·2-4·3). The median follow-up from the start of maintenance was 18·4 months (15·2-23·0) and the median exposure to tarlatamab was 35 weeks (8-75). The most common grade 3-4 adverse events were hyponatraemia (nine [10%] of 88 patients), anaemia (seven [8%] of 88 patients), and neutropenia (six [7%] of 88 patients). Serious adverse events occurred in 50 (57%) of 88 patients. The most common serious adverse events were cytokine release syndrome (21 [24%] of 88 patients), pyrexia (six [7%] of 88 patients), immune effector cell-associated neurotoxicity syndrome (four [5%] of 88 patients), and pneumonia (four [5%] of 88 patients). There were no deaths due to treatment-related adverse events. Median overall survival was 25·3 months (95% CI 20·3-not estimable).\n\nINTERPRETATION: Tarlatamab plus a PD-L1 inhibitor as maintenance after first-line chemo-immunotherapy showed a manageable safety profile with promising anticancer activity, supporting the ongoing phase 3 trial (NCT06211036).\n\nFUNDING: Amgen."
+    },
+    {
+      "pmid": "40578381",
+      "doi": "10.1016/S2213-2600(25)00213-9",
+      "title": "Adjuvant chemotherapy for stage IA-IIA non-squamous, non-small-cell lung cancer identified as molecular high-risk by a 14-gene expression profile (AIM-HIGH): an international, randomised, phase 3 trial.",
+      "journal": "The Lancet. Respiratory medicine",
+      "pubdate": "2025-10-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://www.thelancet.com/action/showPdf?pii=S2213260025002139",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40578381/",
+      "url_doi": "https://doi.org/10.1016/S2213-2600(25)00213-9",
+      "abstract": "BACKGROUND: Survival for non-small-cell lung cancer (NSCLC) remains unacceptably low, even in stage IA-IIA. Current guidelines recommend adjuvant treatment for patients considered to be at high risk in stages IB and IIA, but suggest criteria that have not been validated to predict benefit. A previously validated, CLIA-certified 14-gene expression profile has identified patients with high-risk non-squamous NSCLC tumours in stages IA-IIA who benefitted from adjuvant chemotherapy in a non-randomised prospective study. In this prespecified interim analysis, we aimed to assess the efficacy and safety of platinum-based adjuvant chemotherapy in patients with stage IA-IIA molecular high-risk non-squamous NSCLC in a randomised trial.\n\nMETHODS: AIM-HIGH, a randomised, phase 3 trial, was done at 45 centres in France, Germany, and the USA. Patients aged 18 years or older with stage IA-IIA non-squamous NSCLC, an adequate tumour sample, and an Eastern Cooperative Oncology Group performance status of 0-1 underwent risk stratification with the 14-gene assay. Patients with a molecular high risk, defined as those receiving a high-risk or an intermediate-risk score, were randomly assigned (1:1) to four cycles of platinum-based adjuvant chemotherapy (using local institutional standard of care regimens) or observation. Randomisation was stratified according to age, sex, and tumour size of 4 cm or more. The primary outcomes for the study and for this prespecified interim analysis were 48-month and 24-month disease-free survival, respectively, in the modified intention-to-treat (mITT) population, which was defined as randomly assigned patients who continued to meet eligibility criteria either at chemotherapy initiation or at random assignment to observation; an early interim analysis was prespecified to detect a large difference between groups. This trial is registered at ClinicalTrials.gov, NCT01817192, and is closed to enrolment.\n\nFINDINGS: Between Sept 11, 2020, and Feb 7, 2025, 449 patients were enrolled and underwent risk stratification. 236 patients with molecular high risk were randomly assigned to chemotherapy (n=124) or observation (n=112). At the time of the prespecified interim analysis, 87 patients were evaluable in the mITT population (47 [54%] males and 40 [46%] females; median age 63 years [IQR 52-74]) in the chemotherapy group and 107 (58 [54%] males and 49 [46%] females; 66 years [56-76]) in the observation group. 48 (55%) patients in the chemotherapy group and 58 (54%) patients in the observation group had stage IA disease; 34 (39%) and 44 (41%), respectively, had stage IB disease, and five (6%) and five (5%), respectively, had stage IIA disease. Six (3%) of 200 patients in the mITT population had died at the time of the interim analysis. 24-month disease-free survival was 96% (95% CI 92-100) with adjuvant chemotherapy versus 79% (70-90) with observation (hazard ratio 0·22 [0·06-0·76]; p=0·0087).\n\nINTERPRETATION: The 14-gene assay identified patients with molecular high risk who benefitted from adjuvant chemotherapy. Use of the assay to determine eligibility for adjuvant therapy in stage IA-IIA non-squamous NSCLC has the potential to substantially improve otherwise persistently poor outcomes.\n\nFUNDING: Razor Genomics."
     },
     {
       "pmid": "41026583",
@@ -244,6 +390,26 @@
       "abstract": "Neoadjuvant chemoimmunotherapy offers promise to improve outcomes for patients with resectable non-small cell lung cancer (NSCLC). Yet not all patients derive treatment benefits, and reliable biomarkers of response are still lacking. We here assess the long-term clinical outcome of neoadjuvant chemotherapy and perioperative anti-PD-L1 inhibition in resectable stage IIIA NSCLC in the SAKK 16/14 trial and provide a comprehensive characterization of anti-tumor immune responses for biomarker-based treatment personalization. We report secondary outcomes of median event-free survival (EFS) of 4.0 years and median overall survival not being reached after a median follow-up of 5.4 years. Computer-aided spatial image analysis emphasizes the importance of CD8"
     },
     {
+      "pmid": "41038207",
+      "doi": "10.1016/S1470-2045(25)00429-2",
+      "title": "Long-term overall survival with dual CTLA-4 and PD-L1 or PD-1 blockade and biomarker-based subgroup analyses in patients with advanced non-small-cell lung cancer: a systematic review and reconstructed individual patient data meta-analysis.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-09-29T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41038207/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00429-2",
+      "abstract": "BACKGROUND: Immune checkpoint inhibitors targeting PD-L1 or PD-1 as monotherapy or combined with CTLA-4 inhibitors or chemotherapy (or both) are the standard of care for patients with advanced non-small-cell lung cancer (NSCLC). However, it remains unclear which patients benefit from the addition of CTLA-4 inhibitors. We aimed to evaluate whether dual checkpoint blockade with CTLA-4 and PD-L1 or PD-1 inhibitors provides similar efficacy to PD-L1 or PD-1 inhibitor monotherapy, or whether these strategies produce distinct outcomes across NSCLC subpopulations.\n\nMETHODS: We conducted a search of PubMed, MEDLINE, and Embase for randomised phase 3 trials published from database inception to Nov 21, 2024, that investigated PD-L1 or PD-1 inhibitors, with or without CTLA-4 inhibitors, in patients with advanced NSCLC. We focused on studies reporting Kaplan-Meier survival data at 5 years or biomarker analyses based on PD-L1, KRAS, and STK11 mutational status. Individual patient data were extracted from Kaplan-Meier curves with WebPlotDigitizer version 5 and reconstructed with the IPDfromKM method. The primary endpoint of the study was 5-year overall survival in the overall population and in subpopulations based on PD-L1 tumour proportion score (TPS), tumour histology, and mutational status (mutant vs wild-type) of KRAS and STK11. This study was registered with PROSPERO, CRD420251081707.\n\nFINDINGS: The initial search yielded 1026 results, and six randomised clinical trials met the eligibility criteria and were included. Among the 2881 patients eligible for analysis (838 [29·1%] female and 2043 [70·9%] male), 1282 received dual CTLA-4 and PD-L1 or PD-1 blockade and 1599 received single PD-L1 or PD-1 blockade. Patients treated with dual CTLA-4 and PD-L1 or PD-1 blockade had similar median overall survival compared with those treated with single PD-L1 or PD-1 inhibition (16·1 months [95% CI 15·0-17·8] vs 16·9 months [15·5-18·3]; HR 0·95 [95% CI 0·87-1·03], p=0·19). Median overall survival was significantly longer with dual CTLA-4 and PD-L1 or PD-1 blockade among patients with PD-L1 TPS less than 1% versus those treated with single PD-L1 or PD-1 inhibition (15·5 months [95% CI 13·6-18·5] vs 14·5 months [13·4-15·9]; HR 0·85 [95% CI 0·74-0·98], p=0·021), with 5-year overall survival rates of 16·6% (95% CI 13·4-20·6) versus 9·3% (7·0-12·3), respectively. Median overall survival in patients with tumours harbouring STK11 mutations was also significantly longer with dual CTLA-4 and PD-L1 or PD-1 blockade compared with single PD-L1 or PD-1 inhibition (13·9 months [95% CI 9·8-20·8] vs 7·8 months [6·4-12·9]; HR 0·67 [95% CI 0·49-0·91], p=0·012). However, no significant differences in overall survival were found between treatment groups by tumour histology (squamous vs non-squamous NSCLC) or by KRAS mutational status.\n\nINTERPRETATION: Compared with single PD-L1 or PD-1 inhibition, dual immune checkpoint blockade with CTLA-4 and PD-L1 or PD-1 inhibitors was associated with improved overall survival in patients with advanced NSCLC and PD-L1 TPS less than 1% and in those with STK11 mutations, but not in the overall population. Prospective validation of these results in clinical trials is warranted.\n\nFUNDING: NextGenerationUE."
+    },
+    {
       "pmid": "41033335",
       "doi": "10.1016/S2213-2600(25)00240-1",
       "title": "Durvalumab, carboplatin, and etoposide in patients who are treatment-naive with extensive-stage small-cell lung cancer and poor performance status (NEJ045A): a single-arm phase 2 trial.",
@@ -262,46 +428,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41033335/",
       "url_doi": "https://doi.org/10.1016/S2213-2600(25)00240-1",
       "abstract": "BACKGROUND: Treating patients with extensive-stage small-cell lung cancer (SCLC) with poor performance status poses considerable challenges. We aimed to evaluate the combination of an immune checkpoint inhibitor with platinum-based therapy in this population.\n\nMETHODS: This open-label, single-arm phase 2 NEJ045A trial enrolled untreated patients with extensive-stage SCLC with performance status 2 or 3. Participants received four cycles of durvalumab, carboplatin, and etoposide, followed by durvalumab maintenance. A dose adjustment strategy was used, with initial reductions in carboplatin-etoposide dosages, subsequently adjusted based on adverse events, allowing for potential escalation. The primary endpoint was tolerability, assessed by the proportion of patients completing induction therapy. A key secondary endpoint was 1-year survival rate. This trial is registered at the Japan Registry of Clinical Trials (jRCTs031200319) and has been completed.\n\nFINDINGS: Between April 8, 2021, and Oct 3, 2023, 57 patients (performance status 2 n=43 and performance status 3 n=14) were enrolled with a median age of 73·5 years (IQR 69·0-77·5), 44 (79%) of 56 were male. 26 (67%; 80% CI 55·2-76·7; p<0·0001) of 39 patients with performance status 2 and five (50%; 26·7-73·3; p=0·0088) of ten with performance status 3 completed induction therapy, exceeding the pre-specified threshold. Grade 3 or higher adverse events occurred in 52 (93%) of 56 patients, and 12 (21%) of 56 discontinued due to adverse events. The 1-year survival rates were 43·4% (80% CI 34·1-53·1) overall (p<0·0001), 50·0% (39·1-60·9) in performance status 2 (p<0·0001), and 18·2% (5·0-41·5) in performance status 3.\n\nINTERPRETATION: Durvalumab, carboplatin, and etoposide showed tolerability and promising efficacy as a first-line treatment for patients with untreated extensive-stage SCLC with poor performance status, supporting the integration of immune checkpoint inhibitors in this therapeutically challenging population.\n\nFUNDING: AstraZeneca KK."
-    },
-    {
-      "pmid": "41004707",
-      "doi": "10.1200/JCO-25-01817",
-      "title": "Bridging the Gap: The Evolving Landscape of CNS Management in Small Cell Lung Cancer: Prophylactic Cranial Irradiation in the Modern Era.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-09-26T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41004707/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01817",
-      "abstract": null
-    },
-    {
-      "pmid": "41006257",
-      "doi": "10.1038/s41467-025-63461-8",
-      "title": "AI cancer driver mutation predictions are valid in real-world data.",
-      "journal": "Nature communications",
-      "pubdate": "2025-09-26T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41467-025-63461-8.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41006257/",
-      "url_doi": "https://doi.org/10.1038/s41467-025-63461-8",
-      "abstract": "Characterizing and validating which mutations influence development of cancer is challenging. Artificial intelligence (AI) has delivered significant advances in protein structure prediction, but its utility for identifying cancer drivers is less explored. We evaluate multiple computational methods for identifying cancer driver mutations. For re-identifying known drivers, methods incorporating protein structure or functional genomic data outperform methods trained only on evolutionary data. We validate variants of unknown significance (VUSs) annotated as pathogenic by testing their association with overall survival in two cohorts of patients with non-small cell lung cancer (N = 7965 and 977). VUSs identified as pathogenic drivers by AI in KEAP1 and SMARCA4 are associated with worse survival, unlike \"benign\" VUSs. \"Pathogenic\" VUSs also exhibit mutual exclusivity with known oncogenic alterations at the pathway level, further suggesting biological validity. AI predictions thus contribute to a more comprehensive understanding of tumor genetics as validated by real-world data."
     }
   ]
 }
