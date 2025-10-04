@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-03T05:16:14.264352Z",
+  "generated": "2025-10-04T05:16:32.777662Z",
   "items": [
     {
       "pmid": "41037288",
@@ -183,26 +183,6 @@
       "abstract": "OBJECTIVES: To investigate the performance of two segmentation algorithms for nodule volumetric classification at participant/scan level in the NELCIN-B3 cohort (Netherlands and China Big-3), a lung cancer screening program (LCS) using low-dose CT (LDCT).\n\nMETHODS: Baseline scans with qualified LDCT images from consecutive NELCIN-B3 participants were included from June 2017 to July 2018. Performance of two software algorithms were independently evaluated by two radiologists: software A (Syngo.via VB30A) by reader 1 and software B (AVIEW v1.1.39.14) by reader 2. According to the NELSON2.0 protocol, nodules with a solid component ≥ 100 mm\n\nRESULTS: In total, 300 participants were evaluated comprising 159 women (53.0 %) and 193 (64.3 %) never smokers, with a mean ± standard deviation age of 61.2 ± 7.1 years. There were disagreements in 17 cases: in 11 (11/300, 3.7 %), this was due to differences in nodule selection and nodule type classification between readers; and in 6 (6/300, 2.0 %), this was due to variations in nodule volume metrics between algorithms. Inter-software agreement was almost perfect (κ = 0.88 [95 %CI: 0.83-0.93]). In the consensus read, reader 1/software A generated 12 misclassifications (11 PM, 1 NM), giving a negative predictive value of 99.6 % (95 % CI: 98.9 %-100.0 %). Reader 2/software B generated 5 misclassifications (2 PM, 3 NM), giving a negative predictive value of 98.9 % (95 % CI: 97.7 %-100.0 %).\n\nCONCLUSION: Two software algorithms (Syngo.via VB30A and AVIEW v1.1.39.14) showed comparable performance for lung nodule volumetric classification at participant/scan level. Further research is needed to confirm the results in other LDCT LCS programs."
     },
     {
-      "pmid": "41037966",
-      "doi": "10.1016/j.ctarc.2025.101008",
-      "title": "Study protocol of an open-label prospective phase II study of Durvalumab plus Carboplatin and Etoposide in advanced large cell neuroendocrine carcinoma of the lung (LOGIK2401: NECTAR study).",
-      "journal": "Cancer treatment and research communications",
-      "pubdate": "2025-09-27T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Phase II",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.ctarc.2025.101008",
-      "metric_name": "SJR",
-      "metric_value": 0.971,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41037966/",
-      "url_doi": "https://doi.org/10.1016/j.ctarc.2025.101008",
-      "abstract": "INTRODUCTION: Large cell neuroendocrine carcinoma (LCNEC) of the lung is a rare histologic type and is placed in the neuroendocrine tumor category along with small cell lung cancer (SCLC) at the latest histologic classification. Combination therapy with chemotherapy and immune checkpoint inhibitors is the standard of care for both non-small cell lung cancer and SCLC. However, the efficacy of immunochemotherapy for LCNEC has not yet been established.\n\nMETHODS AND ANALYSIS: This prospective, multicenter, single-arm study will evaluate the efficacy of durvalumab plus carboplatin and etoposide in patients with advanced or relapsed LCNEC. Thirty patients were enrolled in this study. Patients will receive durvalumab intravenously combined with up to four cycles of carboplatin and etoposide, followed by durvalumab maintenance treatment. The primary endpoint is the objective response rate, and the key secondary endpoints are the duration of response, progression-free survival, overall survival, and safety.\n\nCONCLUSION: This is the prospective study to evaluate the efficacy of immunochemotherapy in patients with advanced or relapsed LCNEC. The results are expected to contribute to establishing the treatment strategy for LCNEC."
-    },
-    {
       "pmid": "40168159",
       "doi": "10.1080/17581966.2025.2477411",
       "title": "The association between blood-based HYAL2 methylation and early-stage lung cancer: a case-control study.",
@@ -382,7 +362,7 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41467-025-63696-5",
+      "oa_url": "https://www.nature.com/articles/s41467-025-63696-5.pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41027867/",
