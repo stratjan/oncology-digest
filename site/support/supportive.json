@@ -1,283 +1,11 @@
 {
   "regimen_catalog": [
     {
-      "id": "cisplatin-pemetrexed",
-      "name": "Cisplatin + Pemetrexed",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Cisplatin + Pemetrexed"
-      ]
-    },
-    {
-      "id": "carboplatin-pemetrexed",
-      "name": "Carboplatin + Pemetrexed",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Carboplatin + Pemetrexed"
-      ]
-    },
-    {
-      "id": "cisplatin-gemcitabine",
-      "name": "Cisplatin + Gemcitabin",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Cisplatin + Gemcitabin"
-      ]
-    },
-    {
-      "id": "carboplatin-gemcitabine",
-      "name": "Carboplatin + Gemcitabin",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Carboplatin + Gemcitabin"
-      ]
-    },
-    {
-      "id": "carboplatin-paclitaxel",
-      "name": "Carboplatin + Paclitaxel",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Carboplatin + Paclitaxel"
-      ]
-    },
-    {
-      "id": "carboplatin-nab-paclitaxel",
-      "name": "Carboplatin + Nab-Paclitaxel",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Carboplatin + Nab-Paclitaxel"
-      ]
-    },
-    {
-      "id": "cisplatin-docetaxel",
-      "name": "Cisplatin + Docetaxel",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Cisplatin + Docetaxel"
-      ]
-    },
-    {
-      "id": "cisplatin-vinorelbine",
-      "name": "Cisplatin + Vinorelbin",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Cisplatin + Vinorelbin"
-      ]
-    },
-    {
-      "id": "carboplatin-vinorelbine",
-      "name": "Carboplatin + Vinorelbin",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Carboplatin + Vinorelbin"
-      ]
-    },
-    {
-      "id": "cisplatin-etoposide",
-      "name": "Cisplatin + Etoposid",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Cisplatin + Etoposid"
-      ]
-    },
-    {
-      "id": "carboplatin-etoposide",
-      "name": "Carboplatin + Etoposid",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Carboplatin + Etoposid"
-      ]
-    },
-    {
-      "id": "pembrolizumab-carbo-pemetrexed",
-      "name": "Pembrolizumab + Carboplatin + Pemetrexed",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Pembrolizumab + Carboplatin + Pemetrexed"
-      ]
-    },
-    {
-      "id": "pembrolizumab-carbo-paclitaxel",
-      "name": "Pembrolizumab + Carboplatin + (nab)Paclitaxel",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Pembrolizumab + Carboplatin + (nab)Paclitaxel"
-      ]
-    },
-    {
-      "id": "atezolizumab-carbo-nab-pac",
-      "name": "Atezolizumab + Carboplatin + Nab-Paclitaxel",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Atezolizumab + Carboplatin + Nab-Paclitaxel"
-      ]
-    },
-    {
-      "id": "atezolizumab-bev-carbo-pac",
-      "name": "Atezolizumab + Bevacizumab + Carboplatin + Paclitaxel",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Atezolizumab + Bevacizumab + Carboplatin + Paclitaxel"
-      ]
-    },
-    {
-      "id": "durvalumab-carbo-etoposide",
-      "name": "Durvalumab + Carboplatin + Etoposid (Ext. SCLC)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Durvalumab + Carboplatin + Etoposid (Ext. SCLC)"
-      ]
-    },
-    {
-      "id": "atezolizumab-carbo-etoposide",
-      "name": "Atezolizumab + Carboplatin + Etoposid (Ext. SCLC)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Atezolizumab + Carboplatin + Etoposid (Ext. SCLC)"
-      ]
-    },
-    {
-      "id": "cisplatin-pemetrexed-bev",
-      "name": "Cisplatin + Pemetrexed + Bevacizumab (Mesotheliom)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Cisplatin + Pemetrexed + Bevacizumab (Mesotheliom)"
-      ]
-    },
-    {
-      "id": "nivolumab-ipilimumab",
-      "name": "Nivolumab + Ipilimumab (Kombinations-Immuntherapie)",
-      "group": "Immuntherapie",
-      "aliases": [
-        "Nivolumab + Ipilimumab (Kombinations-Immuntherapie)"
-      ]
-    },
-    {
-      "id": "nivolumab-ipi-chemo",
-      "name": "Nivolumab + Ipilimumab + 2× Chemotherapie (z.B. CheckMate 9LA)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Nivolumab + Ipilimumab + 2× Chemotherapie (z.B. CheckMate 9LA)"
-      ]
-    },
-    {
-      "id": "durvalumab-tremelimumab-chemo",
-      "name": "Durvalumab + Tremelimumab + Chemotherapie (z.B. POSEIDON)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Durvalumab + Tremelimumab + Chemotherapie (z.B. POSEIDON)"
-      ]
-    },
-    {
-      "id": "durvalumab-consolidation",
-      "name": "Durvalumab (Konsolidierung nach Radiochemo, Stadium III NSCLC)",
-      "group": "Immuntherapie",
-      "aliases": [
-        "Durvalumab (Konsolidierung nach Radiochemo, Stadium III NSCLC)"
-      ]
-    },
-    {
-      "id": "pemetrexed-monotherapy",
-      "name": "Pemetrexed (Monotherapie)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Pemetrexed (Monotherapie)"
-      ]
-    },
-    {
-      "id": "docetaxel-monotherapy",
-      "name": "Docetaxel (Monotherapie)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Docetaxel (Monotherapie)"
-      ]
-    },
-    {
-      "id": "gemcitabine-monotherapy",
-      "name": "Gemcitabin (Monotherapie)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Gemcitabin (Monotherapie)"
-      ]
-    },
-    {
-      "id": "vinorelbine-monotherapy",
-      "name": "Vinorelbin (Monotherapie)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Vinorelbin (Monotherapie)"
-      ]
-    },
-    {
-      "id": "cisplatin-doxorubicin-cyclophosphamide",
-      "name": "Cisplatin + Doxorubicin + Cyclophosphamid (CAP)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Cisplatin + Doxorubicin + Cyclophosphamid (CAP)"
-      ]
-    },
-    {
-      "id": "carboplatin-paclitaxel-thymus",
-      "name": "Carboplatin + Paclitaxel (Thymus-Ca Erstlinie)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Carboplatin + Paclitaxel (Thymus-Ca Erstlinie)"
-      ]
-    },
-    {
-      "id": "cisplatin-ifosfamide-etoposide",
-      "name": "Cisplatin + Ifosfamid + Etoposid (VIP-Schema)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Cisplatin + Ifosfamid + Etoposid (VIP-Schema)"
-      ]
-    },
-    {
-      "id": "octreotide-lanreotide",
-      "name": "Octreotid/Lanreotid (Somatostatin-Analogon)",
+      "id": "adagrasib",
+      "name": "Adagrasib (KRAS^G12C^-Inhibitor)",
       "group": "Zielgerichtete Therapie",
       "aliases": [
-        "Octreotid/Lanreotid (Somatostatin-Analogon)"
-      ]
-    },
-    {
-      "id": "everolimus",
-      "name": "Everolimus (mTOR-Inhibitor)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Everolimus (mTOR-Inhibitor)"
-      ]
-    },
-    {
-      "id": "capecitabine-temozolomide",
-      "name": "Capecitabin + Temozolomid (CAPTEM)",
-      "group": "Chemotherapie",
-      "aliases": [
-        "Capecitabin + Temozolomid (CAPTEM)"
-      ]
-    },
-    {
-      "id": "osimertinib",
-      "name": "Osimertinib (EGFR-TKI)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Osimertinib (EGFR-TKI)"
-      ]
-    },
-    {
-      "id": "gefitinib",
-      "name": "Gefitinib (EGFR-TKI)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Gefitinib (EGFR-TKI)"
-      ]
-    },
-    {
-      "id": "erlotinib",
-      "name": "Erlotinib (EGFR-TKI)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Erlotinib (EGFR-TKI)"
+        "Adagrasib (KRAS^G12C^-Inhibitor)"
       ]
     },
     {
@@ -297,107 +25,11 @@
       ]
     },
     {
-      "id": "crizotinib",
-      "name": "Crizotinib (ALK/ROS1-TKI)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Crizotinib (ALK/ROS1-TKI)"
-      ]
-    },
-    {
-      "id": "brigatinib",
-      "name": "Brigatinib (ALK-TKI)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Brigatinib (ALK-TKI)"
-      ]
-    },
-    {
-      "id": "lorlatinib",
-      "name": "Lorlatinib (ALK-TKI)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Lorlatinib (ALK-TKI)"
-      ]
-    },
-    {
-      "id": "entrectinib",
-      "name": "Entrectinib (ROS1/NTRK-Inhibitor)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Entrectinib (ROS1/NTRK-Inhibitor)"
-      ]
-    },
-    {
-      "id": "selpercatinib",
-      "name": "Selpercatinib (RET-Inhibitor)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Selpercatinib (RET-Inhibitor)"
-      ]
-    },
-    {
-      "id": "pralsetinib",
-      "name": "Pralsetinib (RET-Inhibitor)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Pralsetinib (RET-Inhibitor)"
-      ]
-    },
-    {
-      "id": "capmatinib",
-      "name": "Capmatinib (MET-Inhibitor)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Capmatinib (MET-Inhibitor)"
-      ]
-    },
-    {
-      "id": "tepotinib",
-      "name": "Tepotinib (MET-Inhibitor)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Tepotinib (MET-Inhibitor)"
-      ]
-    },
-    {
-      "id": "sotorasib",
-      "name": "Sotorasib (KRAS^G12C^-Inhibitor)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Sotorasib (KRAS^G12C^-Inhibitor)"
-      ]
-    },
-    {
-      "id": "adagrasib",
-      "name": "Adagrasib (KRAS^G12C^-Inhibitor)",
-      "group": "Zielgerichtete Therapie",
-      "aliases": [
-        "Adagrasib (KRAS^G12C^-Inhibitor)"
-      ]
-    },
-    {
       "id": "amivantamab",
       "name": "Amivantamab (EGFR-Exon20-Antikörper)",
       "group": "Zielgerichtete Therapie",
       "aliases": [
         "Amivantamab (EGFR-Exon20-Antikörper)"
-      ]
-    },
-    {
-      "id": "nivolumab",
-      "name": "Nivolumab (PD-1-Inhibitor)",
-      "group": "Immuntherapie",
-      "aliases": [
-        "Nivolumab (PD-1-Inhibitor)"
-      ]
-    },
-    {
-      "id": "pembrolizumab",
-      "name": "Pembrolizumab (PD-1-Inhibitor)",
-      "group": "Immuntherapie",
-      "aliases": [
-        "Pembrolizumab (PD-1-Inhibitor)"
       ]
     },
     {
@@ -409,11 +41,267 @@
       ]
     },
     {
+      "id": "atezolizumab-bev-carbo-pac",
+      "name": "Atezolizumab + Bevacizumab + Carboplatin + Paclitaxel",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Atezolizumab + Bevacizumab + Carboplatin + Paclitaxel"
+      ]
+    },
+    {
+      "id": "atezolizumab-carbo-etoposide",
+      "name": "Atezolizumab + Carboplatin + Etoposid (Ext. SCLC)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Atezolizumab + Carboplatin + Etoposid (Ext. SCLC)"
+      ]
+    },
+    {
+      "id": "atezolizumab-carbo-nab-pac",
+      "name": "Atezolizumab + Carboplatin + Nab-Paclitaxel",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Atezolizumab + Carboplatin + Nab-Paclitaxel"
+      ]
+    },
+    {
+      "id": "brigatinib",
+      "name": "Brigatinib (ALK-TKI)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Brigatinib (ALK-TKI)"
+      ]
+    },
+    {
+      "id": "capecitabine-temozolomide",
+      "name": "Capecitabin + Temozolomid (CAPTEM)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Capecitabin + Temozolomid (CAPTEM)"
+      ]
+    },
+    {
+      "id": "capmatinib",
+      "name": "Capmatinib (MET-Inhibitor)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Capmatinib (MET-Inhibitor)"
+      ]
+    },
+    {
+      "id": "carboplatin-etoposide",
+      "name": "Carboplatin + Etoposid",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Carboplatin + Etoposid"
+      ]
+    },
+    {
+      "id": "carboplatin-gemcitabine",
+      "name": "Carboplatin + Gemcitabin",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Carboplatin + Gemcitabin"
+      ]
+    },
+    {
+      "id": "carboplatin-nab-paclitaxel",
+      "name": "Carboplatin + Nab-Paclitaxel",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Carboplatin + Nab-Paclitaxel"
+      ]
+    },
+    {
+      "id": "carboplatin-paclitaxel",
+      "name": "Carboplatin + Paclitaxel",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Carboplatin + Paclitaxel"
+      ]
+    },
+    {
+      "id": "carboplatin-paclitaxel-thymus",
+      "name": "Carboplatin + Paclitaxel (Thymus-Ca Erstlinie)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Carboplatin + Paclitaxel (Thymus-Ca Erstlinie)"
+      ]
+    },
+    {
+      "id": "carboplatin-pemetrexed",
+      "name": "Carboplatin + Pemetrexed",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Carboplatin + Pemetrexed"
+      ]
+    },
+    {
+      "id": "carboplatin-vinorelbine",
+      "name": "Carboplatin + Vinorelbin",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Carboplatin + Vinorelbin"
+      ]
+    },
+    {
+      "id": "cav",
+      "name": "CAV-Regime (Cyclophosphamid + Adriamycin + Vincristin)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "CAV-Regime (Cyclophosphamid + Adriamycin + Vincristin)"
+      ]
+    },
+    {
+      "id": "cisplatin-docetaxel",
+      "name": "Cisplatin + Docetaxel",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Cisplatin + Docetaxel"
+      ]
+    },
+    {
+      "id": "cisplatin-doxorubicin-cyclophosphamide",
+      "name": "Cisplatin + Doxorubicin + Cyclophosphamid (CAP)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Cisplatin + Doxorubicin + Cyclophosphamid (CAP)"
+      ]
+    },
+    {
+      "id": "cisplatin-etoposide",
+      "name": "Cisplatin + Etoposid",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Cisplatin + Etoposid"
+      ]
+    },
+    {
+      "id": "cisplatin-gemcitabine",
+      "name": "Cisplatin + Gemcitabin",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Cisplatin + Gemcitabin"
+      ]
+    },
+    {
+      "id": "cisplatin-ifosfamide-etoposide",
+      "name": "Cisplatin + Ifosfamid + Etoposid (VIP-Schema)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Cisplatin + Ifosfamid + Etoposid (VIP-Schema)"
+      ]
+    },
+    {
+      "id": "cisplatin-pemetrexed",
+      "name": "Cisplatin + Pemetrexed",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Cisplatin + Pemetrexed"
+      ]
+    },
+    {
+      "id": "cisplatin-pemetrexed-bev",
+      "name": "Cisplatin + Pemetrexed + Bevacizumab (Mesotheliom)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Cisplatin + Pemetrexed + Bevacizumab (Mesotheliom)"
+      ]
+    },
+    {
+      "id": "cisplatin-vinorelbine",
+      "name": "Cisplatin + Vinorelbin",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Cisplatin + Vinorelbin"
+      ]
+    },
+    {
+      "id": "crizotinib",
+      "name": "Crizotinib (ALK/ROS1-TKI)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Crizotinib (ALK/ROS1-TKI)"
+      ]
+    },
+    {
+      "id": "docetaxel-monotherapy",
+      "name": "Docetaxel (Monotherapie)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Docetaxel (Monotherapie)"
+      ]
+    },
+    {
       "id": "durvalumab",
       "name": "Durvalumab (PD-L1-Inhibitor)",
       "group": "Immuntherapie",
       "aliases": [
         "Durvalumab (PD-L1-Inhibitor)"
+      ]
+    },
+    {
+      "id": "durvalumab-carbo-etoposide",
+      "name": "Durvalumab + Carboplatin + Etoposid (Ext. SCLC)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Durvalumab + Carboplatin + Etoposid (Ext. SCLC)"
+      ]
+    },
+    {
+      "id": "durvalumab-consolidation",
+      "name": "Durvalumab (Konsolidierung nach Radiochemo, Stadium III NSCLC)",
+      "group": "Immuntherapie",
+      "aliases": [
+        "Durvalumab (Konsolidierung nach Radiochemo, Stadium III NSCLC)"
+      ]
+    },
+    {
+      "id": "durvalumab-tremelimumab-chemo",
+      "name": "Durvalumab + Tremelimumab + Chemotherapie (z.B. POSEIDON)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Durvalumab + Tremelimumab + Chemotherapie (z.B. POSEIDON)"
+      ]
+    },
+    {
+      "id": "entrectinib",
+      "name": "Entrectinib (ROS1/NTRK-Inhibitor)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Entrectinib (ROS1/NTRK-Inhibitor)"
+      ]
+    },
+    {
+      "id": "erlotinib",
+      "name": "Erlotinib (EGFR-TKI)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Erlotinib (EGFR-TKI)"
+      ]
+    },
+    {
+      "id": "everolimus",
+      "name": "Everolimus (mTOR-Inhibitor)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Everolimus (mTOR-Inhibitor)"
+      ]
+    },
+    {
+      "id": "gefitinib",
+      "name": "Gefitinib (EGFR-TKI)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Gefitinib (EGFR-TKI)"
+      ]
+    },
+    {
+      "id": "gemcitabine-monotherapy",
+      "name": "Gemcitabin (Monotherapie)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Gemcitabin (Monotherapie)"
       ]
     },
     {
@@ -425,11 +313,11 @@
       ]
     },
     {
-      "id": "topotecan",
-      "name": "Topotecan (2nd Line SCLC)",
-      "group": "Chemotherapie",
+      "id": "lorlatinib",
+      "name": "Lorlatinib (ALK-TKI)",
+      "group": "Zielgerichtete Therapie",
       "aliases": [
-        "Topotecan (2nd Line SCLC)"
+        "Lorlatinib (ALK-TKI)"
       ]
     },
     {
@@ -441,11 +329,123 @@
       ]
     },
     {
-      "id": "cav",
-      "name": "CAV-Regime (Cyclophosphamid + Adriamycin + Vincristin)",
+      "id": "nivolumab",
+      "name": "Nivolumab (PD-1-Inhibitor)",
+      "group": "Immuntherapie",
+      "aliases": [
+        "Nivolumab (PD-1-Inhibitor)"
+      ]
+    },
+    {
+      "id": "nivolumab-ipi-chemo",
+      "name": "Nivolumab + Ipilimumab + 2× Chemotherapie (z.B. CheckMate 9LA)",
       "group": "Chemotherapie",
       "aliases": [
-        "CAV-Regime (Cyclophosphamid + Adriamycin + Vincristin)"
+        "Nivolumab + Ipilimumab + 2× Chemotherapie (z.B. CheckMate 9LA)"
+      ]
+    },
+    {
+      "id": "nivolumab-ipilimumab",
+      "name": "Nivolumab + Ipilimumab (Kombinations-Immuntherapie)",
+      "group": "Immuntherapie",
+      "aliases": [
+        "Nivolumab + Ipilimumab (Kombinations-Immuntherapie)"
+      ]
+    },
+    {
+      "id": "octreotide-lanreotide",
+      "name": "Octreotid/Lanreotid (Somatostatin-Analogon)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Octreotid/Lanreotid (Somatostatin-Analogon)"
+      ]
+    },
+    {
+      "id": "osimertinib",
+      "name": "Osimertinib (EGFR-TKI)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Osimertinib (EGFR-TKI)"
+      ]
+    },
+    {
+      "id": "pembrolizumab",
+      "name": "Pembrolizumab (PD-1-Inhibitor)",
+      "group": "Immuntherapie",
+      "aliases": [
+        "Pembrolizumab (PD-1-Inhibitor)"
+      ]
+    },
+    {
+      "id": "pembrolizumab-carbo-paclitaxel",
+      "name": "Pembrolizumab + Carboplatin + (nab)Paclitaxel",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Pembrolizumab + Carboplatin + (nab)Paclitaxel"
+      ]
+    },
+    {
+      "id": "pembrolizumab-carbo-pemetrexed",
+      "name": "Pembrolizumab + Carboplatin + Pemetrexed",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Pembrolizumab + Carboplatin + Pemetrexed"
+      ]
+    },
+    {
+      "id": "pemetrexed-monotherapy",
+      "name": "Pemetrexed (Monotherapie)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Pemetrexed (Monotherapie)"
+      ]
+    },
+    {
+      "id": "pralsetinib",
+      "name": "Pralsetinib (RET-Inhibitor)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Pralsetinib (RET-Inhibitor)"
+      ]
+    },
+    {
+      "id": "selpercatinib",
+      "name": "Selpercatinib (RET-Inhibitor)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Selpercatinib (RET-Inhibitor)"
+      ]
+    },
+    {
+      "id": "sotorasib",
+      "name": "Sotorasib (KRAS^G12C^-Inhibitor)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Sotorasib (KRAS^G12C^-Inhibitor)"
+      ]
+    },
+    {
+      "id": "tepotinib",
+      "name": "Tepotinib (MET-Inhibitor)",
+      "group": "Zielgerichtete Therapie",
+      "aliases": [
+        "Tepotinib (MET-Inhibitor)"
+      ]
+    },
+    {
+      "id": "topotecan",
+      "name": "Topotecan (2nd Line SCLC)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Topotecan (2nd Line SCLC)"
+      ]
+    },
+    {
+      "id": "vinorelbine-monotherapy",
+      "name": "Vinorelbin (Monotherapie)",
+      "group": "Chemotherapie",
+      "aliases": [
+        "Vinorelbin (Monotherapie)"
       ]
     }
   ],
@@ -613,7 +613,9 @@
       "regimen_category": "Antiemetika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "amivantamab"
+      ]
     },
     {
       "id": "sup-diph",
@@ -853,7 +855,9 @@
       "regimen_category": "Steroid",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "amivantamab"
+      ]
     },
     {
       "id": "sup-pred",
@@ -1093,7 +1097,9 @@
       "regimen_category": "Antibiotika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "amivantamab"
+      ]
     },
     {
       "id": "sup-mino",
@@ -1168,7 +1174,9 @@
       "regimen_category": "Antimykotika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "amivantamab"
+      ]
     },
     {
       "id": "sup-para",
@@ -1183,7 +1191,9 @@
       "regimen_category": "Analgetika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "amivantamab"
+      ]
     },
     {
       "id": "sup-meta",
@@ -1438,7 +1448,9 @@
       "regimen_category": "Antidiarrhoika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "amivantamab"
+      ]
     },
     {
       "id": "sup-race",
@@ -1513,7 +1525,9 @@
       "regimen_category": "Supportiv sonstiges",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "amivantamab"
+      ]
     },
     {
       "id": "sup-lido",
@@ -1543,7 +1557,9 @@
       "regimen_category": "Supportiv sonstiges",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "amivantamab"
+      ]
     },
     {
       "id": "sup-vedo",
