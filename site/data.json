@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-06T05:16:30.374843Z",
+  "generated": "2025-10-07T05:16:58.973827Z",
   "items": [
     {
       "pmid": "41037288",
@@ -183,6 +183,26 @@
       "abstract": "OBJECTIVES: To investigate the performance of two segmentation algorithms for nodule volumetric classification at participant/scan level in the NELCIN-B3 cohort (Netherlands and China Big-3), a lung cancer screening program (LCS) using low-dose CT (LDCT).\n\nMETHODS: Baseline scans with qualified LDCT images from consecutive NELCIN-B3 participants were included from June 2017 to July 2018. Performance of two software algorithms were independently evaluated by two radiologists: software A (Syngo.via VB30A) by reader 1 and software B (AVIEW v1.1.39.14) by reader 2. According to the NELSON2.0 protocol, nodules with a solid component ≥ 100 mm\n\nRESULTS: In total, 300 participants were evaluated comprising 159 women (53.0 %) and 193 (64.3 %) never smokers, with a mean ± standard deviation age of 61.2 ± 7.1 years. There were disagreements in 17 cases: in 11 (11/300, 3.7 %), this was due to differences in nodule selection and nodule type classification between readers; and in 6 (6/300, 2.0 %), this was due to variations in nodule volume metrics between algorithms. Inter-software agreement was almost perfect (κ = 0.88 [95 %CI: 0.83-0.93]). In the consensus read, reader 1/software A generated 12 misclassifications (11 PM, 1 NM), giving a negative predictive value of 99.6 % (95 % CI: 98.9 %-100.0 %). Reader 2/software B generated 5 misclassifications (2 PM, 3 NM), giving a negative predictive value of 98.9 % (95 % CI: 97.7 %-100.0 %).\n\nCONCLUSION: Two software algorithms (Syngo.via VB30A and AVIEW v1.1.39.14) showed comparable performance for lung nodule volumetric classification at participant/scan level. Further research is needed to confirm the results in other LDCT LCS programs."
     },
     {
+      "pmid": "41053615",
+      "doi": "10.1186/s12890-025-03923-3",
+      "title": "Is 'better' enough? Prevalence and multidimensional portrait of persistent dyspnea upon discharge from a respiratory medicine ward: a prospective, single-center observational study.",
+      "journal": "BMC pulmonary medicine",
+      "pubdate": "2025-10-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": "Prospective (non-RCT)",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1186/s12890-025-03923-3",
+      "metric_name": "SJR",
+      "metric_value": 0.889,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41053615/",
+      "url_doi": "https://doi.org/10.1186/s12890-025-03923-3",
+      "abstract": "BACKGROUND: During unplanned respiratory-related hospitalizations, gradual improvement in physiological variables and reduced dependence on treatment are crucial for discharge decisions, possibly supported by discharge care bundles designed to reduce post-hospitalization readmission and mortality. However, patients prioritize symptom relief. This study tested the hypothesis that a significant proportion of patients admitted to a pulmonology ward for an acute respiratory episode experience dyspnea on the day of discharge. It further aimed to describe this dyspnea in a multidimensional manner.\n\nMETHODS: This 10-week prospective study was conducted at a single center and included patients admitted for acute respiratory conditions such as COPD or asthma exacerbation, pneumonia, pulmonary embolism, or pleural disease, who, on admission, reported a rating of 3 or higher on the \"immediate breathing discomfort\" item of the Multidimensional Dyspnea Profile (MDP-A1). Dyspnea was assessed both at admission and at discharge using a multidimensional recall-based tool (MDP) and an instant unidimensional tool, the 10-cm visual analog scale (D-VAS).\n\nRESULTS: Seventy consecutive patients were included in the study. Although dyspnea ratings showed a statistically significant decrease during the hospital stay, dyspnea remained both frequent and intense at discharge. At discharge, 84% of patients provided MDP-A1 recall ratings above 0, with 70% rating their MDP-A1 at 3 or more. In contrast, only 22% provided D-VAS instant ratings of 3 or higher. The median MDP-A1 score was 4.0 [2.0-6.0]. \"Air hunger\" was the most frequently selected sensory descriptor.\n\nCONCLUSIONS: Persistent dyspnea remains frequent and intense among patients being discharged after an acute respiratory episode."
+    },
+    {
       "pmid": "41039322",
       "doi": "10.1186/s12871-025-03282-w",
       "title": "The impact of spontaneous ventilation anesthesia on thrombosis risk for thoracic surgery: a beagle dog model study.",
@@ -263,6 +283,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40957291/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.115693",
       "abstract": "BACKGROUND: Osimertinib is commonly used as a first-line treatment for EGFR-mutated advanced non-small cell lung cancer (NSCLC). However, the optimal treatment strategy following osimertinib failure remains unclear.\n\nMETHODS: Patients with EGFR-mutated NSCLC and exon 19 deletion or L858R mutation after failure of osimertinib treatment were assigned to a regimen of afatinib (20 mg daily) combined with carboplatin (AUC 5 mg/mL/min) and pemetrexed (500 mg/m\n\nRESULTS: Thirty-six patients were enrolled. One patient met the exclusion criteria, and the efficacy was evaluated in the remaining 35 patients. The 6M-PFSR, the primary endpoint, was 57.1 %. The confidence interval of 39.3-71.5 % exceeded the predefined threshold of 35 %, thereby meeting its primary endpoint. Notably, 28.6 % of patients achieved a long-term PFS of 1 year or longer. The objective response rate (ORR) was 51.4 %, the disease control rate (DCR) was 88.6 %, the median PFS was 8.2 months, the median duration of response (DOR) was 5.6 months, and the median overall survival (OS) was 22.5 months. The most common adverse events were diarrhea (52.8 %) and anorexia (47.2 %), both of which were predictable and manageable. Interstitial pneumonia developed in three patients (8.3 %), one of whom died. Another patient died from sepsis, bringing the total number of deaths in the study to two.\n\nCONCLUSIONS: The combination of afatinib and the platinum doublet demonstrated satisfactory efficacy with manageable adverse events in tumors refractory to osimertinib, meeting its primary endpoint.\n\nTRIAL REGISTRATION NUMBER: jRCTs021200005."
+    },
+    {
+      "pmid": "41052301",
+      "doi": "10.1093/oncolo/oyaf331",
+      "title": "Antibody Drugs Conjugates in Non-Small Cell Lung Cancer: Current Status and Challenges.",
+      "journal": "The oncologist",
+      "pubdate": "2025-10-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1093/oncolo/oyaf331",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41052301/",
+      "url_doi": "https://doi.org/10.1093/oncolo/oyaf331",
+      "abstract": "BACKGROUND: Antibody-drug conjugates (ADCs) are an emerging class of therapeutics that combine the specificity of monoclonal antibodies with cytotoxic or immune-stimulatory payloads. In non-small cell lung cancer (NSCLC), they offer a novel strategy with potential in both first line therapy and in cases to overcome resistance to existing targeted and immune-based therapies.\n\nOBJECTIVE: To review the clinical development, efficacy, safety, biomarker strategies, and emerging targets of ADCs in NSCLC, with a focus on implications for practice and ongoing challenges.\n\nMETHODS: We conducted a comprehensive literature review of published trials, conference abstracts, and press releases evaluating ADCs in NSCLC, with attention to target antigens, clinical trial outcomes, and biomarker approaches.\n\nRESULTS: ADCs targeting HER2, TROP2, and c-MET have received regulatory approval in NSCLC, with demonstrated efficacy-particularly in biomarker-selected populations. Bispecific HER3/EGFR-directed ADCs have shown encouraging activity in early-phase studies, with ongoing trials expected to clarify durability and optimal patient selection. Other targets such as ITGB6, B7-H3, and AXL have shown early signals of efficacy. Predictive biomarkers vary in reliability, and mutation, amplification, or protein expression do not uniformly predict response. Toxicity and acquired resistance remain key challenges; improved diagnostics may enhance patient selection.\n\nCONCLUSION: ADCs are poised to reshape the therapeutic landscape of NSCLC. Their success will hinge on refining biomarker strategies, managing toxicity, and integrating resistance-mitigating approaches such as bispecific constructs or rational combinations. As research advances, ADCs may become essential components of personalized therapy across a range of molecular and histologic NSCLC subtypes."
+    },
+    {
+      "pmid": "41052285",
+      "doi": "10.1093/oncolo/oyaf332",
+      "title": "Antibody Drugs Conjugates in Small-Cell Lung Cancer: Present-Day Status and Promises.",
+      "journal": "The oncologist",
+      "pubdate": "2025-10-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1093/oncolo/oyaf332",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41052285/",
+      "url_doi": "https://doi.org/10.1093/oncolo/oyaf332",
+      "abstract": "INTRODUCTION: Small cell lung cancer (SCLC) accounts for 15% of lung cancers and is characterized by an aggressive disease course and historically poor prognosis. Although tumors in most patients respond to initial chemotherapy, relapse is nearly universal and treatment options remain limited. Antibody-drug conjugates (ADCs) have emerged as a novel therapeutic class with potential to address this unmet need.\n\nMETHODS: ClinicalTrials.gov, PubMed, and their associated references and press releases were queried for the search terms \"Antibody-drug conjugates\" and \"SCLC.\" Only English-language sources were included.\n\nRESULTS: Multiple ADCs targeting diverse antigens have been evaluated in relapsed or refractory SCLC. Topoisomerase I inhibitor payloads have generated the most consistent activity across DLL3, TROP2, B7-H3, and SEZ6 targets, while microtubule and pyrrolobenzodiazepine (PBD)- based constructs have not demonstrated durable benefit. Despite encouraging response rates, progression-free survival has remained short, reflecting intrinsic resistance, antigen heterogeneity, and toxicity-related dose limitations.\n\nCONCLUSION: While ADCs have generated encouraging response rates in SCLC, durability has remained limited. Future development will require optimization of payloads, linkers, and trial design to determine whether ADCs can achieve a sustained role in this disease."
     },
     {
       "pmid": "40930114",
@@ -901,7 +961,7 @@
       "journal": "Lung cancer (Amsterdam, Netherlands)",
       "pubdate": "2025-10-01T00:00:00+00:00",
       "pubtypes": [
-        "Published Erratum"
+        "Journal Article"
       ],
       "entity": "Thoracic-other",
       "trial_type": null,
@@ -1039,46 +1099,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40473109/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.05.020",
       "abstract": "BACKGROUND: LEAP-008 (NCT03976375) was an open-label, randomized, phase 3 study of lenvatinib plus pembrolizumab versus docetaxel for metastatic NSCLC that progressed on anti‒programmed cell death protein 1 or anti‒programmed cell death ligand 1 therapy and platinum-containing chemotherapy.\n\nMETHODS: Participants were randomized 4:4:1 to once-daily lenvatinib 20 mg plus pembrolizumab 200 mg every 3 weeks (maximum 35 cycles), docetaxel 75 mg/m\n\nRESULTS: Participants (N = 422) were randomized to lenvatinib plus pembrolizumab (n = 185), docetaxel (n = 189), or lenvatinib monotherapy (n = 48). The median (95% confidence interval [CI]) PFS was 5.6 (4.2‒6.5) months with lenvatinib plus pembrolizumab and 4.2 (3.2‒5.2) months with docetaxel (hazard ratio, 0.89 [95% CI: 0.70‒1.12]; p = 0.164). The median (95% CI) OS was 11.3 (9.4‒13.2) versus 12.0 (9.6‒13.7) months (hazard ratio, 0.98 [95% CI: 0.78‒1.23]; p = 0.434). Rates of treatment-related adverse events were 91.7%, 91.0%, and 89.4% with lenvatinib plus pembrolizumab, docetaxel, and lenvatinib, respectively; the rates of grade 3 to 5 treatment-related adverse events were 59.7%, 48.6%, and 57.4%. Health-related quality of life scores were similar between treatment arms.\n\nCONCLUSION: Lenvatinib plus pembrolizumab did not improve efficacy versus docetaxel in participants with stage IV NSCLC that progressed on anti‒programmed cell death protein 1 or anti-programmed cell death ligand 1 therapy and platinum-containing chemotherapy. There were no unexpected safety signals. More effective therapies are needed for this patient population."
-    },
-    {
-      "pmid": "41026583",
-      "doi": "10.1158/1078-0432.CCR-25-0089",
-      "title": "D3-GPC2-directed CAR T cells are safe and efficacious in preclinical models of neuroblastoma and small cell lung cancer.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "pubdate": "2025-09-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41026583/",
-      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-0089",
-      "abstract": "BACKGROUND: We previously identified glypican 2 (GPC2) as a cell surface MYCN-regulated neuroblastoma oncoprotein and developed a D3-GPC2 antibody that specifically binds a conformational, tumor-specific epitope conserved between mouse and human.\n\nEXPERIMENTAL DESIGN: Here we sought to further validate GPC2 as an immunotherapeutic target and develop Investigational New Drug application-enabling data to support the clinical translation of D3-GPC2 chimeric antigen receptor (CAR) T cells.\n\nRESULTS: Immunohistochemistry validated that GPC2 is widely expressed on human neuroblastomas and flow cytometry showed high levels of cell surface GPC2 on neuroblastoma cellular models. Second-generation D3-GPC2 CAR T cells with either a 4-1BB or CD28 co-stimulatory domain were selectively activated and induced potent neuroblastoma cell cytotoxicity in several complementary in vitro co-incubation assays. Conversely, no measurable cytotoxicity or D3-GPC2 CAR T cell activation was observed in co-incubation studies with nine primary human normal tissue cell lines. Moreover, GPC2 CAR T cells induced significant regression of GPC2-expressing neuroblastoma xenografts. No GPC2 CAR-related toxicities were noted, including in comprehensive mouse necropsies performed after GPC2 CAR T cell administration. Finally, to explore the potential broader clinical impact of GPC2 CAR T cells we showed that they are also potently cytotoxic to preclinical models of GPC2-expressing small cell lung cancers.\n\nCONCLUSIONS: These data validate GPC2 as a bona fide CAR T cell target in neuroblastoma and other cancers. The safety and preliminary efficacy of GPC2 CAR T cells are being tested in a first-in-human phase 1 clinical trial for children with relapsed/refractory neuroblastoma (NCT05650749)."
-    },
-    {
-      "pmid": "41027867",
-      "doi": "10.1038/s41467-025-63696-5",
-      "title": "Tumor immune dynamics and long-term clinical outcome of stage IIIA NSCLC patients treated with neoadjuvant chemoimmunotherapy.",
-      "journal": "Nature communications",
-      "pubdate": "2025-09-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41467-025-63696-5.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41027867/",
-      "url_doi": "https://doi.org/10.1038/s41467-025-63696-5",
-      "abstract": "Neoadjuvant chemoimmunotherapy offers promise to improve outcomes for patients with resectable non-small cell lung cancer (NSCLC). Yet not all patients derive treatment benefits, and reliable biomarkers of response are still lacking. We here assess the long-term clinical outcome of neoadjuvant chemotherapy and perioperative anti-PD-L1 inhibition in resectable stage IIIA NSCLC in the SAKK 16/14 trial and provide a comprehensive characterization of anti-tumor immune responses for biomarker-based treatment personalization. We report secondary outcomes of median event-free survival (EFS) of 4.0 years and median overall survival not being reached after a median follow-up of 5.4 years. Computer-aided spatial image analysis emphasizes the importance of CD8"
     }
   ]
 }
