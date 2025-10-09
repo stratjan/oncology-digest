@@ -1,26 +1,6 @@
 {
-  "generated": "2025-10-08T05:17:19.293089Z",
+  "generated": "2025-10-09T05:17:52.328738Z",
   "items": [
-    {
-      "pmid": "41037288",
-      "doi": "10.1001/jamaoncol.2025.3768",
-      "title": "Nationwide Response to Carboplatin and Cisplatin Shortages in Lung Cancer.",
-      "journal": "JAMA oncology",
-      "pubdate": "2025-10-02T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 8.377,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41037288/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.3768",
-      "abstract": null
-    },
     {
       "pmid": "40189749",
       "doi": "10.1080/2162402X.2025.2484880",
@@ -100,26 +80,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41053615/",
       "url_doi": "https://doi.org/10.1186/s12890-025-03923-3",
       "abstract": "BACKGROUND: During unplanned respiratory-related hospitalizations, gradual improvement in physiological variables and reduced dependence on treatment are crucial for discharge decisions, possibly supported by discharge care bundles designed to reduce post-hospitalization readmission and mortality. However, patients prioritize symptom relief. This study tested the hypothesis that a significant proportion of patients admitted to a pulmonology ward for an acute respiratory episode experience dyspnea on the day of discharge. It further aimed to describe this dyspnea in a multidimensional manner.\n\nMETHODS: This 10-week prospective study was conducted at a single center and included patients admitted for acute respiratory conditions such as COPD or asthma exacerbation, pneumonia, pulmonary embolism, or pleural disease, who, on admission, reported a rating of 3 or higher on the \"immediate breathing discomfort\" item of the Multidimensional Dyspnea Profile (MDP-A1). Dyspnea was assessed both at admission and at discharge using a multidimensional recall-based tool (MDP) and an instant unidimensional tool, the 10-cm visual analog scale (D-VAS).\n\nRESULTS: Seventy consecutive patients were included in the study. Although dyspnea ratings showed a statistically significant decrease during the hospital stay, dyspnea remained both frequent and intense at discharge. At discharge, 84% of patients provided MDP-A1 recall ratings above 0, with 70% rating their MDP-A1 at 3 or more. In contrast, only 22% provided D-VAS instant ratings of 3 or higher. The median MDP-A1 score was 4.0 [2.0-6.0]. \"Air hunger\" was the most frequently selected sensory descriptor.\n\nCONCLUSIONS: Persistent dyspnea remains frequent and intense among patients being discharged after an acute respiratory episode."
-    },
-    {
-      "pmid": "41039322",
-      "doi": "10.1186/s12871-025-03282-w",
-      "title": "The impact of spontaneous ventilation anesthesia on thrombosis risk for thoracic surgery: a beagle dog model study.",
-      "journal": "BMC anesthesiology",
-      "pubdate": "2025-10-02T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://bmcanesthesiol.biomedcentral.com/counter/pdf/10.1186/s12871-025-03282-w",
-      "metric_name": "SJR",
-      "metric_value": 0.753,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41039322/",
-      "url_doi": "https://doi.org/10.1186/s12871-025-03282-w",
-      "abstract": "BACKGROUND: Patients with NSCLC after surgery are at high risk of producing venous thromboembolism (VTE). The purpose of this study was to evaluate the effects of spontaneous ventilation (SV) anesthesia and one-lung ventilation (OLV) anesthesia methods on thrombosis risk for thoracic surgery.\n\nMETHODS: A thoracic surgery model of beagle dogs was established. Eight beagle dogs were randomly divided into two groups: four in the OLV and four in the SV groups. Levels of D-dimer during and after surgery were compared between the two groups. In addition, PAI-1, t-PA, TM, and PPBP levels in the plasma using enzyme-linked immunosorbent assay were determined.\n\nRESULTS: The D-dimer significantly increased one day after surgery in the OLV group (625.0 ± 153.5 vs. 2300.0 ± 922.1 μg/L,\n\nCONCLUSIONS: Compared with the OLV anesthesia, there was no significant difference in thrombosis risk during the operation and the second day after the operation for SV anesthesia. However, the changes of D-dimer in SV anesthesia were significantly lower on the first postoperative day. Further investigation is warranted."
     },
     {
       "pmid": "40579378",
@@ -365,27 +325,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41045933/",
       "url_doi": "https://doi.org/10.1016/j.xcrm.2025.102396",
       "abstract": "QL1706 has shown promising efficacy in solid tumors in a phase 1/1b study. Here, we report updated long-term survival outcomes and biomarker analyses. Among 468 patients treated with QL1706 (5 mg/kg), median progression-free survival (mPFS) and overall survival (mOS) are 1.5 and 14.2 months for non-small cell lung cancer (NSCLC), 1.9 and 20.2 months for nasopharyngeal carcinoma (NPC), and 4.2 and 18.6 months for cervical cancer (CC), respectively. Liver metastasis is correlated with poor progression-free survival (PFS) and overall survival (OS) in NSCLC and poor OS in CC, while elevated lactate dehydrogenase is linked to shorter PFS and OS in NPC. CDK4/11q13 diploid or the expression of GZMK"
-    },
-    {
-      "pmid": "41032719",
-      "doi": "10.1056/NEJMc2511884",
-      "title": "Tarlatamab in Small-Cell Lung Cancer. Reply.",
-      "journal": "The New England journal of medicine",
-      "pubdate": "2025-10-02T00:00:00+00:00",
-      "pubtypes": [
-        "Letter",
-        "Comment"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41032719/",
-      "url_doi": "https://doi.org/10.1056/NEJMc2511884",
-      "abstract": null
     }
   ]
 }
