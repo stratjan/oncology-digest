@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-09T05:17:52.328738Z",
+  "generated": "2025-10-10T05:15:54.008091Z",
   "items": [
     {
       "pmid": "40189749",
@@ -42,26 +42,6 @@
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
     },
     {
-      "pmid": "41046186",
-      "doi": "10.1016/j.cllc.2025.09.002",
-      "title": "Pembrolizumab in Combination With Platinum-Based Chemotherapy in Patients With Recurrent EGFR and ALK Gene Altered Non-Small-Cell Lung Cancer (NSCLC).",
-      "journal": "Clinical lung cancer",
-      "pubdate": "2025-10-03T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 1.515,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41046186/",
-      "url_doi": "https://doi.org/10.1016/j.cllc.2025.09.002",
-      "abstract": "INTRODUCTION: Immune checkpoint inhibitors have limited efficacy in patients with EGFR-mutant (EGFR+) and ALK-rearranged (ALK+) non-small cell lung cancer (NSCLC). We conducted a phase II study to evaluate the efficacy of pembrolizumab with carboplatin and pemetrexed in these patients.\n\nPATIENTS AND METHODS: EGFR+ or ALK+ NSCLC patients, previously treated with targeted therapy, were eligible. Carboplatin, pemetrexed and pembrolizumab were administered every 3 weeks for 4 cycles followed by maintenance pemetrexed and pembrolizumab. The primary endpoint was response rate (RR). Blood for circulating tumor cells (CTCs) was collected prior to the 1st and 3rd cycles. The plan was to enroll 28 evaluable patients in both EGFR+ and ALK+ cohorts.\n\nRESULTS: Of the 33 patients enrolled, 26 had EGFR+ and 7 had ALK+ NSCLC. RR (95% CI,) was 46% (27%, 67%) in EGFR+ and 29% (4%, 71%), in ALK+ patients, respectively. Median progression free survival (PFS) and overall survival (OS) in the EGFR+ cohort were 8.3 months (7.2-16.5) and 22.2 months (20.6-NE), respectively. In the ALK+ cohort, median PFS and OS were both 2.9 months. The median CTC count at baseline in 15 evaluable EGFR+ patients was 4 cells/mL (0-23). OS among EGFR+ patients with decreasing vs. increasing CTC count during treatment was not reached vs. 18.5 months, respectively (P = .52). The most common adverse events were fatigue, nausea, anemia and AST/ALT elevation.\n\nCONCLUSION: Pembrolizumab in combination with chemotherapy demonstrated encouraging RR of 42% and OS of 22 months among patients with recurrent EGFR+ NSCLC. The efficacy in ALK+ patients was not encouraging."
-    },
-    {
       "pmid": "41053615",
       "doi": "10.1186/s12890-025-03923-3",
       "title": "Is 'better' enough? Prevalence and multidimensional portrait of persistent dyspnea upon discharge from a respiratory medicine ward: a prospective, single-center observational study.",
@@ -80,27 +60,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41053615/",
       "url_doi": "https://doi.org/10.1186/s12890-025-03923-3",
       "abstract": "BACKGROUND: During unplanned respiratory-related hospitalizations, gradual improvement in physiological variables and reduced dependence on treatment are crucial for discharge decisions, possibly supported by discharge care bundles designed to reduce post-hospitalization readmission and mortality. However, patients prioritize symptom relief. This study tested the hypothesis that a significant proportion of patients admitted to a pulmonology ward for an acute respiratory episode experience dyspnea on the day of discharge. It further aimed to describe this dyspnea in a multidimensional manner.\n\nMETHODS: This 10-week prospective study was conducted at a single center and included patients admitted for acute respiratory conditions such as COPD or asthma exacerbation, pneumonia, pulmonary embolism, or pleural disease, who, on admission, reported a rating of 3 or higher on the \"immediate breathing discomfort\" item of the Multidimensional Dyspnea Profile (MDP-A1). Dyspnea was assessed both at admission and at discharge using a multidimensional recall-based tool (MDP) and an instant unidimensional tool, the 10-cm visual analog scale (D-VAS).\n\nRESULTS: Seventy consecutive patients were included in the study. Although dyspnea ratings showed a statistically significant decrease during the hospital stay, dyspnea remained both frequent and intense at discharge. At discharge, 84% of patients provided MDP-A1 recall ratings above 0, with 70% rating their MDP-A1 at 3 or more. In contrast, only 22% provided D-VAS instant ratings of 3 or higher. The median MDP-A1 score was 4.0 [2.0-6.0]. \"Air hunger\" was the most frequently selected sensory descriptor.\n\nCONCLUSIONS: Persistent dyspnea remains frequent and intense among patients being discharged after an acute respiratory episode."
-    },
-    {
-      "pmid": "40579378",
-      "doi": "10.1093/jjco/hyaf099",
-      "title": "Safety and effectiveness of tepotinib in patients with unresectable, advanced or recurrent non-small cell lung cancer with METex14 skipping alterations: post-marketing surveillance in Japan.",
-      "journal": "Japanese journal of clinical oncology",
-      "pubdate": "2025-10-07T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1093/jjco/hyaf099",
-      "metric_name": "SJR",
-      "metric_value": 0.613,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40579378/",
-      "url_doi": "https://doi.org/10.1093/jjco/hyaf099",
-      "abstract": "OBJECTIVE: Tepotinib has shown clinical benefits in patients with non-small cell lung cancer (NSCLC) harboring MET exon 14 (METex14) skipping alterations. The objective of this post-marketing surveillance (PMS) was to assess the safety and effectiveness of tepotinib in general clinical practice in Japan.\n\nMETHODS: This multicenter, non-interventional PMS included patients with unresectable, advanced, or recurrent NSCLC with METex14 skipping alterations who received at least one dose of tepotinib. The primary endpoint was the incidence of adverse drug reactions (ADRs) identified as safety specifications (SS) for tepotinib according to the Japanese Risk Management Plan (ADRs of SS); i.e. interstitial lung disease (ILD), fluid retention, hepatic function disorder, renal impairment, and QT interval prolongation (classified by preferred term). The secondary endpoints were ADRs of SS in patient subgroups and the effectiveness of tepotinib in clinical practice. In total, 147 patients were included (median age 72.0 years).\n\nRESULTS: The incidence of ILD, fluid retention, hepatic function disorder, and renal impairment was 7.5%, 47.6%, 13.6%, and 36.1%, respectively; incidence of grade ≥3 ADRs of SS were 3.4%, 9.5%, 4.8%, and 2.7%, respectively. No instances of QT interval prolongation occurred. Four patients (2.7%) died due to ILD. The objective response rate was 51.0% [95% confidence interval (CI) 42.7, 59.3] and disease control rate was 77.6% (95% CI 69.9, 84.0).\n\nCONCLUSIONS: Tepotinib was generally well tolerated and effective in patients with NSCLC and METex14 skipping alterations in general clinical practice in Japan; no new safety issues or concerns were identified."
     },
     {
       "pmid": "40168159",
@@ -207,6 +166,67 @@
       "abstract": null
     },
     {
+      "pmid": "41068447",
+      "doi": "10.1038/s41571-025-01080-4",
+      "title": "Unresectable stage III non-small-cell lung cancer: state of the art and challenges.",
+      "journal": "Nature reviews. Clinical oncology",
+      "pubdate": "2025-10-09T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41068447/",
+      "url_doi": "https://doi.org/10.1038/s41571-025-01080-4",
+      "abstract": "Despite advances in immunotherapy, unresectable stage III non-small-cell lung cancer (NSCLC) remains a highly challenging disease, with only around one-third of patients remaining disease-free at 5 years. The PACIFIC trial established consolidation with the anti-PD-L1 antibody durvalumab after concurrent chemoradiotherapy as the standard-of-care approach. Furthermore, the LAURA trial has redefined the treatment of patients with stage III unresectable EGFR-mutant NSCLC, demonstrating unprecedented progression-free survival durations with osimertinib consolidation. Despite these advances, novel approaches are urgently needed. Circulating tumour DNA-based monitoring of minimal residual disease is emerging as a personalized method of tailoring treatment duration and escalation strategies. Novel radiotherapy techniques have the potential to provide synergy with immunotherapy while minimizing toxicities. Additionally, ongoing trials evaluating chemoimmunotherapy combinations adapted from the neoadjuvant setting with the potential for conversion to resectable disease might, in the near future, redefine the boundary of surgical resectability. In this Review, we describe the rapidly evolving field of unresectable stage III NSCLC, providing a state-of-the-art overview that includes challenging topics such as biomarkers, personalization of therapy and the role of immunotherapy rechallenge."
+    },
+    {
+      "pmid": "41065506",
+      "doi": "10.1158/1078-0432.CCR-25-0952",
+      "title": "LRP1B loss predicts sensitivity to immunotherapy in patients with NSCLC: an analysis of the phase 3 Checkmate 026 randomized trial.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2025-10-09T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41065506/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-0952",
+      "abstract": "PURPOSE: Low-density lipoprotein receptor-related protein 1b (LRP1b) is a cell surface receptor, commonly altered in many cancers and associated with improved responses, progression free survival (PFS) and overall survival (OS) with immune checkpoint inhibition (ICI).\n\nEXPERIMENTAL DESIGN: LRP1b alterations were determined by whole exome sequencing (WES) and associated with PFS and objective response rates (ORR) in patients with non-small cell lung cancer (NSCLC) in post-hoc analysis of the randomized controlled phase 3 Checkmate-026 trial (CM026, NCT02041533) examining chemotherapy vs nivolumab, adjusting for tumor mutational burden (TMB) and clinical features. We separately evaluated a de-identified nationwide (US-based) NSCLC clinico-genomic database (CGDB) for associations of LRP1b alterations and progression-free survival with anti-PD-1 immunotherapy.\n\nRESULTS: In the CGDB cohort of patients with NSCLC (N=18,369), LRP1b mutations were positively associated with TP53/KRAS alterations and inversely with EGFR/RET/MET/ERBB2 alterations and significantly improved PFS with PD-1 inhibition (n=1569, adjusted HR 0.86 p=0.014). In CM026, patients with LRP1b alterations had a statistically significant improvement in ORR to nivolumab vs. LRP1b wild-type (wt) patients (odds ratio 3.5; 95% CI 1.71-7.13; p=0.0006) but not with chemotherapy (odds ratio 0.63; 95% CI 0.32-1.26; p=0.19), adjusting for TMB, age, gender, histology, smoking and performance status. LRP1b mutations were associated with improved PFS with nivolumab (HR 0.66, p=0.04) but not chemotherapy (HR 1.26, p=0.25), also maintained in multivariate and TMB adjusted analysis.\n\nCONCLUSIONS: LRP1b mutations are a candidate predictive biomarker for ICI vs. chemotherapy in NSCLC. Further mechanistic characterization of LRP1b and prospective validation are warranted, and might enable future clinical use."
+    },
+    {
+      "pmid": "41068040",
+      "doi": "10.1016/j.lungcan.2025.108790",
+      "title": "Corrigendum to \"Characterization and economic burden of KRASG12C-mutant lung cancer in real-world Spanish practice: a retrospective observational study (SILK study)\" [Lung Cancer 206 (2025) 108677].",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-10-08T00:00:00+00:00",
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(25)00682-8/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41068040/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108790",
+      "abstract": null
+    },
+    {
       "pmid": "41055143",
       "doi": "10.1080/14796694.2025.2565995",
       "title": "IDeate-Lung02: a Phase 3 study of second-line ifinatamab deruxtecan in patients with relapsed small cell lung cancer.",
@@ -305,26 +325,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41046319/",
       "url_doi": "https://doi.org/10.1007/s11547-025-02109-5",
       "abstract": "BACKGROUND: The CCM-ITALUNG2 pilot was implemented to evaluate the feasibility of an organized lung cancer (LC) screening programme in five Italian centres.\n\nMETHODS: The screening pathway included invitation, recruitment, referral to Smoking Cessation Services (SCSs), and use of the Lung-RADS score for low-dose CT reading. Dedicated screening operators followed up participants from recruitment through the clinical follow-up established by multidisciplinary teams. Eligibility criteria included age 55-75 years, ever-smokers with ≥ 25 pack-years; quit within the past 10 years. Baseline round results are presented.\n\nRESULTS: From November 2022 to May 2024, 1,144 of the 1,971 invited individuals (58.0%) were recruited following different strategies including in-person invitation by general practitioners (GPs; 356 subjects, 31.9%) or other healthcare personnel (18.1%), self-presentation (36.3%), and phone invitation using GPs' patient lists (13.7%). Among current smokers, 38.5% accepted referral to SCSs. Eighteen subjects (77.8% in stage I-II) were diagnosed with LC (prevalent LC rate 1.57%). The mean time to surgery was 147 days (standard deviation 73); the false-positive rate was 1.38% (15/1,085).\n\nCONCLUSIONS: By utilizing different organizational models, the pilot was tailored to the specific characteristics of each centre. Phone invitations from GPs' patient lists, in-person invitations by GPs and other healthcare personnel, and self-presentation might enhance equity of access in comparison with self-referral only. Dedicated screening operators, the use of the Lung-RADS scoring system, and a structured clinical follow-up supported participants throughout the screening pathway. Delivering brief advice for smoking cessation during recruitment and offering SCS referral were feasible within the screening pathway."
-    },
-    {
-      "pmid": "41045933",
-      "doi": "10.1016/j.xcrm.2025.102396",
-      "title": "Updated efficacy and predictive biomarkers of QL1706, a bifunctional PD-1/CTLA-4 dual blocker in advanced solid tumors-A phase 1/1b study.",
-      "journal": "Cell reports. Medicine",
-      "pubdate": "2025-10-03T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.xcrm.2025.102396",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41045933/",
-      "url_doi": "https://doi.org/10.1016/j.xcrm.2025.102396",
-      "abstract": "QL1706 has shown promising efficacy in solid tumors in a phase 1/1b study. Here, we report updated long-term survival outcomes and biomarker analyses. Among 468 patients treated with QL1706 (5 mg/kg), median progression-free survival (mPFS) and overall survival (mOS) are 1.5 and 14.2 months for non-small cell lung cancer (NSCLC), 1.9 and 20.2 months for nasopharyngeal carcinoma (NPC), and 4.2 and 18.6 months for cervical cancer (CC), respectively. Liver metastasis is correlated with poor progression-free survival (PFS) and overall survival (OS) in NSCLC and poor OS in CC, while elevated lactate dehydrogenase is linked to shorter PFS and OS in NPC. CDK4/11q13 diploid or the expression of GZMK"
     }
   ]
 }
