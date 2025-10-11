@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-10T05:15:54.008091Z",
+  "generated": "2025-10-11T05:16:16.280797Z",
   "items": [
     {
       "pmid": "40189749",
@@ -82,6 +82,26 @@
       "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
     },
     {
+      "pmid": "40962011",
+      "doi": "10.1016/j.ejphar.2025.178168",
+      "title": "Prognostic implications of antitumour efficacy and adverse events of EGFR-TKIs in non-small cell lung cancer: an ambispective cohort study.",
+      "journal": "European journal of pharmacology",
+      "pubdate": "2025-11-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40962011/",
+      "url_doi": "https://doi.org/10.1016/j.ejphar.2025.178168",
+      "abstract": "The objective of this study was to quantify the impact of longitudinal tumour dynamics, time-varying drug-related adverse events (DRAEs), and other clinical characteristics on long-term outcomes in patients with non-small cell lung cancer (NSCLC) treated with epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). An ambispective cohort of 277 patients was analysed and externally validated using independent clinical trial data from 470 patients in the Project Data Sphere. Individual tumour growth trajectories were characterised by predicted sum of the longest diameters (SLD) using tumour growth inhibition (TGI) modelling. Time-dependent Cox and parametric time-to-event models were then applied to evaluate the influence of predicted tumour growth trajectories, observed dynamic DRAE profiles, cross-sectional variables derived from these measures, and additional covariates on time-to-treatment failure (TTF) and progression-free survival (PFS). The TGI models effectively captured individual tumour dynamics. Across both Cox and parametric time-to-event models, prognostic factors consistently included DRAEs, baseline metastasis, EGFR-TKI treatment history, and the specific EGFR-TKI administered. Notably, grade 2 DRAEs were associated with an optimal balance between efficacy and safety, and this association remained robust in sensitivity analyses and was preliminarily validated using external data. These findings emphasise the clinical relevance of DRAE grades in indicating long-term clinical benefit. By linking manageable toxicity with durable therapeutic outcomes, the study provides valuable insights for developing safe and effective EGFR-TKI treatment strategies in patients with NSCLC."
+    },
+    {
       "pmid": "40961811",
       "doi": "10.1016/j.ejca.2025.115779",
       "title": "Atezolizumab with carboplatin plus nab-paclitaxel combination therapy for TTF-1 negative advanced nonsquamous non-small cell lung cancer: A multicenter, single-arm phase 2 trial (F1NE TUNE, LOGiK 2102).",
@@ -144,6 +164,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40923280/",
       "url_doi": "https://doi.org/10.1200/JCO-25-00788",
       "abstract": "PURPOSE: WU-KONG1B (ClinicalTrials.gov identifier: NCT03974022) is a multinational phase II, dose-randomized study to assess the antitumor efficacy of sunvozertinib in pretreated patients with advanced non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (\n\nMETHODS: Eligible patients with advanced-stage\n\nRESULTS: Among 85, 89, and 107 efficacy-evaluable patients in 200 mg-rand, 300 mg-rand, and 300 mg-all (including randomly assigned and nonrandomized patients) cohorts, the cORRs were 45.9% (97.5% CI, 33.6% to 58.5%), 47.2% (97.5% CI, 35.1% to 59.5%), and 45.8% (97.5% CI, 34.8% to 57.0%), respectively, per IRC assessment. The predefined null hypothesis was rejected with statistical significance (\n\nCONCLUSION: Sunvozertinib is efficacious at both 200 and 300 mg once daily in treating platinum-pretreated patients with advanced"
+    },
+    {
+      "pmid": "41072927",
+      "doi": "10.1093/ejcts/ezaf347",
+      "title": "Value of Video-Assisted Mediastinal Lymphadenectomy in Mediastinal Staging in Non-Small Cell Lung Cancer Patients.",
+      "journal": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+      "pubdate": "2025-10-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41072927/",
+      "url_doi": "https://doi.org/10.1093/ejcts/ezaf347",
+      "abstract": "OBJECTIVES: Mediastinal lymph node staging is essential in the management of patients with non-small cell lung cancer. According to the guideline of the European Society of Thoracic Surgery, invasive staging should be performed in selected patients. The outcome of invasive staging with video-assisted mediastinoscopic lymphadenectomy in patients with potentially respectable non-small cell lung cancer is evaluated in this study.\n\nMETHODS: Patients who underwent invasive mediastinal staging by video-assisted mediastinoscopic lymphadenectomy between 2008 and 2019 received retrospective single-centre analysis. Patients were divided into two groups: one group met the guideline criteria for invasive staging, whereas the other group did not.\n\nRESULTS: 1640 patients were included in the study, 374 (22.8%) of whom had mediastinal lymph node metastases. N2 and N3 status were detected in 300 (18.2%) and 74 (4.5%) patients, respectively. The complication rate for the procedure was 4.8% (n = 79). False negative results were detected in 5 Patients (2.2%). For the entire cohort, the sensitivity, specificity, negative predictive value and accuracy were 98.68% (95% CI 96.95-99.57%), 100% (95% CI 99.65-100%), 99.53 (95% CI 98.88-99.8%), and 99.65% (95% CI 99.19-99.89%), respectively. In the Guideline accordant-group, mediastinal metastases were detected in 370 out of 1463 cases (25.3%), whereas in the other-group metastases were found in 4 out of 177 cases (2.3%), (p < 0.001).\n\nCONCLUSIONS: Video-assisted mediastinoscopic lymphadenectomy is a safe procedure with high sensitivity, specificity, negative predictive value and accuracy. The guideline criteria for selecting patients who should be considered for invasive mediastinal staging are valid.\n\nCLINICAL REGISTRATION NUMBER: Ethics committee of Medical Association Westphalia Lippe (2021-049-f-S)."
     },
     {
       "pmid": "40839841",
@@ -285,46 +325,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41052285/",
       "url_doi": "https://doi.org/10.1093/oncolo/oyaf332",
       "abstract": "INTRODUCTION: Small cell lung cancer (SCLC) accounts for 15% of lung cancers and is characterized by an aggressive disease course and historically poor prognosis. Although tumors in most patients respond to initial chemotherapy, relapse is nearly universal and treatment options remain limited. Antibody-drug conjugates (ADCs) have emerged as a novel therapeutic class with potential to address this unmet need.\n\nMETHODS: ClinicalTrials.gov, PubMed, and their associated references and press releases were queried for the search terms \"Antibody-drug conjugates\" and \"SCLC.\" Only English-language sources were included.\n\nRESULTS: Multiple ADCs targeting diverse antigens have been evaluated in relapsed or refractory SCLC. Topoisomerase I inhibitor payloads have generated the most consistent activity across DLL3, TROP2, B7-H3, and SEZ6 targets, while microtubule and pyrrolobenzodiazepine (PBD)- based constructs have not demonstrated durable benefit. Despite encouraging response rates, progression-free survival has remained short, reflecting intrinsic resistance, antigen heterogeneity, and toxicity-related dose limitations.\n\nCONCLUSION: While ADCs have generated encouraging response rates in SCLC, durability has remained limited. Future development will require optimization of payloads, linkers, and trial design to determine whether ADCs can achieve a sustained role in this disease."
-    },
-    {
-      "pmid": "40930114",
-      "doi": "10.1016/S0140-6736(25)01719-2",
-      "title": "The IASLC-Lancet Commission: a transformative global approach to lung cancer.",
-      "journal": "Lancet (London, England)",
-      "pubdate": "2025-10-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40930114/",
-      "url_doi": "https://doi.org/10.1016/S0140-6736(25)01719-2",
-      "abstract": null
-    },
-    {
-      "pmid": "41046319",
-      "doi": "10.1007/s11547-025-02109-5",
-      "title": "CCM-ITALUNG2 pilot on lung cancer screening in Italy: recruitment, integration with smoking cessation and baseline results.",
-      "journal": "La Radiologia medica",
-      "pubdate": "2025-10-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41046319/",
-      "url_doi": "https://doi.org/10.1007/s11547-025-02109-5",
-      "abstract": "BACKGROUND: The CCM-ITALUNG2 pilot was implemented to evaluate the feasibility of an organized lung cancer (LC) screening programme in five Italian centres.\n\nMETHODS: The screening pathway included invitation, recruitment, referral to Smoking Cessation Services (SCSs), and use of the Lung-RADS score for low-dose CT reading. Dedicated screening operators followed up participants from recruitment through the clinical follow-up established by multidisciplinary teams. Eligibility criteria included age 55-75 years, ever-smokers with ≥ 25 pack-years; quit within the past 10 years. Baseline round results are presented.\n\nRESULTS: From November 2022 to May 2024, 1,144 of the 1,971 invited individuals (58.0%) were recruited following different strategies including in-person invitation by general practitioners (GPs; 356 subjects, 31.9%) or other healthcare personnel (18.1%), self-presentation (36.3%), and phone invitation using GPs' patient lists (13.7%). Among current smokers, 38.5% accepted referral to SCSs. Eighteen subjects (77.8% in stage I-II) were diagnosed with LC (prevalent LC rate 1.57%). The mean time to surgery was 147 days (standard deviation 73); the false-positive rate was 1.38% (15/1,085).\n\nCONCLUSIONS: By utilizing different organizational models, the pilot was tailored to the specific characteristics of each centre. Phone invitations from GPs' patient lists, in-person invitations by GPs and other healthcare personnel, and self-presentation might enhance equity of access in comparison with self-referral only. Dedicated screening operators, the use of the Lung-RADS scoring system, and a structured clinical follow-up supported participants throughout the screening pathway. Delivering brief advice for smoking cessation during recruitment and offering SCS referral were feasible within the screening pathway."
     }
   ]
 }
