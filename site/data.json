@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-12T05:15:23.727904Z",
+  "generated": "2025-10-13T05:17:50.641124Z",
   "items": [
     {
       "pmid": "40189749",
@@ -40,46 +40,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40650354/",
       "url_doi": "https://doi.org/10.1002/ijc.70045",
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
-    },
-    {
-      "pmid": "41053615",
-      "doi": "10.1186/s12890-025-03923-3",
-      "title": "Is 'better' enough? Prevalence and multidimensional portrait of persistent dyspnea upon discharge from a respiratory medicine ward: a prospective, single-center observational study.",
-      "journal": "BMC pulmonary medicine",
-      "pubdate": "2025-10-06T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": "Prospective (non-RCT)",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://bmcpulmmed.biomedcentral.com/counter/pdf/10.1186/s12890-025-03923-3",
-      "metric_name": "SJR",
-      "metric_value": 0.889,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41053615/",
-      "url_doi": "https://doi.org/10.1186/s12890-025-03923-3",
-      "abstract": "BACKGROUND: During unplanned respiratory-related hospitalizations, gradual improvement in physiological variables and reduced dependence on treatment are crucial for discharge decisions, possibly supported by discharge care bundles designed to reduce post-hospitalization readmission and mortality. However, patients prioritize symptom relief. This study tested the hypothesis that a significant proportion of patients admitted to a pulmonology ward for an acute respiratory episode experience dyspnea on the day of discharge. It further aimed to describe this dyspnea in a multidimensional manner.\n\nMETHODS: This 10-week prospective study was conducted at a single center and included patients admitted for acute respiratory conditions such as COPD or asthma exacerbation, pneumonia, pulmonary embolism, or pleural disease, who, on admission, reported a rating of 3 or higher on the \"immediate breathing discomfort\" item of the Multidimensional Dyspnea Profile (MDP-A1). Dyspnea was assessed both at admission and at discharge using a multidimensional recall-based tool (MDP) and an instant unidimensional tool, the 10-cm visual analog scale (D-VAS).\n\nRESULTS: Seventy consecutive patients were included in the study. Although dyspnea ratings showed a statistically significant decrease during the hospital stay, dyspnea remained both frequent and intense at discharge. At discharge, 84% of patients provided MDP-A1 recall ratings above 0, with 70% rating their MDP-A1 at 3 or more. In contrast, only 22% provided D-VAS instant ratings of 3 or higher. The median MDP-A1 score was 4.0 [2.0-6.0]. \"Air hunger\" was the most frequently selected sensory descriptor.\n\nCONCLUSIONS: Persistent dyspnea remains frequent and intense among patients being discharged after an acute respiratory episode."
-    },
-    {
-      "pmid": "40168159",
-      "doi": "10.1080/17581966.2025.2477411",
-      "title": "The association between blood-based HYAL2 methylation and early-stage lung cancer: a case-control study.",
-      "journal": "Lung cancer management",
-      "pubdate": "2025-12-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1080/17581966.2025.2477411",
-      "metric_name": "SJR",
-      "metric_value": 0.506,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
-      "url_doi": "https://doi.org/10.1080/17581966.2025.2477411",
-      "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
     },
     {
       "pmid": "40962011",
@@ -285,46 +245,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41055143/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2565995",
       "abstract": "Patients with small cell lung cancer (SCLC) have poor prognosis and limited treatment options beyond first-line therapy. B7 homolog 3 (B7-H3) is minimally expressed in normal tissues but highly expressed in SCLC. Ifinatamab deruxtecan (I-DXd), a B7-H3-directed antibody-drug conjugate, has demonstrated promising efficacy and a manageable safety profile in various tumours, including SCLC. IDeate-Lung02 is a global, randomized, open-label Phase 3 study of ~540 patients with relapsed SCLC. Adults with one prior line of platinum-based systemic therapy, ECOG performance status 0-1, and ≥1 measurable lesion (per RECIST 1.1) are eligible for study participation. Patients with asymptomatic untreated or previously treated brain metastases may participate. Patients are randomized 1:1 to receive I-DXd 12 mg/kg intravenously every 3 weeks or treatment of physician's choice (topotecan, amrubicin, or lurbinectedin). Dual primary endpoints are objective response rate (ORR) by blinded independent central review (BICR) and overall survival. Secondary endpoints include ORR by investigator; progression-free survival, duration of response, disease control rate, and time to response, all by BICR and investigator; patient-reported outcomes; and safety. IDeate-Lung02 will ascertain whether I-DXd treatment after only one prior line of systemic treatment improves outcomes for patients with relapsed SCLC compared with topotecan, amrubicin, or lurbinectedin."
-    },
-    {
-      "pmid": "41052301",
-      "doi": "10.1093/oncolo/oyaf331",
-      "title": "Antibody Drugs Conjugates in Non-Small Cell Lung Cancer: Current Status and Challenges.",
-      "journal": "The oncologist",
-      "pubdate": "2025-10-06T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://academic.oup.com/oncolo/advance-article-pdf/doi/10.1093/oncolo/oyaf331/64521956/oyaf331.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41052301/",
-      "url_doi": "https://doi.org/10.1093/oncolo/oyaf331",
-      "abstract": "BACKGROUND: Antibody-drug conjugates (ADCs) are an emerging class of therapeutics that combine the specificity of monoclonal antibodies with cytotoxic or immune-stimulatory payloads. In non-small cell lung cancer (NSCLC), they offer a novel strategy with potential in both first line therapy and in cases to overcome resistance to existing targeted and immune-based therapies.\n\nOBJECTIVE: To review the clinical development, efficacy, safety, biomarker strategies, and emerging targets of ADCs in NSCLC, with a focus on implications for practice and ongoing challenges.\n\nMETHODS: We conducted a comprehensive literature review of published trials, conference abstracts, and press releases evaluating ADCs in NSCLC, with attention to target antigens, clinical trial outcomes, and biomarker approaches.\n\nRESULTS: ADCs targeting HER2, TROP2, and c-MET have received regulatory approval in NSCLC, with demonstrated efficacy-particularly in biomarker-selected populations. Bispecific HER3/EGFR-directed ADCs have shown encouraging activity in early-phase studies, with ongoing trials expected to clarify durability and optimal patient selection. Other targets such as ITGB6, B7-H3, and AXL have shown early signals of efficacy. Predictive biomarkers vary in reliability, and mutation, amplification, or protein expression do not uniformly predict response. Toxicity and acquired resistance remain key challenges; improved diagnostics may enhance patient selection.\n\nCONCLUSION: ADCs are poised to reshape the therapeutic landscape of NSCLC. Their success will hinge on refining biomarker strategies, managing toxicity, and integrating resistance-mitigating approaches such as bispecific constructs or rational combinations. As research advances, ADCs may become essential components of personalized therapy across a range of molecular and histologic NSCLC subtypes."
-    },
-    {
-      "pmid": "41052285",
-      "doi": "10.1093/oncolo/oyaf332",
-      "title": "Antibody Drugs Conjugates in Small-Cell Lung Cancer: Present-Day Status and Promises.",
-      "journal": "The oncologist",
-      "pubdate": "2025-10-06T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://academic.oup.com/oncolo/advance-article-pdf/doi/10.1093/oncolo/oyaf332/64521973/oyaf332.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41052285/",
-      "url_doi": "https://doi.org/10.1093/oncolo/oyaf332",
-      "abstract": "INTRODUCTION: Small cell lung cancer (SCLC) accounts for 15% of lung cancers and is characterized by an aggressive disease course and historically poor prognosis. Although tumors in most patients respond to initial chemotherapy, relapse is nearly universal and treatment options remain limited. Antibody-drug conjugates (ADCs) have emerged as a novel therapeutic class with potential to address this unmet need.\n\nMETHODS: ClinicalTrials.gov, PubMed, and their associated references and press releases were queried for the search terms \"Antibody-drug conjugates\" and \"SCLC.\" Only English-language sources were included.\n\nRESULTS: Multiple ADCs targeting diverse antigens have been evaluated in relapsed or refractory SCLC. Topoisomerase I inhibitor payloads have generated the most consistent activity across DLL3, TROP2, B7-H3, and SEZ6 targets, while microtubule and pyrrolobenzodiazepine (PBD)- based constructs have not demonstrated durable benefit. Despite encouraging response rates, progression-free survival has remained short, reflecting intrinsic resistance, antigen heterogeneity, and toxicity-related dose limitations.\n\nCONCLUSION: While ADCs have generated encouraging response rates in SCLC, durability has remained limited. Future development will require optimization of payloads, linkers, and trial design to determine whether ADCs can achieve a sustained role in this disease."
     }
   ]
 }
