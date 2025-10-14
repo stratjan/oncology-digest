@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-13T05:17:50.641124Z",
+  "generated": "2025-10-14T05:17:02.705347Z",
   "items": [
     {
       "pmid": "40189749",
@@ -40,6 +40,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40650354/",
       "url_doi": "https://doi.org/10.1002/ijc.70045",
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
+    },
+    {
+      "pmid": "40168159",
+      "doi": "10.1080/17581966.2025.2477411",
+      "title": "The association between blood-based HYAL2 methylation and early-stage lung cancer: a case-control study.",
+      "journal": "Lung cancer management",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1080/17581966.2025.2477411",
+      "metric_name": "SJR",
+      "metric_value": 0.506,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
+      "url_doi": "https://doi.org/10.1080/17581966.2025.2477411",
+      "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
     },
     {
       "pmid": "40962011",
@@ -102,6 +122,66 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40957291/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.115693",
       "abstract": "BACKGROUND: Osimertinib is commonly used as a first-line treatment for EGFR-mutated advanced non-small cell lung cancer (NSCLC). However, the optimal treatment strategy following osimertinib failure remains unclear.\n\nMETHODS: Patients with EGFR-mutated NSCLC and exon 19 deletion or L858R mutation after failure of osimertinib treatment were assigned to a regimen of afatinib (20 mg daily) combined with carboplatin (AUC 5 mg/mL/min) and pemetrexed (500 mg/m\n\nRESULTS: Thirty-six patients were enrolled. One patient met the exclusion criteria, and the efficacy was evaluated in the remaining 35 patients. The 6M-PFSR, the primary endpoint, was 57.1 %. The confidence interval of 39.3-71.5 % exceeded the predefined threshold of 35 %, thereby meeting its primary endpoint. Notably, 28.6 % of patients achieved a long-term PFS of 1 year or longer. The objective response rate (ORR) was 51.4 %, the disease control rate (DCR) was 88.6 %, the median PFS was 8.2 months, the median duration of response (DOR) was 5.6 months, and the median overall survival (OS) was 22.5 months. The most common adverse events were diarrhea (52.8 %) and anorexia (47.2 %), both of which were predictable and manageable. Interstitial pneumonia developed in three patients (8.3 %), one of whom died. Another patient died from sepsis, bringing the total number of deaths in the study to two.\n\nCONCLUSIONS: The combination of afatinib and the platinum doublet demonstrated satisfactory efficacy with manageable adverse events in tumors refractory to osimertinib, meeting its primary endpoint.\n\nTRIAL REGISTRATION NUMBER: jRCTs021200005."
+    },
+    {
+      "pmid": "41082707",
+      "doi": "10.1200/JCO-25-00036",
+      "title": "Simultaneous Durvalumab and Platinum-Based Chemoradiotherapy in Unresectable Stage III Non-Small Cell Lung Cancer: The Phase III PACIFIC-2 Study.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-10-13T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Phase III",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41082707/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-00036",
+      "abstract": "PURPOSE: Immunotherapy targeting PD-L1 improves outcomes in patients with unresectable stage III non-small cell lung cancer (NSCLC) and no progression after definitive, concurrent chemoradiotherapy (cCRT). Earlier administration of immunotherapy, simultaneously with cCRT, may improve outcomes further.\n\nMETHODS: Eligible patients were randomly assigned (2:1) to receive either durvalumab or placebo administered from the start of cCRT. Patients without progression after completing cCRT received consolidation durvalumab or placebo (per initial random assignment) until progression. The primary end point was progression-free survival (PFS) by blinded independent central review. Key secondary end points included objective response rate (ORR), overall survival (OS), the proportion of patients alive at 24 months (OS24), and safety.\n\nRESULTS: In total, 328 patients were randomly assigned to receive durvalumab (n = 219) or placebo (n = 109). There was no statistically significant difference with durvalumab versus placebo in PFS (hazard ratio [HR], 0.85 [95% CI, 0.65 to 1.12];\n\nCONCLUSION: Among patients with unresectable stage III NSCLC, durvalumab administered from the start of cCRT failed to demonstrate additional benefit compared with cCRT plus placebo. Consolidation durvalumab following definitive cCRT remains the standard of care in this setting."
+    },
+    {
+      "pmid": "41082894",
+      "doi": "10.1016/S1470-2045(25)00485-1",
+      "title": "Radiotherapy-free approach in inoperable locally advanced non-small-cell lung cancer: are we ready for this shift?",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-10-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41082894/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00485-1",
+      "abstract": null
+    },
+    {
+      "pmid": "41082893",
+      "doi": "10.1016/S1470-2045(25)00462-0",
+      "title": "Radiotherapy-free pembrolizumab combined with chemotherapy for locally advanced non-small-cell lung cancer with PD-L1 tumour proportion score of 50% or higher (Evolution trial): a multicentre, single-arm, phase 2 study.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-10-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41082893/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00462-0",
+      "abstract": "BACKGROUND: The standard of care for unresectable, locally advanced non-small-cell lung cancer (NSCLC) is chemoradiotherapy followed by durvalumab. This study (Evolution trial WJOG11819L) aimed to evaluate the efficacy and safety of radiotherapy-free pembrolizumab and chemotherapy in patients with unresectable, locally advanced NSCLC with a PD-L1 tumour proportion score (TPS) of 50% or higher.\n\nMETHODS: This prospective, multicentre, single-arm, phase 2 study was conducted in nine institutes in Japan. Inclusion criteria were age 20 years or older, histologically confirmed unresectable, locally advanced NSCLC with a PD-L1 TPS of 50% or higher, an Eastern Cooperative Oncology Group performance status of 0 or 1, at least one measurable lesion, no previous systemic therapy, and adequate organ function. Patients received intravenous induction therapy comprising pembrolizumab 200 mg every 3 weeks plus platinum-based chemotherapy for four cycles: either cisplatin 75 mg/m\n\nFINDINGS: Between May 18, 2020, and Feb 22, 2022, 21 patients were assessed for eligibility and all were enrolled. Median age was 73 years (IQR 68-80); 16 (76%) patients were male; race and ethnicity data were not collected. Three (14%) patients discontinued and 18 (86%) patients completed the induction therapy; eight (38%) patients discontinued during maintenance therapy and ten (48%) patients completed the maintenance therapy. Median follow-up was 32·5 months (IQR 26·2-39·5). The 2-year progression-free survival rate was 67% (90% CI 46-83). The most common grade 3 or worse adverse events were neutropenia (eight [38%] of 21 patients), leukopenia (four [19%]), and pneumonia (three [14%]). Serious adverse events occurred in seven (33%) patients. No treatment-related deaths were reported.\n\nINTERPRETATION: These findings suggest that pembrolizumab combined with platinum-based chemotherapy, without radiotherapy, might provide a feasible and promising alternative treatment strategy for patients with unresectable, locally advanced NSCLC with a PD-L1 TPS of 50% or higher.\n\nFUNDING: Merck Sharp & Dohme."
     },
     {
       "pmid": "40923280",
@@ -225,26 +305,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41068040/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108790",
       "abstract": null
-    },
-    {
-      "pmid": "41055143",
-      "doi": "10.1080/14796694.2025.2565995",
-      "title": "IDeate-Lung02: a Phase 3 study of second-line ifinatamab deruxtecan in patients with relapsed small cell lung cancer.",
-      "journal": "Future oncology (London, England)",
-      "pubdate": "2025-10-07T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41055143/",
-      "url_doi": "https://doi.org/10.1080/14796694.2025.2565995",
-      "abstract": "Patients with small cell lung cancer (SCLC) have poor prognosis and limited treatment options beyond first-line therapy. B7 homolog 3 (B7-H3) is minimally expressed in normal tissues but highly expressed in SCLC. Ifinatamab deruxtecan (I-DXd), a B7-H3-directed antibody-drug conjugate, has demonstrated promising efficacy and a manageable safety profile in various tumours, including SCLC. IDeate-Lung02 is a global, randomized, open-label Phase 3 study of ~540 patients with relapsed SCLC. Adults with one prior line of platinum-based systemic therapy, ECOG performance status 0-1, and ≥1 measurable lesion (per RECIST 1.1) are eligible for study participation. Patients with asymptomatic untreated or previously treated brain metastases may participate. Patients are randomized 1:1 to receive I-DXd 12 mg/kg intravenously every 3 weeks or treatment of physician's choice (topotecan, amrubicin, or lurbinectedin). Dual primary endpoints are objective response rate (ORR) by blinded independent central review (BICR) and overall survival. Secondary endpoints include ORR by investigator; progression-free survival, duration of response, disease control rate, and time to response, all by BICR and investigator; patient-reported outcomes; and safety. IDeate-Lung02 will ascertain whether I-DXd treatment after only one prior line of systemic treatment improves outcomes for patients with relapsed SCLC compared with topotecan, amrubicin, or lurbinectedin."
     }
   ]
 }
