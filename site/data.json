@@ -1,4 +1,369 @@
 {
-  "generated": "2025-10-17T05:15:40.522128Z",
-  "items": []
+  "generated": "2025-10-18T05:17:56.727823Z",
+  "items": [
+    {
+      "pmid": "41106379",
+      "doi": "10.1016/j.ccell.2025.09.011",
+      "title": "TET2-mutant clonal hematopoiesis enhances macrophage antigen presentation and improves immune checkpoint therapy in solid tumors.",
+      "journal": "Cancer cell",
+      "pubdate": "2025-10-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ccell.2025.09.011",
+      "metric_name": "SJR",
+      "metric_value": 19.027,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41106379/",
+      "url_doi": "https://doi.org/10.1016/j.ccell.2025.09.011",
+      "abstract": "Clonal hematopoiesis (CH) is detectable in upwards of 20% of patients with solid tumors and is associated with worsened prognosis; however, its role in tumor immunology and immune checkpoint therapy (ICT) is unknown. Using a bone marrow chimera model of Tet2"
+    },
+    {
+      "pmid": "41090369",
+      "doi": "10.1158/2159-8290.CD-25-0605",
+      "title": "Sevabertinib, a Reversible HER2 Inhibitor with Activity in Lung Cancer.",
+      "journal": "Cancer discovery",
+      "pubdate": "2025-10-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/doi/10.1158/2159-8290.CD-25-0605/3659296/cd-25-0605.pdf",
+      "metric_name": "SJR",
+      "metric_value": 7.283,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41090369/",
+      "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-0605",
+      "abstract": "Exon 20 insertions of HER2, encoded by ERBB2, and other activating HER2 mutations occur in 2-4% of lung adenocarcinomas, but there are only limited therapeutic options available for these patients. Sevabertinib (BAY 2927088) is a potent and reversible dual EGFR-HER2 inhibitor that is selective with respect to wild-type EGFR. Here, we report the preclinical activity of sevabertinib in lung cancer models harboring alterations of HER2, including exon 20 insertions, point mutations, and amplification of wild-type ERBB2. We furthermore demonstrate the activity of sevabertinib in a cancer cell line dependent on a fusion of NRG1, a ligand for the HER2 family member and heterodimerization partner, HER3. Finally, we report patient responses to sevabertinib from a Phase 1/2 clinical trial, indicating potential benefit for patients with HER2-mutant lung cancer."
+    },
+    {
+      "pmid": "41088878",
+      "doi": "10.1158/0008-5472.CAN-25-4003",
+      "title": "Precision Epigenetic Reprogramming: CoREST Inhibition Sensitizes STK11-Mutant Tumors to Immune Checkpoint Blockade Therapy.",
+      "journal": "Cancer research",
+      "pubdate": "2025-10-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41088878/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-4003",
+      "abstract": "Loss-of-function mutations in STK11 (also known as LKB1) define a molecular subtype of non-small cell lung cancer that is resistant to immune checkpoint blockade therapy, partially owing to impaired T-cell infiltration and suppressed antigen presentation. Emerging evidence implicates epigenetic deregulation as a key driver of immune evasion in STK11-mutant tumors. In this issue of Cancer Research, Ahronian and colleagues identified the CoREST complex, via histone deacetylase 1, as a vulnerability that can be targeted pharmacologically to restore immune sensitivity in STK11-mutant tumors. The authors developed TNG260, a selective small-molecule CoREST inhibitor with favorable pharmacologic properties and reduced toxicity relative to pan-histone deacetylase inhibitors. In preclinical models of STK11-deficient non-small cell lung cancer, TNG260 reprograms the tumor epigenome to upregulate immune genes and synergizes with anti-PD-1 therapy to induce durable tumor regressions. Early clinical data from an ongoing trial (NCT05887492) show increased histone acetylation and CD8+ T-cell infiltration in patient tumors treated with TNG260 and pembrolizumab. This commentary places these findings in the broader context of epigenetic modulation of antitumor immune response. We also outline key questions for future investigation, including durability of immune response, tumor-type specificity, and biomarker strategies for patient selection and response monitoring. See related article by Ahronian et al., p. 3966."
+    },
+    {
+      "pmid": "40712061",
+      "doi": "10.1158/0008-5472.CAN-24-2772",
+      "title": "Dasatinib Remodels the Tumor Microenvironment and Sensitizes Small Cell Lung Cancer to Immunotherapy.",
+      "journal": "Cancer research",
+      "pubdate": "2025-10-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40712061/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-24-2772",
+      "abstract": "UNLABELLED: Effective strategies to reinvigorate the immune system are needed to improve outcomes in small cell lung cancer (SCLC). Targeting Src family kinases with dasatinib (Dasa) can elicit immunomodulatory effects in some cancer types. In this study, we explored the potential of combining Dasa with immune checkpoint blockade in SCLC. Although the SCLC models were refractory to anti-PD-1 or anti-CTLA4 monotherapy, anti-PD-1 and anti-CTLA4 combination immunotherapy (ITc) induced a significant antitumor response. Furthermore, the Dasa + ITc combination was superior to ITc or Dasa alone. Dasa + ITc activity was mediated by CD4+ T cells, MHC-II+ antigen-presenting cells, and NK cells, as depletion of these populations impeded the combination treatment antitumor efficacy. Increased tumor infiltration of CD4+ and CD8+ T cells, NK cells, M1-like macrophages, and CD11c+ antigen-presenting cells and a reduction of regulatory T cells and M2-like macrophages were found in Dasa + ITc-treated mice. Dasa increased CCL5 in NK cells and reduced regulatory T-cell conversion from CD4+ lymphocytes. Dasa + ITc therapy elicited robust antitumor efficacy in three-dimensional cocultures of immune and SCLC cells. In vivo experiments showed that CCL5 was necessary for the Dasa + ITc response. In immunotherapy-treated patients with SCLC, a gene signature including CD4, CIITA, and tumor mutational burden predicted good prognosis. On-treatment CCL5 plasma levels were increased only in patients with long progression-free survival, and pretreatment secretomics identified cytokines related to myeloid cells significantly associated with poor prognosis. In summary, combining Dasa with immunotherapy represents a strategy to treat SCLC, with CCL5 as a cytokine that could serve to monitor response.\n\nSIGNIFICANCE: Multikinase inhibitor and immune checkpoint blockade combination therapy overcomes the immunosuppressive tumor microenvironment in small cell lung cancer by activating CCL5 and costimulating CD4+ T cells, NK cells, and MHC-II+ cells."
+    },
+    {
+      "pmid": "40189749",
+      "doi": "10.1080/2162402X.2025.2484880",
+      "title": "Surrogate markers of intestinal dysfunction associated with survival in advanced cancers.",
+      "journal": "Oncoimmunology",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1080/2162402x.2025.2484880",
+      "metric_name": "SJR",
+      "metric_value": 2.542,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40189749/",
+      "url_doi": "https://doi.org/10.1080/2162402X.2025.2484880",
+      "abstract": "Deviations in the diversity and composition of the gut microbiota are called \"gut dysbiosis\". They have been linked to various chronic diseases including cancers and resistance to immunotherapy. Stool shotgun based-metagenomics informs on the ecological composition of the gut microbiota and the prevalence of homeostatic bacteria such as"
+    },
+    {
+      "pmid": "40650354",
+      "doi": "10.1002/ijc.70045",
+      "title": "Stage- and histology-specific sensitivity for the detection of lung cancer of the NELSON screening protocol-A modeling study.",
+      "journal": "International journal of cancer",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.70045",
+      "metric_name": "SJR",
+      "metric_value": 2.252,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40650354/",
+      "url_doi": "https://doi.org/10.1002/ijc.70045",
+      "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
+    },
+    {
+      "pmid": "40581332",
+      "doi": "10.1016/j.ijrobp.2025.06.3854",
+      "title": "Treatment Toxicity and Outcomes Following Definitive Radiation Therapy for Patients With Early-Stage Non-Small Cell Lung Cancers and Pre-Existing Interstitial Lung Disease-A Systematic Review and Dosimetric Analysis.",
+      "journal": "International journal of radiation oncology, biology, physics",
+      "pubdate": "2025-11-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40581332/",
+      "url_doi": "https://doi.org/10.1016/j.ijrobp.2025.06.3854",
+      "abstract": "BACKGROUND: Patients with interstitial lung disease (ILD) who develop lung cancer represent a unique challenge, as they are at higher risk for serious toxicity from local and systemic therapies. The aim of this study is to provide an up-to-date analysis on toxicities and outcomes associated with definitive radiation therapy (RT) in patients with ILD and early-stage non-small cell lung cancer (ES-NSCLC).\n\nMETHODS AND MATERIALS: We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The PubMed (MEDLINE), EMBASE, and Cochrane Library databases were searched from inception until June 2024, for studies including patients with ILD who underwent definitive RT alone for ES-NSCLC. Data including treatment-related mortality, toxicity, local control, and overall survival were collected and analyzed.\n\nRESULTS: Of 3545 records reviewed, 24 studies were identified for full data abstraction, contributing a total of 705 patients. A specific ILD subtype was not reported for 71% (n = 502) of patients. ILD severity was not reported for 62% (n = 440) of patients. Risk of treatment-related mortality was 7.9%, with severe treatment-related respiratory toxicity 15.7%. A higher volume of lung receiving ≥5 Gy (V5) was significantly correlated with mortality. The estimated local control at 3 year was 76% and median overall survival was 2.5 years.\n\nCONCLUSIONS: The relative merits of RT for the treatment of ES-NSCLC in patients with ILD should be considered in the context of the rates of treatment-related mortality and toxicity. Future studies would benefit from consistent reporting of ILD characteristics, which may help in risk stratification in this challenging clinical scenario."
+    },
+    {
+      "pmid": "40962011",
+      "doi": "10.1016/j.ejphar.2025.178168",
+      "title": "Prognostic implications of antitumour efficacy and adverse events of EGFR-TKIs in non-small cell lung cancer: an ambispective cohort study.",
+      "journal": "European journal of pharmacology",
+      "pubdate": "2025-11-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40962011/",
+      "url_doi": "https://doi.org/10.1016/j.ejphar.2025.178168",
+      "abstract": "The objective of this study was to quantify the impact of longitudinal tumour dynamics, time-varying drug-related adverse events (DRAEs), and other clinical characteristics on long-term outcomes in patients with non-small cell lung cancer (NSCLC) treated with epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). An ambispective cohort of 277 patients was analysed and externally validated using independent clinical trial data from 470 patients in the Project Data Sphere. Individual tumour growth trajectories were characterised by predicted sum of the longest diameters (SLD) using tumour growth inhibition (TGI) modelling. Time-dependent Cox and parametric time-to-event models were then applied to evaluate the influence of predicted tumour growth trajectories, observed dynamic DRAE profiles, cross-sectional variables derived from these measures, and additional covariates on time-to-treatment failure (TTF) and progression-free survival (PFS). The TGI models effectively captured individual tumour dynamics. Across both Cox and parametric time-to-event models, prognostic factors consistently included DRAEs, baseline metastasis, EGFR-TKI treatment history, and the specific EGFR-TKI administered. Notably, grade 2 DRAEs were associated with an optimal balance between efficacy and safety, and this association remained robust in sensitivity analyses and was preliminarily validated using external data. These findings emphasise the clinical relevance of DRAE grades in indicating long-term clinical benefit. By linking manageable toxicity with durable therapeutic outcomes, the study provides valuable insights for developing safe and effective EGFR-TKI treatment strategies in patients with NSCLC."
+    },
+    {
+      "pmid": "40632992",
+      "doi": "10.1200/JCO-25-00040",
+      "title": "Single-Agent Divarasib in Patients With KRAS G12C-Positive Non-Small Cell Lung Cancer: Long-Term Follow-Up of a Phase I Study.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-10-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1200/jco-25-00040",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40632992/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-00040",
+      "abstract": "Divarasib (GDC-6036), an oral, highly potent and selective next-generation KRAS G12C inhibitor, has demonstrated a manageable safety profile and promising antitumor activity in patients with advanced"
+    },
+    {
+      "pmid": "41104938",
+      "doi": "10.1056/NEJMoa2510308",
+      "title": "Survival with Osimertinib plus Chemotherapy in EGFR-Mutated Advanced NSCLC.",
+      "journal": "The New England journal of medicine",
+      "pubdate": "2025-10-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41104938/",
+      "url_doi": "https://doi.org/10.1056/NEJMoa2510308",
+      "abstract": "BACKGROUND: The primary analysis of this trial showed that first-line treatment with osimertinib plus chemotherapy with a platinum-based agent and pemetrexed led to significantly longer progression-free survival than osimertinib monotherapy among patients with epidermal growth factor receptor (\n\nMETHODS: In this phase 3, international, open-label trial, we randomly assigned in a 1:1 ratio patients with\n\nRESULTS: A total of 557 patients were randomly assigned to the osimertinib plus platinum-pemetrexed group (279 patients) or the osimertinib monotherapy group (278 patients). The median overall survival was 47.5 months in the osimertinib plus platinum-pemetrexed group and 37.6 months in the osimertinib monotherapy group (hazard ratio for death, 0.77; 95% confidence interval, 0.61 to 0.96; P = 0.02). Grade 3 or higher adverse events of any cause were reported in 70% of the patients in the osimertinib plus platinum-pemetrexed group and in 34% of the patients in the osimertinib monotherapy group; adverse events leading to the discontinuation of osimertinib were reported in 12% and 7%, respectively.\n\nCONCLUSIONS: Among patients with"
+    },
+    {
+      "pmid": "41104928",
+      "doi": "10.1056/NEJMoa2511065",
+      "title": "Sevabertinib in Advanced HER2-Mutant Non-Small-Cell Lung Cancer.",
+      "journal": "The New England journal of medicine",
+      "pubdate": "2025-10-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41104928/",
+      "url_doi": "https://doi.org/10.1056/NEJMoa2511065",
+      "abstract": "METHODS: We conducted an open-label, multicenter, multicohort, phase 1-2 study to evaluate sevabertinib at a twice-daily dose of 20 mg in patients with locally advanced or metastatic\n\nRESULTS: A total of 209 patients received sevabertinib (as of June 27, 2025, the data-cutoff date); the median duration of follow-up was 13.8 months in cohort D, 11.7 months in cohort E, and 9.9 months in cohort F. Among 81 patients in cohort D, an objective response was observed in 64% (95% confidence interval [CI], 53 to 75); the median duration of response was 9.2 months (95% CI, 6.3 to 13.5), and the median progression-free survival was 8.3 months (95% CI, 6.9 to 12.3). Among 55 patients in cohort E, an objective response was observed in 38% (95% CI, 25 to 52); the median duration of response was 8.5 months, and the median progression-free survival was 5.5 months. Among 73 patients in cohort F, an objective response was observed in 71% (95% CI, 59 to 81), and the median duration of response was 11.0 months; data on progression-free survival were immature. Grade 3 or higher drug-related adverse events occurred in 31% of the patients. The most common adverse event was diarrhea (in 84 to 91%), with diarrhea of grade 3 or higher occurring in 5 to 23%. Treatment was discontinued by 3% of the patients owing to drug-related adverse events.\n\nCONCLUSIONS: Sevabertinib showed antitumor activity in patients with locally advanced or metastatic"
+    },
+    {
+      "pmid": "41102751",
+      "doi": "10.1186/s13014-025-02733-5",
+      "title": "Locally advanced non-small cell lung cancer with negative or low programmed death ligand 1 expression: a prognostic factor analysis of real-world data after the PACIFIC trial.",
+      "journal": "Radiation oncology (London, England)",
+      "pubdate": "2025-10-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://ro-journal.biomedcentral.com/counter/pdf/10.1186/s13014-025-02733-5",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41102751/",
+      "url_doi": "https://doi.org/10.1186/s13014-025-02733-5",
+      "abstract": null
+    },
+    {
+      "pmid": "40961811",
+      "doi": "10.1016/j.ejca.2025.115779",
+      "title": "Atezolizumab with carboplatin plus nab-paclitaxel combination therapy for TTF-1 negative advanced nonsquamous non-small cell lung cancer: A multicenter, single-arm phase 2 trial (F1NE TUNE, LOGiK 2102).",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-10-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ejca.2025.115779",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40961811/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.115779",
+      "abstract": "BACKGROUND: Individuals with thyroid transcription factor-1 (TTF-1)-negative nonsquamous non-small cell lung cancer (NSCLC) have a poor prognosis. There have been no prospective studies targeting TTF-1-negative nonsquamous NSCLC.\n\nMETHODS: This multicenter, single-arm phase 2 study enrolled chemotherapy-naïve individuals with TTF-1-negative advanced nonsquamous NSCLC to receive four cycles of atezolizumab in combination with carboplatin plus nab-paclitaxel, followed by atezolizumab alone. The primary endpoint was progression-free survival (PFS).\n\nRESULTS: Between June 2022 and March 2024, 52 patients (41 male and 11 female) with a median age of 68.0 years were enrolled. Thirty-three patients had adenocarcinoma and 19 had nonadenocarcinoma. Nineteen, 30, and 3 patients were current, former, and never-smokers, respectively. The PD-L1 tumor proportion score was < 1 % in 22 cases, 1-49 % in 18 cases, ≥ 50 % in 11 cases, and unknown in 1 case. The median PFS was 4.9 months (80 % confidence interval [CI], 4.3-5.9 months). The lower limit of the 80 % CI did not exceed the prespecified threshold of 4.5 months; therefore, the study did not meet its primary endpoint. The median overall survival was 13.2 months (95 % CI, 10.3-27.2 months). The response rate was 56.9 % (95 % CI, 43.3-69.5 %). There were no new safety signals.\n\nCONCLUSIONS: This first prospective study of individuals with TTF-1-negative advanced nonsquamous NSCLC has provided evidence for the efficacy and safety of the combination of carboplatin plus nab-paclitaxel with atezolizumab in such patients. The prognosis of TTF-1-negative advanced nonsquamous NSCLC remains poor, however, warranting further treatment development."
+    },
+    {
+      "pmid": "40957291",
+      "doi": "10.1016/j.ejca.2025.115693",
+      "title": "A phase II study of afatinib in combination with pemetrexed and carboplatin in patients with EGFR mutation-positive non-squamous, advanced non-small cell lung cancer (NSCLC) refractory to first-line osimertinib treatment: NEJ025B study.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-10-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Phase II",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40957291/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.115693",
+      "abstract": "BACKGROUND: Osimertinib is commonly used as a first-line treatment for EGFR-mutated advanced non-small cell lung cancer (NSCLC). However, the optimal treatment strategy following osimertinib failure remains unclear.\n\nMETHODS: Patients with EGFR-mutated NSCLC and exon 19 deletion or L858R mutation after failure of osimertinib treatment were assigned to a regimen of afatinib (20 mg daily) combined with carboplatin (AUC 5 mg/mL/min) and pemetrexed (500 mg/m\n\nRESULTS: Thirty-six patients were enrolled. One patient met the exclusion criteria, and the efficacy was evaluated in the remaining 35 patients. The 6M-PFSR, the primary endpoint, was 57.1 %. The confidence interval of 39.3-71.5 % exceeded the predefined threshold of 35 %, thereby meeting its primary endpoint. Notably, 28.6 % of patients achieved a long-term PFS of 1 year or longer. The objective response rate (ORR) was 51.4 %, the disease control rate (DCR) was 88.6 %, the median PFS was 8.2 months, the median duration of response (DOR) was 5.6 months, and the median overall survival (OS) was 22.5 months. The most common adverse events were diarrhea (52.8 %) and anorexia (47.2 %), both of which were predictable and manageable. Interstitial pneumonia developed in three patients (8.3 %), one of whom died. Another patient died from sepsis, bringing the total number of deaths in the study to two.\n\nCONCLUSIONS: The combination of afatinib and the platinum doublet demonstrated satisfactory efficacy with manageable adverse events in tumors refractory to osimertinib, meeting its primary endpoint.\n\nTRIAL REGISTRATION NUMBER: jRCTs021200005."
+    },
+    {
+      "pmid": "41088890",
+      "doi": "10.1158/1078-0432.CCR-25-3281",
+      "title": "Editor's Note: Identification of Existing Drugs That Effectively Target NTRK1 and ROS1 Rearrangements in Lung Cancer.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2025-10-15T00:00:00+00:00",
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/31/20/4384/3657638/ccr-25-3281.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41088890/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-3281",
+      "abstract": null
+    },
+    {
+      "pmid": "41086386",
+      "doi": "10.1200/JCO-25-02142",
+      "title": "Ifinatamab Deruxtecan in Patients With Extensive-Stage Small-Cell Lung Cancer: Primary Analysis of the Phase 2 IDeate-Lung01 Trial.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-10-14T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1200/jco-25-02142",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41086386/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-02142",
+      "abstract": "PURPOSE: Treatment options for patients with recurrent or progressive extensive-stage small-cell lung cancer (ES-SCLC) are limited. This phase 2 trial evaluated the efficacy and safety of ifinatamab deruxtecan (I-DXd), a B7 homolog 3-directed antibody-drug conjugate, in patients with previously treated ES-SCLC.\n\nMETHODS: Patients were randomized to receive I-DXd 8 or 12 mg/kg intravenously every 3 weeks (Q3W) in part 1 (dose optimization) and received I-DXd 12 mg/kg in part 2 (extension). The primary endpoint was objective response rate by blinded independent central review per Response Evaluation Criteria in Solid Tumours, version 1.1.\n\nRESULTS: Overall, 183 patients received I-DXd: 88 in part 1 (8 mg/kg, n=46; 12 mg/kg, n=42) and 95 in part 2. The median number of prior lines of treatment was two. In the total 12-mg/kg group from parts 1 and 2 (n=137), the confirmed objective response rate was 48.2% (95% confidence interval [CI], 39.6-56.9), median duration of response was 5.3 (95% CI, 4.0-6.5) months, median time to response was 1.4 (range, 1.0-8.1) months, median progression-free survival was 4.9 (95% CI, 4.2-5.5) months, and the 9-month overall survival estimate was 59.1%. Any-grade treatment-related adverse events (TRAEs) occurred in 89.8% of patients (grade ≥3, 36.5%). The most common TRAEs were nausea (43.1%), anemia (34.3%), and neutropenia (34.3%). TRAEs associated with treatment discontinuation and death were reported in 9.5% and 4.4% of patients, respectively. Treatment-related interstitial lung disease (ILD) as determined by the ILD adjudication committee was reported in 12.4% of patients (grade ≥3, 4.4%).\n\nCONCLUSION: I-DXd 12 mg/kg Q3W showed promising efficacy in patients with previously treated ES-SCLC. The observed safety profile was consistent with previous reports, with no new safety signals identified."
+    },
+    {
+      "pmid": "41086827",
+      "doi": "10.1055/a-2697-6434",
+      "title": "[White paper on identification, information, and eligibility assessment of potential participants in lung cancer screening in Germany].",
+      "journal": "Pneumologie (Stuttgart, Germany)",
+      "pubdate": "2025-10-14T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/a-2697-6434.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41086827/",
+      "url_doi": "https://doi.org/10.1055/a-2697-6434",
+      "abstract": "The nationwide introduction of lung cancer screening using low-dose computed tomography (LDCT) is imminent in Germany. In contrast to other cancer screening programs, lung cancer screening follows a risk-based approach and specifically targets heavy current and former smokers aged 50 to 75 years. Following several years of pilot phases and regulatory preparation, the Federal Joint Committee (G-BA) decided in June 2025 to include this program as a regular benefit covered by statutory health insurance starting in 2026.Evidence from large international studies demonstrates a significant reduction in lung cancer mortality of approximately 20%. However, there are also risks such as overdiagnosis, unnecessary invasive procedures in false-positive findings, secondary cancers due to radiation exposure, and psychological burden.Key factors for program success include the structured involvement of qualified physicians in the identification, information, and assessment of eligibility of potential participants. Physicians in the fields of general medicine, occupational medicine, and internal medicine have been authorized after specific qualification, the latter of which includes pulmonologists - who, while not explicitly mentioned, will certainly have the closest contact with the high-risk population of smokers. This white paper provides practical information and materials for participating in lung cancer screening. It highlights the importance of dedicated interdisciplinary collaboration to detect as many lung cancer patients as possible at an early and therefore potentially curable stage."
+    },
+    {
+      "pmid": "41082707",
+      "doi": "10.1200/JCO-25-00036",
+      "title": "Simultaneous Durvalumab and Platinum-Based Chemoradiotherapy in Unresectable Stage III Non-Small Cell Lung Cancer: The Phase III PACIFIC-2 Study.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-10-13T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Phase III",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1200/jco-25-00036",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41082707/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-00036",
+      "abstract": "PURPOSE: Immunotherapy targeting PD-L1 improves outcomes in patients with unresectable stage III non-small cell lung cancer (NSCLC) and no progression after definitive, concurrent chemoradiotherapy (cCRT). Earlier administration of immunotherapy, simultaneously with cCRT, may improve outcomes further.\n\nMETHODS: Eligible patients were randomly assigned (2:1) to receive either durvalumab or placebo administered from the start of cCRT. Patients without progression after completing cCRT received consolidation durvalumab or placebo (per initial random assignment) until progression. The primary end point was progression-free survival (PFS) by blinded independent central review. Key secondary end points included objective response rate (ORR), overall survival (OS), the proportion of patients alive at 24 months (OS24), and safety.\n\nRESULTS: In total, 328 patients were randomly assigned to receive durvalumab (n = 219) or placebo (n = 109). There was no statistically significant difference with durvalumab versus placebo in PFS (hazard ratio [HR], 0.85 [95% CI, 0.65 to 1.12];\n\nCONCLUSION: Among patients with unresectable stage III NSCLC, durvalumab administered from the start of cCRT failed to demonstrate additional benefit compared with cCRT plus placebo. Consolidation durvalumab following definitive cCRT remains the standard of care in this setting."
+    }
+  ]
 }
