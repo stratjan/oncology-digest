@@ -1,6 +1,26 @@
 {
-  "generated": "2025-10-24T05:18:15.051193Z",
+  "generated": "2025-10-25T05:16:45.699135Z",
   "items": [
+    {
+      "pmid": "41135519",
+      "doi": "10.1016/j.ccell.2025.09.012",
+      "title": "TROP-2-targeted antibody-drug conjugate SHR-A1921 for advanced or metastatic solid tumors: A first-in-human phase 1 study.",
+      "journal": "Cancer cell",
+      "pubdate": "2025-10-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 19.027,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41135519/",
+      "url_doi": "https://doi.org/10.1016/j.ccell.2025.09.012",
+      "abstract": "This study is a first-in-human, three-stage, phase 1 trial (NCT05154604) designed to evaluate the trophoblast cell-surface antigen 2 (TROP-2)-targeted antibody-drug conjugate SHR-A1921 (1.5-6.0 mg/kg every 3 weeks) in 391 patients with pretreated advanced/metastatic solid tumors. Grade ≥3 treatment-related adverse events occurred in 132 patients (33.8%), with the most common being stomatitis, affecting 57 patients (14.6%). SHR-A1921 showed a low incidence of hematologic toxicities, with only 3.1% of patients experiencing grade ≥3 decreases in neutrophil count. The overall objective response rate was 24.8% (95% confidence interval [CI], 20.6-29.4), ranging from 18.2% to 43.1% across cohorts with platinum-resistant ovarian cancer, triple-negative breast cancer, small-cell lung cancer, non-small cell lung cancer, hormone receptor-positive breast cancer, cervical cancer, and biliary tract cancer. No significant correlation was found between TROP-2 expression and treatment efficacy. In summary, SHR-A1921 exhibited promising antitumor activity and a manageable safety profile, with 3.0 mg/kg every 3 weeks selected for further clinical development."
+    },
     {
       "pmid": "41115251",
       "doi": "10.1158/2159-8290.CD-25-0525",
@@ -80,6 +100,48 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40650354/",
       "url_doi": "https://doi.org/10.1002/ijc.70045",
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
+    },
+    {
+      "pmid": "40885626",
+      "doi": "10.1016/j.cllc.2025.08.002",
+      "title": "Brief Report: Safety of Pulse-Dose Osimertinib for Treatment of Leptomeningeal Disease or Refractory Brain Metastases in EGFR-Mutated Nonsmall Cell Lung Cancer.",
+      "journal": "Clinical lung cancer",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.515,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40885626/",
+      "url_doi": "https://doi.org/10.1016/j.cllc.2025.08.002",
+      "abstract": "PURPOSE: EGFR-mutated (EGFRm) NSCLC is associated with high incidence of brain metastases and leptomeningeal disease (LMD), for which effective systemic options beyond osimertinib 80 and 160 mg daily are limited. While there is some evidence for high-dose pulse administration of earlier-generation EGFR tyrosine kinase inhibitors (EGFK-TKIs), data for pulse-dose osimertinib are limited.\n\nMETHODS: This multicenter retrospective case series included patients with EGFRm NSCLC with LMD or parenchymal brain metastases treated with pulse-dose osimertinib (400-560 mg once every 5-7 days) for central nervous system (CNS) progression, with or without other concurrent therapies. CNS disease control was defined as the interval from pulse-dose osimertinib initiation to radiographic progression or discontinuation for clinical progression, whichever was shorter.\n\nRESULTS: Among 14 patients, EGFR mutations included exon 19 deletion in 6, L858R in 6, and other mutations in 4. All had received previous EGFR-TKI including 5 with prior osimertinib 160 mg daily. Seven received pulse-dose osimertinib as monotherapy, while the remainder received it in combination with other systemic therapy and/or CNS radiation. No treatment-related severe or unexpected side effects were reported, and only 1 patient required dose modification for adverse events. Median duration of CNS control was 4.0 months (95% CI, 1.8-NR) and median overall survival was 6.2 months (95% CI, 3.2-NR), with benefit driven by patients without previous osimertinib 160 mg daily exposure.\n\nCONCLUSION: Though further pharmacokinetic investigation is warranted, this report provides preliminary evidence that pulse-dose osimertinib may be a safe regimen among patients with EGFRm NSCLC and refractory CNS disease."
+    },
+    {
+      "pmid": "40738833",
+      "doi": "10.1016/j.cllc.2025.07.003",
+      "title": "The Italian Mauris Phase IIIb Trial of Atezolizumab Plus Carboplatin and Etoposide for Patients With Newly Diagnosed Extensive-Stage Small Cell Lung Cancer: 3-Year End-of-Study Results.",
+      "journal": "Clinical lung cancer",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.clinical-lung-cancer.com/article/S1525-7304(25)00147-0/pdf",
+      "metric_name": "SJR",
+      "metric_value": 1.515,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40738833/",
+      "url_doi": "https://doi.org/10.1016/j.cllc.2025.07.003",
+      "abstract": "BACKGROUND: Atezolizumab combined to carboplatin and etoposide prolonged survival in the IMpower133 trial of untreated extensive-stage small-cell lung cancer (ES-SCLC). Aim of this analysis is to provide end-of-study results from the phase IIIb MAURIS study on the efficacy and safety of atezolizumab plus chemotherapy in the same disease setting, in a patient population with broader inclusion criteria.\n\nMATERIALS AND METHODS: MAURIS is a multicentric, open-label, single-arm study conducted between 2019 and 2023 in 25 Italian study centres. A total of 155 patients with untreated ES-SCLC were enrolled. Treatment was based on atezolizumab 1200 mg + carboplatin + etoposide every 21 days, for 4 to 6 cycles, during the induction phase, and atezolizumab every 3 weeks during the maintenance phase. Safety, overall survival (OS) and progression-free survival (PFS) were among study endpoints.\n\nRESULTS: The median OS at end of study was 10.6 months, with OS rates of 45.5% at 1 year, 31.0% at 1.5 years, 17.1% at 2 years and 14.5% at 3 years. The median PFS was 5.5 months. Serious adverse events (AEs) occurred in 38.3% of patients, treatment-related serious AEs in 21.4%, and immuno-mediated treatment-emergent AEs in 26.6% of patients. Immune-mediated grade 3 to 4 AEs were inversely related with mortality (hazard ratio, HR = 0.36; 95% confidence interval, CI: 0.13-0.97) in a multivariate analysis.\n\nCONCLUSION: This study showed consistent findings with the IMpower133 trial on the safety and efficacy of atezolizumab plus chemotherapy in first-line treatment of ES-SCLC. Long-term survival of a subgroup of patients was also confirmed."
     },
     {
       "pmid": "41116141",
@@ -222,6 +284,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40957950/",
       "url_doi": "https://doi.org/10.1038/s41388-025-03571-1",
       "abstract": "Although the involvement of polo-like kinase 1 (PLK1) in metabolic reprogramming from oxidative phosphorylation (OXPHOS) to glycolysis has been previously described, the underlying molecular mechanism remains unclear. Pyruvate dehydrogenase (PDH) catalyzes the conversion of pyruvate into acetyl-CoA, the starting material for the tricarboxylic acid (TCA) cycle. In a companion study by Zhang et al., we demonstrated that PLK1 phosphorylation of PDHA1 at threonine 57 (PDHA1-T57) drives its protein degradation via mitophagy activation. Using a stable-isotope resolved metabolomics (SIRM) approach, we now show that PLK1 phosphorylation of PDHA1-T57 results in metabolic reprogramming from OXPHOS to glycolysis. Notably, cells mimicking PDHA1-T57 phosphorylation rely more on the aspartate-malate shuttle than on glucose-derived pyruvate to sustain the TCA cycle. This metabolic shift was also observed in mouse embryonic fibroblasts (MEFs) and transgenic mice conditionally expressing the PDHA1-T57D variant, highlighting the role of PLK1 in metabolic reprogramming in vivo. It is well-established that pyruvate dehydrogenase kinase (PDK)-mediated phosphorylation of PDH leads to its inactivation and that dichloroacetic acid (DCA), a PDK inhibitor, has been investigated in preclinical and early clinical studies as a potential therapeutic agent for lung cancer. We demonstrated that DCA combined with Onvansertib, a PLK1 inhibitor, synergistically inhibits lung tumor growth by enhancing mitochondrial ROS, inhibiting glycolysis, and inducing apoptosis. This study aims to elucidate how PLK1-associated activity drives the metabolic reprogramming from OXPHOS to glycolysis during cellular transformation, thereby contributing to lung carcinogenesis. Our results provide support for a clinical trial to evaluate the efficacy of Onvansertib plus DCA in treating lung cancer."
+    },
+    {
+      "pmid": "41135642",
+      "doi": "10.1016/j.jtho.2025.10.010",
+      "title": "Advancing Lung Cancer Staging: Integrating IASLC Recommendations and Bioinformatics to Delineate Tumor Origins.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-10-22T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41135642/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.010",
+      "abstract": "INTRODUCTION: Accurate distinction between separate primary lung carcinomas (SPLCs) and intrapulmonary metastases (IPMs) is essential for staging and treatment of multifocal non-small cell lung carcinoma (NSCLC). Next-generation sequencing (NGS) enables assessment of clonal relatedness. The proposed IASLC algorithm integrates histological and molecular data, though its clinical utility is yet to be validated.\n\nMETHODS: We focused on the molecular component of the algorithm and assessed 240 tumor pairs from 120 patients with formalin-fixed paraffin-embedded (FFPE) tumor samples that underwent small-scale gene panel NGS testing (31-54 genes) within routine clinical care. Most tumors were adenocarcinomas (n=222), 18 tumors other NSCLC subtypes. Inconclusive pairs by molecular classification were subjected to large-scale panel analyses (531 genes). Additionally, we developed a bioinformatic method to complement and refine the IASLC method.\n\nRESULTS: In total 22 tumor pairs (18%) remained inconclusive and 16 (13%) were classified ambiguous (probable SPLCs) using the molecular IASLC method. Re-sequencing classified 9 of 22 inconclusive pairs as IPMs. Using a newly developed bioinformatic method for clonality classification incorporating likelihood ratios of mutational prevalence and small-scale sequencing, only 3 pairs remained inconclusive (2%). Tumors classified as SPLCs had a significantly longer overall survival than IPMs.\n\nCONCLUSIONS: Small-scale panel sequencing of biopsy material allows unambiguous clonality determination in 3 of 4 cases. Large-scale sequencing resolves about half of inconclusive cases. Our bioinformatic method reduces inconclusive pairs to 2% even with small-scale NGS. It is made publicly available as a Shiny App. Clonality is reflected in survival data and therefore pivotal in daily clinical practice."
     },
     {
       "pmid": "41124598",
