@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-25T05:16:45.699135Z",
+  "generated": "2025-10-26T05:16:21.930818Z",
   "items": [
     {
       "pmid": "41135519",
@@ -286,6 +286,26 @@
       "abstract": "Although the involvement of polo-like kinase 1 (PLK1) in metabolic reprogramming from oxidative phosphorylation (OXPHOS) to glycolysis has been previously described, the underlying molecular mechanism remains unclear. Pyruvate dehydrogenase (PDH) catalyzes the conversion of pyruvate into acetyl-CoA, the starting material for the tricarboxylic acid (TCA) cycle. In a companion study by Zhang et al., we demonstrated that PLK1 phosphorylation of PDHA1 at threonine 57 (PDHA1-T57) drives its protein degradation via mitophagy activation. Using a stable-isotope resolved metabolomics (SIRM) approach, we now show that PLK1 phosphorylation of PDHA1-T57 results in metabolic reprogramming from OXPHOS to glycolysis. Notably, cells mimicking PDHA1-T57 phosphorylation rely more on the aspartate-malate shuttle than on glucose-derived pyruvate to sustain the TCA cycle. This metabolic shift was also observed in mouse embryonic fibroblasts (MEFs) and transgenic mice conditionally expressing the PDHA1-T57D variant, highlighting the role of PLK1 in metabolic reprogramming in vivo. It is well-established that pyruvate dehydrogenase kinase (PDK)-mediated phosphorylation of PDH leads to its inactivation and that dichloroacetic acid (DCA), a PDK inhibitor, has been investigated in preclinical and early clinical studies as a potential therapeutic agent for lung cancer. We demonstrated that DCA combined with Onvansertib, a PLK1 inhibitor, synergistically inhibits lung tumor growth by enhancing mitochondrial ROS, inhibiting glycolysis, and inducing apoptosis. This study aims to elucidate how PLK1-associated activity drives the metabolic reprogramming from OXPHOS to glycolysis during cellular transformation, thereby contributing to lung carcinogenesis. Our results provide support for a clinical trial to evaluate the efficacy of Onvansertib plus DCA in treating lung cancer."
     },
     {
+      "pmid": "41139066",
+      "doi": "10.1016/j.jtho.2025.10.012",
+      "title": "Phase 2 study of amivantamab plus lazertinib in previously-treated patients with EGFR mutant lung cancers with brain and leptomeningeal metastases.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-10-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41139066/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.012",
+      "abstract": "BACKGROUND: Despite improved central nervous system (CNS) disease control with osimertinib, 20% of patients will develop CNS progression. Amivantamab and lazertinib have demonstrated activity in patients with EGFR-mutant lung cancer. This trial evaluated amivantamab and lazertinib in patients with new or progressive CNS metastases after prior therapy (NCT04965090).\n\nMETHODS: We evaluated amivantamab and lazertinib in 2 cohorts: patients with 1) brain metastases (BrM) or 2) leptomeningeal disease (LMD) diagnosed by cytology in patients with lung cancers with sensitizing EGFR-activating mutations or exon 20 insertions. The primary endpoint was composite best overall response rate (ORR) per RECIST v 1.1 and RANO-BM or -LM. Secondary endpoints were toxicity, systemic ORR, CNS ORR, time on treatment (ToT), progression-free survival (PFS), CNS PFS, and overall survival (OS).\n\nRESULTS: We treated 20 pts with BrM and 21 pts with LMD. 41% had EGFR del19, 37% L858R, 12% ex20ins, and 10% uncommon mutations. Median lines of prior therapy: 2 (range 1-7). The ORR by a combination of RECIST and RANO-BM/RANO-LM respectively for pts with BrM was 50% (95% CI, 27-73%) and 33% (95% CI, 15-57%) for pts with LMD. The median PFS was 5.8 months (95% CI 3.6-not reached (NR)) and 7.8 months (95% CI 4.2-12.2) for the BrM and LMD cohorts respectively. Median OS was 17.4 months (15.4-NR) in the BrM cohort and 14.4 months (8.9-NR) in the LMD cohort.\n\nCONCLUSIONS: Amivantamab+lazertinib has anti-tumor activity in patients with EGFR-mutant lung cancers who develop new or progressing brain or leptomeningeal metastases. This trial demonstrates the feasibility of including patients with LMD in prospective clinical trials."
+    },
+    {
       "pmid": "41135642",
       "doi": "10.1016/j.jtho.2025.10.010",
       "title": "Advancing Lung Cancer Staging: Integrating IASLC Recommendations and Bioinformatics to Delineate Tumor Origins.",
@@ -465,66 +485,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41125209/",
       "url_doi": "https://doi.org/10.1016/j.annonc.2025.09.140",
       "abstract": "BACKGROUND: Leptomeningeal metastatic disease (LMD) represents a devastating complication of non-small-cell lung cancer (NSCLC) with a poor prognosis. Our understanding of LMD is limited in the era of molecular testing and emerging therapeutic options for lung cancer.\n\nPATIENTS AND METHODS: We conducted an international, multicenter, retrospective study involving eight institutions across Asia, United States, and Europe. Patients diagnosed with LMD from advanced NSCLC were identified (2007-2024). Clinicopathological characteristics, treatment patterns, and outcomes were analyzed. The primary endpoint was overall survival from the LMD diagnosis (LMOS).\n\nRESULTS: A total of 2052 patients with NSCLC and LMD were included and analyzed by molecular subtypes: epidermal growth factor receptor (EGFR) (n = 1610), ALK (n = 141), other actionable genomic alterations (other AGA; n = 137), and non-AGA (n = 164). The cumulative prevalence of LMD by molecular subgroups was EGFR, 11.1%; ALK, 11.2%; ROS1, 16%; ERBB2, 12.3%, non-AGA, 3.6%. A higher proportion of LMD was diagnosed >3 years after initial metastatic diagnosis. By the European Association of Neuro-Oncology (EANO)-European Society for Medical Oncology (ESMO) diagnostic criteria, type I (cerebrospinal fluid cytology positive) had significantly shorter LMOS than type II (magnetic resonance imaging and/or symptom positive). Median LMOS was 10.9 months [95% confidence interval (CI) 10.0-11.8 months] in all patients. Compared with historical cohorts, patients demonstrated improved LMOS in contemporary cohorts (7.3 versus 11.5 months, P < 0.0001), across all molecular subtypes. In AGA NSCLC, tyrosine kinase inhibitors (TKIs) were associated with improved LMOS [hazard ratio (HR) 0.39, 95% CI 0.31-0.48, P < 0.0001]. Immune checkpoint inhibitors (ICIs) conferred survival benefit in non-AGA patients (HR 0.45, 95% CI 0.25-0.84, P = 0.012). For the EGFR-mutated cohort, central nervous system (CNS)-penetrant TKI usage delayed LMD onset (P < 0.0001). Continued CNS-penetrant TKIs after LMD diagnosis were associated with longer LMOS (12.4 versus 6.0 months, P < 0.0001).\n\nCONCLUSIONS: The prevalence of LMD is rising, largely due to prolonged survival in advanced NSCLC. Contemporary systemic treatments, including TKIs and ICIs, were the main contributors to delayed LMD onset and improved LMD survival."
-    },
-    {
-      "pmid": "41109959",
-      "doi": "10.1200/JCO-25-02023",
-      "title": "Updated Overall Survival Analysis From the Phase 2 PHAROS Study of Encorafenib Plus Binimetinib in Patients With BRAF V600E-Mutant Metastatic Non-Small Cell Lung Cancer.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-10-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41109959/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02023",
-      "abstract": "The phase 2 PHAROS study previously showed that encorafenib plus binimetinib has antitumor activity in patients with BRAF V600E-mutant metastatic non-small cell lung cancer (mNSCLC). In PHAROS, 98 patients (59 treatment naïve; 39 previously treated) received encorafenib 450 mg once daily and binimetinib 45 mg twice daily. We report updated results from data cutoff of March 14, 2025. The median duration of treatment with both encorafenib and binimetinib was 16.3 months in treatment-naïve and 5.5 months in previously treated patients. After median follow-up for OS of 52.3 months in treatment-naïve patients, mOS was 47.6 months (95% CI, 31.3 to not estimable); 4-year OS probability was 49% (95% CI, 35 to 62). After median follow-up for OS of 48.2 months in previously treated patients, mOS was 22.7 months (95% CI, 14.1 to 32.6); 4-year OS probability was 31% (95% CI, 16 to 47). In treatment-naïve and previously treated groups, 58% and 26% received ≥1 subsequent systemic anticancer treatment, respectively. Safety profile remained consistent with that in prior analyses. While comparisons across trials should be done cautiously, encorafenib plus binimetinib was associated with the the longest mOS reported to date with targeted treatment in patients with treatment-naïve BRAF V600E-mutant mNSCLC."
-    },
-    {
-      "pmid": "41125109",
-      "doi": "10.1016/S0140-6736(25)01848-3",
-      "title": "Ivonescimab plus chemotherapy versus tislelizumab plus chemotherapy as first-line treatment for advanced squamous non-small-cell lung cancer (HARMONi-6): a randomised, double-blind, phase 3 trial.",
-      "journal": "Lancet (London, England)",
-      "pubdate": "2025-10-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41125109/",
-      "url_doi": "https://doi.org/10.1016/S0140-6736(25)01848-3",
-      "abstract": "BACKGROUND: Squamous non-small-cell lung cancer (NSCLC) is associated with worse clinical outcomes than non-squamous NSCLC, but treatment options are scarce. We aimed to evaluate the efficacy and safety of ivonescimab plus chemotherapy versus tislelizumab plus chemotherapy as a first-line therapy for patients with advanced squamous NSCLC.\n\nMETHODS: We conducted a randomised, double-blind, phase 3 trial at 50 sites across China (HARMONi-6). Patients aged 18-75 years with previously untreated, pathologically confirmed, unresectable stage IIIB, IIIC, or stage IV squamous NSCLC and an Eastern Cooperative Oncology Group performance status score of 0 or 1 were eligible for inclusion. Patients were randomly assigned (1:1) to receive intravenous ivonescimab (20 mg/kg) or tislelizumab (200 mg), plus intravenous paclitaxel (175 mg/m\n\nFINDINGS: From Aug 17, 2023, to Jan 21, 2025, 761 patients were screened for eligibility, among whom 532 (70%) patients were enrolled and randomly assigned to receive ivonescimab plus chemotherapy (266 [50%] patients) or tislelizumab plus chemotherapy (266 [50%] patients). As of Feb 28, 2025, median follow-up time was 10·3 months (95% CI 9·5-11·0). Median progression-free survival was 11·1 months (95% CI 9·9-not evaluable) in the ivonescimab group and 6·9 months (5·8-8·6) in the tislelizumab group (hazard ratio 0·60 [95% CI 0·46-0·78]; one-sided p<0·0001). The progression-free survival benefit with ivonescimab plus chemotherapy was consistent regardless of PD-L1 status. 170 (64%) patients in the ivonescimab group and 144 (54%) patients in the tislelizumab group had grade 3 or higher treatment-related adverse events, with grade 3 or higher immune-related adverse events occurring in 24 (9%) patients in the ivonescimab group and in 27 (10%) patients in the tislelizumab group. Grade 3 or higher treatment-related haemorrhage occurred in five (2%) patients in the ivonescimab group and in two (1%) patients in the tislelizumab group.\n\nINTERPRETATION: In patients with untreated advanced squamous NSCLC, ivonescimab plus chemotherapy showed significantly improved progression-free survival compared with tislelizumab plus chemotherapy, regardless of PD-L1 status, as well as a manageable safety profile. This regimen could be used as a novel first-line treatment in this patient group.\n\nFUNDING: Akeso Biopharma."
-    },
-    {
-      "pmid": "41124220",
-      "doi": "10.1056/NEJMoa2512071",
-      "title": "Sacituzumab Tirumotecan in EGFR-TKI-Resistant, EGFR-Mutated Advanced NSCLC.",
-      "journal": "The New England journal of medicine",
-      "pubdate": "2025-10-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41124220/",
-      "url_doi": "https://doi.org/10.1056/NEJMoa2512071",
-      "abstract": "BACKGROUND: Sacituzumab tirumotecan (sac-TMT) is an antibody-drug conjugate targeting trophoblast cell-surface antigen 2 that has shown significant survival benefits in patients with\n\nMETHODS: In this phase 3 trial, we enrolled patients with\n\nRESULTS: Overall, 376 patients underwent randomization, with 188 assigned to each group. After a median follow-up of 18.9 months, the median progression-free survival was 8.3 months in the sac-TMT group and 4.3 months in the chemotherapy group (hazard ratio for disease progression or death, 0.49; 95% confidence interval [CI], 0.39 to 0.62). Overall survival was significantly longer with sac-TMT than with chemotherapy (hazard ratio for death, 0.60; 95% CI, 0.44 to 0.82; two-sided P = 0.001); 18-month overall survival was 65.8% and 48.0%, respectively. Treatment-related adverse events of grade 3 or higher occurred in 58.0% of patients receiving sac-TMT and in 53.8% of those receiving chemotherapy, with the most common being a decreased neutrophil count (39.9% vs. 33.0%); treatment-related serious adverse events occurred in 9.0% and 17.6%, respectively.\n\nCONCLUSIONS: In patients with"
     }
   ]
 }
