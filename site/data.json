@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-26T05:16:21.930818Z",
+  "generated": "2025-10-27T05:18:23.050244Z",
   "items": [
     {
       "pmid": "41135519",
@@ -424,67 +424,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41130410/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.007",
       "abstract": "BACKGROUND: Chronic obstructive pulmonary disease (COPD) and emphysema are independent risk factors for lung cancer development and have been independently associated with longer overall survival (OS) in non-small-cell lung cancer (NSCLC) patients treated with immune checkpoint inhibitors (ICIs). However, their combined impact on prognosis remains unclear. This study evaluates emphysema as a prognostic factor in COPD patients with advanced NSCLC (aNSCLC) undergoing immunotherapy.\n\nMETHODS: This study included aNSCLC patients with COPD (defined by spirometry), treated with single-agent ICI as first or second-line treatment, from 2013 to 2024. Patients were classified based on visually detected emphysema on chest computed tomography (cCT).\n\nRESULTS: The study included 111 patients with COPD, of whom 77 had coexisting emphysema. Patients with COPD and emphysema had significantly longer OS compared to those without emphysema (17.3 vs. 8.5 months, p = 0.008), with a non-significant trend toward improved PFS (3.3 vs. 2.4 months, p = 0.641). Emphysema remained an independent factor of better OS in multivariate analysis (HR: 0.49; 95% CI: 0.30-0.81). Adverse event rates were similar regardless of emphysema status (p = 0.455).\n\nCONCLUSIONS: This study suggests that visually detected emphysema on cCT, could be a potential prognostic marker in aNSCLC patients with COPD receiving ICIs. Further studies are guaranteed to confirm these findings."
-    },
-    {
-      "pmid": "41129853",
-      "doi": "10.1016/j.lungcan.2025.108800",
-      "title": "Distinct genomic profile of pediatric lung carcinoma: High frequency of ALK fusions and TP53 mutations compared to adults.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-10-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108800",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41129853/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108800",
-      "abstract": "BACKGROUND: Primary lung carcinomas are extremely rare in childhood, resulting in limited knowledge of their biology and potential therapeutic targets.\n\nMETHODS: Whole genome sequencing analysis was performed on 14 patients, thereof 13 pediatric patients. The cohort was grouped into pulmonary mucoepidermoid carcinoma (PMEC) and lung adenocarcinoma (LUAD) with an additional sample being adenosquamous carcinoma (ASC). DNA of tumor and normal tissue were isolated from FFPE and sequenced on a high-throughput sequencer. Data analysis was performed with an in-house validated data analysis pipeline.\n\nRESULTS: In the group of pediatric LUAD and ASC, ALK::EML4 fusions were confirmed in three of six tumors, prompting ALK-targeted treatment. We also found mutations frequently occurring in adult LUAD, such as TP53 (n = 3), KRAS and EGFR (each n = 1), but not other established druggable alterations. No smoking-related signatures were observed. One LUAD sample had a homologous recombination deficiency with a high amount of copy number alterations. In the PMEC group (n = 7), we found MAML2 fusions in all patients. Pathogenic germline variants and elevated polygenic risk scores for lung cancer were not detected in both groups.\n\nCONCLUSIONS: This study provides crucial insights into the genomic landscape across different types of pediatric lung cancer. We observed frequent presence of ALK fusions in pediatric LUAD + ASC, which are less common in adult LUAD. Other alterations in this subgroup showed resemblance with adult LUAD findings. In pediatric PMEC, we demonstrated the ubiquitous presence of MAML2 translocations. However, the conclusions of the study are limited due to the small sample size and potential artifacts from formalin-fixed paraffin-embedded samples. In summary, the results provide better understanding of the development of rare pediatric tumors and approaches for targeted therapies."
-    },
-    {
-      "pmid": "40632992",
-      "doi": "10.1200/JCO-25-00040",
-      "title": "Single-Agent Divarasib in Patients With KRAS G12C-Positive Non-Small Cell Lung Cancer: Long-Term Follow-Up of a Phase I Study.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-10-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1200/jco-25-00040",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40632992/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-00040",
-      "abstract": "Divarasib (GDC-6036), an oral, highly potent and selective next-generation KRAS G12C inhibitor, has demonstrated a manageable safety profile and promising antitumor activity in patients with advanced"
-    },
-    {
-      "pmid": "41125209",
-      "doi": "10.1016/j.annonc.2025.09.140",
-      "title": "The evolving landscape of leptomeningeal metastases from NSCLC: an international, contemporary, multicenter cohort study.",
-      "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
-      "pubdate": "2025-10-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.annalsofoncology.org/article/S0923-7534(25)04931-2/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41125209/",
-      "url_doi": "https://doi.org/10.1016/j.annonc.2025.09.140",
-      "abstract": "BACKGROUND: Leptomeningeal metastatic disease (LMD) represents a devastating complication of non-small-cell lung cancer (NSCLC) with a poor prognosis. Our understanding of LMD is limited in the era of molecular testing and emerging therapeutic options for lung cancer.\n\nPATIENTS AND METHODS: We conducted an international, multicenter, retrospective study involving eight institutions across Asia, United States, and Europe. Patients diagnosed with LMD from advanced NSCLC were identified (2007-2024). Clinicopathological characteristics, treatment patterns, and outcomes were analyzed. The primary endpoint was overall survival from the LMD diagnosis (LMOS).\n\nRESULTS: A total of 2052 patients with NSCLC and LMD were included and analyzed by molecular subtypes: epidermal growth factor receptor (EGFR) (n = 1610), ALK (n = 141), other actionable genomic alterations (other AGA; n = 137), and non-AGA (n = 164). The cumulative prevalence of LMD by molecular subgroups was EGFR, 11.1%; ALK, 11.2%; ROS1, 16%; ERBB2, 12.3%, non-AGA, 3.6%. A higher proportion of LMD was diagnosed >3 years after initial metastatic diagnosis. By the European Association of Neuro-Oncology (EANO)-European Society for Medical Oncology (ESMO) diagnostic criteria, type I (cerebrospinal fluid cytology positive) had significantly shorter LMOS than type II (magnetic resonance imaging and/or symptom positive). Median LMOS was 10.9 months [95% confidence interval (CI) 10.0-11.8 months] in all patients. Compared with historical cohorts, patients demonstrated improved LMOS in contemporary cohorts (7.3 versus 11.5 months, P < 0.0001), across all molecular subtypes. In AGA NSCLC, tyrosine kinase inhibitors (TKIs) were associated with improved LMOS [hazard ratio (HR) 0.39, 95% CI 0.31-0.48, P < 0.0001]. Immune checkpoint inhibitors (ICIs) conferred survival benefit in non-AGA patients (HR 0.45, 95% CI 0.25-0.84, P = 0.012). For the EGFR-mutated cohort, central nervous system (CNS)-penetrant TKI usage delayed LMD onset (P < 0.0001). Continued CNS-penetrant TKIs after LMD diagnosis were associated with longer LMOS (12.4 versus 6.0 months, P < 0.0001).\n\nCONCLUSIONS: The prevalence of LMD is rising, largely due to prolonged survival in advanced NSCLC. Contemporary systemic treatments, including TKIs and ICIs, were the main contributors to delayed LMD onset and improved LMD survival."
     }
   ]
 }
