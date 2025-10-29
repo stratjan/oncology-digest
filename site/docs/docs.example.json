@@ -12,6 +12,19 @@
     "tags": ["Formular"],
     "description": "Interner Laufzettel AGSMO."
   },
+    {
+    "id": "doc-0101",
+    "title": "AGSMO Laufzettel",
+    "category": "Sprechstunde",
+    "type": "Dokument",
+    "source": "Intern",
+    "owner": "Team",
+    "created": "2025-09-24T00:00:00Z",
+    "updated": "2025-09-24T00:00:00Z",
+    "url": "/docs/files/SOP%20Diagnostik%20beim%20NSCLC,%20V1.1",
+    "tags": ["Formular"],
+    "description": "Interner Laufzettel AGSMO."
+  },
   {
   "id": "doc-0401",
   "title": "Molekularpathologie – Anforderungsscheine (NNGM)",
