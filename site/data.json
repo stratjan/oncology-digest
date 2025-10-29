@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-28T05:18:12.416355Z",
+  "generated": "2025-10-29T05:18:50.317427Z",
   "items": [
     {
       "pmid": "41135519",
@@ -20,6 +20,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41135519/",
       "url_doi": "https://doi.org/10.1016/j.ccell.2025.09.012",
       "abstract": "This study is a first-in-human, three-stage, phase 1 trial (NCT05154604) designed to evaluate the trophoblast cell-surface antigen 2 (TROP-2)-targeted antibody-drug conjugate SHR-A1921 (1.5-6.0 mg/kg every 3 weeks) in 391 patients with pretreated advanced/metastatic solid tumors. Grade ≥3 treatment-related adverse events occurred in 132 patients (33.8%), with the most common being stomatitis, affecting 57 patients (14.6%). SHR-A1921 showed a low incidence of hematologic toxicities, with only 3.1% of patients experiencing grade ≥3 decreases in neutrophil count. The overall objective response rate was 24.8% (95% confidence interval [CI], 20.6-29.4), ranging from 18.2% to 43.1% across cohorts with platinum-resistant ovarian cancer, triple-negative breast cancer, small-cell lung cancer, non-small cell lung cancer, hormone receptor-positive breast cancer, cervical cancer, and biliary tract cancer. No significant correlation was found between TROP-2 expression and treatment efficacy. In summary, SHR-A1921 exhibited promising antitumor activity and a manageable safety profile, with 3.0 mg/kg every 3 weeks selected for further clinical development."
+    },
+    {
+      "pmid": "41150899",
+      "doi": "10.1158/0008-5472.CAN-25-1407",
+      "title": "Large-Scale T Cell Receptor Repertoire Profiling Unveils Tumor-Specific Signals for Diagnosing Indeterminate Pulmonary Nodules.",
+      "journal": "Cancer research",
+      "pubdate": "2025-10-28T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41150899/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1407",
+      "abstract": "Indeterminate pulmonary nodules (IPNs) are increasingly detected due to rising health awareness and widespread lung cancer screening, yet distinguishing benign from malignant nodules remains a critical challenge. Emerging evidence suggests that recognizing cancer-associated immune signatures represents a powerful approach for early-stage cancer detection. This study explored the clinical utility of T cell receptor (TCR) repertoire analysis in IPN evaluation. By conducting large-scale TCR sequencing (6,059 blood and 988 tumor samples), we established LungTCR (https://www.lungtcr.com/), a comprehensive TCR repertoire database and proposed a method for quantitative assessment of tumor-related immune responses. LungTCR was leveraged to develop TCRnodseek plus, a diagnostic model integrating clinical data, CT imaging, and TCR features. A multi-center prospective study (ChiCTR2200055761) involving 1,107 IPN patients validated the superior diagnostic performance of TCRnodseek plus over existing approaches. Mechanistic analyses revealed that the identified lung cancer-related TCR clones are enriched in non-small cell lung cancer (NSCLC) and predominantly present in malignant nodules and tumor tissues. This study provides a robust TCR database and an advanced diagnostic model, offering a framework for precise IPN differentiation."
     },
     {
       "pmid": "41129671",
@@ -80,6 +100,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40650354/",
       "url_doi": "https://doi.org/10.1002/ijc.70045",
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
+    },
+    {
+      "pmid": "40347229",
+      "doi": "10.1007/s00330-025-11661-7",
+      "title": "ESR Bridges: lung cancer: new developments in imaging and treatment-a multidisciplinary view.",
+      "journal": "European radiology",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Editorial"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.535,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40347229/",
+      "url_doi": "https://doi.org/10.1007/s00330-025-11661-7",
+      "abstract": null
     },
     {
       "pmid": "40885626",
@@ -246,6 +286,26 @@
       "abstract": null
     },
     {
+      "pmid": "41151358",
+      "doi": "10.1016/j.lungcan.2025.108803",
+      "title": "Pattern of brain metastases and survival in lung adenocarcinoma with KRAS or EFGR mutation.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-10-24T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41151358/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108803",
+      "abstract": "BACKGROUND: NSCLC with mutations of the KRAS or EGFR gene is associated with a high risk of brain metastases (BRA). There are few data on the prevalence and pattern of BRA and on survival in unselected KRAS or EGFR patients.\n\nMETHODS: This real-world analysis (KOMPASS-study) included 326 NSCLC patients with stage IV adenocarcinoma and either KRAS mutation (n = 90), EGFR mutation (n = 87), or no known driver mutation (n = 149). Prevalence, number, and size of BRA, and the effect of BRA on overall survival (OS) were analyzed.\n\nRESULTS: The prevalence of BRA was higher in KRAS patients (40 %) or EGFR patients (39 %) than in no-driver patients (27 %). KRAS patients and no-driver patients significantly more often had single BRA, whereas EGFR patients had multiple BRA (median number 1, 2, and 4, respectively). The presence of BRA did not adversely affect OS in KRAS patients (22.3 vs. 19.2 months, HR 0.91) and no-driver patients (8.9 vs. 10.9 months, HR 0.99). EGFR patients with BRA had inferior OS (20.5 vs. 35.5 months, HR 2.70, p = 0.0004). Patients with single BRA had improved OS (22.3 vs. 13.2 months, p = 0.013).\n\nCONCLUSIONS: The lack of a negative effect of BRA on OS in KRAS patients or no-driver patients may be due to the frequent finding of a single BRA amenable to ablative treatment. The negative effect of BRA on OS in EGFR patients points to a distinct biology of EGFR-mutated NSCLC leading to a characteristic radiological pattern of multiple BRA which are not amenable to ablative treatment."
+    },
+    {
       "pmid": "41145016",
       "doi": "10.1016/j.lungcan.2025.108804",
       "title": "Prognostic impact of pleural lavage cytology in EGFR-stratified resected non-small cell lung cancer.",
@@ -284,26 +344,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41139066/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.012",
       "abstract": "BACKGROUND: Despite improved central nervous system (CNS) disease control with osimertinib, 20% of patients will develop CNS progression. Amivantamab and lazertinib have demonstrated activity in patients with EGFR-mutant lung cancer. This trial evaluated amivantamab and lazertinib in patients with new or progressive CNS metastases after prior therapy (NCT04965090).\n\nMETHODS: We evaluated amivantamab and lazertinib in 2 cohorts: patients with 1) brain metastases (BrM) or 2) leptomeningeal disease (LMD) diagnosed by cytology in patients with lung cancers with sensitizing EGFR-activating mutations or exon 20 insertions. The primary endpoint was composite best overall response rate (ORR) per RECIST v 1.1 and RANO-BM or -LM. Secondary endpoints were toxicity, systemic ORR, CNS ORR, time on treatment (ToT), progression-free survival (PFS), CNS PFS, and overall survival (OS).\n\nRESULTS: We treated 20 pts with BrM and 21 pts with LMD. 41% had EGFR del19, 37% L858R, 12% ex20ins, and 10% uncommon mutations. Median lines of prior therapy: 2 (range 1-7). The ORR by a combination of RECIST and RANO-BM/RANO-LM respectively for pts with BrM was 50% (95% CI, 27-73%) and 33% (95% CI, 15-57%) for pts with LMD. The median PFS was 5.8 months (95% CI 3.6-not reached (NR)) and 7.8 months (95% CI 4.2-12.2) for the BrM and LMD cohorts respectively. Median OS was 17.4 months (15.4-NR) in the BrM cohort and 14.4 months (8.9-NR) in the LMD cohort.\n\nCONCLUSIONS: Amivantamab+lazertinib has anti-tumor activity in patients with EGFR-mutant lung cancers who develop new or progressing brain or leptomeningeal metastases. This trial demonstrates the feasibility of including patients with LMD in prospective clinical trials."
-    },
-    {
-      "pmid": "41135642",
-      "doi": "10.1016/j.jtho.2025.10.010",
-      "title": "Advancing Lung Cancer Staging: Integrating IASLC Recommendations and Bioinformatics to Delineate Tumor Origins.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-10-22T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.jtho.2025.10.010",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41135642/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.010",
-      "abstract": "INTRODUCTION: Accurate distinction between separate primary lung carcinomas (SPLCs) and intrapulmonary metastases (IPMs) is essential for staging and treatment of multifocal non-small cell lung carcinoma (NSCLC). Next-generation sequencing (NGS) enables assessment of clonal relatedness. The proposed IASLC algorithm integrates histological and molecular data, though its clinical utility is yet to be validated.\n\nMETHODS: We focused on the molecular component of the algorithm and assessed 240 tumor pairs from 120 patients with formalin-fixed paraffin-embedded (FFPE) tumor samples that underwent small-scale gene panel NGS testing (31-54 genes) within routine clinical care. Most tumors were adenocarcinomas (n=222), 18 tumors other NSCLC subtypes. Inconclusive pairs by molecular classification were subjected to large-scale panel analyses (531 genes). Additionally, we developed a bioinformatic method to complement and refine the IASLC method.\n\nRESULTS: In total 22 tumor pairs (18%) remained inconclusive and 16 (13%) were classified ambiguous (probable SPLCs) using the molecular IASLC method. Re-sequencing classified 9 of 22 inconclusive pairs as IPMs. Using a newly developed bioinformatic method for clonality classification incorporating likelihood ratios of mutational prevalence and small-scale sequencing, only 3 pairs remained inconclusive (2%). Tumors classified as SPLCs had a significantly longer overall survival than IPMs.\n\nCONCLUSIONS: Small-scale panel sequencing of biopsy material allows unambiguous clonality determination in 3 of 4 cases. Large-scale sequencing resolves about half of inconclusive cases. Our bioinformatic method reduces inconclusive pairs to 2% even with small-scale NGS. It is made publicly available as a Shiny App. Clonality is reflected in survival data and therefore pivotal in daily clinical practice."
     }
   ]
 }
