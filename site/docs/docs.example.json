@@ -13,7 +13,20 @@
     "description": "Interner Laufzettel AGSMO."
   },
     {
-    "id": "doc-0101",
+    "id": "doc-0102",
+    "title": "Rundherdmanagement",
+    "category": "Sprechstunde",
+    "type": "Dokument",
+    "source": "Intern",
+    "owner": "Team",
+    "created": "2025-09-24T00:00:00Z",
+    "updated": "2025-09-24T00:00:00Z",
+    "url": "/docs/files/Rundherdmanagement.pdf",
+    "tags": ["Formular"],
+    "description": "SOP Rundherdmanagement"
+  },
+    {
+    "id": "doc-0103",
     "title": "SOP Diagnostik bei BC",
     "category": "Sprechstunde",
     "type": "Dokument",
@@ -65,7 +78,7 @@
   "description": "Anträge/Formulare der Pathologie der Universitätsmedizin Mainz."
 },
   {
-    "id": "doc-0102",
+    "id": "doc-0104",
     "title": "Flyer: Impfungen",
     "category": "Sprechstunde",
     "type": "Dokument",
@@ -78,7 +91,7 @@
     "description": "Kurzinfo Impfungen."
   },
   {
-    "id": "doc-0103",
+    "id": "doc-0105",
     "title": "Heikes Zettel",
     "category": "Sprechstunde",
     "type": "Dokument",
