@@ -1,25 +1,25 @@
 {
-  "generated": "2025-10-29T05:18:50.317427Z",
+  "generated": "2025-10-30T05:17:55.523862Z",
   "items": [
     {
-      "pmid": "41135519",
-      "doi": "10.1016/j.ccell.2025.09.012",
-      "title": "TROP-2-targeted antibody-drug conjugate SHR-A1921 for advanced or metastatic solid tumors: A first-in-human phase 1 study.",
-      "journal": "Cancer cell",
-      "pubdate": "2025-10-23T00:00:00+00:00",
+      "pmid": "41152910",
+      "doi": "10.1186/s12943-025-02493-6",
+      "title": "IFITM3-MET interaction drives osimertinib resistance through AKT pathway activation in EGFR-mutant non-small cell lung cancer.",
+      "journal": "Molecular cancer",
+      "pubdate": "2025-10-28T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "Other",
+      "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/s12943-025-02493-6",
       "metric_name": "SJR",
-      "metric_value": 19.027,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41135519/",
-      "url_doi": "https://doi.org/10.1016/j.ccell.2025.09.012",
-      "abstract": "This study is a first-in-human, three-stage, phase 1 trial (NCT05154604) designed to evaluate the trophoblast cell-surface antigen 2 (TROP-2)-targeted antibody-drug conjugate SHR-A1921 (1.5-6.0 mg/kg every 3 weeks) in 391 patients with pretreated advanced/metastatic solid tumors. Grade ≥3 treatment-related adverse events occurred in 132 patients (33.8%), with the most common being stomatitis, affecting 57 patients (14.6%). SHR-A1921 showed a low incidence of hematologic toxicities, with only 3.1% of patients experiencing grade ≥3 decreases in neutrophil count. The overall objective response rate was 24.8% (95% confidence interval [CI], 20.6-29.4), ranging from 18.2% to 43.1% across cohorts with platinum-resistant ovarian cancer, triple-negative breast cancer, small-cell lung cancer, non-small cell lung cancer, hormone receptor-positive breast cancer, cervical cancer, and biliary tract cancer. No significant correlation was found between TROP-2 expression and treatment efficacy. In summary, SHR-A1921 exhibited promising antitumor activity and a manageable safety profile, with 3.0 mg/kg every 3 weeks selected for further clinical development."
+      "metric_value": 9.263,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41152910/",
+      "url_doi": "https://doi.org/10.1186/s12943-025-02493-6",
+      "abstract": "BACKGROUND: Despite an initial favorable response of EGFR-mutant non-small cell lung cancer (NSCLC) to osimertinib, an EGFR tyrosine kinase inhibitor (TKI), resistance to this drug inevitably develops. Whereas genetic mechanisms for such acquired resistance have been identified, the molecular mediators of resistance induction have remained unclear.\n\nMETHODS: To identify factors that mediate induction of osimertinib resistance, we studied clinical samples from individuals with EGFR-mutant NSCLC as well as cell lines including PC-9 and H1975. Methods adopted included transcriptomics analysis and immunohistochemistry of pretreatment NSCLC specimens, spatial transcriptomics analysis, a cell viability assay, immunofluorescence and quantitative PCR analysis, RNA sequencing, immunoblot analysis, comprehensive proteomics analysis by mass spectrometry, co-immunoprecipitation and proximity ligation assays, and a mouse xenograft tumor model.\n\nRESULTS: Transcriptomics analysis of pretreatment clinical specimens identified IFITM3 (interferon-induced transmembrane protein 3) as a gene specifically upregulated in patients with a poor response to osimertinib treatment. Immunohistochemistry confirmed that patients with IFITM3-positive tumors experienced a shorter progression-free survival on osimertinib treatment. Spatial transcriptomics and other analyses further revealed that IFITM3 expression in tumor cells was increased in response to cytokines derived from the tumor microenvironment (TME) during osimertinib treatment. IFITM3 was found to promote the development of osimertinib resistance in NSCLC cell lines through interaction with MET and activation of the AKT signaling pathway. Furthermore, combined treatment with a MET inhibitor suppressed the development of osimertinib resistance in a mouse xenograft tumor model.\n\nCONCLUSIONS: Our findings reveal that upregulation of IFITM3 driven by TME cytokines represents a previously unrecognized mechanism of osimertinib resistance, and they suggest that targeting of the IFITM3-MET axis may improve EGFR-TKI treatment outcome for EGFR-mutant NSCLC."
     },
     {
       "pmid": "41150899",
@@ -33,8 +33,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/cancerres/article-pdf/doi/10.1158/0008-5472.CAN-25-1407/3665940/can-25-1407.pdf",
       "metric_name": "SJR",
       "metric_value": 3.879,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41150899/",
@@ -42,11 +42,11 @@
       "abstract": "Indeterminate pulmonary nodules (IPNs) are increasingly detected due to rising health awareness and widespread lung cancer screening, yet distinguishing benign from malignant nodules remains a critical challenge. Emerging evidence suggests that recognizing cancer-associated immune signatures represents a powerful approach for early-stage cancer detection. This study explored the clinical utility of T cell receptor (TCR) repertoire analysis in IPN evaluation. By conducting large-scale TCR sequencing (6,059 blood and 988 tumor samples), we established LungTCR (https://www.lungtcr.com/), a comprehensive TCR repertoire database and proposed a method for quantitative assessment of tumor-related immune responses. LungTCR was leveraged to develop TCRnodseek plus, a diagnostic model integrating clinical data, CT imaging, and TCR features. A multi-center prospective study (ChiCTR2200055761) involving 1,107 IPN patients validated the superior diagnostic performance of TCRnodseek plus over existing approaches. Mechanistic analyses revealed that the identified lung cancer-related TCR clones are enriched in non-small cell lung cancer (NSCLC) and predominantly present in malignant nodules and tumor tissues. This study provides a robust TCR database and an advanced diagnostic model, offering a framework for precise IPN differentiation."
     },
     {
-      "pmid": "41129671",
-      "doi": "10.1158/0008-5472.CAN-24-4162",
-      "title": "PRMT3 Drives IDO1-Dependent Radioresistance and Immunosuppression by Promoting Kynurenine Metabolism in Non-Small Cell Lung Cancer.",
-      "journal": "Cancer research",
-      "pubdate": "2025-10-23T00:00:00+00:00",
+      "pmid": "41152458",
+      "doi": "10.1038/s41698-025-01089-z",
+      "title": "Diversity of BRAF mutations in non-small cell lung cancer and implications on treatment.",
+      "journal": "NPJ precision oncology",
+      "pubdate": "2025-10-28T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
@@ -54,12 +54,12 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerres/article-pdf/doi/10.1158/0008-5472.CAN-24-4162/3664817/can-24-4162.pdf",
+      "oa_url": "https://www.nature.com/articles/s41698-025-01089-z.pdf",
       "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41129671/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-24-4162",
-      "abstract": "Radioresistance is one of the primary causes of treatment failure in non-small cell lung cancer (NSCLC). In this study, we identified PRMT3 within tumors as a critical mediator impairing both radiotherapy sensitivity and T-cell anti-tumor activity. In tumor cells, PRMT3 mediated arginine methylation of transcription factor TFAP2A, enhancing its binding to the IDO1 promoter. Methylated TFAP2A exhibited a prolonged half life, increased nuclear localization, and enhanced dimer formation, which ultimately led to heightened IDO1 expression that enhanced synthesis of kynurenine (Kyn). The elevated Kyn production boosted radioresistance in tumor cells and suppressed the infiltration and function of CD8+ T cells by activating aryl hydrocarbon receptors (AhR). Interestingly, combined pharmacological inhibition of PRMT3 and IDO1 effectively disrupted the TFAP2A-IDO1-Kyn axis, overcoming radioresistance, activating anti-tumor immunity, and ultimately eradicating tumors. In conclusion, these findings delineate PRMT3-mediated Kyn metabolism as a mechanism of radioresistance and immune evasion in NSCLC, offering valuable insights for potential interventions for treating lung cancer patients."
+      "metric_value": 3.37,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41152458/",
+      "url_doi": "https://doi.org/10.1038/s41698-025-01089-z",
+      "abstract": "The optimal treatment sequence in non-small cell lung cancer harboring class I BRAF mutations and atypical BRAF variants remains unclear. To better characterize therapeutic strategy, we retrospectively evaluated a multi-institutional cohort of BRAF-mutant NSCLC patients (n = 97) and an independent clinico-genomic database (n = 342), performed structural modeling, and conducted chemical screens of BRAF-mutant cell lines. Patients with class I BRAF mutation treated with BRAF-MEK inhibitors at any line of therapy had significantly greater median overall survival compared to those who did not receive BRAF-MEK inhibitors (40 vs 10 months, Log-rank p = 0.043). There, however, was no significant survival difference between patients treated with immune checkpoint inhibitors versus those not treated. Tumors with class II or III BRAF variants were significantly more likely to harbor concurrent MAPK pathway alterations relative to class I (Chi-Square p < 10"
     },
     {
       "pmid": "40189749",
@@ -266,6 +266,68 @@
       "abstract": "Although the involvement of polo-like kinase 1 (PLK1) in metabolic reprogramming from oxidative phosphorylation (OXPHOS) to glycolysis has been previously described, the underlying molecular mechanism remains unclear. Pyruvate dehydrogenase (PDH) catalyzes the conversion of pyruvate into acetyl-CoA, the starting material for the tricarboxylic acid (TCA) cycle. In a companion study by Zhang et al., we demonstrated that PLK1 phosphorylation of PDHA1 at threonine 57 (PDHA1-T57) drives its protein degradation via mitophagy activation. Using a stable-isotope resolved metabolomics (SIRM) approach, we now show that PLK1 phosphorylation of PDHA1-T57 results in metabolic reprogramming from OXPHOS to glycolysis. Notably, cells mimicking PDHA1-T57 phosphorylation rely more on the aspartate-malate shuttle than on glucose-derived pyruvate to sustain the TCA cycle. This metabolic shift was also observed in mouse embryonic fibroblasts (MEFs) and transgenic mice conditionally expressing the PDHA1-T57D variant, highlighting the role of PLK1 in metabolic reprogramming in vivo. It is well-established that pyruvate dehydrogenase kinase (PDK)-mediated phosphorylation of PDH leads to its inactivation and that dichloroacetic acid (DCA), a PDK inhibitor, has been investigated in preclinical and early clinical studies as a potential therapeutic agent for lung cancer. We demonstrated that DCA combined with Onvansertib, a PLK1 inhibitor, synergistically inhibits lung tumor growth by enhancing mitochondrial ROS, inhibiting glycolysis, and inducing apoptosis. This study aims to elucidate how PLK1-associated activity drives the metabolic reprogramming from OXPHOS to glycolysis during cellular transformation, thereby contributing to lung carcinogenesis. Our results provide support for a clinical trial to evaluate the efficacy of Onvansertib plus DCA in treating lung cancer."
     },
     {
+      "pmid": "41160826",
+      "doi": "10.1056/NEJMe2509843",
+      "title": "EGFR-Mutated Lung Cancer - Letting the Butterfly Out of the Cocoon.",
+      "journal": "The New England journal of medicine",
+      "pubdate": "2025-10-30T00:00:00+00:00",
+      "pubtypes": [
+        "Editorial"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41160826/",
+      "url_doi": "https://doi.org/10.1056/NEJMe2509843",
+      "abstract": null
+    },
+    {
+      "pmid": "40923797",
+      "doi": "10.1056/NEJMoa2503001",
+      "title": "Overall Survival with Amivantamab-Lazertinib in EGFR-Mutated Advanced NSCLC.",
+      "journal": "The New England journal of medicine",
+      "pubdate": "2025-10-30T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40923797/",
+      "url_doi": "https://doi.org/10.1056/NEJMoa2503001",
+      "abstract": "BACKGROUND: Previous results from this phase 3 trial showed that progression-free survival among participants with previously untreated\n\nMETHODS: We randomly assigned, in a 2:2:1 ratio, participants with previously untreated\n\nRESULTS: A total of 429 participants each were assigned to receive amivantamab-lazertinib or osimertinib. Over a median follow-up of 37.8 months, amivantamab-lazertinib led to significantly longer overall survival than osimertinib (hazard ratio for death, 0.75; 95% confidence interval, 0.61 to 0.92; P = 0.005); 3-year overall survival was 60% and 51%, respectively. At the clinical cutoff date, 38% of participants in the amivantamab-lazertinib group and 28% in the osimertinib group were still receiving the assigned treatment. Adverse events of grade 3 or higher were more common with amivantamab-lazertinib (in 80% of participants) than with osimertinib (in 52%), particularly skin-related events, venous thromboembolism, and infusion-related events; these findings were consistent with the established safety profile of each treatment. No new safety signals were observed with additional follow-up.\n\nCONCLUSIONS: Amivantamab-lazertinib led to significantly longer overall survival among participants with previously untreated"
+    },
+    {
+      "pmid": "41161592",
+      "doi": "10.1016/j.jtho.2025.10.013",
+      "title": "Neoadjuvant Immunochemotherapy in Resectable NSCLC with SMARCA4 Alterations.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-10-27T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41161592/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.013",
+      "abstract": "INTRODUCTION: Neoadjuvant immunochemotherapy has improved pathological complete response (pCR) rates and event-free survival in resectable NSCLC, yet its efficacy in SMARCA4-altered NSCLC, a subset associated with poor prognosis, remains unclear.\n\nMETHODS: We retrospectively analyzed clinical characteristic and next-generation sequencing of 29 SMARCA4-altered NSCLC patients with neoadjuvant immunochemotherapy from Guangdong Provincial People's Hospital. The Cancer Genome Atlas (TCGA) of lung adenocarcinoma (LUAD) were classification by SMARCA4 condition by WXS and was further analyzed the difference between two group. In altered group, BostonGene molecular functional portraits was used for tumor environment classification.\n\nRESULTS: 29 SMARCA4-altered NSCLC patients recevied neoadjuvant immunochemotherapy, the objective response rate was 70.4% and the pCR rate was 51.7%. The pCR rate significantly differed among pathological subgroups (squamous cell carcinoma vs adenocarcinoma, 83.3% vs. 28.6%, p = 0.045). After a median follow-up of 17 months, 7 patients relapsed and 1 died from non-cancer causes. SMARCA4 alterations were associated with early progression (42.8%) with a median event-free survival of 13 months, although some patients achieved durable survival. All patients harboring co-occurring KRAS with KEAP1/STK11 mutations relapsed. TCGA data showed SMARCA4-altered LUAD had worse survival (34.8 vs. 50.9 months, p = 0.033), downregulation innate immunity, and enrichment of mTOR/MYC signaling. Immune classification revealed both immune-desert and immune-enriched subtypes within the altered cohort. The lacking immune cell infiltration group showed significantly shorter overall survival compared to immune-enriched subtypes (28.8 vs. 49.9 months, p = 0.043).\n\nCONCLUSIONS: In conclusion, SMARCA4-altered NSCLC is heterogeneous. SCC demonstrates remarkable sensitivity with immunochemotherapy, while non-SCC, especially with KRAS+KEAP1/STK11 co-mutations, represents a distinct, immune-cold, high-risk subtype."
+    },
+    {
       "pmid": "41143757",
       "doi": "10.1016/j.jtho.2025.10.004",
       "title": "Corrigendum to 'Impact of concurrent genomic alterations on clinical outcomes in patients with ALK-rearranged non-small cell lung cancer' [Journal of Thoracic Oncology, Volume 19 Issue 1 (2024) 119-129].",
@@ -277,8 +339,8 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://www.jto.org/article/S1556-0864(25)02849-7/pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41143757/",
@@ -304,46 +366,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41151358/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108803",
       "abstract": "BACKGROUND: NSCLC with mutations of the KRAS or EGFR gene is associated with a high risk of brain metastases (BRA). There are few data on the prevalence and pattern of BRA and on survival in unselected KRAS or EGFR patients.\n\nMETHODS: This real-world analysis (KOMPASS-study) included 326 NSCLC patients with stage IV adenocarcinoma and either KRAS mutation (n = 90), EGFR mutation (n = 87), or no known driver mutation (n = 149). Prevalence, number, and size of BRA, and the effect of BRA on overall survival (OS) were analyzed.\n\nRESULTS: The prevalence of BRA was higher in KRAS patients (40 %) or EGFR patients (39 %) than in no-driver patients (27 %). KRAS patients and no-driver patients significantly more often had single BRA, whereas EGFR patients had multiple BRA (median number 1, 2, and 4, respectively). The presence of BRA did not adversely affect OS in KRAS patients (22.3 vs. 19.2 months, HR 0.91) and no-driver patients (8.9 vs. 10.9 months, HR 0.99). EGFR patients with BRA had inferior OS (20.5 vs. 35.5 months, HR 2.70, p = 0.0004). Patients with single BRA had improved OS (22.3 vs. 13.2 months, p = 0.013).\n\nCONCLUSIONS: The lack of a negative effect of BRA on OS in KRAS patients or no-driver patients may be due to the frequent finding of a single BRA amenable to ablative treatment. The negative effect of BRA on OS in EGFR patients points to a distinct biology of EGFR-mutated NSCLC leading to a characteristic radiological pattern of multiple BRA which are not amenable to ablative treatment."
-    },
-    {
-      "pmid": "41145016",
-      "doi": "10.1016/j.lungcan.2025.108804",
-      "title": "Prognostic impact of pleural lavage cytology in EGFR-stratified resected non-small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-10-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41145016/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108804",
-      "abstract": "INTRODUCTION: Positive pleural lavage cytology (PLC) indicates microscopic pleural dissemination and is associated with poor prognosis; however, it is not incorporated into the current TNM staging system and rarely guides adjuvant therapy. The prognostic importance of PLC positivity in patients with EGFR-mutated non-small cell lung cancer (NSCLC) remains unclear.\n\nMETHODS: We retrospectively analyzed clinical data from 576 patients with pathological stage I-IIIA NSCLC who underwent curative resection between 2012 and 2019. PLC was performed intraoperatively by washing the tumor surface with saline. Prognosis associated with PLC status was compared between the PLC-positive and PLC-negative groups in the overall cohort and within the EGFR-mutated (n = 188) and wild-type (n = 370) subgroups. Recurrence-free survival (RFS) and overall survival (OS) were assessed by Kaplan-Meier and Cox analysis.\n\nRESULTS: PLC positivity was observed in 30 patients (5.2 %) and was significantly associated with advanced pathological stage and pleural, vascular, and lymphatic invasion (p < 0.05). PLC-positive patients had significantly shorter RFS and OS in the overall cohort (23.3 and 60.0 months, respectively; both p < 0.001) and in both the EGFR-mutated subgroup and the wild-type subgroup. The multivariate analysis confirmed that PLC positivity was an independent predictor for poor RFS (HR 2.13, 95 % CI: 1.27-3.59, p = 0.0043) and OS (HR 1.77, 95 % CI: 1.00-3.13, p = 0.0484).\n\nCONCLUSIONS: PLC positivity was identified as an independent prognostic indicator of RFS and indicated biological aggressiveness that approximated stage III disease in terms of early recurrence. PLC-positive, EGFR-mutated patients might benefit from adjuvant osimertinib therapy, as supported by ADAURA findings, although prospective validation is needed."
-    },
-    {
-      "pmid": "41139066",
-      "doi": "10.1016/j.jtho.2025.10.012",
-      "title": "Phase 2 study of amivantamab plus lazertinib in previously-treated patients with EGFR mutant lung cancers with brain and leptomeningeal metastases.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-10-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41139066/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.012",
-      "abstract": "BACKGROUND: Despite improved central nervous system (CNS) disease control with osimertinib, 20% of patients will develop CNS progression. Amivantamab and lazertinib have demonstrated activity in patients with EGFR-mutant lung cancer. This trial evaluated amivantamab and lazertinib in patients with new or progressive CNS metastases after prior therapy (NCT04965090).\n\nMETHODS: We evaluated amivantamab and lazertinib in 2 cohorts: patients with 1) brain metastases (BrM) or 2) leptomeningeal disease (LMD) diagnosed by cytology in patients with lung cancers with sensitizing EGFR-activating mutations or exon 20 insertions. The primary endpoint was composite best overall response rate (ORR) per RECIST v 1.1 and RANO-BM or -LM. Secondary endpoints were toxicity, systemic ORR, CNS ORR, time on treatment (ToT), progression-free survival (PFS), CNS PFS, and overall survival (OS).\n\nRESULTS: We treated 20 pts with BrM and 21 pts with LMD. 41% had EGFR del19, 37% L858R, 12% ex20ins, and 10% uncommon mutations. Median lines of prior therapy: 2 (range 1-7). The ORR by a combination of RECIST and RANO-BM/RANO-LM respectively for pts with BrM was 50% (95% CI, 27-73%) and 33% (95% CI, 15-57%) for pts with LMD. The median PFS was 5.8 months (95% CI 3.6-not reached (NR)) and 7.8 months (95% CI 4.2-12.2) for the BrM and LMD cohorts respectively. Median OS was 17.4 months (15.4-NR) in the BrM cohort and 14.4 months (8.9-NR) in the LMD cohort.\n\nCONCLUSIONS: Amivantamab+lazertinib has anti-tumor activity in patients with EGFR-mutant lung cancers who develop new or progressing brain or leptomeningeal metastases. This trial demonstrates the feasibility of including patients with LMD in prospective clinical trials."
     }
   ]
 }
