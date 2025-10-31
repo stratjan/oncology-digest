@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-30T05:17:55.523862Z",
+  "generated": "2025-10-31T05:17:56.841182Z",
   "items": [
     {
       "pmid": "41152910",
@@ -20,6 +20,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41152910/",
       "url_doi": "https://doi.org/10.1186/s12943-025-02493-6",
       "abstract": "BACKGROUND: Despite an initial favorable response of EGFR-mutant non-small cell lung cancer (NSCLC) to osimertinib, an EGFR tyrosine kinase inhibitor (TKI), resistance to this drug inevitably develops. Whereas genetic mechanisms for such acquired resistance have been identified, the molecular mediators of resistance induction have remained unclear.\n\nMETHODS: To identify factors that mediate induction of osimertinib resistance, we studied clinical samples from individuals with EGFR-mutant NSCLC as well as cell lines including PC-9 and H1975. Methods adopted included transcriptomics analysis and immunohistochemistry of pretreatment NSCLC specimens, spatial transcriptomics analysis, a cell viability assay, immunofluorescence and quantitative PCR analysis, RNA sequencing, immunoblot analysis, comprehensive proteomics analysis by mass spectrometry, co-immunoprecipitation and proximity ligation assays, and a mouse xenograft tumor model.\n\nRESULTS: Transcriptomics analysis of pretreatment clinical specimens identified IFITM3 (interferon-induced transmembrane protein 3) as a gene specifically upregulated in patients with a poor response to osimertinib treatment. Immunohistochemistry confirmed that patients with IFITM3-positive tumors experienced a shorter progression-free survival on osimertinib treatment. Spatial transcriptomics and other analyses further revealed that IFITM3 expression in tumor cells was increased in response to cytokines derived from the tumor microenvironment (TME) during osimertinib treatment. IFITM3 was found to promote the development of osimertinib resistance in NSCLC cell lines through interaction with MET and activation of the AKT signaling pathway. Furthermore, combined treatment with a MET inhibitor suppressed the development of osimertinib resistance in a mouse xenograft tumor model.\n\nCONCLUSIONS: Our findings reveal that upregulation of IFITM3 driven by TME cytokines represents a previously unrecognized mechanism of osimertinib resistance, and they suggest that targeting of the IFITM3-MET axis may improve EGFR-TKI treatment outcome for EGFR-mutant NSCLC."
+    },
+    {
+      "pmid": "41165466",
+      "doi": "10.1158/0008-5472.CAN-25-0450",
+      "title": "Targeting CDK12/13 Drives Mitotic Arrest to Overcome Resistance to KRASG12C Inhibitors.",
+      "journal": "Cancer research",
+      "pubdate": "2025-10-30T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41165466/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0450",
+      "abstract": "The onset of acquired resistance limits the efficacy of KRASG12C inhibitors in lung cancer patients. Experiments in preclinical model systems and retrospective analyses of patients treated with these inhibitors have both suggested that the activation of DNA repair pathways and G2/M kinases is common in lung cancers with acquired resistance to KRASG12C inhibitors. Here, we identified a shared vulnerability to the CDK12/13 selective inhibitor SR-4835 in several KRASG12C-mutant cell lines with acquired resistance to sotorasib. In pairs of KRASG12C-mutant parental and sotorasib-resistant cell lines, CDK12/13 inhibition suppressed DNA repair gene expression and induced mitotic arrest, which was exacerbated in sotorasib-resistant cells by failure to activate the G2/M checkpoint and suppression of an oncogenic isoform of TP73. Combined treatment with both sotorasib and SR-4835 yielded an additive response and suppressed the development of acquired resistance to either inhibitor. The inhibitor combination caused additive G1 and G2/M arrest, and the increased sensitivity of emerging drug-resistant cell populations to SR-4835 extended the duration of response over single-agent treatment in cell culture and in mouse models. These results support combining KRAS and CDK12/13 inhibitors to extend the duration of response in KRAS-mutant lung cancer. Patients with acquired resistance to sotorasib may benefit from follow-up monotherapy with CDK12/13 inhibitors, the first of which recently entered clinical trials. Targeting CDK12/13 thus offers a promising strategy to overcome or prevent resistance to KRAS inhibitors."
+    },
+    {
+      "pmid": "41165456",
+      "doi": "10.1158/0008-5472.CAN-25-0600",
+      "title": "RAS-GTP Inhibition Overcomes Acquired Resistance to KRASG12C Inhibitors Mediated by Oncogenic and Wildtype RAS Activation in Non-Small Cell Lung Cancer.",
+      "journal": "Cancer research",
+      "pubdate": "2025-10-30T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41165456/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0600",
+      "abstract": "Small molecule KRASG12C(OFF) inhibitors that bind to the inactive GDP-bound state of KRAS have demonstrated efficacy in patients with KRASG12C mutant tumors, yet responses tend to be transient due to emergence of on-treatment resistance. Recently, RAS(ON) G12C-selective inhibitors, which bind to the active GTP-bound state of RAS, were described, and elironrasib is undergoing evaluation in multiple clinical trials. Here, we generated resistant cell lines and patient-derived xenograft models to KRASG12C(OFF) and RAS(ON) G12C-selective inhibitors and interrogated resistance mechanisms using a multi-omics strategy consisting of phosphoproteomics, whole exome sequencing, and RNA-sequencing combined with functional testing using small molecule and CRISPR screens and RAS(ON) inhibitors being evaluated in clinical trials. Two models reactivated RAS signaling, either via KRASG12C gene amplification or NRASG13R mutation, and were vulnerable to dual inhibition by RAS(ON) G12C-selective and RAS(ON) multi-selective inhibitors, RMC-4998 and RMC-7977. Two models, which lacked any discernable genomic alteration, acquired resistance associated with increased receptor tyrosine kinase activity and downstream persistent RAS activity and were sensitive to RAS-GTP inhibition by RMC-7977. Finally, one model displayed epithelial-mesenchymal transition, loss of RAS dependance, and acquired reliance on cell cycle kinases and proteins associated with DNA damage response. This work highlights KRASG12C-selective inhibitor resistant states that parallel and complement clinical findings and demonstrate that a large subset could be overcome with a RAS(ON) multi-selective inhibitor as a standalone agent or in combination with other therapies."
     },
     {
       "pmid": "41150899",
@@ -102,6 +142,26 @@
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
     },
     {
+      "pmid": "41166388",
+      "doi": "10.1158/2767-9764.CRC-25-0359",
+      "title": "Phase I/II Study of AXL-Specific Antibody-Drug Conjugate Enapotamab Vedotin in Patients With Advanced Solid Tumors.",
+      "journal": "Cancer research communications",
+      "pubdate": "2025-10-30T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1158/2767-9764.crc-25-0359",
+      "metric_name": "SJR",
+      "metric_value": 1.569,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41166388/",
+      "url_doi": "https://doi.org/10.1158/2767-9764.CRC-25-0359",
+      "abstract": "PURPOSE: AXL, a receptor tyrosine kinase related to oncogenic processes, is aberrantly expressed in various cancers and associated with treatment resistance. Enapotamab vedotin (EnaV), a novel anti-AXL human IgG1 and monomethyl auristatin E antibody-drug conjugate, demonstrated antitumor activity in preclinical models including non-small cell lung cancer (NSCLC). This phase 1/2 study assessed safety and preliminary efficacy of EnaV in solid tumors.\n\nPATIENTS AND METHODS: This study comprised dose-escalation and dose-expansion phases; both phases investigated EnaV once every 3 weeks (Q3W), and EnaV on days 1, 8, and 15 of a 28-day cycle (3Q4W). Primary objectives determined maximum tolerated dose (MTD) (dose escalation) and safety (dose expansion). Pharmacokinetic profile, antitumor activity, and AXL expression were also assessed.\n\nRESULTS: During dose escalation, 32 patients received EnaV Q3W; 15 received EnaV 3Q4W. MTD and recommended phase 2 dose were 2.2 mg/kg in Q3W and 1.0 mg/kg in 3Q4W schedules. In dose expansion, 189 patients received EnaV Q3W; 70 received EnaV 3Q4W. Common adverse events in dose expansion included fatigue, constipation, nausea, decreased appetite, and diarrhea. Overall response rates ranged from 4.5-12.5% with Q3W schedule and from 9.1-11.5% with 3Q4W dose schedule. Disease control rates for NSCLC cohorts were 40.9-50.0%. NSCLC subset analysis demonstrated correlation between radiomics signature and disease control. The relationship between clinical activity and AXL expression was not apparent.\n\nCONCLUSIONS: EnaV had an acceptable safety profile; however, because the evaluation of antitumor activity did not show clinically meaningful responses, clinical development of EnaV was discontinued."
+    },
+    {
       "pmid": "40347229",
       "doi": "10.1007/s00330-025-11661-7",
       "title": "ESR Bridges: lung cancer: new developments in imaging and treatment-a multidisciplinary view.",
@@ -164,24 +224,24 @@
       "abstract": "BACKGROUND: Atezolizumab combined to carboplatin and etoposide prolonged survival in the IMpower133 trial of untreated extensive-stage small-cell lung cancer (ES-SCLC). Aim of this analysis is to provide end-of-study results from the phase IIIb MAURIS study on the efficacy and safety of atezolizumab plus chemotherapy in the same disease setting, in a patient population with broader inclusion criteria.\n\nMATERIALS AND METHODS: MAURIS is a multicentric, open-label, single-arm study conducted between 2019 and 2023 in 25 Italian study centres. A total of 155 patients with untreated ES-SCLC were enrolled. Treatment was based on atezolizumab 1200 mg + carboplatin + etoposide every 21 days, for 4 to 6 cycles, during the induction phase, and atezolizumab every 3 weeks during the maintenance phase. Safety, overall survival (OS) and progression-free survival (PFS) were among study endpoints.\n\nRESULTS: The median OS at end of study was 10.6 months, with OS rates of 45.5% at 1 year, 31.0% at 1.5 years, 17.1% at 2 years and 14.5% at 3 years. The median PFS was 5.5 months. Serious adverse events (AEs) occurred in 38.3% of patients, treatment-related serious AEs in 21.4%, and immuno-mediated treatment-emergent AEs in 26.6% of patients. Immune-mediated grade 3 to 4 AEs were inversely related with mortality (hazard ratio, HR = 0.36; 95% confidence interval, CI: 0.13-0.97) in a multivariate analysis.\n\nCONCLUSION: This study showed consistent findings with the IMpower133 trial on the safety and efficacy of atezolizumab plus chemotherapy in first-line treatment of ES-SCLC. Long-term survival of a subgroup of patients was also confirmed."
     },
     {
-      "pmid": "40168159",
-      "doi": "10.1080/17581966.2025.2477411",
-      "title": "The association between blood-based HYAL2 methylation and early-stage lung cancer: a case-control study.",
-      "journal": "Lung cancer management",
-      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pmid": "41163147",
+      "doi": "10.1186/s12893-025-03263-3",
+      "title": "Incidence and risk factors of postoperative delirium in patients undergoing elective lung cancer surgery : a retrospective study using the national inpatient sample database.",
+      "journal": "BMC surgery",
+      "pubdate": "2025-10-29T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
       "entity": "Thoracic-other",
       "trial_type": null,
-      "study_class": "Other",
+      "study_class": "Preclinical",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1080/17581966.2025.2477411",
+      "oa_url": "https://bmcsurg.biomedcentral.com/counter/pdf/10.1186/s12893-025-03263-3",
       "metric_name": "SJR",
-      "metric_value": 0.506,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40168159/",
-      "url_doi": "https://doi.org/10.1080/17581966.2025.2477411",
-      "abstract": "BACKGROUND: Blood-based DNA methylation biomarkers have great potential for the early detection of lung cancer (LC). Here, we investigated the association between\n\nMETHODS: Matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry was performed to measure the methylation levels of 4 CpG sites in\n\nRESULTS: Hypomethylation of all 4 CpG sites in\n\nCONCLUSIONS: Our results suggested blood-based"
+      "metric_value": 0.572,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41163147/",
+      "url_doi": "https://doi.org/10.1186/s12893-025-03263-3",
+      "abstract": "BACKGROUND: Lung cancer is the world's deadliest cancer, and surgery offers cure for over 75% of patients. However, postoperative delirium (POD) impairs recovery, accelerates cognitive decline, and increases mortality. Despite evidence that multicomponent prevention can avert 30-40% of POD, its incidence and predictors in lung cancer surgery remain under-studied.\n\nMETHODS: We conducted a retrospective cohort study of adults (≥ 18 years) undergoing elective lung cancer surgery resection from 2010 to 2019 using the U.S. National Inpatient Sample. Emergency admissions, rib fractures, and preexisting delirium or dementia were excluded. POD was identified by ICD-9/10 codes. We extracted demographics, comorbidities, perioperative complications, length of stay, and costs. Wilcoxon rank-sum and χ² tests compared groups, and univariable and multivariable logistic regression-with stepwise selection and Bonferroni correction-identified independent POD predictors. Analyses were performed in R, with P < 0.05.\n\nRESULTS: Among 30,813 resections, 1,499 patients (4.86%) developed POD. Age ≥ 71 years (OR 2.10; 95% CI 1.75-2.51) and 61-70 years (OR 1.59; 1.35-1.88), female sex (OR 1.12; 1.01-1.24), teaching-hospital status (OR 1.38; 1.21-1.57), and more extensive resections (lobectomy OR 1.43; 1.28-1.60; pneumonectomy OR 2.58; 2.06-3.23) increased POD risk, whereas urban hospitals were protective (OR 0.71; 0.55-0.91). Preoperative neurological disorders (OR 5.62; 5.02-6.29), psychoses (OR 1.62; 1.35-1.95), fluid-electrolyte disorders (OR 1.27; 1.14-1.42), and hypertension (OR 1.21; 1.08-1.36) were independent predictors. Postoperative arrhythmia, deep-vein thrombosis, stroke, shock, urinary infection, and hypoxemia further elevated risk; chronic pulmonary disease and respiratory failure were protective.\n\nCONCLUSIONS: POD complicates nearly 5% of lung cancer resections. Key demographic, clinical, and institutional factors identify high-risk patients who may benefit from targeted, multicomponent prevention strategies in thoracic surgery."
     },
     {
       "pmid": "40581332",
@@ -225,6 +285,89 @@
       "abstract": "The objective of this study was to quantify the impact of longitudinal tumour dynamics, time-varying drug-related adverse events (DRAEs), and other clinical characteristics on long-term outcomes in patients with non-small cell lung cancer (NSCLC) treated with epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). An ambispective cohort of 277 patients was analysed and externally validated using independent clinical trial data from 470 patients in the Project Data Sphere. Individual tumour growth trajectories were characterised by predicted sum of the longest diameters (SLD) using tumour growth inhibition (TGI) modelling. Time-dependent Cox and parametric time-to-event models were then applied to evaluate the influence of predicted tumour growth trajectories, observed dynamic DRAE profiles, cross-sectional variables derived from these measures, and additional covariates on time-to-treatment failure (TTF) and progression-free survival (PFS). The TGI models effectively captured individual tumour dynamics. Across both Cox and parametric time-to-event models, prognostic factors consistently included DRAEs, baseline metastasis, EGFR-TKI treatment history, and the specific EGFR-TKI administered. Notably, grade 2 DRAEs were associated with an optimal balance between efficacy and safety, and this association remained robust in sensitivity analyses and was preliminarily validated using external data. These findings emphasise the clinical relevance of DRAE grades in indicating long-term clinical benefit. By linking manageable toxicity with durable therapeutic outcomes, the study provides valuable insights for developing safe and effective EGFR-TKI treatment strategies in patients with NSCLC."
     },
     {
+      "pmid": "41167214",
+      "doi": "10.1016/S1470-2045(25)00465-6",
+      "title": "Patritumab deruxtecan (HER3-DXd) in patients with active brain metastases of non-small-cell lung cancer (TUXEDO-3): a multicentre, single-arm, phase 2 trial.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41167214/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00465-6",
+      "abstract": "BACKGROUND: Patritumab deruxtecan (HER3-DXd) is a novel antibody-drug conjugate targeting HER3, which is overexpressed in CNS metastases of advanced non-small-cell lung cancer (NSCLC). We aimed to evaluate the activity and safety of HER3-DXd in patients with advanced NSCLC and newly diagnosed brain metastases or brain metastases progressing after local therapy.\n\nMETHODS: TUXEDO-3 is a multicohort, multicentre, open-label, single-arm phase 2 trial. In this cohort (2 of 3), we enrolled adults (aged ≥18 years) with histologically documented squamous or non-squamous NSCLC, radiologically documented metastatic disease, newly diagnosed brain metastases or progressing brain metastases after local treatment, at least one brain lesion, no need for immediate local therapy, and an Eastern Cooperative Oncology Group performance status of 0-2. Patients received HER3-DXd 5·6 mg/kg intravenously once every 3 weeks. The threshold to meet the primary endpoint was at least 15% of patients having an intracranial response according to Response Assessment in Neuro-Oncology Brain Metastases criteria. Activity and safety analyses were done in the full analysis set, which included all participants who received at least one dose of HER3-DXd. This trial (ClinicalTrials.govNCT05865990 and European Union Clinical Trials Register 2023-503251-10-00) is ongoing but no longer enrolling patients.\n\nFINDINGS: Between Dec 27, 2023, and Sept 6, 2024, 20 patients were recruited; ten (50%) were female and ten (50%) were male. 16 (80%) of 20 patients were White; race was not reported in the remaining four patients. 13 (65%) of the 20 patients had brain metastases progressing after local therapy and seven (35%) had untreated brain metastases; five (25%) had activating driver mutations. Median follow-up was 5·3 months (IQR 2·0-8·5). The primary endpoint was met, with six (30%) of 20 patients having intracranial responses (objective response rate 30·0%, 95% CI 11·9-54·3). The six responders had non-squamous advanced NSCLC (two [33%] with untreated brain metastases and four [67%] with progressing brain metastases), of whom one (17%) had an activating driver mutation (KRAS G12C). Treatment-related adverse events occurred in 16 (80%) patients, the most common of which were nausea (seven [35%] patients), and diarrhoea and asthenia (each six [30%] patients). The most common grade 3 and 4 adverse events were neutropenia in three (15%) patients and febrile neutropenia in two (10%). There were no treatment-related deaths, and no new safety signals were identified.\n\nINTERPRETATION: HER3-DXd showed promising clinical activity in patients with advanced NSCLC and active brain metastases, and could represent a novel treatment option in this setting.\n\nFUNDING: Daiichi-Sankyo and Merck Sharp & Dohme."
+    },
+    {
+      "pmid": "41082894",
+      "doi": "10.1016/S1470-2045(25)00485-1",
+      "title": "Radiotherapy-free approach in inoperable locally advanced non-small-cell lung cancer: are we ready for this shift?",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41082894/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00485-1",
+      "abstract": null
+    },
+    {
+      "pmid": "41082893",
+      "doi": "10.1016/S1470-2045(25)00462-0",
+      "title": "Radiotherapy-free pembrolizumab combined with chemotherapy for locally advanced non-small-cell lung cancer with PD-L1 tumour proportion score of 50% or higher (Evolution trial): a multicentre, single-arm, phase 2 study.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41082893/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00462-0",
+      "abstract": "BACKGROUND: The standard of care for unresectable, locally advanced non-small-cell lung cancer (NSCLC) is chemoradiotherapy followed by durvalumab. This study (Evolution trial WJOG11819L) aimed to evaluate the efficacy and safety of radiotherapy-free pembrolizumab and chemotherapy in patients with unresectable, locally advanced NSCLC with a PD-L1 tumour proportion score (TPS) of 50% or higher.\n\nMETHODS: This prospective, multicentre, single-arm, phase 2 study was conducted in nine institutes in Japan. Inclusion criteria were age 20 years or older, histologically confirmed unresectable, locally advanced NSCLC with a PD-L1 TPS of 50% or higher, an Eastern Cooperative Oncology Group performance status of 0 or 1, at least one measurable lesion, no previous systemic therapy, and adequate organ function. Patients received intravenous induction therapy comprising pembrolizumab 200 mg every 3 weeks plus platinum-based chemotherapy for four cycles: either cisplatin 75 mg/m\n\nFINDINGS: Between May 18, 2020, and Feb 22, 2022, 21 patients were assessed for eligibility and all were enrolled. Median age was 73 years (IQR 68-80); 16 (76%) patients were male; race and ethnicity data were not collected. Three (14%) patients discontinued and 18 (86%) patients completed the induction therapy; eight (38%) patients discontinued during maintenance therapy and ten (48%) patients completed the maintenance therapy. Median follow-up was 32·5 months (IQR 26·2-39·5). The 2-year progression-free survival rate was 67% (90% CI 46-83). The most common grade 3 or worse adverse events were neutropenia (eight [38%] of 21 patients), leukopenia (four [19%]), and pneumonia (three [14%]). Serious adverse events occurred in seven (33%) patients. No treatment-related deaths were reported.\n\nINTERPRETATION: These findings suggest that pembrolizumab combined with platinum-based chemotherapy, without radiotherapy, might provide a feasible and promising alternative treatment strategy for patients with unresectable, locally advanced NSCLC with a PD-L1 TPS of 50% or higher.\n\nFUNDING: Merck Sharp & Dohme."
+    },
+    {
+      "pmid": "41038207",
+      "doi": "10.1016/S1470-2045(25)00429-2",
+      "title": "Long-term overall survival with dual CTLA-4 and PD-L1 or PD-1 blockade and biomarker-based subgroup analyses in patients with advanced non-small-cell lung cancer: a systematic review and reconstructed individual patient data meta-analysis.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41038207/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00429-2",
+      "abstract": "BACKGROUND: Immune checkpoint inhibitors targeting PD-L1 or PD-1 as monotherapy or combined with CTLA-4 inhibitors or chemotherapy (or both) are the standard of care for patients with advanced non-small-cell lung cancer (NSCLC). However, it remains unclear which patients benefit from the addition of CTLA-4 inhibitors. We aimed to evaluate whether dual checkpoint blockade with CTLA-4 and PD-L1 or PD-1 inhibitors provides similar efficacy to PD-L1 or PD-1 inhibitor monotherapy, or whether these strategies produce distinct outcomes across NSCLC subpopulations.\n\nMETHODS: We conducted a search of PubMed, MEDLINE, and Embase for randomised phase 3 trials published from database inception to Nov 21, 2024, that investigated PD-L1 or PD-1 inhibitors, with or without CTLA-4 inhibitors, in patients with advanced NSCLC. We focused on studies reporting Kaplan-Meier survival data at 5 years or biomarker analyses based on PD-L1, KRAS, and STK11 mutational status. Individual patient data were extracted from Kaplan-Meier curves with WebPlotDigitizer version 5 and reconstructed with the IPDfromKM method. The primary endpoint of the study was 5-year overall survival in the overall population and in subpopulations based on PD-L1 tumour proportion score (TPS), tumour histology, and mutational status (mutant vs wild-type) of KRAS and STK11. This study was registered with PROSPERO, CRD420251081707.\n\nFINDINGS: The initial search yielded 1026 results, and six randomised clinical trials met the eligibility criteria and were included. Among the 2881 patients eligible for analysis (838 [29·1%] female and 2043 [70·9%] male), 1282 received dual CTLA-4 and PD-L1 or PD-1 blockade and 1599 received single PD-L1 or PD-1 blockade. Patients treated with dual CTLA-4 and PD-L1 or PD-1 blockade had similar median overall survival compared with those treated with single PD-L1 or PD-1 inhibition (16·1 months [95% CI 15·0-17·8] vs 16·9 months [15·5-18·3]; HR 0·95 [95% CI 0·87-1·03], p=0·19). Median overall survival was significantly longer with dual CTLA-4 and PD-L1 or PD-1 blockade among patients with PD-L1 TPS less than 1% versus those treated with single PD-L1 or PD-1 inhibition (15·5 months [95% CI 13·6-18·5] vs 14·5 months [13·4-15·9]; HR 0·85 [95% CI 0·74-0·98], p=0·021), with 5-year overall survival rates of 16·6% (95% CI 13·4-20·6) versus 9·3% (7·0-12·3), respectively. Median overall survival in patients with tumours harbouring STK11 mutations was also significantly longer with dual CTLA-4 and PD-L1 or PD-1 blockade compared with single PD-L1 or PD-1 inhibition (13·9 months [95% CI 9·8-20·8] vs 7·8 months [6·4-12·9]; HR 0·67 [95% CI 0·49-0·91], p=0·012). However, no significant differences in overall survival were found between treatment groups by tumour histology (squamous vs non-squamous NSCLC) or by KRAS mutational status.\n\nINTERPRETATION: Compared with single PD-L1 or PD-1 inhibition, dual immune checkpoint blockade with CTLA-4 and PD-L1 or PD-1 inhibitors was associated with improved overall survival in patients with advanced NSCLC and PD-L1 TPS less than 1% and in those with STK11 mutations, but not in the overall population. Prospective validation of these results in clinical trials is warranted.\n\nFUNDING: NextGenerationUE."
+    },
+    {
       "pmid": "40813911",
       "doi": "10.1038/s41571-025-01061-7",
       "title": "Treatment of NSCLC after chemoimmunotherapy - are we making headway?",
@@ -264,6 +407,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40957950/",
       "url_doi": "https://doi.org/10.1038/s41388-025-03571-1",
       "abstract": "Although the involvement of polo-like kinase 1 (PLK1) in metabolic reprogramming from oxidative phosphorylation (OXPHOS) to glycolysis has been previously described, the underlying molecular mechanism remains unclear. Pyruvate dehydrogenase (PDH) catalyzes the conversion of pyruvate into acetyl-CoA, the starting material for the tricarboxylic acid (TCA) cycle. In a companion study by Zhang et al., we demonstrated that PLK1 phosphorylation of PDHA1 at threonine 57 (PDHA1-T57) drives its protein degradation via mitophagy activation. Using a stable-isotope resolved metabolomics (SIRM) approach, we now show that PLK1 phosphorylation of PDHA1-T57 results in metabolic reprogramming from OXPHOS to glycolysis. Notably, cells mimicking PDHA1-T57 phosphorylation rely more on the aspartate-malate shuttle than on glucose-derived pyruvate to sustain the TCA cycle. This metabolic shift was also observed in mouse embryonic fibroblasts (MEFs) and transgenic mice conditionally expressing the PDHA1-T57D variant, highlighting the role of PLK1 in metabolic reprogramming in vivo. It is well-established that pyruvate dehydrogenase kinase (PDK)-mediated phosphorylation of PDH leads to its inactivation and that dichloroacetic acid (DCA), a PDK inhibitor, has been investigated in preclinical and early clinical studies as a potential therapeutic agent for lung cancer. We demonstrated that DCA combined with Onvansertib, a PLK1 inhibitor, synergistically inhibits lung tumor growth by enhancing mitochondrial ROS, inhibiting glycolysis, and inducing apoptosis. This study aims to elucidate how PLK1-associated activity drives the metabolic reprogramming from OXPHOS to glycolysis during cellular transformation, thereby contributing to lung carcinogenesis. Our results provide support for a clinical trial to evaluate the efficacy of Onvansertib plus DCA in treating lung cancer."
+    },
+    {
+      "pmid": "40953708",
+      "doi": "10.1016/j.radonc.2025.111144",
+      "title": "Association of artificial intelligence-screened interstitial lung disease with radiation pneumonitis in locally advanced non-small cell lung cancer.",
+      "journal": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40953708/",
+      "url_doi": "https://doi.org/10.1016/j.radonc.2025.111144",
+      "abstract": "PURPOSE: Interstitial lung disease (ILD) has been correlated with an increased risk for radiation pneumonitis (RP) following lung SBRT, but the degree to which locally advanced NSCLC (LA-NSCLC) patients are affected has yet to be quantified. An algorithm to identify patients at high risk for RP may help clinicians mitigate risk.\n\nMETHODS: All LA-NSCLC patients treated with definitive radiotherapy at our institution from 2006 to 2021 were retrospectively assessed. A convolutional neural network was previously developed to identify patients with radiographic ILD using planning computed tomography (CT) images. All screen-positive (AI-ILD + ) patients were reviewed by a thoracic radiologist to identify true radiographic ILD (r-ILD). The association between the algorithm output, clinical and dosimetric variables, and the outcomes of grade ≥3 RP and mortality were assessed using univariate (UVA) and multivariable (MVA) logistic regression, and Kaplan-Meier survival analysis.\n\nRESULTS: 698 patients were included in the analysis. Grade (G) 0-5 RP was reported in 51 %, 27 %, 17 %, 4.4 %, 0.14 % and 0.57 % of patients, respectively. Overall, 23 % of patients were classified as AI-ILD+. On MVA, only AI-ILD status (OR 2.15, p = 0.03) and AI-ILD score (OR 35.27, p < 0.01) were significant predictors of G3+RP. Median OS was 3.6 years in AI-ILD- patients and 2.3 years in AI-ILD+patients (NS). Patients with r-ILD had significantly higher rates of severe toxicities, with G3+RP 25 % and G5 RP 7 %. R-ILD was associated with an increased risk for G3+RP on MVA (OR 5.42, p < 0.01).\n\nCONCLUSION: Our AI-ILD algorithm detects patients with significantly increased risk for G3+RP."
     },
     {
       "pmid": "41160826",
@@ -308,6 +471,26 @@
       "abstract": "BACKGROUND: Previous results from this phase 3 trial showed that progression-free survival among participants with previously untreated\n\nMETHODS: We randomly assigned, in a 2:2:1 ratio, participants with previously untreated\n\nRESULTS: A total of 429 participants each were assigned to receive amivantamab-lazertinib or osimertinib. Over a median follow-up of 37.8 months, amivantamab-lazertinib led to significantly longer overall survival than osimertinib (hazard ratio for death, 0.75; 95% confidence interval, 0.61 to 0.92; P = 0.005); 3-year overall survival was 60% and 51%, respectively. At the clinical cutoff date, 38% of participants in the amivantamab-lazertinib group and 28% in the osimertinib group were still receiving the assigned treatment. Adverse events of grade 3 or higher were more common with amivantamab-lazertinib (in 80% of participants) than with osimertinib (in 52%), particularly skin-related events, venous thromboembolism, and infusion-related events; these findings were consistent with the established safety profile of each treatment. No new safety signals were observed with additional follow-up.\n\nCONCLUSIONS: Amivantamab-lazertinib led to significantly longer overall survival among participants with previously untreated"
     },
     {
+      "pmid": "41164890",
+      "doi": "10.1080/14796694.2025.2579208",
+      "title": "Safety of osimertinib in Chinese patients with non-small cell lung cancer: a multi-center, prospective, observational study.",
+      "journal": "Future oncology (London, England)",
+      "pubdate": "2025-10-30T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Prospective (non-RCT)",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41164890/",
+      "url_doi": "https://doi.org/10.1080/14796694.2025.2579208",
+      "abstract": "BACKGROUND: This prospective, observational study evaluated the real-world safety of osimertinib in a broad Chinese population with non-small cell lung cancer (NSCLC).\n\nMETHODS: Chinese NSCLC patients who received osimertinib were enrolled and followed up for 12 months. The primary endpoint was the incidence of adverse drug reactions (ADRs).\n\nRESULTS: From 20 April 2020 to 1 August 2022, 1,700 patients were enrolled from 30 centers, with 706 (41.5%) patients ≥65 years old. Osimertinib was administered as first-line, second-line, third/later-line and adjuvant therapy in 44.9%, 34.2%, 14.3% and 4.5% of the patients, respectively. ADRs, adverse events (AEs), Grade ≥3 AEs, and serious AEs were reported in 627 (36.9%), 959 (56.4%), 165 (9.7%), and 102 (6.0%) patients, respectively. AEs of special interests occurred in 59 (3.5%) patients, with 41 (2.4%) and 19 (1.1%) reporting QTc prolongation and interstitial lung disease/pneumonitis-like events, respectively. The safety profiles in patients ≥65 years old and those usually not included in randomized clinical trials were similar to that in the total population.\n\nCONCLUSION: This largest real-world safety study of osimertinib in China demonstrated that osimertinib was well-tolerated in a broad NSCLC population, including patients usually not included in randomized clinical trials, without new safety signals identified.\n\nCLINICAL TRIAL REGISTRATION: NCT03485326 (www.clinicaltrials.gov)."
+    },
+    {
       "pmid": "41161592",
       "doi": "10.1016/j.jtho.2025.10.013",
       "title": "Neoadjuvant Immunochemotherapy in Resectable NSCLC with SMARCA4 Alterations.",
@@ -346,26 +529,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41143757/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.004",
       "abstract": null
-    },
-    {
-      "pmid": "41151358",
-      "doi": "10.1016/j.lungcan.2025.108803",
-      "title": "Pattern of brain metastases and survival in lung adenocarcinoma with KRAS or EFGR mutation.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-10-24T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41151358/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108803",
-      "abstract": "BACKGROUND: NSCLC with mutations of the KRAS or EGFR gene is associated with a high risk of brain metastases (BRA). There are few data on the prevalence and pattern of BRA and on survival in unselected KRAS or EGFR patients.\n\nMETHODS: This real-world analysis (KOMPASS-study) included 326 NSCLC patients with stage IV adenocarcinoma and either KRAS mutation (n = 90), EGFR mutation (n = 87), or no known driver mutation (n = 149). Prevalence, number, and size of BRA, and the effect of BRA on overall survival (OS) were analyzed.\n\nRESULTS: The prevalence of BRA was higher in KRAS patients (40 %) or EGFR patients (39 %) than in no-driver patients (27 %). KRAS patients and no-driver patients significantly more often had single BRA, whereas EGFR patients had multiple BRA (median number 1, 2, and 4, respectively). The presence of BRA did not adversely affect OS in KRAS patients (22.3 vs. 19.2 months, HR 0.91) and no-driver patients (8.9 vs. 10.9 months, HR 0.99). EGFR patients with BRA had inferior OS (20.5 vs. 35.5 months, HR 2.70, p = 0.0004). Patients with single BRA had improved OS (22.3 vs. 13.2 months, p = 0.013).\n\nCONCLUSIONS: The lack of a negative effect of BRA on OS in KRAS patients or no-driver patients may be due to the frequent finding of a single BRA amenable to ablative treatment. The negative effect of BRA on OS in EGFR patients points to a distinct biology of EGFR-mutated NSCLC leading to a characteristic radiological pattern of multiple BRA which are not amenable to ablative treatment."
     }
   ]
 }
