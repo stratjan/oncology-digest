@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-01T05:15:57.800296Z",
+  "generated": "2025-11-02T05:17:37.363128Z",
   "items": [
     {
       "pmid": "41152910",
@@ -20,6 +20,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41152910/",
       "url_doi": "https://doi.org/10.1186/s12943-025-02493-6",
       "abstract": "BACKGROUND: Despite an initial favorable response of EGFR-mutant non-small cell lung cancer (NSCLC) to osimertinib, an EGFR tyrosine kinase inhibitor (TKI), resistance to this drug inevitably develops. Whereas genetic mechanisms for such acquired resistance have been identified, the molecular mediators of resistance induction have remained unclear.\n\nMETHODS: To identify factors that mediate induction of osimertinib resistance, we studied clinical samples from individuals with EGFR-mutant NSCLC as well as cell lines including PC-9 and H1975. Methods adopted included transcriptomics analysis and immunohistochemistry of pretreatment NSCLC specimens, spatial transcriptomics analysis, a cell viability assay, immunofluorescence and quantitative PCR analysis, RNA sequencing, immunoblot analysis, comprehensive proteomics analysis by mass spectrometry, co-immunoprecipitation and proximity ligation assays, and a mouse xenograft tumor model.\n\nRESULTS: Transcriptomics analysis of pretreatment clinical specimens identified IFITM3 (interferon-induced transmembrane protein 3) as a gene specifically upregulated in patients with a poor response to osimertinib treatment. Immunohistochemistry confirmed that patients with IFITM3-positive tumors experienced a shorter progression-free survival on osimertinib treatment. Spatial transcriptomics and other analyses further revealed that IFITM3 expression in tumor cells was increased in response to cytokines derived from the tumor microenvironment (TME) during osimertinib treatment. IFITM3 was found to promote the development of osimertinib resistance in NSCLC cell lines through interaction with MET and activation of the AKT signaling pathway. Furthermore, combined treatment with a MET inhibitor suppressed the development of osimertinib resistance in a mouse xenograft tumor model.\n\nCONCLUSIONS: Our findings reveal that upregulation of IFITM3 driven by TME cytokines represents a previously unrecognized mechanism of osimertinib resistance, and they suggest that targeting of the IFITM3-MET axis may improve EGFR-TKI treatment outcome for EGFR-mutant NSCLC."
+    },
+    {
+      "pmid": "41173494",
+      "doi": "10.1136/jitc-2025-012374",
+      "title": "Artificial intelligence-powered spatial analysis of tumor microenvironment in patients with non-small cell lung cancer with acquired resistance to EGFR tyrosine kinase inhibitor.",
+      "journal": "Journal for immunotherapy of cancer",
+      "pubdate": "2025-10-31T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://jitc.bmj.com/content/13/10/e012374.full.pdf",
+      "metric_name": "SJR",
+      "metric_value": 4.22,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41173494/",
+      "url_doi": "https://doi.org/10.1136/jitc-2025-012374",
+      "abstract": "PURPOSE: This study evaluated the dynamic changes in the tumor microenvironment (TME) in patients with non-small cell lung cancer (NSCLC) and acquired resistance to epidermal growth factor receptor (EGFR)-tyrosine kinase inhibitors (TKIs) using an artificial intelligence (AI)-powered spatial TME analyzer. We then assessed the predictive efficacy of immune-checkpoint inhibitors (ICIs)-based treatment.\n\nEXPERIMENTAL DESIGN: An AI-powered whole-slide image analyzer was used to segment cancer areas (CAs) and cancer stroma and to identify tumor-infiltrating lymphocytes (TILs), tertiary lymphoid structures, fibroblasts, and endothelial cells (ECs) in the tumor tissue. We analyzed 143 NSCLC samples after resistance to EGFR-TKIs from two cohorts: (1) 89 patients treated with ICI monotherapy and (2) 54 patients from the ATTLAS phase III trial comparing atezolizumab plus bevacizumab, paclitaxel, and carboplatin (ABCP) versus pemetrexed plus carboplatin.\n\nRESULTS: Post-TKI samples showed reduced TILs in the CA (p=0.045) and increased ECs in the CA (p=0.005) compared with pre-TKI samples. These changes differed according to EGFR mutation subtype. Higher TILs in CA were associated with a better overall response rate (ORR) and progression-free survival (PFS). Similarly, higher EC levels in CA correlated with improved ORR and PFS. In the ATTLAS cohort, these factors were associated with clinical benefits from ABCP, with a significant association with TILs and a marginal association with ECs.\n\nCONCLUSION: Our findings suggest that EGFR-TKIs affect the immune landscape of patients with EGFR-mutated NSCLC. Higher TILs or ECs in the CA were significantly associated with a favorable response to subsequent ICI-based treatment.\n\nTRIAL REGISTRATION NUMBER: NCT03991403."
     },
     {
       "pmid": "41165466",
@@ -285,6 +305,46 @@
       "abstract": "The objective of this study was to quantify the impact of longitudinal tumour dynamics, time-varying drug-related adverse events (DRAEs), and other clinical characteristics on long-term outcomes in patients with non-small cell lung cancer (NSCLC) treated with epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). An ambispective cohort of 277 patients was analysed and externally validated using independent clinical trial data from 470 patients in the Project Data Sphere. Individual tumour growth trajectories were characterised by predicted sum of the longest diameters (SLD) using tumour growth inhibition (TGI) modelling. Time-dependent Cox and parametric time-to-event models were then applied to evaluate the influence of predicted tumour growth trajectories, observed dynamic DRAE profiles, cross-sectional variables derived from these measures, and additional covariates on time-to-treatment failure (TTF) and progression-free survival (PFS). The TGI models effectively captured individual tumour dynamics. Across both Cox and parametric time-to-event models, prognostic factors consistently included DRAEs, baseline metastasis, EGFR-TKI treatment history, and the specific EGFR-TKI administered. Notably, grade 2 DRAEs were associated with an optimal balance between efficacy and safety, and this association remained robust in sensitivity analyses and was preliminarily validated using external data. These findings emphasise the clinical relevance of DRAE grades in indicating long-term clinical benefit. By linking manageable toxicity with durable therapeutic outcomes, the study provides valuable insights for developing safe and effective EGFR-TKI treatment strategies in patients with NSCLC."
     },
     {
+      "pmid": "41176378",
+      "doi": "10.1016/S0140-6736(25)02172-5",
+      "title": "Progress in outcomes for patients with metastatic squamous non-small-cell lung cancer.",
+      "journal": "Lancet (London, England)",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41176378/",
+      "url_doi": "https://doi.org/10.1016/S0140-6736(25)02172-5",
+      "abstract": null
+    },
+    {
+      "pmid": "41175134",
+      "doi": "10.1016/j.jtho.2025.10.006",
+      "title": "Corrigendum to \"The International Association for the Study of Lung Cancer Staging Project: The Impact of Common Molecular Alterations on Overall Survival in NSCLC in Initial Analyses of the IASLC Ninth Edition Staging Database. [Journal of Thoracic Oncology Vol. 20 No. 10: 1423-1440]\".",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41175134/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.006",
+      "abstract": null
+    },
+    {
       "pmid": "41167214",
       "doi": "10.1016/S1470-2045(25)00465-6",
       "title": "Patritumab deruxtecan (HER3-DXd) in patients with active brain metastases of non-small-cell lung cancer (TUXEDO-3): a multicentre, single-arm, phase 2 trial.",
@@ -304,6 +364,28 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41167214/",
       "url_doi": "https://doi.org/10.1016/S1470-2045(25)00465-6",
       "abstract": "BACKGROUND: Patritumab deruxtecan (HER3-DXd) is a novel antibody-drug conjugate targeting HER3, which is overexpressed in CNS metastases of advanced non-small-cell lung cancer (NSCLC). We aimed to evaluate the activity and safety of HER3-DXd in patients with advanced NSCLC and newly diagnosed brain metastases or brain metastases progressing after local therapy.\n\nMETHODS: TUXEDO-3 is a multicohort, multicentre, open-label, single-arm phase 2 trial. In this cohort (2 of 3), we enrolled adults (aged ≥18 years) with histologically documented squamous or non-squamous NSCLC, radiologically documented metastatic disease, newly diagnosed brain metastases or progressing brain metastases after local treatment, at least one brain lesion, no need for immediate local therapy, and an Eastern Cooperative Oncology Group performance status of 0-2. Patients received HER3-DXd 5·6 mg/kg intravenously once every 3 weeks. The threshold to meet the primary endpoint was at least 15% of patients having an intracranial response according to Response Assessment in Neuro-Oncology Brain Metastases criteria. Activity and safety analyses were done in the full analysis set, which included all participants who received at least one dose of HER3-DXd. This trial (ClinicalTrials.govNCT05865990 and European Union Clinical Trials Register 2023-503251-10-00) is ongoing but no longer enrolling patients.\n\nFINDINGS: Between Dec 27, 2023, and Sept 6, 2024, 20 patients were recruited; ten (50%) were female and ten (50%) were male. 16 (80%) of 20 patients were White; race was not reported in the remaining four patients. 13 (65%) of the 20 patients had brain metastases progressing after local therapy and seven (35%) had untreated brain metastases; five (25%) had activating driver mutations. Median follow-up was 5·3 months (IQR 2·0-8·5). The primary endpoint was met, with six (30%) of 20 patients having intracranial responses (objective response rate 30·0%, 95% CI 11·9-54·3). The six responders had non-squamous advanced NSCLC (two [33%] with untreated brain metastases and four [67%] with progressing brain metastases), of whom one (17%) had an activating driver mutation (KRAS G12C). Treatment-related adverse events occurred in 16 (80%) patients, the most common of which were nausea (seven [35%] patients), and diarrhoea and asthenia (each six [30%] patients). The most common grade 3 and 4 adverse events were neutropenia in three (15%) patients and febrile neutropenia in two (10%). There were no treatment-related deaths, and no new safety signals were identified.\n\nINTERPRETATION: HER3-DXd showed promising clinical activity in patients with advanced NSCLC and active brain metastases, and could represent a novel treatment option in this setting.\n\nFUNDING: Daiichi-Sankyo and Merck Sharp & Dohme."
+    },
+    {
+      "pmid": "41125109",
+      "doi": "10.1016/S0140-6736(25)01848-3",
+      "title": "Ivonescimab plus chemotherapy versus tislelizumab plus chemotherapy as first-line treatment for advanced squamous non-small-cell lung cancer (HARMONi-6): a randomised, double-blind, phase 3 trial.",
+      "journal": "Lancet (London, England)",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41125109/",
+      "url_doi": "https://doi.org/10.1016/S0140-6736(25)01848-3",
+      "abstract": "BACKGROUND: Squamous non-small-cell lung cancer (NSCLC) is associated with worse clinical outcomes than non-squamous NSCLC, but treatment options are scarce. We aimed to evaluate the efficacy and safety of ivonescimab plus chemotherapy versus tislelizumab plus chemotherapy as a first-line therapy for patients with advanced squamous NSCLC.\n\nMETHODS: We conducted a randomised, double-blind, phase 3 trial at 50 sites across China (HARMONi-6). Patients aged 18-75 years with previously untreated, pathologically confirmed, unresectable stage IIIB, IIIC, or stage IV squamous NSCLC and an Eastern Cooperative Oncology Group performance status score of 0 or 1 were eligible for inclusion. Patients were randomly assigned (1:1) to receive intravenous ivonescimab (20 mg/kg) or tislelizumab (200 mg), plus intravenous paclitaxel (175 mg/m\n\nFINDINGS: From Aug 17, 2023, to Jan 21, 2025, 761 patients were screened for eligibility, among whom 532 (70%) patients were enrolled and randomly assigned to receive ivonescimab plus chemotherapy (266 [50%] patients) or tislelizumab plus chemotherapy (266 [50%] patients). As of Feb 28, 2025, median follow-up time was 10·3 months (95% CI 9·5-11·0). Median progression-free survival was 11·1 months (95% CI 9·9-not evaluable) in the ivonescimab group and 6·9 months (5·8-8·6) in the tislelizumab group (hazard ratio 0·60 [95% CI 0·46-0·78]; one-sided p<0·0001). The progression-free survival benefit with ivonescimab plus chemotherapy was consistent regardless of PD-L1 status. 170 (64%) patients in the ivonescimab group and 144 (54%) patients in the tislelizumab group had grade 3 or higher treatment-related adverse events, with grade 3 or higher immune-related adverse events occurring in 24 (9%) patients in the ivonescimab group and in 27 (10%) patients in the tislelizumab group. Grade 3 or higher treatment-related haemorrhage occurred in five (2%) patients in the ivonescimab group and in two (1%) patients in the tislelizumab group.\n\nINTERPRETATION: In patients with untreated advanced squamous NSCLC, ivonescimab plus chemotherapy showed significantly improved progression-free survival compared with tislelizumab plus chemotherapy, regardless of PD-L1 status, as well as a manageable safety profile. This regimen could be used as a novel first-line treatment in this patient group.\n\nFUNDING: Akeso Biopharma."
     },
     {
       "pmid": "41082894",
@@ -366,6 +448,27 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41038207/",
       "url_doi": "https://doi.org/10.1016/S1470-2045(25)00429-2",
       "abstract": "BACKGROUND: Immune checkpoint inhibitors targeting PD-L1 or PD-1 as monotherapy or combined with CTLA-4 inhibitors or chemotherapy (or both) are the standard of care for patients with advanced non-small-cell lung cancer (NSCLC). However, it remains unclear which patients benefit from the addition of CTLA-4 inhibitors. We aimed to evaluate whether dual checkpoint blockade with CTLA-4 and PD-L1 or PD-1 inhibitors provides similar efficacy to PD-L1 or PD-1 inhibitor monotherapy, or whether these strategies produce distinct outcomes across NSCLC subpopulations.\n\nMETHODS: We conducted a search of PubMed, MEDLINE, and Embase for randomised phase 3 trials published from database inception to Nov 21, 2024, that investigated PD-L1 or PD-1 inhibitors, with or without CTLA-4 inhibitors, in patients with advanced NSCLC. We focused on studies reporting Kaplan-Meier survival data at 5 years or biomarker analyses based on PD-L1, KRAS, and STK11 mutational status. Individual patient data were extracted from Kaplan-Meier curves with WebPlotDigitizer version 5 and reconstructed with the IPDfromKM method. The primary endpoint of the study was 5-year overall survival in the overall population and in subpopulations based on PD-L1 tumour proportion score (TPS), tumour histology, and mutational status (mutant vs wild-type) of KRAS and STK11. This study was registered with PROSPERO, CRD420251081707.\n\nFINDINGS: The initial search yielded 1026 results, and six randomised clinical trials met the eligibility criteria and were included. Among the 2881 patients eligible for analysis (838 [29·1%] female and 2043 [70·9%] male), 1282 received dual CTLA-4 and PD-L1 or PD-1 blockade and 1599 received single PD-L1 or PD-1 blockade. Patients treated with dual CTLA-4 and PD-L1 or PD-1 blockade had similar median overall survival compared with those treated with single PD-L1 or PD-1 inhibition (16·1 months [95% CI 15·0-17·8] vs 16·9 months [15·5-18·3]; HR 0·95 [95% CI 0·87-1·03], p=0·19). Median overall survival was significantly longer with dual CTLA-4 and PD-L1 or PD-1 blockade among patients with PD-L1 TPS less than 1% versus those treated with single PD-L1 or PD-1 inhibition (15·5 months [95% CI 13·6-18·5] vs 14·5 months [13·4-15·9]; HR 0·85 [95% CI 0·74-0·98], p=0·021), with 5-year overall survival rates of 16·6% (95% CI 13·4-20·6) versus 9·3% (7·0-12·3), respectively. Median overall survival in patients with tumours harbouring STK11 mutations was also significantly longer with dual CTLA-4 and PD-L1 or PD-1 blockade compared with single PD-L1 or PD-1 inhibition (13·9 months [95% CI 9·8-20·8] vs 7·8 months [6·4-12·9]; HR 0·67 [95% CI 0·49-0·91], p=0·012). However, no significant differences in overall survival were found between treatment groups by tumour histology (squamous vs non-squamous NSCLC) or by KRAS mutational status.\n\nINTERPRETATION: Compared with single PD-L1 or PD-1 inhibition, dual immune checkpoint blockade with CTLA-4 and PD-L1 or PD-1 inhibitors was associated with improved overall survival in patients with advanced NSCLC and PD-L1 TPS less than 1% and in those with STK11 mutations, but not in the overall population. Prospective validation of these results in clinical trials is warranted.\n\nFUNDING: NextGenerationUE."
+    },
+    {
+      "pmid": "40885528",
+      "doi": "10.1016/j.annonc.2025.08.003",
+      "title": "Early and locally advanced non-small-cell lung cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up.",
+      "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Guideline",
+      "study_class": "Guideline",
+      "is_oa": true,
+      "oa_url": "https://www.annalsofoncology.org/article/S0923-7534(25)00923-8/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40885528/",
+      "url_doi": "https://doi.org/10.1016/j.annonc.2025.08.003",
+      "abstract": null
     },
     {
       "pmid": "40813911",
@@ -449,6 +552,26 @@
       "abstract": null
     },
     {
+      "pmid": "41176132",
+      "doi": "10.1016/j.taap.2025.117625",
+      "title": "An intestinal matrix-based human lung cancer model reflects clinical data from gefitinib on dosage-dependent efficacy.",
+      "journal": "Toxicology and applied pharmacology",
+      "pubdate": "2025-10-30T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41176132/",
+      "url_doi": "https://doi.org/10.1016/j.taap.2025.117625",
+      "abstract": "Lung cancer is the leading cause for cancer related death worldwide. One treatment option for patients with pulmonary adenocarcinoma is the targeted therapy gefitinib (Iressa®, ZD1839). As with other promising targeted therapies, desired in vivo effects of gefitinib came short to in vitro expectations, as preclinical testing is hampered by an inaccuracy of existing models and resistances develop frequently. We analysed the pharmacodynamics of gefitinib in a 3D tissue engineered human lung cancer model of HCC827 cells, as well as a resistant subpopulation of HCCres A2 cells. In 2D cell culture, a cell viability of 50 % was reached after treatment with 0.01-0.05 μM gefitinib. In the 3D model administering higher doses of gefitinib did not lead to a further reduction in viability and proliferation, or an increase in apoptosis. This shows that the pharmacodynamic effect of promising new therapies can often be overestimated in 2D versus 3D models. The results we obtained for gefitinib testing in the 3D models reflect astonishing well the efficacy of priorly published clinical data, suggesting that our 3D tumor models can display in vivo conditions more accurately, bridging the gap to living organisms. To mimic the clinical setting further, the lung cancer cells were cultivated under dynamic conditions in a bioreactor. The exploration of a resistant subpopulation confirmed an epithelial-mesenchymal transition. The described 3D lung cancer model can be used as a refined, preclinical testing platform for targeted therapies and with clinically relevant pharmacodynamic properties as shown exemplary for gefitinib."
+    },
+    {
       "pmid": "40923797",
       "doi": "10.1056/NEJMoa2503001",
       "title": "Overall Survival with Amivantamab-Lazertinib in EGFR-Mutated Advanced NSCLC.",
@@ -489,6 +612,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41164890/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2579208",
       "abstract": "BACKGROUND: This prospective, observational study evaluated the real-world safety of osimertinib in a broad Chinese population with non-small cell lung cancer (NSCLC).\n\nMETHODS: Chinese NSCLC patients who received osimertinib were enrolled and followed up for 12 months. The primary endpoint was the incidence of adverse drug reactions (ADRs).\n\nRESULTS: From 20 April 2020 to 1 August 2022, 1,700 patients were enrolled from 30 centers, with 706 (41.5%) patients ≥65 years old. Osimertinib was administered as first-line, second-line, third/later-line and adjuvant therapy in 44.9%, 34.2%, 14.3% and 4.5% of the patients, respectively. ADRs, adverse events (AEs), Grade ≥3 AEs, and serious AEs were reported in 627 (36.9%), 959 (56.4%), 165 (9.7%), and 102 (6.0%) patients, respectively. AEs of special interests occurred in 59 (3.5%) patients, with 41 (2.4%) and 19 (1.1%) reporting QTc prolongation and interstitial lung disease/pneumonitis-like events, respectively. The safety profiles in patients ≥65 years old and those usually not included in randomized clinical trials were similar to that in the total population.\n\nCONCLUSION: This largest real-world safety study of osimertinib in China demonstrated that osimertinib was well-tolerated in a broad NSCLC population, including patients usually not included in randomized clinical trials, without new safety signals identified.\n\nCLINICAL TRIAL REGISTRATION: NCT03485326 (www.clinicaltrials.gov)."
+    },
+    {
+      "pmid": "41173143",
+      "doi": "10.1016/j.jtho.2025.10.016",
+      "title": "First-Line Sacituzumab Govitecan Plus Pembrolizumab in Metastatic NSCLC: PD-L1 TPS <50% and ≥50% Cohorts of the EVOKE-02 Study.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-10-29T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41173143/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.016",
+      "abstract": "INTRODUCTION: Sacituzumab govitecan (SG) is a Trop-2-directed antibody-drug conjugate previously studied in patients with pretreated metastatic non-small cell lung cancer (mNSCLC). Here, we report results of EVOKE-02 (NCT05186974), a global, open-label, multicohort phase 2 study of SG plus pembrolizumab as first-line treatment in patients with mNSCLC.\n\nMETHODS: Adult patients without prior systemic mNSCLC treatment, and no actionable genomic alterations, received SG 10 mg/kg intravenously on days 1 and 8 plus pembrolizumab 200 mg intravenously on day 1 of 21-day cycles. The primary endpoint was objective response rate (ORR) per independent review committee, and secondary endpoints included progression-free survival (PFS) and safety.\n\nRESULTS: As of data cutoff (June 3, 2024), there were 30 patients with programmed death-ligand 1 (PD-L1) tumor proportion score (TPS) ≥50% (Cohort A) and 62 patients with PD-L1 TPS <50% (Cohort B). ORR (95% confidence interval [CI]) was 66.7% (47.2%‒82.7%) for Cohort A and 29.0% (18.2%‒41.9%) for Cohort B. Median (95% CI) PFS was 13.1 (6.7‒not reached) months for Cohort A and 7.0 (4.2‒12.9) months for Cohort B. Trop-2 expression did not correlate with greater clinical efficacy (PFS, ORR) from treatment with SG plus pembrolizumab. Grade 3 or greater treatment-emergent adverse events (TEAEs) occurred in 70 patients (76.1%), the most common TEAE was neutropenia (17.4%). TEAEs leading to discontinuation of any study drug occurred in 25 patients (27.2%).\n\nCONCLUSIONS: SG plus pembrolizumab demonstrated activity as treatment for mNSCLC, especially in patients with PD-L1 TPS ≥50%. AEs were manageable and consistent with the known safety profile of each individual agent."
     },
     {
       "pmid": "41161592",
