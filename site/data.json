@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-02T05:17:37.363128Z",
+  "generated": "2025-11-03T05:19:08.804866Z",
   "items": [
     {
       "pmid": "41152910",
@@ -264,6 +264,46 @@
       "abstract": "BACKGROUND: Lung cancer is the world's deadliest cancer, and surgery offers cure for over 75% of patients. However, postoperative delirium (POD) impairs recovery, accelerates cognitive decline, and increases mortality. Despite evidence that multicomponent prevention can avert 30-40% of POD, its incidence and predictors in lung cancer surgery remain under-studied.\n\nMETHODS: We conducted a retrospective cohort study of adults (≥ 18 years) undergoing elective lung cancer surgery resection from 2010 to 2019 using the U.S. National Inpatient Sample. Emergency admissions, rib fractures, and preexisting delirium or dementia were excluded. POD was identified by ICD-9/10 codes. We extracted demographics, comorbidities, perioperative complications, length of stay, and costs. Wilcoxon rank-sum and χ² tests compared groups, and univariable and multivariable logistic regression-with stepwise selection and Bonferroni correction-identified independent POD predictors. Analyses were performed in R, with P < 0.05.\n\nRESULTS: Among 30,813 resections, 1,499 patients (4.86%) developed POD. Age ≥ 71 years (OR 2.10; 95% CI 1.75-2.51) and 61-70 years (OR 1.59; 1.35-1.88), female sex (OR 1.12; 1.01-1.24), teaching-hospital status (OR 1.38; 1.21-1.57), and more extensive resections (lobectomy OR 1.43; 1.28-1.60; pneumonectomy OR 2.58; 2.06-3.23) increased POD risk, whereas urban hospitals were protective (OR 0.71; 0.55-0.91). Preoperative neurological disorders (OR 5.62; 5.02-6.29), psychoses (OR 1.62; 1.35-1.95), fluid-electrolyte disorders (OR 1.27; 1.14-1.42), and hypertension (OR 1.21; 1.08-1.36) were independent predictors. Postoperative arrhythmia, deep-vein thrombosis, stroke, shock, urinary infection, and hypoxemia further elevated risk; chronic pulmonary disease and respiratory failure were protective.\n\nCONCLUSIONS: POD complicates nearly 5% of lung cancer resections. Key demographic, clinical, and institutional factors identify high-risk patients who may benefit from targeted, multicomponent prevention strategies in thoracic surgery."
     },
     {
+      "pmid": "41061426",
+      "doi": "10.1016/j.ejca.2025.116042",
+      "title": "Survival outcomes with carboplatin versus cisplatin and the impact of COVID-19 on platinum choice: A nationwide Netherlands registry study in small cell lung cancer patients (CACIS).",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-11-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ejca.2025.116042",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41061426/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116042",
+      "abstract": "BACKGROUND: Guidelines recommend cisplatin as the preferred platinum agent in the first-line treatment for small cell lung cancer (SCLC), especially limited-stage disease (LS-SCLC). However, during the COVID-19 pandemic, carboplatin use likely increased due to logistical advantages. We evaluated the pandemic's impact on platinum agent utilization in the Netherlands and compared overall survival (OS) and safety between cisplatin and carboplatin.\n\nMETHODS: Using Netherlands Cancer Registry data, first-line platinum-based treatments for LS-SCLC and extensive-stage SCLC (ES-SCLC) between 2018 and 2023 were analyzed. OS was evaluated using univariable and multivariable analyses. Grades 3-5 treatment-related adverse events were studied in three hospitals.\n\nFINDINGS: Overall, 1683 LS-SCLC (carboplatin, N = 1011[60 %]; cisplatin, N = 672[40 %]) and 3668 ES-SCLC (carboplatin, N = 3002[82 %]; cisplatin, N = 666[18 %]) patients were included. During the pandemic, quarterly usage rates of carboplatin reached up to 81 % and 90 % in LS-SCLC and ES-SCLC, respectively. In LS-SCLC, univariable analysis showed significantly shorter median OS with carboplatin compared to cisplatin (17.9m vs. 26.3m; HR, 1.48; 95 %CI, 1.31-1.68; p < 0.001). Similar findings were observed in ES-SCLC (8.0m vs. 9.3m; HR, 1.19; 95 %CI, 1.09-1.30; p < 0.001). However, multivariable analyses, after adjusting for confounders, showed no significant OS differences in either LS-SCLC (HR, 1.06; 95 %CI, 0.90-1.25; p = 0.463) or ES-SCLC (HR, 1.01; 95 %CI, 0.92-1.12; p = 0.785). Confounders were performance status (PS), age, sex, and chemoradiotherapy type for LS-SCLC, and PS, age, sex, stage, and liver metastases for ES-SCLC. Hematologic toxicity was higher with carboplatin, while cisplatin led to more nonhematologic toxicity.\n\nINTERPRETATION: These findings challenge the long-standing belief of cisplatin's superiority and support the adoption of carboplatin in SCLC."
+    },
+    {
+      "pmid": "41033152",
+      "doi": "10.1016/j.ejca.2025.116011",
+      "title": "Early years, advanced disease: The unmet need in young adults with non-small cell lung cancer.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-11-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ejca.2025.116011",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41033152/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116011",
+      "abstract": "INTRODUCTION: Young adults are a minority of lung cancer (LC) patients, however, clinical presentation and cancer biology can differ. Here, we report the first German cohort study of young adults with LC.\n\nMETHODS: We included patients diagnosed with LC between 2019 and 2023 at the West German Cancer Centre (University Medicine Essen) in this retrospective cohort study. For analysis of clinicogenomic baseline characteristics and overall survival (OS), patients were stratified by age at diagnosis into a young cohort (YC; n = 56, ≤45 years), an older cohort (OC; n = 2.682, >45 years) and analysed across age decades.\n\nRESULTS: 71 of 2.738 patients with LC (2.59 %) were ≤ 45 years old. 56/71 were diagnosed with NSCLC or SCLC. YC frequently reported no history of smoking (21 % vs. 6 %; p < 0.001). Among YC, adenocarcinoma (59 % vs. 49 %) and NSCLC not-otherwise-specified (NSCLC NOS; 27 % vs. 8.2 %) were the dominant histological subtypes (p < 0.001). Stage IV disease was significantly more common in YC (stage IV: 66 % vs. 44 %; p = 0.005) with more frequent regional lymph node involvement (N1-N3 79 % vs. 56.9 %) and extrathoracic lymph node metastases (38 % vs. 14 %; p < 0.001). Frequent targetable genomic alterations in YC included ALK translocations (21 % vs. 2.2 %; p < 0.001). YC with metastatic NSCLC had similar median OS compared to OC, although OS was improved in those with targetable alterations.\n\nCONCLUSION: Early-onset LC is characterized by advanced disease stage, adenocarcinoma histopathology and frequent targetable genomic alterations, especially in patients without a history of smoking. Early diagnosis remains a critical unmet medical need in this subgroup of patients."
+    },
+    {
       "pmid": "40581332",
       "doi": "10.1016/j.ijrobp.2025.06.3854",
       "title": "Treatment Toxicity and Outcomes Following Definitive Radiation Therapy for Patients With Early-Stage Non-Small Cell Lung Cancers and Pre-Existing Interstitial Lung Disease-A Systematic Review and Dosimetric Analysis.",
@@ -336,8 +376,8 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://www.jto.org/article/S1556-0864(25)02853-9/pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41175134/",
@@ -632,46 +672,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41173143/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.016",
       "abstract": "INTRODUCTION: Sacituzumab govitecan (SG) is a Trop-2-directed antibody-drug conjugate previously studied in patients with pretreated metastatic non-small cell lung cancer (mNSCLC). Here, we report results of EVOKE-02 (NCT05186974), a global, open-label, multicohort phase 2 study of SG plus pembrolizumab as first-line treatment in patients with mNSCLC.\n\nMETHODS: Adult patients without prior systemic mNSCLC treatment, and no actionable genomic alterations, received SG 10 mg/kg intravenously on days 1 and 8 plus pembrolizumab 200 mg intravenously on day 1 of 21-day cycles. The primary endpoint was objective response rate (ORR) per independent review committee, and secondary endpoints included progression-free survival (PFS) and safety.\n\nRESULTS: As of data cutoff (June 3, 2024), there were 30 patients with programmed death-ligand 1 (PD-L1) tumor proportion score (TPS) ≥50% (Cohort A) and 62 patients with PD-L1 TPS <50% (Cohort B). ORR (95% confidence interval [CI]) was 66.7% (47.2%‒82.7%) for Cohort A and 29.0% (18.2%‒41.9%) for Cohort B. Median (95% CI) PFS was 13.1 (6.7‒not reached) months for Cohort A and 7.0 (4.2‒12.9) months for Cohort B. Trop-2 expression did not correlate with greater clinical efficacy (PFS, ORR) from treatment with SG plus pembrolizumab. Grade 3 or greater treatment-emergent adverse events (TEAEs) occurred in 70 patients (76.1%), the most common TEAE was neutropenia (17.4%). TEAEs leading to discontinuation of any study drug occurred in 25 patients (27.2%).\n\nCONCLUSIONS: SG plus pembrolizumab demonstrated activity as treatment for mNSCLC, especially in patients with PD-L1 TPS ≥50%. AEs were manageable and consistent with the known safety profile of each individual agent."
-    },
-    {
-      "pmid": "41161592",
-      "doi": "10.1016/j.jtho.2025.10.013",
-      "title": "Neoadjuvant Immunochemotherapy in Resectable NSCLC with SMARCA4 Alterations.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-10-27T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41161592/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.013",
-      "abstract": "INTRODUCTION: Neoadjuvant immunochemotherapy has improved pathological complete response (pCR) rates and event-free survival in resectable NSCLC, yet its efficacy in SMARCA4-altered NSCLC, a subset associated with poor prognosis, remains unclear.\n\nMETHODS: We retrospectively analyzed clinical characteristic and next-generation sequencing of 29 SMARCA4-altered NSCLC patients with neoadjuvant immunochemotherapy from Guangdong Provincial People's Hospital. The Cancer Genome Atlas (TCGA) of lung adenocarcinoma (LUAD) were classification by SMARCA4 condition by WXS and was further analyzed the difference between two group. In altered group, BostonGene molecular functional portraits was used for tumor environment classification.\n\nRESULTS: 29 SMARCA4-altered NSCLC patients recevied neoadjuvant immunochemotherapy, the objective response rate was 70.4% and the pCR rate was 51.7%. The pCR rate significantly differed among pathological subgroups (squamous cell carcinoma vs adenocarcinoma, 83.3% vs. 28.6%, p = 0.045). After a median follow-up of 17 months, 7 patients relapsed and 1 died from non-cancer causes. SMARCA4 alterations were associated with early progression (42.8%) with a median event-free survival of 13 months, although some patients achieved durable survival. All patients harboring co-occurring KRAS with KEAP1/STK11 mutations relapsed. TCGA data showed SMARCA4-altered LUAD had worse survival (34.8 vs. 50.9 months, p = 0.033), downregulation innate immunity, and enrichment of mTOR/MYC signaling. Immune classification revealed both immune-desert and immune-enriched subtypes within the altered cohort. The lacking immune cell infiltration group showed significantly shorter overall survival compared to immune-enriched subtypes (28.8 vs. 49.9 months, p = 0.043).\n\nCONCLUSIONS: In conclusion, SMARCA4-altered NSCLC is heterogeneous. SCC demonstrates remarkable sensitivity with immunochemotherapy, while non-SCC, especially with KRAS+KEAP1/STK11 co-mutations, represents a distinct, immune-cold, high-risk subtype."
-    },
-    {
-      "pmid": "41143757",
-      "doi": "10.1016/j.jtho.2025.10.004",
-      "title": "Corrigendum to 'Impact of concurrent genomic alterations on clinical outcomes in patients with ALK-rearranged non-small cell lung cancer' [Journal of Thoracic Oncology, Volume 19 Issue 1 (2024) 119-129].",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-10-27T00:00:00+00:00",
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://www.jto.org/article/S1556-0864(25)02849-7/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41143757/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.004",
-      "abstract": null
     }
   ]
 }
