@@ -1,12 +1,12 @@
 {
-  "generated": "2025-11-03T05:19:08.804866Z",
+  "generated": "2025-11-04T05:17:14.289144Z",
   "items": [
     {
-      "pmid": "41152910",
-      "doi": "10.1186/s12943-025-02493-6",
-      "title": "IFITM3-MET interaction drives osimertinib resistance through AKT pathway activation in EGFR-mutant non-small cell lung cancer.",
-      "journal": "Molecular cancer",
-      "pubdate": "2025-10-28T00:00:00+00:00",
+      "pmid": "40762432",
+      "doi": "10.1158/2159-8290.CD-24-1515",
+      "title": "Eradicating Drug-tolerant Persister Cells in EGFR-Mutated Non-Small Cell Lung Cancer by Targeting TROP2 with CAR-T Cellular Therapy.",
+      "journal": "Cancer discovery",
+      "pubdate": "2025-11-03T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
@@ -14,12 +14,12 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/s12943-025-02493-6",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12374242",
       "metric_name": "SJR",
-      "metric_value": 9.263,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41152910/",
-      "url_doi": "https://doi.org/10.1186/s12943-025-02493-6",
-      "abstract": "BACKGROUND: Despite an initial favorable response of EGFR-mutant non-small cell lung cancer (NSCLC) to osimertinib, an EGFR tyrosine kinase inhibitor (TKI), resistance to this drug inevitably develops. Whereas genetic mechanisms for such acquired resistance have been identified, the molecular mediators of resistance induction have remained unclear.\n\nMETHODS: To identify factors that mediate induction of osimertinib resistance, we studied clinical samples from individuals with EGFR-mutant NSCLC as well as cell lines including PC-9 and H1975. Methods adopted included transcriptomics analysis and immunohistochemistry of pretreatment NSCLC specimens, spatial transcriptomics analysis, a cell viability assay, immunofluorescence and quantitative PCR analysis, RNA sequencing, immunoblot analysis, comprehensive proteomics analysis by mass spectrometry, co-immunoprecipitation and proximity ligation assays, and a mouse xenograft tumor model.\n\nRESULTS: Transcriptomics analysis of pretreatment clinical specimens identified IFITM3 (interferon-induced transmembrane protein 3) as a gene specifically upregulated in patients with a poor response to osimertinib treatment. Immunohistochemistry confirmed that patients with IFITM3-positive tumors experienced a shorter progression-free survival on osimertinib treatment. Spatial transcriptomics and other analyses further revealed that IFITM3 expression in tumor cells was increased in response to cytokines derived from the tumor microenvironment (TME) during osimertinib treatment. IFITM3 was found to promote the development of osimertinib resistance in NSCLC cell lines through interaction with MET and activation of the AKT signaling pathway. Furthermore, combined treatment with a MET inhibitor suppressed the development of osimertinib resistance in a mouse xenograft tumor model.\n\nCONCLUSIONS: Our findings reveal that upregulation of IFITM3 driven by TME cytokines represents a previously unrecognized mechanism of osimertinib resistance, and they suggest that targeting of the IFITM3-MET axis may improve EGFR-TKI treatment outcome for EGFR-mutant NSCLC."
+      "metric_value": 7.283,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40762432/",
+      "url_doi": "https://doi.org/10.1158/2159-8290.CD-24-1515",
+      "abstract": "UNLABELLED: EGFR tyrosine kinase inhibitors have dramatically improved outcomes for patients with EGFR-mutated non-small cell lung cancer (NSCLC), but relapse frequently occurs because of drug-tolerant persister (DTP) cells that can evolve and develop diverse mechanisms of drug resistance. In samples from patients with EGFR-mutated NSCLC treated with EGFR tyrosine kinase inhibitors in the neoadjuvant setting, we observed enriched expression of the cell surface protein TROP2, a target of clinically active antibody-drug conjugates (ADC). We confirmed these findings across multiple EGFR-mutated NSCLC cell line and patient-derived xenograft models treated with osimertinib in vivo. Treatment with the TROP2 ADC sacituzumab govitecan at the time of osimertinib-induced minimal residual disease only modestly delayed tumor recurrence in vivo, whereas a single infusion of sacituzumab-based TROP2-directed chimeric antigen receptor (CAR) T cells significantly prolonged relapse-free survival, with evidence of cure. These data highlight the potential of engineering TROP2 CAR T-cell therapy to eliminate EGFR DTPs in patients.\n\nSIGNIFICANCE: We provide a rationale for targeting TROP2 in EGFR-mutated NSCLC DTPs. In contrast to TROP2 ADC therapy, targeting of TROP2 with CAR-T cells can eliminate osimertinib-induced DTPs in vivo, revealing the promise of developing novel TROP2-based CAR-T cells to promote durable response and prevent disease relapse in patients."
     },
     {
       "pmid": "41173494",
@@ -82,46 +82,6 @@
       "abstract": "Small molecule KRASG12C(OFF) inhibitors that bind to the inactive GDP-bound state of KRAS have demonstrated efficacy in patients with KRASG12C mutant tumors, yet responses tend to be transient due to emergence of on-treatment resistance. Recently, RAS(ON) G12C-selective inhibitors, which bind to the active GTP-bound state of RAS, were described, and elironrasib is undergoing evaluation in multiple clinical trials. Here, we generated resistant cell lines and patient-derived xenograft models to KRASG12C(OFF) and RAS(ON) G12C-selective inhibitors and interrogated resistance mechanisms using a multi-omics strategy consisting of phosphoproteomics, whole exome sequencing, and RNA-sequencing combined with functional testing using small molecule and CRISPR screens and RAS(ON) inhibitors being evaluated in clinical trials. Two models reactivated RAS signaling, either via KRASG12C gene amplification or NRASG13R mutation, and were vulnerable to dual inhibition by RAS(ON) G12C-selective and RAS(ON) multi-selective inhibitors, RMC-4998 and RMC-7977. Two models, which lacked any discernable genomic alteration, acquired resistance associated with increased receptor tyrosine kinase activity and downstream persistent RAS activity and were sensitive to RAS-GTP inhibition by RMC-7977. Finally, one model displayed epithelial-mesenchymal transition, loss of RAS dependance, and acquired reliance on cell cycle kinases and proteins associated with DNA damage response. This work highlights KRASG12C-selective inhibitor resistant states that parallel and complement clinical findings and demonstrate that a large subset could be overcome with a RAS(ON) multi-selective inhibitor as a standalone agent or in combination with other therapies."
     },
     {
-      "pmid": "41150899",
-      "doi": "10.1158/0008-5472.CAN-25-1407",
-      "title": "Large-Scale T Cell Receptor Repertoire Profiling Unveils Tumor-Specific Signals for Diagnosing Indeterminate Pulmonary Nodules.",
-      "journal": "Cancer research",
-      "pubdate": "2025-10-28T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerres/article-pdf/doi/10.1158/0008-5472.CAN-25-1407/3665940/can-25-1407.pdf",
-      "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41150899/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1407",
-      "abstract": "Indeterminate pulmonary nodules (IPNs) are increasingly detected due to rising health awareness and widespread lung cancer screening, yet distinguishing benign from malignant nodules remains a critical challenge. Emerging evidence suggests that recognizing cancer-associated immune signatures represents a powerful approach for early-stage cancer detection. This study explored the clinical utility of T cell receptor (TCR) repertoire analysis in IPN evaluation. By conducting large-scale TCR sequencing (6,059 blood and 988 tumor samples), we established LungTCR (https://www.lungtcr.com/), a comprehensive TCR repertoire database and proposed a method for quantitative assessment of tumor-related immune responses. LungTCR was leveraged to develop TCRnodseek plus, a diagnostic model integrating clinical data, CT imaging, and TCR features. A multi-center prospective study (ChiCTR2200055761) involving 1,107 IPN patients validated the superior diagnostic performance of TCRnodseek plus over existing approaches. Mechanistic analyses revealed that the identified lung cancer-related TCR clones are enriched in non-small cell lung cancer (NSCLC) and predominantly present in malignant nodules and tumor tissues. This study provides a robust TCR database and an advanced diagnostic model, offering a framework for precise IPN differentiation."
-    },
-    {
-      "pmid": "41152458",
-      "doi": "10.1038/s41698-025-01089-z",
-      "title": "Diversity of BRAF mutations in non-small cell lung cancer and implications on treatment.",
-      "journal": "NPJ precision oncology",
-      "pubdate": "2025-10-28T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41698-025-01089-z.pdf",
-      "metric_name": "SJR",
-      "metric_value": 3.37,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41152458/",
-      "url_doi": "https://doi.org/10.1038/s41698-025-01089-z",
-      "abstract": "The optimal treatment sequence in non-small cell lung cancer harboring class I BRAF mutations and atypical BRAF variants remains unclear. To better characterize therapeutic strategy, we retrospectively evaluated a multi-institutional cohort of BRAF-mutant NSCLC patients (n = 97) and an independent clinico-genomic database (n = 342), performed structural modeling, and conducted chemical screens of BRAF-mutant cell lines. Patients with class I BRAF mutation treated with BRAF-MEK inhibitors at any line of therapy had significantly greater median overall survival compared to those who did not receive BRAF-MEK inhibitors (40 vs 10 months, Log-rank p = 0.043). There, however, was no significant survival difference between patients treated with immune checkpoint inhibitors versus those not treated. Tumors with class II or III BRAF variants were significantly more likely to harbor concurrent MAPK pathway alterations relative to class I (Chi-Square p < 10"
-    },
-    {
       "pmid": "40189749",
       "doi": "10.1080/2162402X.2025.2484880",
       "title": "Surrogate markers of intestinal dysfunction associated with survival in advanced cancers.",
@@ -160,6 +120,28 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40650354/",
       "url_doi": "https://doi.org/10.1002/ijc.70045",
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
+    },
+    {
+      "pmid": "40976711",
+      "doi": "10.1111/cas.70188",
+      "title": "Durvalumab Post Concurrent Chemoradiotherapy in Japanese Patients With Limited-Stage Small-Cell Lung Cancer in the Phase 3 ADRIATIC Trial.",
+      "journal": "Cancer science",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.70188",
+      "metric_name": "SJR",
+      "metric_value": 1.661,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40976711/",
+      "url_doi": "https://doi.org/10.1111/cas.70188",
+      "abstract": "At the first interim analysis of the global, randomized, phase 3, double-blind ADRIATIC trial in patients with limited-stage small-cell lung cancer (LS-SCLC) not progressing after concurrent chemoradiotherapy (cCRT), consolidation durvalumab significantly improved overall survival (OS; hazard ratio [HR] 0.73) and progression-free survival (PFS) by blinded independent central review (BICR; HR 0.76) versus placebo (dual primary endpoints). We report an exploratory analysis in patients enrolled in Japan. Patients received durvalumab 1500 mg (N = 264), durvalumab+tremelimumab 75 mg (4 doses, N = 200; arm remained blinded), or placebo (N = 266) every 4 weeks for ≤ 24 months. Prior cCRT ± prophylactic cranial irradiation (PCI) was per local standards of care. In the Japan subgroup, 19 and 31 patients received durvalumab and placebo, respectively; prior cCRT comprised cisplatin-etoposide/carboplatin-etoposide in 94.7/5.3% and 87.1/12.9% and once-daily/twice-daily radiotherapy in 10.5/89.5% and 0/100%; 52.6% and 58.1% received PCI. Median OS was not reached versus 44.9 months (3-year OS 67.4% versus 58.1%; HR 0.67, 95% CI 0.24-1.62). Median PFS by BICR was 44.2 versus 29.4 months (24-month PFS 59.6% vs. 58.6%; HR 1.05, 95% CI 0.44-2.36); median PFS by investigator assessment (sensitivity analysis) was 44.2 versus 19.7 months (24-month PFS 65.6% vs. 47.0%; HR 0.68, 95% CI 0.28-1.51). With durvalumab and placebo, 21.1% and 19.4% had maximum grade 3-4 adverse events (AEs), 21.1% and 9.7% had AEs leading to treatment discontinuation, and 52.6% and 45.2% had pneumonitis/radiation pneumonitis (grade 3-4: 0% and 6.5%). In conclusion, consolidation durvalumab demonstrated a favorable risk/benefit profile in Japanese patients with LS-SCLC post cCRT. Trial Registration: ClinicalTrials.gov identifier: NCT03703297."
     },
     {
       "pmid": "41166388",
@@ -242,6 +224,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40738833/",
       "url_doi": "https://doi.org/10.1016/j.cllc.2025.07.003",
       "abstract": "BACKGROUND: Atezolizumab combined to carboplatin and etoposide prolonged survival in the IMpower133 trial of untreated extensive-stage small-cell lung cancer (ES-SCLC). Aim of this analysis is to provide end-of-study results from the phase IIIb MAURIS study on the efficacy and safety of atezolizumab plus chemotherapy in the same disease setting, in a patient population with broader inclusion criteria.\n\nMATERIALS AND METHODS: MAURIS is a multicentric, open-label, single-arm study conducted between 2019 and 2023 in 25 Italian study centres. A total of 155 patients with untreated ES-SCLC were enrolled. Treatment was based on atezolizumab 1200 mg + carboplatin + etoposide every 21 days, for 4 to 6 cycles, during the induction phase, and atezolizumab every 3 weeks during the maintenance phase. Safety, overall survival (OS) and progression-free survival (PFS) were among study endpoints.\n\nRESULTS: The median OS at end of study was 10.6 months, with OS rates of 45.5% at 1 year, 31.0% at 1.5 years, 17.1% at 2 years and 14.5% at 3 years. The median PFS was 5.5 months. Serious adverse events (AEs) occurred in 38.3% of patients, treatment-related serious AEs in 21.4%, and immuno-mediated treatment-emergent AEs in 26.6% of patients. Immune-mediated grade 3 to 4 AEs were inversely related with mortality (hazard ratio, HR = 0.36; 95% confidence interval, CI: 0.13-0.97) in a multivariate analysis.\n\nCONCLUSION: This study showed consistent findings with the IMpower133 trial on the safety and efficacy of atezolizumab plus chemotherapy in first-line treatment of ES-SCLC. Long-term survival of a subgroup of patients was also confirmed."
+    },
+    {
+      "pmid": "41177727",
+      "doi": "10.1016/j.clinthera.2025.09.019",
+      "title": "Real-World Characteristics, Treatment Patterns, and Outcomes in Advanced HER2 (ERBB2)-Mutant Non-Small Cell Lung Cancer: A Retrospective Study of Single Centers in France and Germany.",
+      "journal": "Clinical therapeutics",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.clinicaltherapeutics.com/article/S0149-2918(25)00345-5/pdf",
+      "metric_name": "SJR",
+      "metric_value": 0.978,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41177727/",
+      "url_doi": "https://doi.org/10.1016/j.clinthera.2025.09.019",
+      "abstract": "PURPOSE: Human epidermal growth factor receptor 2 (HER2 [ERBB2]) gene mutations occur in ∼3-5% of non-small cell lung cancer (NSCLC) cases and are associated with poor prognosis. However, real-world data on patients with HER2-mutant (HER2m) NSCLC are needed.\n\nMETHODS: This retrospective, observational study evaluated characteristics, treatment patterns, and clinical outcomes of patients with advanced nonsquamous HER2m NSCLC from the Institut Curie (France) and Thoraxklinik Heidelberg (Germany) between 2011 and 2022.\n\nFINDINGS: Of the 55 patients (Curie: n = 17; Heidelberg: n = 38) included in the study, median age at diagnosis was 66 years (range, 22-90), 63.6% were female, and 50.9% had no history of smoking. Forty-eight (87.3%) patients received ≥1 line of therapy, 29 (52.7%) received ≥2 lines of therapy, and 19 (34.5%) received ≥3 lines of therapy. The most common first-line treatment was platinum-based and non-platinum-based chemotherapy (54.2%, n/n = 26/48); treatment patterns in the second- and third-line settings were more diverse than in the first-line setting. Median overall survival was 14.2 months (95% confidence interval [CI] 11.2, 23.2; n = 55) from the diagnosis of advanced disease and 16.5 months (12.3, 29.8; n = 48) from the start of first-line treatment. Median progression-free survival was 5.1 months (95% CI 3.5, 8.5; n = 48) and 4.0 months (2.4, 6.3; n = 29) from the start of first- and second-line treatment, respectively.\n\nIMPLICATIONS: Patients with advanced HER2m NSCLC had a poor prognosis despite treatment with standard-of-care regimens available during the study period. These findings highlight the need for novel therapeutic options to improve clinical outcomes for patients with HER2m NSCLC."
     },
     {
       "pmid": "41163147",
