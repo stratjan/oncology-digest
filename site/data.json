@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-04T05:17:14.289144Z",
+  "generated": "2025-11-05T05:17:33.362348Z",
   "items": [
     {
       "pmid": "40762432",
@@ -144,6 +144,26 @@
       "abstract": "At the first interim analysis of the global, randomized, phase 3, double-blind ADRIATIC trial in patients with limited-stage small-cell lung cancer (LS-SCLC) not progressing after concurrent chemoradiotherapy (cCRT), consolidation durvalumab significantly improved overall survival (OS; hazard ratio [HR] 0.73) and progression-free survival (PFS) by blinded independent central review (BICR; HR 0.76) versus placebo (dual primary endpoints). We report an exploratory analysis in patients enrolled in Japan. Patients received durvalumab 1500 mg (N = 264), durvalumab+tremelimumab 75 mg (4 doses, N = 200; arm remained blinded), or placebo (N = 266) every 4 weeks for ≤ 24 months. Prior cCRT ± prophylactic cranial irradiation (PCI) was per local standards of care. In the Japan subgroup, 19 and 31 patients received durvalumab and placebo, respectively; prior cCRT comprised cisplatin-etoposide/carboplatin-etoposide in 94.7/5.3% and 87.1/12.9% and once-daily/twice-daily radiotherapy in 10.5/89.5% and 0/100%; 52.6% and 58.1% received PCI. Median OS was not reached versus 44.9 months (3-year OS 67.4% versus 58.1%; HR 0.67, 95% CI 0.24-1.62). Median PFS by BICR was 44.2 versus 29.4 months (24-month PFS 59.6% vs. 58.6%; HR 1.05, 95% CI 0.44-2.36); median PFS by investigator assessment (sensitivity analysis) was 44.2 versus 19.7 months (24-month PFS 65.6% vs. 47.0%; HR 0.68, 95% CI 0.28-1.51). With durvalumab and placebo, 21.1% and 19.4% had maximum grade 3-4 adverse events (AEs), 21.1% and 9.7% had AEs leading to treatment discontinuation, and 52.6% and 45.2% had pneumonitis/radiation pneumonitis (grade 3-4: 0% and 6.5%). In conclusion, consolidation durvalumab demonstrated a favorable risk/benefit profile in Japanese patients with LS-SCLC post cCRT. Trial Registration: ClinicalTrials.gov identifier: NCT03703297."
     },
     {
+      "pmid": "41184595",
+      "doi": "10.1007/s11523-025-01182-0",
+      "title": "Amivantamab-Chemotherapy in Non-Small Cell Lung Cancer with EGFR Exon 20 Insertions: Impact of Treatment Crossover and Other Endpoints from the Phase III PAPILLON Study.",
+      "journal": "Targeted oncology",
+      "pubdate": "2025-11-03T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Phase III",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.645,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41184595/",
+      "url_doi": "https://doi.org/10.1007/s11523-025-01182-0",
+      "abstract": "BACKGROUND: In the PAPILLON study, first-line amivantamab-chemotherapy in epidermal growth factor receptor (EGFR) exon 20 insertion-mutated non-small cell lung cancer demonstrated significantly prolonged progression-free survival and favorable overall survival over chemotherapy; a consistent benefit was also observed across some secondary endpoints. However, the complete clinical benefit of first-line amivantamab-chemotherapy is not fully understood, nor is the survival advantage in the presence of per-protocol crossover from chemotherapy to amivantamab after progression.\n\nOBJECTIVE: We aimed to assess time to treatment discontinuation (TTD) and time to subsequent therapy (TTST), at the time of primary analysis for progression-free survival, and the effect of the crossover design on overall survival at the time of interim analysis.\n\nMETHODS: In the phase III PAPILLON study, 308 participants were randomized (amivantamab-chemotherapy, n = 153; chemotherapy, n = 155). Intravenous amivantamab was administered every 3 weeks. Chemotherapy was administered as carboplatin for four cycles and pemetrexed until disease progression. TTD and TTST were evaluated using Kaplan-Meier and Cox proportional hazards models. Crossover-adjusted survival estimates were generated using three established statistical methods.\n\nRESULTS: At a median follow-up of 14.9 months, median TTD was 13.2 versus 7.5 months for amivantamab-chemotherapy versus chemotherapy (hazard ratio [HR] 0.38 [95% confidence interval 0.28-0.51]; nominal p < 0.0001). Median TTST was 17.7 versus 9.9 months (HR 0.35 [95% confidence interval 0.25-0.49]; nominal p < 0.0001). A total of 65/155 participants crossed over from chemotherapy to amivantamab after progression. The crossover-adjusted overall survival continued to demonstrate a favorable survival benefit for amivantamab-chemotherapy versus chemotherapy with HRs of 0.52-0.60, which is more pronounced than the planned interim intention-to-treat overall survival (HR of 0.67; 95% confidence interval 0.42-1.09).\n\nCONCLUSIONS: In PAPILLON, TTD and TTST were substantially longer for amivantamab-chemotherapy versus chemotherapy at primary analysis (cut-off on 3 May 2023). Crossover-adjusted analyses of the planned interim overall survival demonstrated a greater benefit for amivantamab-chemotherapy versus chemotherapy, further supporting amivantamab-chemotherapy as the first-line standard of care in EGFR exon 20 insertion-mutated non-small cell lung cancer.\n\nCLINICAL TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04538664."
+    },
+    {
       "pmid": "41166388",
       "doi": "10.1158/2767-9764.CRC-25-0359",
       "title": "Phase I/II Study of AXL-Specific Antibody-Drug Conjugate Enapotamab Vedotin in Patients With Advanced Solid Tumors.",
@@ -244,26 +264,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41177727/",
       "url_doi": "https://doi.org/10.1016/j.clinthera.2025.09.019",
       "abstract": "PURPOSE: Human epidermal growth factor receptor 2 (HER2 [ERBB2]) gene mutations occur in ∼3-5% of non-small cell lung cancer (NSCLC) cases and are associated with poor prognosis. However, real-world data on patients with HER2-mutant (HER2m) NSCLC are needed.\n\nMETHODS: This retrospective, observational study evaluated characteristics, treatment patterns, and clinical outcomes of patients with advanced nonsquamous HER2m NSCLC from the Institut Curie (France) and Thoraxklinik Heidelberg (Germany) between 2011 and 2022.\n\nFINDINGS: Of the 55 patients (Curie: n = 17; Heidelberg: n = 38) included in the study, median age at diagnosis was 66 years (range, 22-90), 63.6% were female, and 50.9% had no history of smoking. Forty-eight (87.3%) patients received ≥1 line of therapy, 29 (52.7%) received ≥2 lines of therapy, and 19 (34.5%) received ≥3 lines of therapy. The most common first-line treatment was platinum-based and non-platinum-based chemotherapy (54.2%, n/n = 26/48); treatment patterns in the second- and third-line settings were more diverse than in the first-line setting. Median overall survival was 14.2 months (95% confidence interval [CI] 11.2, 23.2; n = 55) from the diagnosis of advanced disease and 16.5 months (12.3, 29.8; n = 48) from the start of first-line treatment. Median progression-free survival was 5.1 months (95% CI 3.5, 8.5; n = 48) and 4.0 months (2.4, 6.3; n = 29) from the start of first- and second-line treatment, respectively.\n\nIMPLICATIONS: Patients with advanced HER2m NSCLC had a poor prognosis despite treatment with standard-of-care regimens available during the study period. These findings highlight the need for novel therapeutic options to improve clinical outcomes for patients with HER2m NSCLC."
-    },
-    {
-      "pmid": "41163147",
-      "doi": "10.1186/s12893-025-03263-3",
-      "title": "Incidence and risk factors of postoperative delirium in patients undergoing elective lung cancer surgery : a retrospective study using the national inpatient sample database.",
-      "journal": "BMC surgery",
-      "pubdate": "2025-10-29T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://bmcsurg.biomedcentral.com/counter/pdf/10.1186/s12893-025-03263-3",
-      "metric_name": "SJR",
-      "metric_value": 0.572,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41163147/",
-      "url_doi": "https://doi.org/10.1186/s12893-025-03263-3",
-      "abstract": "BACKGROUND: Lung cancer is the world's deadliest cancer, and surgery offers cure for over 75% of patients. However, postoperative delirium (POD) impairs recovery, accelerates cognitive decline, and increases mortality. Despite evidence that multicomponent prevention can avert 30-40% of POD, its incidence and predictors in lung cancer surgery remain under-studied.\n\nMETHODS: We conducted a retrospective cohort study of adults (≥ 18 years) undergoing elective lung cancer surgery resection from 2010 to 2019 using the U.S. National Inpatient Sample. Emergency admissions, rib fractures, and preexisting delirium or dementia were excluded. POD was identified by ICD-9/10 codes. We extracted demographics, comorbidities, perioperative complications, length of stay, and costs. Wilcoxon rank-sum and χ² tests compared groups, and univariable and multivariable logistic regression-with stepwise selection and Bonferroni correction-identified independent POD predictors. Analyses were performed in R, with P < 0.05.\n\nRESULTS: Among 30,813 resections, 1,499 patients (4.86%) developed POD. Age ≥ 71 years (OR 2.10; 95% CI 1.75-2.51) and 61-70 years (OR 1.59; 1.35-1.88), female sex (OR 1.12; 1.01-1.24), teaching-hospital status (OR 1.38; 1.21-1.57), and more extensive resections (lobectomy OR 1.43; 1.28-1.60; pneumonectomy OR 2.58; 2.06-3.23) increased POD risk, whereas urban hospitals were protective (OR 0.71; 0.55-0.91). Preoperative neurological disorders (OR 5.62; 5.02-6.29), psychoses (OR 1.62; 1.35-1.95), fluid-electrolyte disorders (OR 1.27; 1.14-1.42), and hypertension (OR 1.21; 1.08-1.36) were independent predictors. Postoperative arrhythmia, deep-vein thrombosis, stroke, shock, urinary infection, and hypoxemia further elevated risk; chronic pulmonary disease and respiratory failure were protective.\n\nCONCLUSIONS: POD complicates nearly 5% of lung cancer resections. Key demographic, clinical, and institutional factors identify high-risk patients who may benefit from targeted, multicomponent prevention strategies in thoracic surgery."
     },
     {
       "pmid": "41061426",
@@ -654,26 +654,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41164890/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2579208",
       "abstract": "BACKGROUND: This prospective, observational study evaluated the real-world safety of osimertinib in a broad Chinese population with non-small cell lung cancer (NSCLC).\n\nMETHODS: Chinese NSCLC patients who received osimertinib were enrolled and followed up for 12 months. The primary endpoint was the incidence of adverse drug reactions (ADRs).\n\nRESULTS: From 20 April 2020 to 1 August 2022, 1,700 patients were enrolled from 30 centers, with 706 (41.5%) patients ≥65 years old. Osimertinib was administered as first-line, second-line, third/later-line and adjuvant therapy in 44.9%, 34.2%, 14.3% and 4.5% of the patients, respectively. ADRs, adverse events (AEs), Grade ≥3 AEs, and serious AEs were reported in 627 (36.9%), 959 (56.4%), 165 (9.7%), and 102 (6.0%) patients, respectively. AEs of special interests occurred in 59 (3.5%) patients, with 41 (2.4%) and 19 (1.1%) reporting QTc prolongation and interstitial lung disease/pneumonitis-like events, respectively. The safety profiles in patients ≥65 years old and those usually not included in randomized clinical trials were similar to that in the total population.\n\nCONCLUSION: This largest real-world safety study of osimertinib in China demonstrated that osimertinib was well-tolerated in a broad NSCLC population, including patients usually not included in randomized clinical trials, without new safety signals identified.\n\nCLINICAL TRIAL REGISTRATION: NCT03485326 (www.clinicaltrials.gov)."
-    },
-    {
-      "pmid": "41173143",
-      "doi": "10.1016/j.jtho.2025.10.016",
-      "title": "First-Line Sacituzumab Govitecan Plus Pembrolizumab in Metastatic NSCLC: PD-L1 TPS <50% and ≥50% Cohorts of the EVOKE-02 Study.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-10-29T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41173143/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.10.016",
-      "abstract": "INTRODUCTION: Sacituzumab govitecan (SG) is a Trop-2-directed antibody-drug conjugate previously studied in patients with pretreated metastatic non-small cell lung cancer (mNSCLC). Here, we report results of EVOKE-02 (NCT05186974), a global, open-label, multicohort phase 2 study of SG plus pembrolizumab as first-line treatment in patients with mNSCLC.\n\nMETHODS: Adult patients without prior systemic mNSCLC treatment, and no actionable genomic alterations, received SG 10 mg/kg intravenously on days 1 and 8 plus pembrolizumab 200 mg intravenously on day 1 of 21-day cycles. The primary endpoint was objective response rate (ORR) per independent review committee, and secondary endpoints included progression-free survival (PFS) and safety.\n\nRESULTS: As of data cutoff (June 3, 2024), there were 30 patients with programmed death-ligand 1 (PD-L1) tumor proportion score (TPS) ≥50% (Cohort A) and 62 patients with PD-L1 TPS <50% (Cohort B). ORR (95% confidence interval [CI]) was 66.7% (47.2%‒82.7%) for Cohort A and 29.0% (18.2%‒41.9%) for Cohort B. Median (95% CI) PFS was 13.1 (6.7‒not reached) months for Cohort A and 7.0 (4.2‒12.9) months for Cohort B. Trop-2 expression did not correlate with greater clinical efficacy (PFS, ORR) from treatment with SG plus pembrolizumab. Grade 3 or greater treatment-emergent adverse events (TEAEs) occurred in 70 patients (76.1%), the most common TEAE was neutropenia (17.4%). TEAEs leading to discontinuation of any study drug occurred in 25 patients (27.2%).\n\nCONCLUSIONS: SG plus pembrolizumab demonstrated activity as treatment for mNSCLC, especially in patients with PD-L1 TPS ≥50%. AEs were manageable and consistent with the known safety profile of each individual agent."
     }
   ]
 }
