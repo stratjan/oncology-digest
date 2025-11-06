@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-05T05:17:33.362348Z",
+  "generated": "2025-11-06T05:18:44.005458Z",
   "items": [
     {
       "pmid": "40762432",
@@ -40,46 +40,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41173494/",
       "url_doi": "https://doi.org/10.1136/jitc-2025-012374",
       "abstract": "PURPOSE: This study evaluated the dynamic changes in the tumor microenvironment (TME) in patients with non-small cell lung cancer (NSCLC) and acquired resistance to epidermal growth factor receptor (EGFR)-tyrosine kinase inhibitors (TKIs) using an artificial intelligence (AI)-powered spatial TME analyzer. We then assessed the predictive efficacy of immune-checkpoint inhibitors (ICIs)-based treatment.\n\nEXPERIMENTAL DESIGN: An AI-powered whole-slide image analyzer was used to segment cancer areas (CAs) and cancer stroma and to identify tumor-infiltrating lymphocytes (TILs), tertiary lymphoid structures, fibroblasts, and endothelial cells (ECs) in the tumor tissue. We analyzed 143 NSCLC samples after resistance to EGFR-TKIs from two cohorts: (1) 89 patients treated with ICI monotherapy and (2) 54 patients from the ATTLAS phase III trial comparing atezolizumab plus bevacizumab, paclitaxel, and carboplatin (ABCP) versus pemetrexed plus carboplatin.\n\nRESULTS: Post-TKI samples showed reduced TILs in the CA (p=0.045) and increased ECs in the CA (p=0.005) compared with pre-TKI samples. These changes differed according to EGFR mutation subtype. Higher TILs in CA were associated with a better overall response rate (ORR) and progression-free survival (PFS). Similarly, higher EC levels in CA correlated with improved ORR and PFS. In the ATTLAS cohort, these factors were associated with clinical benefits from ABCP, with a significant association with TILs and a marginal association with ECs.\n\nCONCLUSION: Our findings suggest that EGFR-TKIs affect the immune landscape of patients with EGFR-mutated NSCLC. Higher TILs or ECs in the CA were significantly associated with a favorable response to subsequent ICI-based treatment.\n\nTRIAL REGISTRATION NUMBER: NCT03991403."
-    },
-    {
-      "pmid": "41165466",
-      "doi": "10.1158/0008-5472.CAN-25-0450",
-      "title": "Targeting CDK12/13 Drives Mitotic Arrest to Overcome Resistance to KRASG12C Inhibitors.",
-      "journal": "Cancer research",
-      "pubdate": "2025-10-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41165466/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0450",
-      "abstract": "The onset of acquired resistance limits the efficacy of KRASG12C inhibitors in lung cancer patients. Experiments in preclinical model systems and retrospective analyses of patients treated with these inhibitors have both suggested that the activation of DNA repair pathways and G2/M kinases is common in lung cancers with acquired resistance to KRASG12C inhibitors. Here, we identified a shared vulnerability to the CDK12/13 selective inhibitor SR-4835 in several KRASG12C-mutant cell lines with acquired resistance to sotorasib. In pairs of KRASG12C-mutant parental and sotorasib-resistant cell lines, CDK12/13 inhibition suppressed DNA repair gene expression and induced mitotic arrest, which was exacerbated in sotorasib-resistant cells by failure to activate the G2/M checkpoint and suppression of an oncogenic isoform of TP73. Combined treatment with both sotorasib and SR-4835 yielded an additive response and suppressed the development of acquired resistance to either inhibitor. The inhibitor combination caused additive G1 and G2/M arrest, and the increased sensitivity of emerging drug-resistant cell populations to SR-4835 extended the duration of response over single-agent treatment in cell culture and in mouse models. These results support combining KRAS and CDK12/13 inhibitors to extend the duration of response in KRAS-mutant lung cancer. Patients with acquired resistance to sotorasib may benefit from follow-up monotherapy with CDK12/13 inhibitors, the first of which recently entered clinical trials. Targeting CDK12/13 thus offers a promising strategy to overcome or prevent resistance to KRAS inhibitors."
-    },
-    {
-      "pmid": "41165456",
-      "doi": "10.1158/0008-5472.CAN-25-0600",
-      "title": "RAS-GTP Inhibition Overcomes Acquired Resistance to KRASG12C Inhibitors Mediated by Oncogenic and Wildtype RAS Activation in Non-Small Cell Lung Cancer.",
-      "journal": "Cancer research",
-      "pubdate": "2025-10-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41165456/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0600",
-      "abstract": "Small molecule KRASG12C(OFF) inhibitors that bind to the inactive GDP-bound state of KRAS have demonstrated efficacy in patients with KRASG12C mutant tumors, yet responses tend to be transient due to emergence of on-treatment resistance. Recently, RAS(ON) G12C-selective inhibitors, which bind to the active GTP-bound state of RAS, were described, and elironrasib is undergoing evaluation in multiple clinical trials. Here, we generated resistant cell lines and patient-derived xenograft models to KRASG12C(OFF) and RAS(ON) G12C-selective inhibitors and interrogated resistance mechanisms using a multi-omics strategy consisting of phosphoproteomics, whole exome sequencing, and RNA-sequencing combined with functional testing using small molecule and CRISPR screens and RAS(ON) inhibitors being evaluated in clinical trials. Two models reactivated RAS signaling, either via KRASG12C gene amplification or NRASG13R mutation, and were vulnerable to dual inhibition by RAS(ON) G12C-selective and RAS(ON) multi-selective inhibitors, RMC-4998 and RMC-7977. Two models, which lacked any discernable genomic alteration, acquired resistance associated with increased receptor tyrosine kinase activity and downstream persistent RAS activity and were sensitive to RAS-GTP inhibition by RMC-7977. Finally, one model displayed epithelial-mesenchymal transition, loss of RAS dependance, and acquired reliance on cell cycle kinases and proteins associated with DNA damage response. This work highlights KRASG12C-selective inhibitor resistant states that parallel and complement clinical findings and demonstrate that a large subset could be overcome with a RAS(ON) multi-selective inhibitor as a standalone agent or in combination with other therapies."
     },
     {
       "pmid": "40189749",
@@ -155,33 +115,13 @@
       "entity": "NSCLC",
       "trial_type": "Phase III",
       "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s11523-025-01182-0.pdf",
       "metric_name": "SJR",
       "metric_value": 1.645,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41184595/",
       "url_doi": "https://doi.org/10.1007/s11523-025-01182-0",
       "abstract": "BACKGROUND: In the PAPILLON study, first-line amivantamab-chemotherapy in epidermal growth factor receptor (EGFR) exon 20 insertion-mutated non-small cell lung cancer demonstrated significantly prolonged progression-free survival and favorable overall survival over chemotherapy; a consistent benefit was also observed across some secondary endpoints. However, the complete clinical benefit of first-line amivantamab-chemotherapy is not fully understood, nor is the survival advantage in the presence of per-protocol crossover from chemotherapy to amivantamab after progression.\n\nOBJECTIVE: We aimed to assess time to treatment discontinuation (TTD) and time to subsequent therapy (TTST), at the time of primary analysis for progression-free survival, and the effect of the crossover design on overall survival at the time of interim analysis.\n\nMETHODS: In the phase III PAPILLON study, 308 participants were randomized (amivantamab-chemotherapy, n = 153; chemotherapy, n = 155). Intravenous amivantamab was administered every 3 weeks. Chemotherapy was administered as carboplatin for four cycles and pemetrexed until disease progression. TTD and TTST were evaluated using Kaplan-Meier and Cox proportional hazards models. Crossover-adjusted survival estimates were generated using three established statistical methods.\n\nRESULTS: At a median follow-up of 14.9 months, median TTD was 13.2 versus 7.5 months for amivantamab-chemotherapy versus chemotherapy (hazard ratio [HR] 0.38 [95% confidence interval 0.28-0.51]; nominal p < 0.0001). Median TTST was 17.7 versus 9.9 months (HR 0.35 [95% confidence interval 0.25-0.49]; nominal p < 0.0001). A total of 65/155 participants crossed over from chemotherapy to amivantamab after progression. The crossover-adjusted overall survival continued to demonstrate a favorable survival benefit for amivantamab-chemotherapy versus chemotherapy with HRs of 0.52-0.60, which is more pronounced than the planned interim intention-to-treat overall survival (HR of 0.67; 95% confidence interval 0.42-1.09).\n\nCONCLUSIONS: In PAPILLON, TTD and TTST were substantially longer for amivantamab-chemotherapy versus chemotherapy at primary analysis (cut-off on 3 May 2023). Crossover-adjusted analyses of the planned interim overall survival demonstrated a greater benefit for amivantamab-chemotherapy versus chemotherapy, further supporting amivantamab-chemotherapy as the first-line standard of care in EGFR exon 20 insertion-mutated non-small cell lung cancer.\n\nCLINICAL TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04538664."
-    },
-    {
-      "pmid": "41166388",
-      "doi": "10.1158/2767-9764.CRC-25-0359",
-      "title": "Phase I/II Study of AXL-Specific Antibody-Drug Conjugate Enapotamab Vedotin in Patients With Advanced Solid Tumors.",
-      "journal": "Cancer research communications",
-      "pubdate": "2025-10-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerrescommun/article-pdf/doi/10.1158/2767-9764.CRC-25-0359/3667740/crc-25-0359.pdf",
-      "metric_name": "SJR",
-      "metric_value": 1.569,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41166388/",
-      "url_doi": "https://doi.org/10.1158/2767-9764.CRC-25-0359",
-      "abstract": "PURPOSE: AXL, a receptor tyrosine kinase related to oncogenic processes, is aberrantly expressed in various cancers and associated with treatment resistance. Enapotamab vedotin (EnaV), a novel anti-AXL human IgG1 and monomethyl auristatin E antibody-drug conjugate, demonstrated antitumor activity in preclinical models including non-small cell lung cancer (NSCLC). This phase 1/2 study assessed safety and preliminary efficacy of EnaV in solid tumors.\n\nPATIENTS AND METHODS: This study comprised dose-escalation and dose-expansion phases; both phases investigated EnaV once every 3 weeks (Q3W), and EnaV on days 1, 8, and 15 of a 28-day cycle (3Q4W). Primary objectives determined maximum tolerated dose (MTD) (dose escalation) and safety (dose expansion). Pharmacokinetic profile, antitumor activity, and AXL expression were also assessed.\n\nRESULTS: During dose escalation, 32 patients received EnaV Q3W; 15 received EnaV 3Q4W. MTD and recommended phase 2 dose were 2.2 mg/kg in Q3W and 1.0 mg/kg in 3Q4W schedules. In dose expansion, 189 patients received EnaV Q3W; 70 received EnaV 3Q4W. Common adverse events in dose expansion included fatigue, constipation, nausea, decreased appetite, and diarrhea. Overall response rates ranged from 4.5-12.5% with Q3W schedule and from 9.1-11.5% with 3Q4W dose schedule. Disease control rates for NSCLC cohorts were 40.9-50.0%. NSCLC subset analysis demonstrated correlation between radiomics signature and disease control. The relationship between clinical activity and AXL expression was not apparent.\n\nCONCLUSIONS: EnaV had an acceptable safety profile; however, because the evaluation of antitumor activity did not show clinically meaningful responses, clinical development of EnaV was discontinued."
     },
     {
       "pmid": "40347229",
@@ -327,6 +267,27 @@
       "abstract": "BACKGROUND: Patients with interstitial lung disease (ILD) who develop lung cancer represent a unique challenge, as they are at higher risk for serious toxicity from local and systemic therapies. The aim of this study is to provide an up-to-date analysis on toxicities and outcomes associated with definitive radiation therapy (RT) in patients with ILD and early-stage non-small cell lung cancer (ES-NSCLC).\n\nMETHODS AND MATERIALS: We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The PubMed (MEDLINE), EMBASE, and Cochrane Library databases were searched from inception until June 2024, for studies including patients with ILD who underwent definitive RT alone for ES-NSCLC. Data including treatment-related mortality, toxicity, local control, and overall survival were collected and analyzed.\n\nRESULTS: Of 3545 records reviewed, 24 studies were identified for full data abstraction, contributing a total of 705 patients. A specific ILD subtype was not reported for 71% (n = 502) of patients. ILD severity was not reported for 62% (n = 440) of patients. Risk of treatment-related mortality was 7.9%, with severe treatment-related respiratory toxicity 15.7%. A higher volume of lung receiving ≥5 Gy (V5) was significantly correlated with mortality. The estimated local control at 3 year was 76% and median overall survival was 2.5 years.\n\nCONCLUSIONS: The relative merits of RT for the treatment of ES-NSCLC in patients with ILD should be considered in the context of the rates of treatment-related mortality and toxicity. Future studies would benefit from consistent reporting of ILD characteristics, which may help in risk stratification in this challenging clinical scenario."
     },
     {
+      "pmid": "41104928",
+      "doi": "10.1056/NEJMoa2511065",
+      "title": "Sevabertinib in Advanced HER2-Mutant Non-Small-Cell Lung Cancer.",
+      "journal": "The New England journal of medicine",
+      "pubdate": "2025-11-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41104928/",
+      "url_doi": "https://doi.org/10.1056/NEJMoa2511065",
+      "abstract": "METHODS: We conducted an open-label, multicenter, multicohort, phase 1-2 study to evaluate sevabertinib at a twice-daily dose of 20 mg in patients with locally advanced or metastatic\n\nRESULTS: A total of 209 patients received sevabertinib (as of June 27, 2025, the data-cutoff date); the median duration of follow-up was 13.8 months in cohort D, 11.7 months in cohort E, and 9.9 months in cohort F. Among 81 patients in cohort D, an objective response was observed in 64% (95% confidence interval [CI], 53 to 75); the median duration of response was 9.2 months (95% CI, 6.3 to 13.5), and the median progression-free survival was 8.3 months (95% CI, 6.9 to 12.3). Among 55 patients in cohort E, an objective response was observed in 38% (95% CI, 25 to 52); the median duration of response was 8.5 months, and the median progression-free survival was 5.5 months. Among 73 patients in cohort F, an objective response was observed in 71% (95% CI, 59 to 81), and the median duration of response was 11.0 months; data on progression-free survival were immature. Grade 3 or higher drug-related adverse events occurred in 31% of the patients. The most common adverse event was diarrhea (in 84 to 91%), with diarrhea of grade 3 or higher occurring in 5 to 23%. Treatment was discontinued by 3% of the patients owing to drug-related adverse events.\n\nCONCLUSIONS: Sevabertinib showed antitumor activity in patients with locally advanced or metastatic"
+    },
+    {
       "pmid": "40962011",
       "doi": "10.1016/j.ejphar.2025.178168",
       "title": "Prognostic implications of antitumour efficacy and adverse events of EGFR-TKIs in non-small cell lung cancer: an ambispective cohort study.",
@@ -345,6 +306,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40962011/",
       "url_doi": "https://doi.org/10.1016/j.ejphar.2025.178168",
       "abstract": "The objective of this study was to quantify the impact of longitudinal tumour dynamics, time-varying drug-related adverse events (DRAEs), and other clinical characteristics on long-term outcomes in patients with non-small cell lung cancer (NSCLC) treated with epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). An ambispective cohort of 277 patients was analysed and externally validated using independent clinical trial data from 470 patients in the Project Data Sphere. Individual tumour growth trajectories were characterised by predicted sum of the longest diameters (SLD) using tumour growth inhibition (TGI) modelling. Time-dependent Cox and parametric time-to-event models were then applied to evaluate the influence of predicted tumour growth trajectories, observed dynamic DRAE profiles, cross-sectional variables derived from these measures, and additional covariates on time-to-treatment failure (TTF) and progression-free survival (PFS). The TGI models effectively captured individual tumour dynamics. Across both Cox and parametric time-to-event models, prognostic factors consistently included DRAEs, baseline metastasis, EGFR-TKI treatment history, and the specific EGFR-TKI administered. Notably, grade 2 DRAEs were associated with an optimal balance between efficacy and safety, and this association remained robust in sensitivity analyses and was preliminarily validated using external data. These findings emphasise the clinical relevance of DRAE grades in indicating long-term clinical benefit. By linking manageable toxicity with durable therapeutic outcomes, the study provides valuable insights for developing safe and effective EGFR-TKI treatment strategies in patients with NSCLC."
+    },
+    {
+      "pmid": "40767632",
+      "doi": "10.2214/AJR.25.33427",
+      "title": "Characteristics and Outcomes of Lung-RADS Version 2022 Atypical Pulmonary Cysts With Ground-Glass Components on Lung Cancer Screening CT: Secondary Analysis of BioMILD Trial Data.",
+      "journal": "AJR. American journal of roentgenology",
+      "pubdate": "2025-11-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40767632/",
+      "url_doi": "https://doi.org/10.2214/AJR.25.33427",
+      "abstract": null
+    },
+    {
+      "pmid": "41187465",
+      "doi": "10.1016/j.lungcan.2025.108808",
+      "title": "Pattern of failure, impact of local therapy, and characteristics of long-term responders with advanced EGFR mutation positive non-small cell lung cancer treated with first-line osimertinib.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-11-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41187465/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108808",
+      "abstract": "INTRODUCTION: Recent randomized trials demonstrate that intensified therapy improves progression-free survival (PFS) and overall survival (OS)compared to osimertinib monotherapy in advancedEGFRmutant non-small cell lung cancer (NSCLC), albeit with increased toxicities. Better understanding of post-progression outcomes, impact of local ablative therapy (LAT), and characteristics of long-term responders to osimertinib monotherapy is invaluable for optimizing treatment strategies.\n\nMETHOD: This retrospective study enrolled patients with advanced EGFR mutation positive NSCLC treated with first-line osimertinib monotherapy at Prince of Wales Hospital, Hong Kong between 2017 and 2023. Clinical and genomic characteristics, post-progression therapies, and survival outcomes were analyzed. Studies endpoint included: (1) pattern of disease progression and impact of LAT on survival, and (2) clinical characteristics of long-term responders.\n\nRESULTS: 282 patients were analyzed, with 64 % female and median age of 64. At disease progression, 37 % and 63 % of patients presented with oligoprogressive disease (OPD) and systemic progressive disease (SPD), respectively. Patients with OPD experienced longer time to treatment failure (TTF) and OS compared to those with SPD (TTF 26.0 versus 14.2 months, HR 0.44, p < 0.001; OS 35.4 versus 24.8 months, HR 0.57, p = 0.01). LAT effectively deferred switching systemic therapy among patients who developed OPD. At 2 years, 35 % remained progression-free. Multivariate analysis found ECOG 0-1 and absence of any brain/bone/liver metastases at diagnosis were significantly associated with lower odds of disease progression at 2 years.\n\nCONCLUSION: EGFR-mutant NSCLC patients treated with first-line osimertinib yielded variable outcomes. A significant portion of patients developed OPD, associated with better outcomes and potentially benefit from LAT. Approximately one-third of cases achieved long-term response, predicted by good performance status and absence of brain/bone/liver metastases at diagnosis. These findings support a more personalized approach to first-line treatment in EGFR-mutant NSCLC."
     },
     {
       "pmid": "41176378",
@@ -572,88 +573,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40953708/",
       "url_doi": "https://doi.org/10.1016/j.radonc.2025.111144",
       "abstract": "PURPOSE: Interstitial lung disease (ILD) has been correlated with an increased risk for radiation pneumonitis (RP) following lung SBRT, but the degree to which locally advanced NSCLC (LA-NSCLC) patients are affected has yet to be quantified. An algorithm to identify patients at high risk for RP may help clinicians mitigate risk.\n\nMETHODS: All LA-NSCLC patients treated with definitive radiotherapy at our institution from 2006 to 2021 were retrospectively assessed. A convolutional neural network was previously developed to identify patients with radiographic ILD using planning computed tomography (CT) images. All screen-positive (AI-ILD + ) patients were reviewed by a thoracic radiologist to identify true radiographic ILD (r-ILD). The association between the algorithm output, clinical and dosimetric variables, and the outcomes of grade ≥3 RP and mortality were assessed using univariate (UVA) and multivariable (MVA) logistic regression, and Kaplan-Meier survival analysis.\n\nRESULTS: 698 patients were included in the analysis. Grade (G) 0-5 RP was reported in 51 %, 27 %, 17 %, 4.4 %, 0.14 % and 0.57 % of patients, respectively. Overall, 23 % of patients were classified as AI-ILD+. On MVA, only AI-ILD status (OR 2.15, p = 0.03) and AI-ILD score (OR 35.27, p < 0.01) were significant predictors of G3+RP. Median OS was 3.6 years in AI-ILD- patients and 2.3 years in AI-ILD+patients (NS). Patients with r-ILD had significantly higher rates of severe toxicities, with G3+RP 25 % and G5 RP 7 %. R-ILD was associated with an increased risk for G3+RP on MVA (OR 5.42, p < 0.01).\n\nCONCLUSION: Our AI-ILD algorithm detects patients with significantly increased risk for G3+RP."
-    },
-    {
-      "pmid": "41160826",
-      "doi": "10.1056/NEJMe2509843",
-      "title": "EGFR-Mutated Lung Cancer - Letting the Butterfly Out of the Cocoon.",
-      "journal": "The New England journal of medicine",
-      "pubdate": "2025-10-30T00:00:00+00:00",
-      "pubtypes": [
-        "Editorial"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41160826/",
-      "url_doi": "https://doi.org/10.1056/NEJMe2509843",
-      "abstract": null
-    },
-    {
-      "pmid": "41176132",
-      "doi": "10.1016/j.taap.2025.117625",
-      "title": "An intestinal matrix-based human lung cancer model reflects clinical data from gefitinib on dosage-dependent efficacy.",
-      "journal": "Toxicology and applied pharmacology",
-      "pubdate": "2025-10-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41176132/",
-      "url_doi": "https://doi.org/10.1016/j.taap.2025.117625",
-      "abstract": "Lung cancer is the leading cause for cancer related death worldwide. One treatment option for patients with pulmonary adenocarcinoma is the targeted therapy gefitinib (Iressa®, ZD1839). As with other promising targeted therapies, desired in vivo effects of gefitinib came short to in vitro expectations, as preclinical testing is hampered by an inaccuracy of existing models and resistances develop frequently. We analysed the pharmacodynamics of gefitinib in a 3D tissue engineered human lung cancer model of HCC827 cells, as well as a resistant subpopulation of HCCres A2 cells. In 2D cell culture, a cell viability of 50 % was reached after treatment with 0.01-0.05 μM gefitinib. In the 3D model administering higher doses of gefitinib did not lead to a further reduction in viability and proliferation, or an increase in apoptosis. This shows that the pharmacodynamic effect of promising new therapies can often be overestimated in 2D versus 3D models. The results we obtained for gefitinib testing in the 3D models reflect astonishing well the efficacy of priorly published clinical data, suggesting that our 3D tumor models can display in vivo conditions more accurately, bridging the gap to living organisms. To mimic the clinical setting further, the lung cancer cells were cultivated under dynamic conditions in a bioreactor. The exploration of a resistant subpopulation confirmed an epithelial-mesenchymal transition. The described 3D lung cancer model can be used as a refined, preclinical testing platform for targeted therapies and with clinically relevant pharmacodynamic properties as shown exemplary for gefitinib."
-    },
-    {
-      "pmid": "40923797",
-      "doi": "10.1056/NEJMoa2503001",
-      "title": "Overall Survival with Amivantamab-Lazertinib in EGFR-Mutated Advanced NSCLC.",
-      "journal": "The New England journal of medicine",
-      "pubdate": "2025-10-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "RCT",
-      "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40923797/",
-      "url_doi": "https://doi.org/10.1056/NEJMoa2503001",
-      "abstract": "BACKGROUND: Previous results from this phase 3 trial showed that progression-free survival among participants with previously untreated\n\nMETHODS: We randomly assigned, in a 2:2:1 ratio, participants with previously untreated\n\nRESULTS: A total of 429 participants each were assigned to receive amivantamab-lazertinib or osimertinib. Over a median follow-up of 37.8 months, amivantamab-lazertinib led to significantly longer overall survival than osimertinib (hazard ratio for death, 0.75; 95% confidence interval, 0.61 to 0.92; P = 0.005); 3-year overall survival was 60% and 51%, respectively. At the clinical cutoff date, 38% of participants in the amivantamab-lazertinib group and 28% in the osimertinib group were still receiving the assigned treatment. Adverse events of grade 3 or higher were more common with amivantamab-lazertinib (in 80% of participants) than with osimertinib (in 52%), particularly skin-related events, venous thromboembolism, and infusion-related events; these findings were consistent with the established safety profile of each treatment. No new safety signals were observed with additional follow-up.\n\nCONCLUSIONS: Amivantamab-lazertinib led to significantly longer overall survival among participants with previously untreated"
-    },
-    {
-      "pmid": "41164890",
-      "doi": "10.1080/14796694.2025.2579208",
-      "title": "Safety of osimertinib in Chinese patients with non-small cell lung cancer: a multi-center, prospective, observational study.",
-      "journal": "Future oncology (London, England)",
-      "pubdate": "2025-10-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Prospective (non-RCT)",
-      "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41164890/",
-      "url_doi": "https://doi.org/10.1080/14796694.2025.2579208",
-      "abstract": "BACKGROUND: This prospective, observational study evaluated the real-world safety of osimertinib in a broad Chinese population with non-small cell lung cancer (NSCLC).\n\nMETHODS: Chinese NSCLC patients who received osimertinib were enrolled and followed up for 12 months. The primary endpoint was the incidence of adverse drug reactions (ADRs).\n\nRESULTS: From 20 April 2020 to 1 August 2022, 1,700 patients were enrolled from 30 centers, with 706 (41.5%) patients ≥65 years old. Osimertinib was administered as first-line, second-line, third/later-line and adjuvant therapy in 44.9%, 34.2%, 14.3% and 4.5% of the patients, respectively. ADRs, adverse events (AEs), Grade ≥3 AEs, and serious AEs were reported in 627 (36.9%), 959 (56.4%), 165 (9.7%), and 102 (6.0%) patients, respectively. AEs of special interests occurred in 59 (3.5%) patients, with 41 (2.4%) and 19 (1.1%) reporting QTc prolongation and interstitial lung disease/pneumonitis-like events, respectively. The safety profiles in patients ≥65 years old and those usually not included in randomized clinical trials were similar to that in the total population.\n\nCONCLUSION: This largest real-world safety study of osimertinib in China demonstrated that osimertinib was well-tolerated in a broad NSCLC population, including patients usually not included in randomized clinical trials, without new safety signals identified.\n\nCLINICAL TRIAL REGISTRATION: NCT03485326 (www.clinicaltrials.gov)."
     }
   ]
 }
