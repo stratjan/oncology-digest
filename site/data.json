@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-06T05:18:44.005458Z",
+  "generated": "2025-11-07T05:18:26.592219Z",
   "items": [
     {
       "pmid": "40762432",
@@ -22,24 +22,44 @@
       "abstract": "UNLABELLED: EGFR tyrosine kinase inhibitors have dramatically improved outcomes for patients with EGFR-mutated non-small cell lung cancer (NSCLC), but relapse frequently occurs because of drug-tolerant persister (DTP) cells that can evolve and develop diverse mechanisms of drug resistance. In samples from patients with EGFR-mutated NSCLC treated with EGFR tyrosine kinase inhibitors in the neoadjuvant setting, we observed enriched expression of the cell surface protein TROP2, a target of clinically active antibody-drug conjugates (ADC). We confirmed these findings across multiple EGFR-mutated NSCLC cell line and patient-derived xenograft models treated with osimertinib in vivo. Treatment with the TROP2 ADC sacituzumab govitecan at the time of osimertinib-induced minimal residual disease only modestly delayed tumor recurrence in vivo, whereas a single infusion of sacituzumab-based TROP2-directed chimeric antigen receptor (CAR) T cells significantly prolonged relapse-free survival, with evidence of cure. These data highlight the potential of engineering TROP2 CAR T-cell therapy to eliminate EGFR DTPs in patients.\n\nSIGNIFICANCE: We provide a rationale for targeting TROP2 in EGFR-mutated NSCLC DTPs. In contrast to TROP2 ADC therapy, targeting of TROP2 with CAR-T cells can eliminate osimertinib-induced DTPs in vivo, revealing the promise of developing novel TROP2-based CAR-T cells to promote durable response and prevent disease relapse in patients."
     },
     {
-      "pmid": "41173494",
-      "doi": "10.1136/jitc-2025-012374",
-      "title": "Artificial intelligence-powered spatial analysis of tumor microenvironment in patients with non-small cell lung cancer with acquired resistance to EGFR tyrosine kinase inhibitor.",
-      "journal": "Journal for immunotherapy of cancer",
-      "pubdate": "2025-10-31T00:00:00+00:00",
+      "pmid": "41196808",
+      "doi": "10.1158/0008-5472.CAN-25-0995",
+      "title": "Characterization of Drug-Tolerant Persister Cells in Triple-Negative Breast Cancer Identifies a Shared Persistence Program across Treatments and Patients.",
+      "journal": "Cancer research",
+      "pubdate": "2025-11-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41196808/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0995",
+      "abstract": "Acquisition of resistance to anti-cancer therapies is a multistep process initiated by the survival of drug-tolerant persister cells. Accessibility of drug-tolerant persister cells in patients is limited, which has hindered understanding the mechanisms driving their emergence. Here, using multiple patient-derived models to isolate persister cells, we showed that these cells are transcriptionally plastic in vivo and return to a common treatment naïve-like state upon relapse, regardless of treatment. Hallmarks of the persister state in TNBC across treatment modalities included high expression of basal keratins together with activation of stress response and inflammation pathways. These hallmarks were also activated in HER2+ breast and lung cancer cells in response to targeted therapies. Analysis of gene regulatory networks identified AP-1, NF-κB and IRF/STAT as the key drivers of this hallmark persister state. Functionally, FOSL1, an AP-1 member, drove cells to the persister state by binding enhancers and reprogramming the transcriptome of cancer cells. On the contrary, cancer cells without FOSL1 had a decreased ability to reach the persister state. By defining hallmarks of TNBC persistence on multiple therapies, this study provides a resource to design effective combination therapeutic strategies that limit resistance."
+    },
+    {
+      "pmid": "41196054",
+      "doi": "10.1158/0008-5472.CAN-25-3502",
+      "title": "Enozertinib is a Selective, Brain-penetrant EGFR inhibitor for Treating Non-small Cell Lung Cancers with EGFR Exon 20 and Atypical Mutations.",
+      "journal": "Cancer research",
+      "pubdate": "2025-11-06T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://jitc.bmj.com/content/13/10/e012374.full.pdf",
+      "is_oa": false,
+      "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 4.22,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41173494/",
-      "url_doi": "https://doi.org/10.1136/jitc-2025-012374",
-      "abstract": "PURPOSE: This study evaluated the dynamic changes in the tumor microenvironment (TME) in patients with non-small cell lung cancer (NSCLC) and acquired resistance to epidermal growth factor receptor (EGFR)-tyrosine kinase inhibitors (TKIs) using an artificial intelligence (AI)-powered spatial TME analyzer. We then assessed the predictive efficacy of immune-checkpoint inhibitors (ICIs)-based treatment.\n\nEXPERIMENTAL DESIGN: An AI-powered whole-slide image analyzer was used to segment cancer areas (CAs) and cancer stroma and to identify tumor-infiltrating lymphocytes (TILs), tertiary lymphoid structures, fibroblasts, and endothelial cells (ECs) in the tumor tissue. We analyzed 143 NSCLC samples after resistance to EGFR-TKIs from two cohorts: (1) 89 patients treated with ICI monotherapy and (2) 54 patients from the ATTLAS phase III trial comparing atezolizumab plus bevacizumab, paclitaxel, and carboplatin (ABCP) versus pemetrexed plus carboplatin.\n\nRESULTS: Post-TKI samples showed reduced TILs in the CA (p=0.045) and increased ECs in the CA (p=0.005) compared with pre-TKI samples. These changes differed according to EGFR mutation subtype. Higher TILs in CA were associated with a better overall response rate (ORR) and progression-free survival (PFS). Similarly, higher EC levels in CA correlated with improved ORR and PFS. In the ATTLAS cohort, these factors were associated with clinical benefits from ABCP, with a significant association with TILs and a marginal association with ECs.\n\nCONCLUSION: Our findings suggest that EGFR-TKIs affect the immune landscape of patients with EGFR-mutated NSCLC. Higher TILs or ECs in the CA were significantly associated with a favorable response to subsequent ICI-based treatment.\n\nTRIAL REGISTRATION NUMBER: NCT03991403."
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41196054/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-3502",
+      "abstract": "EGFR mutations are common oncogenic drivers in non-small cell lung cancer (NSCLC), and around one-third of patients develop brain metastases over the course of their disease. Patients with non-classical EGFR mutations, such as insertions in exon 20, are a high unmet need with a worse prognosis compared to patients with classical EGFR mutations. Here, we describe the discovery and development of enozertinib (formerly ORIC-114), a highly brain-penetrant, orally bioavailable, irreversible inhibitor that targets EGFR exon 20 mutations with unparalleled kinome selectivity. Preclinical studies revealed strong potency and tumor regressions driven by enozertinib across a broad range of atypical EGFR mutant models. In a phase I clinical trial of enozertinib in patients with advanced NSCLC bearing atypical mutations in EGFR, a patient with harboring an EGFR exon 20 insertion experienced sustained complete response of all systemic and brain metastases. Together, these findings identify enozertinib as a promising investigational inhibitor to meet the unmet need for brain-penetrant therapies for NSCLC with EGFR exon 20 insertions or other atypical mutations."
     },
     {
       "pmid": "40189749",
@@ -80,6 +100,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40650354/",
       "url_doi": "https://doi.org/10.1002/ijc.70045",
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
+    },
+    {
+      "pmid": "41194587",
+      "doi": "10.1002/1878-0261.70155",
+      "title": "Dual targeting of RET and SRC synergizes in RET fusion-positive cancer cells.",
+      "journal": "Molecular oncology",
+      "pubdate": "2025-11-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1002/1878-0261.70155",
+      "metric_name": "SJR",
+      "metric_value": 1.957,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41194587/",
+      "url_doi": "https://doi.org/10.1002/1878-0261.70155",
+      "abstract": "Rearranged during transfection (RET) fusions drive subsets of non-small cell lung cancer (NSCLC) and papillary thyroid carcinoma (PTC). Despite new selective RET tyrosine kinase inhibitors (TKIs), resistance usually occurs and is often driven by RET-independent bypass mechanisms. Previous studies have implied crosstalk between RET and proto-oncogene tyrosine-protein kinase SRC, but the anticancer effects of targeting SRC combined with selective RET TKIs, and the underlying molecular mechanisms involved, are not fully understood. Our results show that the multitargeted SRC TKI dasatinib significantly enhanced the efficacy of RET TKIs in RET fusion-positive (RET"
     },
     {
       "pmid": "40976711",
@@ -206,6 +246,26 @@
       "abstract": "PURPOSE: Human epidermal growth factor receptor 2 (HER2 [ERBB2]) gene mutations occur in ∼3-5% of non-small cell lung cancer (NSCLC) cases and are associated with poor prognosis. However, real-world data on patients with HER2-mutant (HER2m) NSCLC are needed.\n\nMETHODS: This retrospective, observational study evaluated characteristics, treatment patterns, and clinical outcomes of patients with advanced nonsquamous HER2m NSCLC from the Institut Curie (France) and Thoraxklinik Heidelberg (Germany) between 2011 and 2022.\n\nFINDINGS: Of the 55 patients (Curie: n = 17; Heidelberg: n = 38) included in the study, median age at diagnosis was 66 years (range, 22-90), 63.6% were female, and 50.9% had no history of smoking. Forty-eight (87.3%) patients received ≥1 line of therapy, 29 (52.7%) received ≥2 lines of therapy, and 19 (34.5%) received ≥3 lines of therapy. The most common first-line treatment was platinum-based and non-platinum-based chemotherapy (54.2%, n/n = 26/48); treatment patterns in the second- and third-line settings were more diverse than in the first-line setting. Median overall survival was 14.2 months (95% confidence interval [CI] 11.2, 23.2; n = 55) from the diagnosis of advanced disease and 16.5 months (12.3, 29.8; n = 48) from the start of first-line treatment. Median progression-free survival was 5.1 months (95% CI 3.5, 8.5; n = 48) and 4.0 months (2.4, 6.3; n = 29) from the start of first- and second-line treatment, respectively.\n\nIMPLICATIONS: Patients with advanced HER2m NSCLC had a poor prognosis despite treatment with standard-of-care regimens available during the study period. These findings highlight the need for novel therapeutic options to improve clinical outcomes for patients with HER2m NSCLC."
     },
     {
+      "pmid": "40912643",
+      "doi": "10.1016/j.avsg.2025.08.029",
+      "title": "Temporal Patterns and Risk Factors for Pulmonary Embolism Associated with Antitumor Therapies in Patients with Lung Cancer.",
+      "journal": "Annals of vascular surgery",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.707,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40912643/",
+      "url_doi": "https://doi.org/10.1016/j.avsg.2025.08.029",
+      "abstract": "BACKGROUND: This study aimed to characterize the association between pulmonary embolism (PE) onset time and various antitumor therapeutic approaches in patients with lung cancer, with the goal of identifying potential high-risk populations.\n\nMETHODS: A retrospective analysis was conducted on clinical records from 2019 to 2025, among the 84,000 inpatients with lung cancer, 106 patients developed PE during hospitalization for antitumor treatment, who were confirmed using spiral computed tomography or pulmonary angiography per Chinese Thoracic Society (2018) and The New England Journal of Medicine (2010) criteria. Data were collected on patient demographics, cancer staging, treatment type, and time to PE onset.\n\nRESULTS: Among patients who developed PE during lung cancer treatment, the mean age was 66.82 ± 10.50 years. Females comprised 64.04% of cases, adenocarcinoma was identified in 60.38%, and stage IV lung cancer was present in 56.60%. First-line therapy was administered in 63.21% of cases, and 66.04% exhibited enlarged mediastinal lymph nodes. The mean D-dimer level among this cohort was 3.559 μg/mL, indicating a heightened thrombotic risk. Temporally, 50.95% of PE cases occurred within 6 months of lung cancer diagnosis. Onset within 3 months following therapy initiation was observed across multiple modalities: 46.15% for chemotherapy, 34.78% for targeted therapy, and 77.78% following surgical intervention. Notably, 16.98% of PE events occurred during the initial chemotherapy cycle. The mean time to PE onset was 1.81 ± 2.51 months for patients undergoing surgery alone, compared to 15.52 ± 12.88 months for those receiving surgery combined with other treatments (P < 0.05). Surgical intervention was identified as an independent risk factor for PE. In early-stage lung cancer, the mean time to PE onset was significantly shorter, with a mean time of 16.38 ± 21.07 months (P < 0.05).\n\nCONCLUSION: The timing and incidence of PE vary according to the type of antitumor therapy administered in lung cancer treatment. These findings underscore the importance of vigilant monitoring, personalized risk assessment, and targeted anticoagulation strategies throughout the therapeutic course."
+    },
+    {
       "pmid": "41061426",
       "doi": "10.1016/j.ejca.2025.116042",
       "title": "Survival outcomes with carboplatin versus cisplatin and the impact of COVID-19 on platinum choice: A nationwide Netherlands registry study in small cell lung cancer patients (CACIS).",
@@ -267,6 +327,26 @@
       "abstract": "BACKGROUND: Patients with interstitial lung disease (ILD) who develop lung cancer represent a unique challenge, as they are at higher risk for serious toxicity from local and systemic therapies. The aim of this study is to provide an up-to-date analysis on toxicities and outcomes associated with definitive radiation therapy (RT) in patients with ILD and early-stage non-small cell lung cancer (ES-NSCLC).\n\nMETHODS AND MATERIALS: We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The PubMed (MEDLINE), EMBASE, and Cochrane Library databases were searched from inception until June 2024, for studies including patients with ILD who underwent definitive RT alone for ES-NSCLC. Data including treatment-related mortality, toxicity, local control, and overall survival were collected and analyzed.\n\nRESULTS: Of 3545 records reviewed, 24 studies were identified for full data abstraction, contributing a total of 705 patients. A specific ILD subtype was not reported for 71% (n = 502) of patients. ILD severity was not reported for 62% (n = 440) of patients. Risk of treatment-related mortality was 7.9%, with severe treatment-related respiratory toxicity 15.7%. A higher volume of lung receiving ≥5 Gy (V5) was significantly correlated with mortality. The estimated local control at 3 year was 76% and median overall survival was 2.5 years.\n\nCONCLUSIONS: The relative merits of RT for the treatment of ES-NSCLC in patients with ILD should be considered in the context of the rates of treatment-related mortality and toxicity. Future studies would benefit from consistent reporting of ILD characteristics, which may help in risk stratification in this challenging clinical scenario."
     },
     {
+      "pmid": "41004707",
+      "doi": "10.1200/JCO-25-01817",
+      "title": "Bridging the Gap: The Evolving Landscape of CNS Management in Small Cell Lung Cancer: Prophylactic Cranial Irradiation in the Modern Era.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-11-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41004707/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01817",
+      "abstract": null
+    },
+    {
       "pmid": "41104928",
       "doi": "10.1056/NEJMoa2511065",
       "title": "Sevabertinib in Advanced HER2-Mutant Non-Small-Cell Lung Cancer.",
@@ -286,6 +366,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41104928/",
       "url_doi": "https://doi.org/10.1056/NEJMoa2511065",
       "abstract": "METHODS: We conducted an open-label, multicenter, multicohort, phase 1-2 study to evaluate sevabertinib at a twice-daily dose of 20 mg in patients with locally advanced or metastatic\n\nRESULTS: A total of 209 patients received sevabertinib (as of June 27, 2025, the data-cutoff date); the median duration of follow-up was 13.8 months in cohort D, 11.7 months in cohort E, and 9.9 months in cohort F. Among 81 patients in cohort D, an objective response was observed in 64% (95% confidence interval [CI], 53 to 75); the median duration of response was 9.2 months (95% CI, 6.3 to 13.5), and the median progression-free survival was 8.3 months (95% CI, 6.9 to 12.3). Among 55 patients in cohort E, an objective response was observed in 38% (95% CI, 25 to 52); the median duration of response was 8.5 months, and the median progression-free survival was 5.5 months. Among 73 patients in cohort F, an objective response was observed in 71% (95% CI, 59 to 81), and the median duration of response was 11.0 months; data on progression-free survival were immature. Grade 3 or higher drug-related adverse events occurred in 31% of the patients. The most common adverse event was diarrhea (in 84 to 91%), with diarrhea of grade 3 or higher occurring in 5 to 23%. Treatment was discontinued by 3% of the patients owing to drug-related adverse events.\n\nCONCLUSIONS: Sevabertinib showed antitumor activity in patients with locally advanced or metastatic"
+    },
+    {
+      "pmid": "41193800",
+      "doi": "10.1038/s41586-025-09710-8",
+      "title": "Targeting FSP1 triggers ferroptosis in lung cancer.",
+      "journal": "Nature",
+      "pubdate": "2025-11-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41586-025-09710-8.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41193800/",
+      "url_doi": "https://doi.org/10.1038/s41586-025-09710-8",
+      "abstract": "Emerging evidence indicates that cancer cells are susceptible to ferroptosis, a form of cell death that is triggered by uncontrolled lipid peroxidation"
     },
     {
       "pmid": "40962011",
@@ -326,6 +426,66 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40767632/",
       "url_doi": "https://doi.org/10.2214/AJR.25.33427",
       "abstract": null
+    },
+    {
+      "pmid": "41192095",
+      "doi": "10.1016/j.lungcan.2025.108807",
+      "title": "Recommendations for radiotherapy in patients with lung cancer and interstitial lung disease: A Delphi consensus process of the Italian association of radiotherapy and clinical oncology (AIRO).",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-11-03T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192095/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108807",
+      "abstract": "AIM: Interstitial lung diseases (ILD) are a group of disorders affecting the lung parenchyma. ILD patients have a higher risk of lung cancer and worse prognosis, with increased susceptibility to radiotherapy (RT)-related toxicities due to ILD exacerbations. There are no clear guidelines for managing lung cancer patients with ILD undergoing RT, alone or with systemic therapies. This work aims to establish a consensus on ILD assessment, patient selection, risk/benefit analysis, and clinical management for those eligible for thoracic RT.\n\nMETHODS: Using the Estimate-Talk-Estimate method, a board of experts (4 radiation oncologists, 2 pneumologists, 1 radiologist, 1 medical oncologist) identified key items. Each expert drafted statements for these items, and an extended panel of 24 experts (12 radiation oncologists, 6 pneumologists, 3 radiologists, 3 medical oncologists) rated the statements on a 9-point scale. Consensus was defined as a median score ≥ 7.\n\nRESULTS: Sixteen statements from 10 items reached consensus. The consensus points reached concern the clinical, radiological and functional assesment of patients with ILD, the role of the multidisciplinary team, the accurate evaluation of toxicity predictors, the prevention of complications and the risk/benefit ratio in different clinical scenarios in which radiotherapy is administered alone or in combination with antineoplastic drugs. Conclusion This multidisciplinary consensus on thoracic RT for lung cancer patients with ILD provides valuable guidance for clinicians managing this complex scenario."
+    },
+    {
+      "pmid": "41192094",
+      "doi": "10.1016/j.lungcan.2025.108816",
+      "title": "Clinical characteristics and outcomes in participants with screen-detected clinical stage I lung cancer in the Yorkshire lung screening trial: A comparison of surgery versus stereotactic ablative radiotherapy.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-11-03T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(25)00708-1/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192094/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108816",
+      "abstract": "BACKGROUND: Lung cancer screening with low-dose computed tomography (LDCT) saves lives by detecting early-stage curable cancer and estimates of overdiagnosis in the previous randomised studies were generally low. Screening selection criteria vary, with some programmes only recommending screening for people who are surgical candidates, whereas others make no reference to fitness for surgery. Here we report clinical characteristics and outcomes for participants in the Yorkshire Lung Screening Trial with screen-detected clinical stage I lung cancer according to treatment modality.\n\nMETHODS: Consecutive participants with screen-detected clinical stage I lung cancer were stratified according to curative treatment modality into surgical and SABR cohorts. Factors associated with overall survival and cancer-specific survival were assessed with a median follow-up of 3.6 years.\n\nRESULTS: Of 190 patients with stage I lung cancer studied, 31 % (n = 58) received SABR and 69 % (n = 132) surgery (55 lobectomy, 77 sub-lobar resection). Patients treated with SABR were older with worse performance status and fitness parameters. Cancer-specific survival was similar between the SABR and surgery cohorts (HR for death 1.19, 95 % CI 0.45-3.14, p = 0.72) but overall survival was worse following SABR compared to surgery (HR for death 2.61 95 % CI 1.45-4.69, p = 0.001), indicating that the worse overall survival was due to non-cancer deaths. In the SABR cohort 17 patients (29.3 %) died from non-cancer causes during the study follow-up period compared with 9 (6.8 %) in the surgery cohort. Three-year survival was 69.4 % in the SABR cohort and 92.4 % in the surgical cohort (p < 0.001).\n\nCONCLUSIONS: Cancer-specific survival was similar between the two groups, but overall survival following SABR for screen-detected stage I lung cancer is worse than surgery due to higher rates of non-cancer death within 5 years of treatment. Lung cancer sojourn time has been estimated at around 5 years, so it is likely that rates of overdiagnosis are higher in patients treated with SABR compared to surgery. Further research may be needed to optimise inclusion and exclusion criteria for lung cancer screening."
+    },
+    {
+      "pmid": "41192526",
+      "doi": "10.1016/j.cellsig.2025.112211",
+      "title": "RIPK2/STAT3 signaling axis drives lung cancer metastasis through SNAIL activation: Molecular mechanisms and clinical implications.",
+      "journal": "Cellular signalling",
+      "pubdate": "2025-11-03T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
+      "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
+      "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
     },
     {
       "pmid": "41187465",
