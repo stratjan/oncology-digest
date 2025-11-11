@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-10T05:18:45.994226Z",
+  "generated": "2025-11-11T05:18:01.713615Z",
   "items": [
     {
       "pmid": "41201442",
@@ -120,6 +120,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41194587/",
       "url_doi": "https://doi.org/10.1002/1878-0261.70155",
       "abstract": "Rearranged during transfection (RET) fusions drive subsets of non-small cell lung cancer (NSCLC) and papillary thyroid carcinoma (PTC). Despite new selective RET tyrosine kinase inhibitors (TKIs), resistance usually occurs and is often driven by RET-independent bypass mechanisms. Previous studies have implied crosstalk between RET and proto-oncogene tyrosine-protein kinase SRC, but the anticancer effects of targeting SRC combined with selective RET TKIs, and the underlying molecular mechanisms involved, are not fully understood. Our results show that the multitargeted SRC TKI dasatinib significantly enhanced the efficacy of RET TKIs in RET fusion-positive (RET"
+    },
+    {
+      "pmid": "41209621",
+      "doi": "10.1177/17588359251386611",
+      "title": "Rationale and design for a phase IIIb trial of first-line tremelimumab plus durvalumab versus pembrolizumab, in combination with chemotherapy, in patients with non-squamous metastatic non-small-cell lung cancer and mutations or co-mutations in STK11, KEAP1, or KRAS: the TRITON study.",
+      "journal": "Therapeutic advances in medical oncology",
+      "pubdate": "2025-11-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1177/17588359251386611",
+      "metric_name": "SJR",
+      "metric_value": 1.549,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41209621/",
+      "url_doi": "https://doi.org/10.1177/17588359251386611",
+      "abstract": "BACKGROUND: Metastatic non-small-cell lung cancers (mNSCLC) harboring mutations in\n\nOBJECTIVES: TRITON is an ongoing study comparing tremelimumab plus durvalumab and chemotherapy with pembrolizumab plus chemotherapy as first-line treatment for patients with non-squamous mNSCLC and mutations or co-mutations in\n\nDESIGN: Phase IIIb, multicenter, open-label, two-arm parallel randomized trial.\n\nMETHODS AND ANALYSIS: Approximately 280 eligible patients, aged ⩾18 years, will be randomized 1:1 to receive tremelimumab 75 mg plus durvalumab 1500 mg plus carboplatin AUC 5/6 or cisplatin 75 mg/m\n\nETHICS: TRITON will be approved by the independent ethics committee or institutional review board at each study site. All participants will provide written informed consent.\n\nDISCUSSION: Results will help to inform clinical practice and establish a biomarker-driven treatment strategy for these subtypes of mNSCLC with high unmet need.\n\nTRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT06008093 (registration date: August 17, 2023)."
     },
     {
       "pmid": "41198454",
@@ -261,6 +281,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40581332/",
       "url_doi": "https://doi.org/10.1016/j.ijrobp.2025.06.3854",
       "abstract": "BACKGROUND: Patients with interstitial lung disease (ILD) who develop lung cancer represent a unique challenge, as they are at higher risk for serious toxicity from local and systemic therapies. The aim of this study is to provide an up-to-date analysis on toxicities and outcomes associated with definitive radiation therapy (RT) in patients with ILD and early-stage non-small cell lung cancer (ES-NSCLC).\n\nMETHODS AND MATERIALS: We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The PubMed (MEDLINE), EMBASE, and Cochrane Library databases were searched from inception until June 2024, for studies including patients with ILD who underwent definitive RT alone for ES-NSCLC. Data including treatment-related mortality, toxicity, local control, and overall survival were collected and analyzed.\n\nRESULTS: Of 3545 records reviewed, 24 studies were identified for full data abstraction, contributing a total of 705 patients. A specific ILD subtype was not reported for 71% (n = 502) of patients. ILD severity was not reported for 62% (n = 440) of patients. Risk of treatment-related mortality was 7.9%, with severe treatment-related respiratory toxicity 15.7%. A higher volume of lung receiving ≥5 Gy (V5) was significantly correlated with mortality. The estimated local control at 3 year was 76% and median overall survival was 2.5 years.\n\nCONCLUSIONS: The relative merits of RT for the treatment of ES-NSCLC in patients with ILD should be considered in the context of the rates of treatment-related mortality and toxicity. Future studies would benefit from consistent reporting of ILD characteristics, which may help in risk stratification in this challenging clinical scenario."
+    },
+    {
+      "pmid": "41207477",
+      "doi": "10.1016/j.jtho.2025.11.001",
+      "title": "Chromosome 15q15 Deletion Drives Brain Metastasis in Non-Small Cell Lung Cancer.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-11-07T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41207477/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.11.001",
+      "abstract": "INTRODUCTION: Brain metastasis (BM) is a devastating complication of non-small cell lung cancer (NSCLC), particularly in NSCLC tumors harboring EGFR mutations. However, the genomic alterations driving BM remain poorly understood.\n\nMETHODS: We analyzed three independent cohorts of resected NSCLCs from Asian patients, including 1,081 primary tumor (PT) samples analyzed by whole-genome sequencing (WGS, discovery cohort, n=180) or whole-exome sequencing (WES, validation cohort, n=901), 8 BM samples, and 17 matched primary-BM pairs analyzed by WGS (BM cohort). Furthermore, RNA sequencing of the available 172 samples in the validation cohort and drug sensitivity profiling using NSCLC cell lines were performed.\n\nRESULTS: In the discovery cohort, deletions of the 15q15 chromosomal segment were more enriched in PTs from patients with BM than in those without this deletion (73% vs. 39%, P=0.004). Cumulative BM incidence was significantly higher in PTs with the 15q15 deletion (sub-distribution hazard ratio=3.9, P=0.008 [Fine-Gray competing risk analysis]), whereas metastases at other organ sites did not differ significantly. These findings were obtained using the validation cohort. The 15q15 deletions significantly co-occurred with EGFR mutations (P=2.8×10\n\nCONCLUSIONS: The 15q15 deletion promotes BM development through aberrant MYC signaling and the subsequent reprogramming of carbohydrate metabolism."
     },
     {
       "pmid": "41205598",
@@ -422,46 +462,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40962011/",
       "url_doi": "https://doi.org/10.1016/j.ejphar.2025.178168",
       "abstract": "The objective of this study was to quantify the impact of longitudinal tumour dynamics, time-varying drug-related adverse events (DRAEs), and other clinical characteristics on long-term outcomes in patients with non-small cell lung cancer (NSCLC) treated with epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). An ambispective cohort of 277 patients was analysed and externally validated using independent clinical trial data from 470 patients in the Project Data Sphere. Individual tumour growth trajectories were characterised by predicted sum of the longest diameters (SLD) using tumour growth inhibition (TGI) modelling. Time-dependent Cox and parametric time-to-event models were then applied to evaluate the influence of predicted tumour growth trajectories, observed dynamic DRAE profiles, cross-sectional variables derived from these measures, and additional covariates on time-to-treatment failure (TTF) and progression-free survival (PFS). The TGI models effectively captured individual tumour dynamics. Across both Cox and parametric time-to-event models, prognostic factors consistently included DRAEs, baseline metastasis, EGFR-TKI treatment history, and the specific EGFR-TKI administered. Notably, grade 2 DRAEs were associated with an optimal balance between efficacy and safety, and this association remained robust in sensitivity analyses and was preliminarily validated using external data. These findings emphasise the clinical relevance of DRAE grades in indicating long-term clinical benefit. By linking manageable toxicity with durable therapeutic outcomes, the study provides valuable insights for developing safe and effective EGFR-TKI treatment strategies in patients with NSCLC."
-    },
-    {
-      "pmid": "41202699",
-      "doi": "10.1016/j.lungcan.2025.108817",
-      "title": "The immune desert tumor microenvironment in Thoracic SMARCA4-deficient undifferentiated tumors: spatial distribution characteristics and prognostic significance.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41202699/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108817",
-      "abstract": "INTRODUCTION: Thoracic SMARCA4-Deficient Undifferentiated Tumors (SMARCA4-UT) are highly aggressive malignancies with poor prognosis. There is currently no standardized treatment strategy. We aimed to investigate the characteristics of the tumor immune microenvironment (TIME) in SMARCA4-UT, and evaluate the impact of TIME on treatment efficacy and prognosis.\n\nMETHODS: Multiplex immunofluorescence staining was performed on tumor tissue specimens from 29 SMARCA4-UT cases and 25 SMARCA4-intact non-small cell lung cancer (SMARCA4-iNSCLC) cases to quantify the density, proportion, and spatial proximity of CD8\n\nRESULTS: Lower infiltration of CD8\n\nCONCLUSION: The TIME of SMARCA4-UT is characterized by an immune-desert phenotype, and higher CD8"
-    },
-    {
-      "pmid": "41192526",
-      "doi": "10.1016/j.cellsig.2025.112211",
-      "title": "RIPK2/STAT3 signaling axis drives lung cancer metastasis through SNAIL activation: Molecular mechanisms and clinical implications.",
-      "journal": "Cellular signalling",
-      "pubdate": "2025-11-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
-      "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
-      "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
     }
   ]
 }
