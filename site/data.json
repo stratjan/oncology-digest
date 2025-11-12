@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-11T05:18:01.713615Z",
+  "generated": "2025-11-12T05:19:18.187710Z",
   "items": [
     {
       "pmid": "41201442",
@@ -102,26 +102,6 @@
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
     },
     {
-      "pmid": "41194587",
-      "doi": "10.1002/1878-0261.70155",
-      "title": "Dual targeting of RET and SRC synergizes in RET fusion-positive cancer cells.",
-      "journal": "Molecular oncology",
-      "pubdate": "2025-11-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/1878-0261.70155",
-      "metric_name": "SJR",
-      "metric_value": 1.957,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41194587/",
-      "url_doi": "https://doi.org/10.1002/1878-0261.70155",
-      "abstract": "Rearranged during transfection (RET) fusions drive subsets of non-small cell lung cancer (NSCLC) and papillary thyroid carcinoma (PTC). Despite new selective RET tyrosine kinase inhibitors (TKIs), resistance usually occurs and is often driven by RET-independent bypass mechanisms. Previous studies have implied crosstalk between RET and proto-oncogene tyrosine-protein kinase SRC, but the anticancer effects of targeting SRC combined with selective RET TKIs, and the underlying molecular mechanisms involved, are not fully understood. Our results show that the multitargeted SRC TKI dasatinib significantly enhanced the efficacy of RET TKIs in RET fusion-positive (RET"
-    },
-    {
       "pmid": "41209621",
       "doi": "10.1177/17588359251386611",
       "title": "Rationale and design for a phase IIIb trial of first-line tremelimumab plus durvalumab versus pembrolizumab, in combination with chemotherapy, in patients with non-squamous metastatic non-small-cell lung cancer and mutations or co-mutations in STK11, KEAP1, or KRAS: the TRITON study.",
@@ -142,44 +122,24 @@
       "abstract": "BACKGROUND: Metastatic non-small-cell lung cancers (mNSCLC) harboring mutations in\n\nOBJECTIVES: TRITON is an ongoing study comparing tremelimumab plus durvalumab and chemotherapy with pembrolizumab plus chemotherapy as first-line treatment for patients with non-squamous mNSCLC and mutations or co-mutations in\n\nDESIGN: Phase IIIb, multicenter, open-label, two-arm parallel randomized trial.\n\nMETHODS AND ANALYSIS: Approximately 280 eligible patients, aged ⩾18 years, will be randomized 1:1 to receive tremelimumab 75 mg plus durvalumab 1500 mg plus carboplatin AUC 5/6 or cisplatin 75 mg/m\n\nETHICS: TRITON will be approved by the independent ethics committee or institutional review board at each study site. All participants will provide written informed consent.\n\nDISCUSSION: Results will help to inform clinical practice and establish a biomarker-driven treatment strategy for these subtypes of mNSCLC with high unmet need.\n\nTRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT06008093 (registration date: August 17, 2023)."
     },
     {
-      "pmid": "41198454",
-      "doi": "10.1016/j.cllc.2025.10.007",
-      "title": "Association Between Lung Volume Reduction and Symptomatic Radiation Pneumonitis in Lung Cancer Patients Undergoing Definitive Concurrent Chemoradiotherapy.",
-      "journal": "Clinical lung cancer",
-      "pubdate": "2025-11-05T00:00:00+00:00",
+      "pmid": "41218106",
+      "doi": "10.1080/09273948.2025.2584590",
+      "title": "Crizotinib-Associated Uveitis and Scleritis with Abscess Formation.",
+      "journal": "Ocular immunology and inflammation",
+      "pubdate": "2025-11-11T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "Thoracic-other",
+      "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 1.515,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41198454/",
-      "url_doi": "https://doi.org/10.1016/j.cllc.2025.10.007",
-      "abstract": "PURPOSE: This study assessed lung volume alterations during radiotherapy (RT) and their predictive value for symptomatic radiation pneumonitis (RP) in lung cancer patients undergoing definitive concurrent chemoradiotherapy (CCRT) MATERIALS AND METHODS: This retrospective study included 49 patients who underwent re-simulation four-dimensional (4D) computed tomography (CT) during RT. Lung volume was measured on the 30% phase of 4D CT at initial and re-simulation scans. Associations between volume changes and symptomatic RP were analyzed using the Mann-Whitney U test. To determine the optimal cut-off value, ROC analysis and the Youden index were utilized. RP was graded based on CTCAE v5.0.\n\nRESULTS: Among the 49 patients, seven (14.3%) developed symptomatic RP. Dosimetric parameters did not differ significantly between patients with and without RP. However, changes in ipsilateral lung volume were significantly associated with symptomatic RP. A volume decrease >130 cm³ or a relative reduction <-7% was predictive of RP (P = .001). The area under the ROC curve for absolute change and relative change of ipsilateral lung volume were 0.905 and 0.883, respectively.\n\nCONCLUSION: Ipsilateral lung volume reduction during RT may serve as an early predictor of symptomatic RP, independent of traditional dosimetric factors. Monitoring volume changes with re-simulation CT could enhance RP risk assessment and guide adaptive RT planning."
-    },
-    {
-      "pmid": "41197523",
-      "doi": "10.4143/crt.2025.971",
-      "title": "Real World Efficacy and Safety of First Line Chemo Immunotherapy in Extensive Stage Small Cell Lung Cancer and its association with molecular subtype.",
-      "journal": "Cancer research and treatment",
-      "pubdate": "2025-11-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.e-crt.org/upload/pdf/crt-2025-971.pdf",
-      "metric_name": "SJR",
-      "metric_value": 1.434,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41197523/",
-      "url_doi": "https://doi.org/10.4143/crt.2025.971",
-      "abstract": "PURPOSE: Small cell lung cancer (SCLC) is an aggressive malignancy with poor outcomes. IMpower133 and CASPIAN established platinum-etoposide plus anti-PD-L1 antibody as standard first-line therapy for extensive-stage SCLC (ES-SCLC). Real-world data in Korean patients are scarce. We evaluated the effectiveness and safety of first-line chemo-immunotherapy in ES-SCLC and compared outcomes with pivotal trials.\n\nMATERIALS AND METHODS: We retrospectively reviewed patients diagnosed with ES-SCLC between 2018 and 2021. Overall survival (OS), progression-free survival (PFS), and time to next treatment (TTNT) were analyzed using Kaplan-Meier methods. Multivariate Cox regression identified prognostic factors. Objective response rate (ORR) was assessed by RECIST v1.1, and histological subtypes evaluated.\n\nRESULTS: Among 177 patients, median age was 66 years (range, 42-91), with 63.8% aged ≥65; most were male (92.7%) and ECOG 0-1 (91.5%). Smoking history was present in 80.8%. Baseline brain and liver metastases occurred in 27.7% and 26%. Median follow-up was 27.2 months (range, 3.9-43.2). ORR was 74.5% (95% CI, 67.1-81.1). Median OS, PFS, and TTNT were 12.4 (95% CI, 11.6-14.9), 5.3 (95% CI, 5.1-5.87), and 5.6 months (95% CI, 1.43-38.27). In 49 patients with brain metastases, ORR was 63.2%, with no difference in efficacy. Local therapy for brain metastases improved OS (HR 0.42; p=0.012), while PFS was not different. Treatment-related adverse events occurred in 90%, primarily grade ≥2 cytopenias; the most common immune-related event was grade 1 rash.\n\nCONCLUSION: In this real-world Korean cohort, first-line chemo-immunotherapy achieved outcomes comparable to pivotal trials, supporting its role as standard care for ES-SCLC in clinical practice."
+      "metric_value": 0.805,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41218106/",
+      "url_doi": "https://doi.org/10.1080/09273948.2025.2584590",
+      "abstract": "PURPOSE: To report a case series of uveitis and scleritis in patients receiving crizotinib for the treatment of lung cancer.\n\nMETHODS: Retrospective case series.\n\nRESULTS: Two female patients (aged 62 and 68 years) who had been on long-term crizotinib treatment (29 and 28 months, respectively) presented with a unique manifestation of unilateral panuveitis and scleritis accompanied by massive abscess formation. Despite extensive microbiologic and cytologic testing, all results were negative. The intraocular inflammation was refractory to systemic and intravitreal antibiotics, corticosteroids, immunosuppressive agents, and biologic therapy; however, both cases showed dramatic improvement after switching to alternative tyrosine kinase inhibitor.\n\nCONCLUSION: A vision-threatening or treatment-refractory form of uveitis and necrotizing scleritis with abscess formation can develop in patients receiving crizotinib. Clinicians should be aware of the possibility of crizotinib-associated ocular inflammation in lung cancer patients to avoid unnecessary diagnostic workups and inappropriate treatments."
     },
     {
       "pmid": "41108995",
@@ -220,6 +180,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40912643/",
       "url_doi": "https://doi.org/10.1016/j.avsg.2025.08.029",
       "abstract": "BACKGROUND: This study aimed to characterize the association between pulmonary embolism (PE) onset time and various antitumor therapeutic approaches in patients with lung cancer, with the goal of identifying potential high-risk populations.\n\nMETHODS: A retrospective analysis was conducted on clinical records from 2019 to 2025, among the 84,000 inpatients with lung cancer, 106 patients developed PE during hospitalization for antitumor treatment, who were confirmed using spiral computed tomography or pulmonary angiography per Chinese Thoracic Society (2018) and The New England Journal of Medicine (2010) criteria. Data were collected on patient demographics, cancer staging, treatment type, and time to PE onset.\n\nRESULTS: Among patients who developed PE during lung cancer treatment, the mean age was 66.82 ± 10.50 years. Females comprised 64.04% of cases, adenocarcinoma was identified in 60.38%, and stage IV lung cancer was present in 56.60%. First-line therapy was administered in 63.21% of cases, and 66.04% exhibited enlarged mediastinal lymph nodes. The mean D-dimer level among this cohort was 3.559 μg/mL, indicating a heightened thrombotic risk. Temporally, 50.95% of PE cases occurred within 6 months of lung cancer diagnosis. Onset within 3 months following therapy initiation was observed across multiple modalities: 46.15% for chemotherapy, 34.78% for targeted therapy, and 77.78% following surgical intervention. Notably, 16.98% of PE events occurred during the initial chemotherapy cycle. The mean time to PE onset was 1.81 ± 2.51 months for patients undergoing surgery alone, compared to 15.52 ± 12.88 months for those receiving surgery combined with other treatments (P < 0.05). Surgical intervention was identified as an independent risk factor for PE. In early-stage lung cancer, the mean time to PE onset was significantly shorter, with a mean time of 16.38 ± 21.07 months (P < 0.05).\n\nCONCLUSION: The timing and incidence of PE vary according to the type of antitumor therapy administered in lung cancer treatment. These findings underscore the importance of vigilant monitoring, personalized risk assessment, and targeted anticoagulation strategies throughout the therapeutic course."
+    },
+    {
+      "pmid": "41217067",
+      "doi": "10.1080/20565623.2025.2578145",
+      "title": "Plain language summary of the ALINA study results: alectinib compared with chemotherapy after surgery in people with ALK-positive non-small cell lung cancer.",
+      "journal": "Future science OA",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.536,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41217067/",
+      "url_doi": "https://doi.org/10.1080/20565623.2025.2578145",
+      "abstract": null
     },
     {
       "pmid": "41061426",
@@ -281,6 +261,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40581332/",
       "url_doi": "https://doi.org/10.1016/j.ijrobp.2025.06.3854",
       "abstract": "BACKGROUND: Patients with interstitial lung disease (ILD) who develop lung cancer represent a unique challenge, as they are at higher risk for serious toxicity from local and systemic therapies. The aim of this study is to provide an up-to-date analysis on toxicities and outcomes associated with definitive radiation therapy (RT) in patients with ILD and early-stage non-small cell lung cancer (ES-NSCLC).\n\nMETHODS AND MATERIALS: We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The PubMed (MEDLINE), EMBASE, and Cochrane Library databases were searched from inception until June 2024, for studies including patients with ILD who underwent definitive RT alone for ES-NSCLC. Data including treatment-related mortality, toxicity, local control, and overall survival were collected and analyzed.\n\nRESULTS: Of 3545 records reviewed, 24 studies were identified for full data abstraction, contributing a total of 705 patients. A specific ILD subtype was not reported for 71% (n = 502) of patients. ILD severity was not reported for 62% (n = 440) of patients. Risk of treatment-related mortality was 7.9%, with severe treatment-related respiratory toxicity 15.7%. A higher volume of lung receiving ≥5 Gy (V5) was significantly correlated with mortality. The estimated local control at 3 year was 76% and median overall survival was 2.5 years.\n\nCONCLUSIONS: The relative merits of RT for the treatment of ES-NSCLC in patients with ILD should be considered in the context of the rates of treatment-related mortality and toxicity. Future studies would benefit from consistent reporting of ILD characteristics, which may help in risk stratification in this challenging clinical scenario."
+    },
+    {
+      "pmid": "41052285",
+      "doi": "10.1093/oncolo/oyaf332",
+      "title": "Antibody drugs conjugates in small-cell lung cancer: present-day status and promises.",
+      "journal": "The oncologist",
+      "pubdate": "2025-11-11T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/oncolo/advance-article-pdf/doi/10.1093/oncolo/oyaf332/64521973/oyaf332.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41052285/",
+      "url_doi": "https://doi.org/10.1093/oncolo/oyaf332",
+      "abstract": "INTRODUCTION: Small-cell lung cancer (SCLC) accounts for 15% of lung cancers and is characterized by an aggressive disease course and historically poor prognosis. Although tumors in most patients respond to initial chemotherapy, relapse is nearly universal and treatment options remain limited. Antibody-drug conjugates (ADCs) have emerged as a novel therapeutic class with the potential to address this unmet need.\n\nMETHODS: ClinicalTrials.gov, PubMed, and their associated references and press releases were queried for the search terms \"antibody-drug -conjugates\" and \"SCLC.\" Only English-language sources were included.\n\nRESULTS: Multiple ADCs targeting diverse antigens have been evaluated in relapsed or refractory SCLC. Topoisomerase I inhibitor payloads have generated the most consistent activity across delta-like protein 3, TROP2, B7-H3, and SEZ6 targets, while microtubule and pyrrolobenzodiazepine-based constructs have not demonstrated durable benefit. Despite encouraging response rates, progression-free survival has remained short, reflecting intrinsic resistance, antigen heterogeneity, and toxicity-related dose limitations.\n\nCONCLUSION: While ADCs have generated encouraging response rates in SCLC, durability has remained limited. Future development will require optimization of payloads, linkers, and trial design to determine whether ADCs can achieve a sustained role in this disease."
     },
     {
       "pmid": "41207477",
@@ -382,86 +382,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41198678/",
       "url_doi": "https://doi.org/10.1038/s41467-025-64821-0",
       "abstract": "RNA splicing dysregulation has emerged as a hallmark of cancer and a promising therapeutic target; however, its full landscape in human solid cancer remains poorly characterized. To address this, we perform alternative splicing analyses using RNA-sequencing data from 751 lung adenocarcinoma samples from our cohort integrated with 519 samples from The Cancer Genome Atlas. Visualization of splicing patterns using t-distributed stochastic neighbor embedding reveals substantial inter-tumor heterogeneity driven by distinct molecular subtypes and histological differentiation. We identify a unique molecular subtype associated with inactivating mutations in CMTR2, which encodes Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 2. CMTR2 mutations are observed in 3.8% of cases and are predominantly truncating mutations, which form an isolated cluster within the splicing landscape. Intrinsic and CRISPR-Cas9-engineered CMTR2 mutations disrupt alternative splicing and sensitize cancer cells to sulfonamide-based RNA splicing modulators and immune checkpoint blockade therapy. Retrospective patient data confirm the increased sensitivity of CMTR2-deficient tumors to immune checkpoint blockade therapy. These findings uncover a previously unrecognized RNA splicing deficiency in human cancers and define a molecular subtype of lung adenocarcinoma driven by RNA splicing dysregulation, suggesting targets for therapeutic intervention in lung cancer."
-    },
-    {
-      "pmid": "41193800",
-      "doi": "10.1038/s41586-025-09710-8",
-      "title": "Targeting FSP1 triggers ferroptosis in lung cancer.",
-      "journal": "Nature",
-      "pubdate": "2025-11-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41586-025-09710-8.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41193800/",
-      "url_doi": "https://doi.org/10.1038/s41586-025-09710-8",
-      "abstract": "Emerging evidence indicates that cancer cells are susceptible to ferroptosis, a form of cell death that is triggered by uncontrolled lipid peroxidation"
-    },
-    {
-      "pmid": "41203001",
-      "doi": "10.1016/j.athoracsur.2025.10.016",
-      "title": "Clinical Characteristics and Surgical Outcomes of Patients Receiving Perioperative Pembrolizumab in KEYNOTE-671.",
-      "journal": "The Annals of thoracic surgery",
-      "pubdate": "2025-11-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41203001/",
-      "url_doi": "https://doi.org/10.1016/j.athoracsur.2025.10.016",
-      "abstract": "BACKGROUND: The phase 3 KEYNOTE-671 study (NCT03425643) demonstrated significantly improved event-free survival (EFS) and overall survival with neoadjuvant pembrolizumab plus chemotherapy followed by surgery and adjuvant pembrolizumab versus neoadjuvant chemotherapy and surgery for early-stage non‒small-cell lung cancer (NSCLC). We describe participant characteristics, surgical outcomes, and EFS in surgically relevant subgroups.\n\nMETHODS: Participants with untreated, resectable, stage II‒IIIB (N2) NSCLC were randomized 1:1 to neoadjuvant pembrolizumab 200 mg or placebo plus cisplatin-based chemotherapy every 3 weeks for 4 cycles, then surgery and adjuvant pembrolizumab or placebo for 13 cycles. Surgery was performed ≤20 weeks after first neoadjuvant dose (if 4 cycles of neoadjuvant therapy) or 4‒8 weeks after last neoadjuvant dose (1‒3 cycles); surgery beyond this was considered surgical delay. Adjuvant therapy began 4‒12 weeks after surgery. EFS was assessed in the surgical population.\n\nRESULTS: Of 397 participants randomized to pembrolizumab and 400 to placebo, 325 (82.1%) and 317 (79.4%), respectively, underwent surgery. At data cutoff (July 10, 2023), 4.9% (pembrolizumab) and 7.6% (placebo) of participants experienced surgical delay, 38.9% and 28.4%, respectively, experienced nodal downstaging, 78.8% and 75.1% underwent lobectomy, and 92.0% and 84.2% had R0 resections. Pembrolizumab improved EFS irrespective of disease stage, nodal status, and type of surgery versus chemotherapy. Eight participants (pembrolizumab, n=6; placebo, n=2) died ≤30 days after surgery from surgery-related adverse events.\n\nCONCLUSIONS: Neoadjuvant pembrolizumab did not adversely affect surgical outcomes, was associated with numerically higher R0 resections, and improved EFS versus neoadjuvant chemotherapy in surgically relevant subgroups in early-stage NSCLC."
-    },
-    {
-      "pmid": "41197618",
-      "doi": "10.1016/j.xcrm.2025.102434",
-      "title": "Trilaciclib triggers a neutrophil-related immune response and sensitizes non-small cell lung cancer to anti-PD-1 therapy.",
-      "journal": "Cell reports. Medicine",
-      "pubdate": "2025-11-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.xcrm.2025.102434",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41197618/",
-      "url_doi": "https://doi.org/10.1016/j.xcrm.2025.102434",
-      "abstract": "Immunotherapy-based combination approaches have improved treatment efficacy in advanced non-small cell lung cancer (NSCLC), but progressive disease remains a challenge. Trilaciclib is a cyclin-dependent kinase 4/6 inhibitor approved for myelopreservation in extensive-stage small cell lung cancer (ES-SCLC). Our results demonstrate that trilaciclib has antitumor potential in NSCLC without significant toxicity. It reprograms the tumor immune microenvironment by primarily increasing antitumor neutrophils and CD8"
-    },
-    {
-      "pmid": "40962011",
-      "doi": "10.1016/j.ejphar.2025.178168",
-      "title": "Prognostic implications of antitumour efficacy and adverse events of EGFR-TKIs in non-small cell lung cancer: an ambispective cohort study.",
-      "journal": "European journal of pharmacology",
-      "pubdate": "2025-11-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40962011/",
-      "url_doi": "https://doi.org/10.1016/j.ejphar.2025.178168",
-      "abstract": "The objective of this study was to quantify the impact of longitudinal tumour dynamics, time-varying drug-related adverse events (DRAEs), and other clinical characteristics on long-term outcomes in patients with non-small cell lung cancer (NSCLC) treated with epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). An ambispective cohort of 277 patients was analysed and externally validated using independent clinical trial data from 470 patients in the Project Data Sphere. Individual tumour growth trajectories were characterised by predicted sum of the longest diameters (SLD) using tumour growth inhibition (TGI) modelling. Time-dependent Cox and parametric time-to-event models were then applied to evaluate the influence of predicted tumour growth trajectories, observed dynamic DRAE profiles, cross-sectional variables derived from these measures, and additional covariates on time-to-treatment failure (TTF) and progression-free survival (PFS). The TGI models effectively captured individual tumour dynamics. Across both Cox and parametric time-to-event models, prognostic factors consistently included DRAEs, baseline metastasis, EGFR-TKI treatment history, and the specific EGFR-TKI administered. Notably, grade 2 DRAEs were associated with an optimal balance between efficacy and safety, and this association remained robust in sensitivity analyses and was preliminarily validated using external data. These findings emphasise the clinical relevance of DRAE grades in indicating long-term clinical benefit. By linking manageable toxicity with durable therapeutic outcomes, the study provides valuable insights for developing safe and effective EGFR-TKI treatment strategies in patients with NSCLC."
     }
   ]
 }
