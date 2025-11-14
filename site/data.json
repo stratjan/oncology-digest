@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-13T05:17:29.081942Z",
+  "generated": "2025-11-14T05:18:26.373091Z",
   "items": [
     {
       "pmid": "40975161",
@@ -22,6 +22,26 @@
       "abstract": "Dysregulated ISC metabolism has been implicated in cancer progression, but its role in LUAD pathogenesis and therapeutic targeting remains poorly understood. Here, we demonstrate that ISC biogenesis is significantly upregulated in LUAD, driven by transcription factors KLF15 and ZNF384, which activate GLRX5, LYRM4, NFS1 and BOLA3 promoters. IL-1β promotes PCAF mitochondrial translocation, releasing EP300 to amplify KLF15/ZNF384-mediated transcriptional activation. The natural monoterpenoid Hinokitiol inhibits LUAD growth by disrupting EP300-KLF15/ZNF384 interactions, suppressing ISC biogenesis gene expression and inducing ferroptosis. Mechanistically, the membrane protein TMDD1, particularly its cytoplasmic domain, promotes Hinokitiol's anti-tumor effects by facilitating EP300-KLF15/ZNF384 dissociation and inhibiting ISC biogenesis. Remarkably, Hinokitiol exhibits stage-dependent efficacy, with superior suppression of metastatic (stage IV) tumors linked to heightened ferroptosis sensitivity. This study not only elucidates the transcriptional machinery governing ISC biogenesis in LUAD but also highlights Hinokitiol's dual mechanism as a promising stage-specific therapeutic agent, offering novel strategies for advanced disease management."
     },
     {
+      "pmid": "40189749",
+      "doi": "10.1080/2162402X.2025.2484880",
+      "title": "Surrogate markers of intestinal dysfunction associated with survival in advanced cancers.",
+      "journal": "Oncoimmunology",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1080/2162402x.2025.2484880",
+      "metric_name": "SJR",
+      "metric_value": 2.542,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40189749/",
+      "url_doi": "https://doi.org/10.1080/2162402X.2025.2484880",
+      "abstract": "Deviations in the diversity and composition of the gut microbiota are called \"gut dysbiosis\". They have been linked to various chronic diseases including cancers and resistance to immunotherapy. Stool shotgun based-metagenomics informs on the ecological composition of the gut microbiota and the prevalence of homeostatic bacteria such as"
+    },
+    {
       "pmid": "40650354",
       "doi": "10.1002/ijc.70045",
       "title": "Stage- and histology-specific sensitivity for the detection of lung cancer of the NELSON screening protocol-A modeling study.",
@@ -42,26 +62,6 @@
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
     },
     {
-      "pmid": "41221490",
-      "doi": "10.1177/17588359251370510",
-      "title": "PI3K/mTORC2-RICTOR axis in early squamous non-small-cell lung cancer: genomics, molecular expression, and clinical relevance.",
-      "journal": "Therapeutic advances in medical oncology",
-      "pubdate": "2025-11-07T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1177/17588359251370510",
-      "metric_name": "SJR",
-      "metric_value": 1.549,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41221490/",
-      "url_doi": "https://doi.org/10.1177/17588359251370510",
-      "abstract": "BACKGROUND: Although considerable discoveries have been made in the genomic landscape of lung adenocarcinoma, to date, little is known regarding potential prognostic factors and altered pathways in resected squamous non-small-cell lung cancer (squamous-NSCLC).\n\nOBJECTIVE: We aimed to analyze the genomic background of prognostic outlier patients, selected based on a previously validated model, to assess differential genomics, and to investigate its relationship with prognosis.\n\nDESIGN: We conducted a retrospective study on three squamous-NSCLC cohorts, integrating next-generation sequencing (NGS)-based genomic profiling and NanoString expression analysis to identify molecular alterations associated with patient prognosis.\n\nMETHODS: NGS analysis of somatic mutations (SM) and copy number variations (CNV) was performed by applying a 409-gene Comprehensive Cancer panel in the training set (Cohort #1) and a 56-gene customized panel in the validation set (Cohort #2). Genomic expression (NanoString) was further evaluated on an additional cohort (Cohort #3).\n\nRESULTS: Sixty and thirty-seven (\n\nCONCLUSION: This integrated multi-step analysis identified potentially altered pathways with a biological impact on squamous-NSCLC oncogenesis, suggesting that the PI3KCA/mTOR pathway could affect the prognosis of resected SCC patients through both genomic aberrations and impaired expression."
-    },
-    {
       "pmid": "41218106",
       "doi": "10.1080/09273948.2025.2584590",
       "title": "Crizotinib-Associated Uveitis and Scleritis with Abscess Formation.",
@@ -80,6 +80,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41218106/",
       "url_doi": "https://doi.org/10.1080/09273948.2025.2584590",
       "abstract": "PURPOSE: To report a case series of uveitis and scleritis in patients receiving crizotinib for the treatment of lung cancer.\n\nMETHODS: Retrospective case series.\n\nRESULTS: Two female patients (aged 62 and 68 years) who had been on long-term crizotinib treatment (29 and 28 months, respectively) presented with a unique manifestation of unilateral panuveitis and scleritis accompanied by massive abscess formation. Despite extensive microbiologic and cytologic testing, all results were negative. The intraocular inflammation was refractory to systemic and intravitreal antibiotics, corticosteroids, immunosuppressive agents, and biologic therapy; however, both cases showed dramatic improvement after switching to alternative tyrosine kinase inhibitor.\n\nCONCLUSION: A vision-threatening or treatment-refractory form of uveitis and necrotizing scleritis with abscess formation can develop in patients receiving crizotinib. Clinicians should be aware of the possibility of crizotinib-associated ocular inflammation in lung cancer patients to avoid unnecessary diagnostic workups and inappropriate treatments."
+    },
+    {
+      "pmid": "41108995",
+      "doi": "10.1016/j.suronc.2025.102309",
+      "title": "Mediastinal staging with video-assisted mediastinoscopic lymphadenectomy after endobronchial ultrasound-guided transbronchial needle aspiration: real-world evidence in 228 patients.",
+      "journal": "Surgical oncology",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.792,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41108995/",
+      "url_doi": "https://doi.org/10.1016/j.suronc.2025.102309",
+      "abstract": "BACKGROUND: Accurate staging of mediastinal lymph nodes in patients with non-small-cell lung cancer (NSCLC) is essential to determine further management. Current guidelines recommend confirmatory mediastinoscopy for patients with suspicious mediastinal lymph node metastases in image-based staging but negative findings on endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA). In clinical practice, adherence to these recommendations is low and many physicians omit invasive surgical staging. This study aimed to assess the results of subsequent video-assisted mediastinoscopic lymphadenectomy (VAMLA).\n\nMETHODS: Retrospective single-center cohort analysis of patients who underwent surgery between 2015 and 2019. All patients were diagnosed with potentially resectable lung cancer or FDG-avid pulmonary nodule suspicious for NSCLC and underwent VAMLA following N0-N2 EBUS-TBNA for mediastinal staging.\n\nRESULTS: VAMLA was performed in 228 patients. Nodal upstaging after EBUS-TBNA occurred in 17.5 % of the cases (n = 40). During EBUS-TBNA, 1.72 (±1.06) lymph node stations were sampled, compared to 5.59 (±1.1) resected stations in VAMLA (p < 0.001). Clinical nodal status staged by PET/CT was significantly correlated with the occurrence of nodal upstaging by VAMLA, with an odds ratio of 7.69 in cN2 and 5.88 in patients with cN3, compared to cN0. Complications occurred in 8 patients (3.59 %). VAMLA was false negative in 1 patient (0.4 %).\n\nCONCLUSION: Subsequent VAMLA enables the accurate staging of patients after negative EBUS-TBNA. Overall, 17.5 % of cases had nodal upstaging and would otherwise not have received guideline-compliant treatment for NSCLC. These results underline the role of surgical mediastinal staging after negative EBUS-TBNA in patients with suspicious radiologic findings."
     },
     {
       "pmid": "40912643",
@@ -113,13 +133,94 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1080/20565623.2025.2578145",
       "metric_name": "SJR",
       "metric_value": 0.536,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41217067/",
       "url_doi": "https://doi.org/10.1080/20565623.2025.2578145",
       "abstract": null
+    },
+    {
+      "pmid": "41061426",
+      "doi": "10.1016/j.ejca.2025.116042",
+      "title": "Survival outcomes with carboplatin versus cisplatin and the impact of COVID-19 on platinum choice: A nationwide Netherlands registry study in small cell lung cancer patients (CACIS).",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-11-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ejca.2025.116042",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41061426/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116042",
+      "abstract": "BACKGROUND: Guidelines recommend cisplatin as the preferred platinum agent in the first-line treatment for small cell lung cancer (SCLC), especially limited-stage disease (LS-SCLC). However, during the COVID-19 pandemic, carboplatin use likely increased due to logistical advantages. We evaluated the pandemic's impact on platinum agent utilization in the Netherlands and compared overall survival (OS) and safety between cisplatin and carboplatin.\n\nMETHODS: Using Netherlands Cancer Registry data, first-line platinum-based treatments for LS-SCLC and extensive-stage SCLC (ES-SCLC) between 2018 and 2023 were analyzed. OS was evaluated using univariable and multivariable analyses. Grades 3-5 treatment-related adverse events were studied in three hospitals.\n\nFINDINGS: Overall, 1683 LS-SCLC (carboplatin, N = 1011[60 %]; cisplatin, N = 672[40 %]) and 3668 ES-SCLC (carboplatin, N = 3002[82 %]; cisplatin, N = 666[18 %]) patients were included. During the pandemic, quarterly usage rates of carboplatin reached up to 81 % and 90 % in LS-SCLC and ES-SCLC, respectively. In LS-SCLC, univariable analysis showed significantly shorter median OS with carboplatin compared to cisplatin (17.9m vs. 26.3m; HR, 1.48; 95 %CI, 1.31-1.68; p < 0.001). Similar findings were observed in ES-SCLC (8.0m vs. 9.3m; HR, 1.19; 95 %CI, 1.09-1.30; p < 0.001). However, multivariable analyses, after adjusting for confounders, showed no significant OS differences in either LS-SCLC (HR, 1.06; 95 %CI, 0.90-1.25; p = 0.463) or ES-SCLC (HR, 1.01; 95 %CI, 0.92-1.12; p = 0.785). Confounders were performance status (PS), age, sex, and chemoradiotherapy type for LS-SCLC, and PS, age, sex, stage, and liver metastases for ES-SCLC. Hematologic toxicity was higher with carboplatin, while cisplatin led to more nonhematologic toxicity.\n\nINTERPRETATION: These findings challenge the long-standing belief of cisplatin's superiority and support the adoption of carboplatin in SCLC."
+    },
+    {
+      "pmid": "41033152",
+      "doi": "10.1016/j.ejca.2025.116011",
+      "title": "Early years, advanced disease: The unmet need in young adults with non-small cell lung cancer.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-11-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ejca.2025.116011",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41033152/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116011",
+      "abstract": "INTRODUCTION: Young adults are a minority of lung cancer (LC) patients, however, clinical presentation and cancer biology can differ. Here, we report the first German cohort study of young adults with LC.\n\nMETHODS: We included patients diagnosed with LC between 2019 and 2023 at the West German Cancer Centre (University Medicine Essen) in this retrospective cohort study. For analysis of clinicogenomic baseline characteristics and overall survival (OS), patients were stratified by age at diagnosis into a young cohort (YC; n = 56, ≤45 years), an older cohort (OC; n = 2.682, >45 years) and analysed across age decades.\n\nRESULTS: 71 of 2.738 patients with LC (2.59 %) were ≤ 45 years old. 56/71 were diagnosed with NSCLC or SCLC. YC frequently reported no history of smoking (21 % vs. 6 %; p < 0.001). Among YC, adenocarcinoma (59 % vs. 49 %) and NSCLC not-otherwise-specified (NSCLC NOS; 27 % vs. 8.2 %) were the dominant histological subtypes (p < 0.001). Stage IV disease was significantly more common in YC (stage IV: 66 % vs. 44 %; p = 0.005) with more frequent regional lymph node involvement (N1-N3 79 % vs. 56.9 %) and extrathoracic lymph node metastases (38 % vs. 14 %; p < 0.001). Frequent targetable genomic alterations in YC included ALK translocations (21 % vs. 2.2 %; p < 0.001). YC with metastatic NSCLC had similar median OS compared to OC, although OS was improved in those with targetable alterations.\n\nCONCLUSION: Early-onset LC is characterized by advanced disease stage, adenocarcinoma histopathology and frequent targetable genomic alterations, especially in patients without a history of smoking. Early diagnosis remains a critical unmet medical need in this subgroup of patients."
+    },
+    {
+      "pmid": "40581332",
+      "doi": "10.1016/j.ijrobp.2025.06.3854",
+      "title": "Treatment Toxicity and Outcomes Following Definitive Radiation Therapy for Patients With Early-Stage Non-Small Cell Lung Cancers and Pre-Existing Interstitial Lung Disease-A Systematic Review and Dosimetric Analysis.",
+      "journal": "International journal of radiation oncology, biology, physics",
+      "pubdate": "2025-11-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40581332/",
+      "url_doi": "https://doi.org/10.1016/j.ijrobp.2025.06.3854",
+      "abstract": "BACKGROUND: Patients with interstitial lung disease (ILD) who develop lung cancer represent a unique challenge, as they are at higher risk for serious toxicity from local and systemic therapies. The aim of this study is to provide an up-to-date analysis on toxicities and outcomes associated with definitive radiation therapy (RT) in patients with ILD and early-stage non-small cell lung cancer (ES-NSCLC).\n\nMETHODS AND MATERIALS: We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The PubMed (MEDLINE), EMBASE, and Cochrane Library databases were searched from inception until June 2024, for studies including patients with ILD who underwent definitive RT alone for ES-NSCLC. Data including treatment-related mortality, toxicity, local control, and overall survival were collected and analyzed.\n\nRESULTS: Of 3545 records reviewed, 24 studies were identified for full data abstraction, contributing a total of 705 patients. A specific ILD subtype was not reported for 71% (n = 502) of patients. ILD severity was not reported for 62% (n = 440) of patients. Risk of treatment-related mortality was 7.9%, with severe treatment-related respiratory toxicity 15.7%. A higher volume of lung receiving ≥5 Gy (V5) was significantly correlated with mortality. The estimated local control at 3 year was 76% and median overall survival was 2.5 years.\n\nCONCLUSIONS: The relative merits of RT for the treatment of ES-NSCLC in patients with ILD should be considered in the context of the rates of treatment-related mortality and toxicity. Future studies would benefit from consistent reporting of ILD characteristics, which may help in risk stratification in this challenging clinical scenario."
+    },
+    {
+      "pmid": "41225256",
+      "doi": "10.1007/s00520-025-10143-2",
+      "title": "Psychological resilience in newly diagnosed lung cancer patients: Trajectories and influencing factors.",
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "pubdate": "2025-11-12T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41225256/",
+      "url_doi": "https://doi.org/10.1007/s00520-025-10143-2",
+      "abstract": "AIMS: To identify different classes of newly diagnosed lung cancer patients based on heterogeneous trajectories of psychological resilience and influencing factors of different classes.\n\nMETHODS: From October 2022 to December 2023, 388 newly diagnosed lung cancer patients were included. Baseline assessment (T0) data were collected at the first day of hospitalization, including demographic, clinical characteristics, psychological (psychological resilience, symptom burden, anxiety, medical coping styles), and social (social support) factors. Measurements were repeated at 3 days after surgery (T1), the day of hospital discharge (T2), 3 months post-discharge (T3), 6 months post-discharge (T4), and 1 year post-discharge (T5). A latent class growth model (LCGM) was used to define different classes of trajectories of psychological resilience.\n\nRESULTS: Data from 333 patients were analyzed. The three latent classes had a similar pattern across different intercepts, with a significant decrease from T0 to T2, followed by a significant increase from T2 to T5, and with T5 being higher than T0. The three trajectories were named Class 1 (sustained high), Class 2 (rapid recovery), and Class 3 (slow recovery), respectively. Multiple logistic regressions showed that Class 1 (sustained high) predicted higher social support, aged 20 ~ 40, being male and a civil servant, and Class 2 (rapid recovery), and Class 3 (slow recovery) predicted higher anxiety and resignation coping compared to Class 1.\n\nCONCLUSION: Healthcare providers should pay attention to periods of declining psychological resilience and implement interventions for vulnerable populations."
     },
     {
       "pmid": "41219394",
@@ -154,8 +255,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s44321-025-00326-z",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41219537/",
@@ -169,11 +270,12 @@
       "journal": "The oncologist",
       "pubdate": "2025-11-11T00:00:00+00:00",
       "pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
       "is_oa": true,
       "oa_url": "https://academic.oup.com/oncolo/advance-article-pdf/doi/10.1093/oncolo/oyaf332/64521973/oyaf332.pdf",
       "metric_name": null,
@@ -189,11 +291,12 @@
       "journal": "Zhonghua yi xue za zhi",
       "pubdate": "2025-11-11T00:00:00+00:00",
       "pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "entity": "Other",
-      "trial_type": null,
-      "study_class": "Preclinical",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
@@ -201,66 +304,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41218896/",
       "url_doi": "https://doi.org/10.3760/cma.j.cn112137-20250722-01823",
       "abstract": "A retrospective analysis was conducted on the clinical characteristics and imaging manifestations of 6 patients diagnosed with Trousseau's syndrome accompanied by central nervous system (CNS) thrombotic events at Beijing Tongren Hospital between December 2015 and December 2022. Additionally, a literature review was performed summarizing 86 cases of Trousseau syndrome retrieved from PubMed and CNKI from January 1, 2020 to January 1, 2025. Among the 6 included patients, 2 were male and 4 were female, with a median age ["
-    },
-    {
-      "pmid": "41218560",
-      "doi": "10.1016/j.lungcan.2025.108835",
-      "title": "Long-term survival comparison of first-line pembrolizumab versus pembrolizumab plus chemotherapy for patients with advanced non-small cell lung cancer: A multicenter propensity-matched cohort study.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-07T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(25)00727-5/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41218560/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108835",
-      "abstract": "BACKGROUND: Pembrolizumab is currently used as a first-line therapy for EGFR- and ALK-negative advanced non-small cell lung cancer (NSCLC). However, whether pembrolizumab alone (P-mono) or combined with platinum chemotherapy (P-combo) provides superior long-term benefit remains unclear.\n\nMETHODS: We retrospectively analyzed 392 patients with PD-L1 TPS ≥ 1 % treated first-line with P-mono (n = 194) or P-combo (n = 198) between 2019 and 2021. Propensity-score matching across 13 baseline variables yielded two well-balanced cohorts of 97 patients each, with a median follow-ups of 42.8 and 44.1 months, respectively.\n\nRESULTS: P-combo prolonged overall survival (OS) (median 31.8 vs 20.7 months; hazard ratio [HR] 0.67, 95 % confidence interval [CI] 0.46-0.96) and progression-free survival (12.5 vs 7.0 months; HR 0.59, 95 %CI 0.43-0.81). The 3- and 4-year OS rates were 49.8 % and 42.7 %, respectively, with P-combo, compared with 28.1 % and 22.3 % with P-mono. The 48-month restricted mean survival time also favored P-combo (p = 0.039). Additionally, greater benefits were observed among patients aged < 75 years, with ECOG performance status 0-1, PD-L1 TPS 1-49 %, and those using proton-pump inhibitors. Grade ≥ 3 treatment-related adverse events (TRAEs) were more frequent with P-combo (35 % vs 20 %, p = 0.024). However, treatment-related deaths (2 % each) and pneumonitis incidence and severity were comparable; cumulative toxicity curves plateaued after 3 years.\n\nCONCLUSIONS: These findings suggest that P-combo showed a durable survival advantage over monotherapy and acceptable TRAEs in patients with PD-L1-positive NSCLC, identifying clinical subgroups most likely to benefit. Prospective randomized trials are warranted to validate these observations and guide optimal first-line treatment strategies."
-    },
-    {
-      "pmid": "41207477",
-      "doi": "10.1016/j.jtho.2025.11.001",
-      "title": "Chromosome 15q15 Deletion Drives Brain Metastasis in Non-Small Cell Lung Cancer.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-11-07T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41207477/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.11.001",
-      "abstract": "INTRODUCTION: Brain metastasis (BM) is a devastating complication of non-small cell lung cancer (NSCLC), particularly in NSCLC tumors harboring EGFR mutations. However, the genomic alterations driving BM remain poorly understood.\n\nMETHODS: We analyzed three independent cohorts of resected NSCLCs from Asian patients, including 1,081 primary tumor (PT) samples analyzed by whole-genome sequencing (WGS, discovery cohort, n=180) or whole-exome sequencing (WES, validation cohort, n=901), 8 BM samples, and 17 matched primary-BM pairs analyzed by WGS (BM cohort). Furthermore, RNA sequencing of the available 172 samples in the validation cohort and drug sensitivity profiling using NSCLC cell lines were performed.\n\nRESULTS: In the discovery cohort, deletions of the 15q15 chromosomal segment were more enriched in PTs from patients with BM than in those without this deletion (73% vs. 39%, P=0.004). Cumulative BM incidence was significantly higher in PTs with the 15q15 deletion (sub-distribution hazard ratio=3.9, P=0.008 [Fine-Gray competing risk analysis]), whereas metastases at other organ sites did not differ significantly. These findings were obtained using the validation cohort. The 15q15 deletions significantly co-occurred with EGFR mutations (P=2.8×10\n\nCONCLUSIONS: The 15q15 deletion promotes BM development through aberrant MYC signaling and the subsequent reprogramming of carbohydrate metabolism."
-    },
-    {
-      "pmid": "41205598",
-      "doi": "10.1016/j.cell.2025.10.020",
-      "title": "Longitudinal ultrasensitive ctDNA monitoring for high-resolution lung cancer risk prediction.",
-      "journal": "Cell",
-      "pubdate": "2025-11-07T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41205598/",
-      "url_doi": "https://doi.org/10.1016/j.cell.2025.10.020",
-      "abstract": "Biomarkers accurately informing prognostic assessment and therapeutic strategy are critical for improving patient outcome in oncology. Here, we apply a whole-genome, tumor-informed circulating tumor DNA (ctDNA) detection approach to address this challenge, leveraging 1,800 variants across 2,994 plasma samples from 431 patients with non-small cell lung cancer (NSCLC) from the TRACERx study. We show that ultrasensitive ctDNA detection below 80 parts per million both pre- and postoperatively is highly prognostic, and combinatorial analysis of the pre- and postoperative ctDNA status identifies an intermediate risk group, improving disease stratification. ctDNA kinetics demonstrate clinical utility during adjuvant therapy, where patients that \"clear\" ctDNA during adjuvant therapy experience improved outcomes. Moreover, characterization of patterns in postoperative ctDNA kinetics reveals insights into the timing, risk, and anatomical pattern of relapses. By incorporating longitudinal ultrasensitive ctDNA detection, we propose a refined schema for guiding the stratification and treatment recommendations in early stage NSCLC."
     }
   ]
 }
