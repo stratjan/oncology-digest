@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-14T05:18:26.373091Z",
+  "generated": "2025-11-15T05:16:25.911742Z",
   "items": [
     {
       "pmid": "40975161",
@@ -60,6 +60,28 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40650354/",
       "url_doi": "https://doi.org/10.1002/ijc.70045",
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
+    },
+    {
+      "pmid": "41116141",
+      "doi": "10.1007/s12325-025-03365-7",
+      "title": "A Time and Motion Study Comparing Subcutaneous Pembrolizumab Versus Intravenous Pembrolizumab in Combination with Chemotherapy for the Treatment of Metastatic Non-small Cell Lung Cancer.",
+      "journal": "Advances in therapy",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s12325-025-03365-7.pdf",
+      "metric_name": "SJR",
+      "metric_value": 1.236,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41116141/",
+      "url_doi": "https://doi.org/10.1007/s12325-025-03365-7",
+      "abstract": "INTRODUCTION: Subcutaneous (SC) formulations of oncology therapies could provide time-saving benefits for both patients and healthcare professionals (HCPs) compared with intravenous (IV) delivery. This prospective observational study, conducted alongside the MK-3475A-D77 phase 3, open-label randomized clinical trial, quantifies HCP and patient time with pembrolizumab SC versus pembrolizumab IV among patients with metastatic non-small cell lung cancer.\n\nMETHODS: Seventeen sites across eight countries in Europe (n = 4), South America (n = 3), and Asia (n = 1) were enrolled. Primary endpoints were active HCP time; patient time in the treatment chair, treatment room, and healthcare facility; and consumables usage. Descriptive statistics included weighted mean (WM), and a linear mixed model (LMM) was employed to explore differences in time measures between pembrolizumab SC and pembrolizumab IV per visit.\n\nRESULTS: Overall, 212 observations were analyzed (153 SC and 59 IV). Total active HCP time was reduced by 45.6% with SC versus IV (WM, 14.0 vs 25.8 min); HCPs spent 44.3% less time on the drug preparation process with SC versus IV (WM, 5.1 vs 9.1 min) and 46.3% less time on the drug administration process with SC versus IV (WM, 8.9 vs 16.7 min). Patient chair time was reduced by 49.6% with SC versus IV (WM, 59.0 vs 117.2 min). Patients receiving SC spent less time in the treatment room than those receiving IV (WM, 66.7 vs 126.9 min; difference - 47.4%). Exploratory LMM showed considerable between-group differences for active HCP time and patient time in the treatment chair and treatment room.\n\nCONCLUSION: Pembrolizumab SC substantially reduces active HCP time and patient chair time versus pembrolizumab IV. Time liberated for HCPs could be reallocated toward additional patient care activities, while optimized chair utilization could improve overall healthcare efficiency."
     },
     {
       "pmid": "41218106",
@@ -203,6 +225,47 @@
       "abstract": "BACKGROUND: Patients with interstitial lung disease (ILD) who develop lung cancer represent a unique challenge, as they are at higher risk for serious toxicity from local and systemic therapies. The aim of this study is to provide an up-to-date analysis on toxicities and outcomes associated with definitive radiation therapy (RT) in patients with ILD and early-stage non-small cell lung cancer (ES-NSCLC).\n\nMETHODS AND MATERIALS: We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The PubMed (MEDLINE), EMBASE, and Cochrane Library databases were searched from inception until June 2024, for studies including patients with ILD who underwent definitive RT alone for ES-NSCLC. Data including treatment-related mortality, toxicity, local control, and overall survival were collected and analyzed.\n\nRESULTS: Of 3545 records reviewed, 24 studies were identified for full data abstraction, contributing a total of 705 patients. A specific ILD subtype was not reported for 71% (n = 502) of patients. ILD severity was not reported for 62% (n = 440) of patients. Risk of treatment-related mortality was 7.9%, with severe treatment-related respiratory toxicity 15.7%. A higher volume of lung receiving ≥5 Gy (V5) was significantly correlated with mortality. The estimated local control at 3 year was 76% and median overall survival was 2.5 years.\n\nCONCLUSIONS: The relative merits of RT for the treatment of ES-NSCLC in patients with ILD should be considered in the context of the rates of treatment-related mortality and toxicity. Future studies would benefit from consistent reporting of ILD characteristics, which may help in risk stratification in this challenging clinical scenario."
     },
     {
+      "pmid": "40864503",
+      "doi": "10.1158/1078-0432.CCR-25-1735",
+      "title": "First-Line MET Tyrosine Kinase Inhibitors versus Immunotherapy ± Chemotherapy for Patients with MET Exon 14 Skipping Mutant Metastatic NSCLC.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2025-11-14T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-25-1735/3646790/ccr-25-1735.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40864503/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-1735",
+      "abstract": "PURPOSE: First-line treatment options for MET exon 14 skipping-mutant metastatic non-small cell lung cancer vary because of differences in drug approvals and clinical experience. This study investigates factors influencing outcomes with first-line MET tyrosine kinase inhibitors (TKI) versus immune checkpoint inhibitors (ICI) ± chemotherapy.\n\nEXPERIMENTAL DESIGN: Clinicopathologic data were collected from patients with metastatic MET exon 14 skipping-mutant non-small cell lung cancer treated with first-line MET TKI or ICI ± chemotherapy at five centers. Primary endpoints were real-world progression-free survival (rwPFS) and overall survival (OS) to first-line MET TKI versus ICI ± chemotherapy. Subgroup analyses by clinical and tumor characteristics were performed.\n\nRESULTS: Among 158 patients, 80 received MET TKI and 78 received ICI ± chemotherapy as first-line treatment. Baseline clinicopathologic features were balanced except for a higher proportion of patients with a history of smoking in the ICI ± chemotherapy group (P = 0.03). With a median follow-up of 37.9 months, no difference was observed in rwPFS (HR, 0.85; P = 0.4) or OS (HR, 0.97; P = 0.9) with first-line MET TKI versus ICI ± chemotherapy. In subgroup analyses, first-line ICI ± chemotherapy improved rwPFS in PD-L1 ≥80% (HR, 0.50; P = 0.03), whereas MET TKI improved rwPFS (HR, 0.40; P = 0.005) and OS (HR, 0.49; P = 0.03) in PD-L1 <50%, as well as rwPFS (HR, 0.39; P = 0.02) and OS (HR, 0.36; P = 0.03) in brain metastases and rwPFS (HR, 0.55; P = 0.01) in bone metastases. No significant differences were observed in the incidence of high-grade toxicity (P = 0.9) or rates of permanent treatment discontinuation (P = 0.2) between first-line MET TKI and ICI ± chemotherapy.\n\nCONCLUSIONS: First-line MET TKI improved outcomes in PD-L1 <50% and brain/bone metastases, whereas ICI ± chemotherapy prolonged PFS only in PD-L1 ≥80%, emphasizing the need for personalized treatment selection."
+    },
+    {
+      "pmid": "41232938",
+      "doi": "10.1183/13993003.00156-2025",
+      "title": "European Respiratory Society and European Society of Thoracic Surgeons clinical practice guideline on fitness for curative intent treatment of lung cancer.",
+      "journal": "The European respiratory journal",
+      "pubdate": "2025-11-13T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Guideline",
+      "study_class": "Guideline",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41232938/",
+      "url_doi": "https://doi.org/10.1183/13993003.00156-2025",
+      "abstract": "A multidisciplinary panel of lung cancer experts with a special interest in functional evaluation of lung cancer patients, and lung cancer patient representatives, has been facilitated by the European Society of Thoracic Surgeons and the European Respiratory Society to provide healthcare professionals with practical and up-to-date recommendations for the assessment of patients' fitness for curative intent treatments for lung cancer. The panel formulated four PICO (population, intervention, comparison and outcomes) questions and seven complementary narrative questions. Both types of questions were assigned to groups of at least two experts. A medical librarian conducted the literature searches, and the authors selected relevant studies based on predefined inclusion criteria. Risk of bias was assessed using the QUIPS (Quality in Prognosis Studies) tool. Data were summarised and the certainty of evidence was assessed with GRADE (Grading of Recommendations, Assessment, Development and Evaluations) and the Evidence to Decisions framework was used to formulate recommendations. A series of multidisciplinary recommendations was formulated about the utilisation of pulmonary function tests, split lung function values, exercise tests, cardiologic testing, and the role of prehabilitation, sublobar resections, risk scores and comorbidities in selecting patients for curative intent treatment."
+    },
+    {
       "pmid": "41225256",
       "doi": "10.1007/s00520-025-10143-2",
       "title": "Psychological resilience in newly diagnosed lung cancer patients: Trajectories and influencing factors.",
@@ -304,6 +367,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41218896/",
       "url_doi": "https://doi.org/10.3760/cma.j.cn112137-20250722-01823",
       "abstract": "A retrospective analysis was conducted on the clinical characteristics and imaging manifestations of 6 patients diagnosed with Trousseau's syndrome accompanied by central nervous system (CNS) thrombotic events at Beijing Tongren Hospital between December 2015 and December 2022. Additionally, a literature review was performed summarizing 86 cases of Trousseau syndrome retrieved from PubMed and CNKI from January 1, 2020 to January 1, 2025. Among the 6 included patients, 2 were male and 4 were female, with a median age ["
+    },
+    {
+      "pmid": "41232543",
+      "doi": "10.1016/S1470-2045(25)00537-6",
+      "title": "Defining eligibility for lung cancer screening based on individual risk.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-11-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41232543/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00537-6",
+      "abstract": null
+    },
+    {
+      "pmid": "41232542",
+      "doi": "10.1016/S1470-2045(25)00490-5",
+      "title": "Effectiveness of NELSON versus PLCOm2012 lung cancer screening eligibility criteria in Germany (HANSE): a prospective cohort study.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-11-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Prospective (non-RCT)",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/s1470-2045(25)00490-5",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41232542/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00490-5",
+      "abstract": "BACKGROUND: Low-dose chest CT screening can reduce lung cancer mortality through early diagnosis. Several studies suggest that risk prediction models are more efficient than categorical age and smoking criteria for participant selection, but there are still reservations from policy makers about their implementation. We aimed to compare the effectiveness of a predefined PLCOm2012 model threshold with the categorical NELSON risk criteria.\n\nMETHODS: In this ongoing prospective cohort study, current or former smokers aged 55-79 years who met either NELSON risk criteria or had a PLCOm2012 6-year risk of at least 1·58% were recruited from three certified German lung cancer centres in Großhansdorf, Hannover, and Lübeck, and received low-dose CT at baseline and 1-year follow-up screening rounds, including all downstream follow-up procedures. The PLCOm2012 cutoff point of at least 1·58% was predefined and estimated to result in an equal group size as with the NELSON inclusion criteria. The primary outcome was the comparison of the positive predictive values for lung cancers detected in PLCOm2012-selected versus NELSON-selected groups. Here, we report the final results of the primary analysis. This study is registered with ClinicalTrials.gov, NCT04913155.\n\nFINDINGS: Between July 23, 2021, and Aug 19, 2022 (end of recruitment), 5191 participants (2208 [43·5%] female, 2983 [57·5%] male, and 5076 [97·8%] of European White ethnicity) who met either one or both high-risk criteria were enrolled (4167 PLCOm2012-selected vs 3916 NELSON-selected participants) and underwent the baseline low-dose CT scan. In the observation period between the two low-dose CT screening rounds (mean volume CT dose index 1·15 mGy [SD 0·15]) with a median time interval of 1·05 years (IQR 0·95-1·08), 111 lung cancers were detected. The positive predictive value (lung cancer detection rate) in the PLCOm2012-selected group was 108 of 4167 participants (2·59% [95% CI 2·13-3·12]) compared with 85 of 3916 participants (2·17% [1·74-2·68]) in the NELSON-selected group (p=0·0016), resulting in a lower number needed to screen (38·6 [32·1-46·9] vs 46·1 [37·3-57·5]).\n\nINTERPRETATION: Participant selection using the PLCOm2012 risk prediction model with a 6-year risk of at least 1·58% cutoff is more efficient and effective in detecting lung cancer than the NELSON criteria and should therefore be implemented in lung cancer screening programmes.\n\nFUNDING: Federal Ministry of Education and Research (German Center for Lung Research) and AstraZeneca."
     }
   ]
 }
