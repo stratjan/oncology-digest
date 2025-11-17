@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-16T05:16:27.854291Z",
+  "generated": "2025-11-17T05:18:30.939337Z",
   "items": [
     {
       "pmid": "40975161",
@@ -266,6 +266,46 @@
       "abstract": "A multidisciplinary panel of lung cancer experts with a special interest in functional evaluation of lung cancer patients, and lung cancer patient representatives, has been facilitated by the European Society of Thoracic Surgeons and the European Respiratory Society to provide healthcare professionals with practical and up-to-date recommendations for the assessment of patients' fitness for curative intent treatments for lung cancer. The panel formulated four PICO (population, intervention, comparison and outcomes) questions and seven complementary narrative questions. Both types of questions were assigned to groups of at least two experts. A medical librarian conducted the literature searches, and the authors selected relevant studies based on predefined inclusion criteria. Risk of bias was assessed using the QUIPS (Quality in Prognosis Studies) tool. Data were summarised and the certainty of evidence was assessed with GRADE (Grading of Recommendations, Assessment, Development and Evaluations) and the Evidence to Decisions framework was used to formulate recommendations. A series of multidisciplinary recommendations was formulated about the utilisation of pulmonary function tests, split lung function values, exercise tests, cardiologic testing, and the role of prehabilitation, sublobar resections, risk scores and comorbidities in selecting patients for curative intent treatment."
     },
     {
+      "pmid": "41240596",
+      "doi": "10.1016/j.lungcan.2025.108837",
+      "title": "Letter to the Editor: On the clinical irrelevance of SUCRA rankings in relapsed small-cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-11-12T00:00:00+00:00",
+      "pubtypes": [
+        "Letter"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41240596/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108837",
+      "abstract": null
+    },
+    {
+      "pmid": "41240595",
+      "doi": "10.1016/j.lungcan.2025.108838",
+      "title": "Threshold of adequate resection margin for sub-lobar resection in peripheral clinical stage IA1-2 non-small cell lung cancer with tumor spread through air spaces.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-11-12T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41240595/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108838",
+      "abstract": "OBJECTIVES: Sub-lobar resection (SR) is an established treatment for peripheral clinical stage IA1-2 (cIA1-2) non-small cell lung cancer (NSCLC). However, it may fail to achieve complete resection and is associated with worse survival than lobar resection (LR) in spread through air spaces (STAS)\n\nMETHODS: Consecutive patients with peripheral cIA1-2 (consolidation-to-tumor ratio > 0.5) NSCLC who underwent surgery between 2010 and 2020 across seven high-volume institutions were retrospectively reviewed. Stabilized inverse probability of treatment weighting (IPTW) was applied to mitigate selection bias. The primary endpoint was overall survival (OS), and the secondary endpoint was recurrence-free survival (RFS).\n\nRESULTS: A total of 6,027 STAS\n\nCONCLUSIONS: In peripheral cIA1-2 NSCLC, STAS status may modify the prognostic impact of both resection extent and margin. For STAS"
+    },
+    {
       "pmid": "41225256",
       "doi": "10.1007/s00520-025-10143-2",
       "title": "Psychological resilience in newly diagnosed lung cancer patients: Trajectories and influencing factors.",
@@ -367,46 +407,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41218896/",
       "url_doi": "https://doi.org/10.3760/cma.j.cn112137-20250722-01823",
       "abstract": "A retrospective analysis was conducted on the clinical characteristics and imaging manifestations of 6 patients diagnosed with Trousseau's syndrome accompanied by central nervous system (CNS) thrombotic events at Beijing Tongren Hospital between December 2015 and December 2022. Additionally, a literature review was performed summarizing 86 cases of Trousseau syndrome retrieved from PubMed and CNKI from January 1, 2020 to January 1, 2025. Among the 6 included patients, 2 were male and 4 were female, with a median age ["
-    },
-    {
-      "pmid": "41232543",
-      "doi": "10.1016/S1470-2045(25)00537-6",
-      "title": "Defining eligibility for lung cancer screening based on individual risk.",
-      "journal": "The Lancet. Oncology",
-      "pubdate": "2025-11-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41232543/",
-      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00537-6",
-      "abstract": null
-    },
-    {
-      "pmid": "41232542",
-      "doi": "10.1016/S1470-2045(25)00490-5",
-      "title": "Effectiveness of NELSON versus PLCOm2012 lung cancer screening eligibility criteria in Germany (HANSE): a prospective cohort study.",
-      "journal": "The Lancet. Oncology",
-      "pubdate": "2025-11-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Prospective (non-RCT)",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/s1470-2045(25)00490-5",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41232542/",
-      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00490-5",
-      "abstract": "BACKGROUND: Low-dose chest CT screening can reduce lung cancer mortality through early diagnosis. Several studies suggest that risk prediction models are more efficient than categorical age and smoking criteria for participant selection, but there are still reservations from policy makers about their implementation. We aimed to compare the effectiveness of a predefined PLCOm2012 model threshold with the categorical NELSON risk criteria.\n\nMETHODS: In this ongoing prospective cohort study, current or former smokers aged 55-79 years who met either NELSON risk criteria or had a PLCOm2012 6-year risk of at least 1·58% were recruited from three certified German lung cancer centres in Großhansdorf, Hannover, and Lübeck, and received low-dose CT at baseline and 1-year follow-up screening rounds, including all downstream follow-up procedures. The PLCOm2012 cutoff point of at least 1·58% was predefined and estimated to result in an equal group size as with the NELSON inclusion criteria. The primary outcome was the comparison of the positive predictive values for lung cancers detected in PLCOm2012-selected versus NELSON-selected groups. Here, we report the final results of the primary analysis. This study is registered with ClinicalTrials.gov, NCT04913155.\n\nFINDINGS: Between July 23, 2021, and Aug 19, 2022 (end of recruitment), 5191 participants (2208 [43·5%] female, 2983 [57·5%] male, and 5076 [97·8%] of European White ethnicity) who met either one or both high-risk criteria were enrolled (4167 PLCOm2012-selected vs 3916 NELSON-selected participants) and underwent the baseline low-dose CT scan. In the observation period between the two low-dose CT screening rounds (mean volume CT dose index 1·15 mGy [SD 0·15]) with a median time interval of 1·05 years (IQR 0·95-1·08), 111 lung cancers were detected. The positive predictive value (lung cancer detection rate) in the PLCOm2012-selected group was 108 of 4167 participants (2·59% [95% CI 2·13-3·12]) compared with 85 of 3916 participants (2·17% [1·74-2·68]) in the NELSON-selected group (p=0·0016), resulting in a lower number needed to screen (38·6 [32·1-46·9] vs 46·1 [37·3-57·5]).\n\nINTERPRETATION: Participant selection using the PLCOm2012 risk prediction model with a 6-year risk of at least 1·58% cutoff is more efficient and effective in detecting lung cancer than the NELSON criteria and should therefore be implemented in lung cancer screening programmes.\n\nFUNDING: Federal Ministry of Education and Research (German Center for Lung Research) and AstraZeneca."
     }
   ]
 }
