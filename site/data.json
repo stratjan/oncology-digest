@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-18T05:17:38.967642Z",
+  "generated": "2025-11-19T05:18:13.451548Z",
   "items": [
     {
       "pmid": "40975161",
@@ -54,7 +54,7 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1007/s00259-025-07658-5",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00259-025-07658-5.pdf",
       "metric_name": "SJR",
       "metric_value": 2.392,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41247515/",
@@ -186,6 +186,26 @@
       "abstract": "PURPOSE: Immunotherapy targeting PD-L1 improves outcomes in patients with unresectable stage III non-small cell lung cancer (NSCLC) and no progression after definitive, concurrent chemoradiotherapy (cCRT). Earlier administration of immunotherapy, simultaneously with cCRT, may improve outcomes further.\n\nMETHODS: Eligible patients were randomly assigned (2:1) to receive either durvalumab or placebo administered from the start of cCRT. Patients without progression after completing cCRT received consolidation durvalumab or placebo (per initial random assignment) until progression. The primary end point was progression-free survival (PFS) by blinded independent central review. Key secondary end points included objective response rate (ORR), overall survival (OS), the proportion of patients alive at 24 months (OS24), and safety.\n\nRESULTS: In total, 328 patients were randomly assigned to receive durvalumab (n = 219) or placebo (n = 109). There was no statistically significant difference with durvalumab versus placebo in PFS (hazard ratio [HR], 0.85 [95% CI, 0.65 to 1.12];\n\nCONCLUSION: Among patients with unresectable stage III NSCLC, durvalumab administered from the start of cCRT failed to demonstrate additional benefit compared with cCRT plus placebo. Consolidation durvalumab following definitive cCRT remains the standard of care in this setting."
     },
     {
+      "pmid": "41248681",
+      "doi": "10.1055/a-2748-2597",
+      "title": "[Correction: White paper on identification, information, and eligibility assessment of potential participants in lung cancer screening in Germany].",
+      "journal": "Pneumologie (Stuttgart, Germany)",
+      "pubdate": "2025-11-17T00:00:00+00:00",
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/a-2748-2597.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41248681/",
+      "url_doi": "https://doi.org/10.1055/a-2748-2597",
+      "abstract": null
+    },
+    {
       "pmid": "41061426",
       "doi": "10.1016/j.ejca.2025.116042",
       "title": "Survival outcomes with carboplatin versus cisplatin and the impact of COVID-19 on platinum choice: A nationwide Netherlands registry study in small cell lung cancer patients (CACIS).",
@@ -224,6 +244,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41033152/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.116011",
       "abstract": "INTRODUCTION: Young adults are a minority of lung cancer (LC) patients, however, clinical presentation and cancer biology can differ. Here, we report the first German cohort study of young adults with LC.\n\nMETHODS: We included patients diagnosed with LC between 2019 and 2023 at the West German Cancer Centre (University Medicine Essen) in this retrospective cohort study. For analysis of clinicogenomic baseline characteristics and overall survival (OS), patients were stratified by age at diagnosis into a young cohort (YC; n = 56, ≤45 years), an older cohort (OC; n = 2.682, >45 years) and analysed across age decades.\n\nRESULTS: 71 of 2.738 patients with LC (2.59 %) were ≤ 45 years old. 56/71 were diagnosed with NSCLC or SCLC. YC frequently reported no history of smoking (21 % vs. 6 %; p < 0.001). Among YC, adenocarcinoma (59 % vs. 49 %) and NSCLC not-otherwise-specified (NSCLC NOS; 27 % vs. 8.2 %) were the dominant histological subtypes (p < 0.001). Stage IV disease was significantly more common in YC (stage IV: 66 % vs. 44 %; p = 0.005) with more frequent regional lymph node involvement (N1-N3 79 % vs. 56.9 %) and extrathoracic lymph node metastases (38 % vs. 14 %; p < 0.001). Frequent targetable genomic alterations in YC included ALK translocations (21 % vs. 2.2 %; p < 0.001). YC with metastatic NSCLC had similar median OS compared to OC, although OS was improved in those with targetable alterations.\n\nCONCLUSION: Early-onset LC is characterized by advanced disease stage, adenocarcinoma histopathology and frequent targetable genomic alterations, especially in patients without a history of smoking. Early diagnosis remains a critical unmet medical need in this subgroup of patients."
+    },
+    {
+      "pmid": "41248848",
+      "doi": "10.1016/j.jtho.2025.11.008",
+      "title": "Andamertinib in Advanced Non-Small-Cell Lung Cancer with EGFR Exon 20 Insertions After Platinum-Based Chemotherapy or Immunotherapy: Results from the Phase 2 KANNON Study.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-11-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41248848/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.11.008",
+      "abstract": "PURPOSE: This study aimed to evaluate andamertinib, a selective and irreversible tyrosine kinase inhibitor, in pretreated advanced epidermal growth factor receptor (EGFR) exon 20 insertion (ex20ins)-mutant non-small-cell lung cancer (NSCLC).\n\nPATIENTS AND METHODS: In the phase 2, multicenter, single-arm KANNON study (NCT06015503), patients with locally advanced or metastatic NSCLC harboring EGFR ex20ins mutations who had progressed after platinum-based chemotherapy or immunotherapy received oral andamertinib 240 mg once daily in 28-day cycles. The primary endpoint was the confirmed objective response rate (ORR) assessed by independent review.\n\nRESULTS: A total of 92 patients were enrolled and received daily 240 mg andamertinib, with nearly 30 different exon20ins subtypes included. The confirmed ORR was 42.7% (95% confidence interval [CI], 32.4-53.0), with a disease control rate of 86.5% and a median duration of response of 8.7 months (95% CI, 5.65-11.96). As of September 6, 2025 with a median follow-up of 15.4 months (range, 0.4-20.5), the median progression-free survival was 6.2 months (95% CI, 4.63-7.85), and median overall survival was not reached (95% CI, 13.93 months to not estimable), with a 12-month survival rate of 70.5%. Among 38 patients with brain metastasis, the systemic confirmed ORR was 47.4% (95% CI: 31.5-63.2). Grade ≥3 treatment-related adverse events occurred in 40.2% of patients and the most frequent events were diarrhea (12.0%) and rash (7.6%). No interstitial lung disease or grade ≥3 QT prolongation was reported.\n\nCONCLUSIONS: Andamertinib at 240 mg once daily demonstrated efficacy with a manageable safety profile in previously treated patients with EGFR ex20ins-mutant NSCLC."
     },
     {
       "pmid": "41242285",
@@ -265,6 +305,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40581332/",
       "url_doi": "https://doi.org/10.1016/j.ijrobp.2025.06.3854",
       "abstract": "BACKGROUND: Patients with interstitial lung disease (ILD) who develop lung cancer represent a unique challenge, as they are at higher risk for serious toxicity from local and systemic therapies. The aim of this study is to provide an up-to-date analysis on toxicities and outcomes associated with definitive radiation therapy (RT) in patients with ILD and early-stage non-small cell lung cancer (ES-NSCLC).\n\nMETHODS AND MATERIALS: We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The PubMed (MEDLINE), EMBASE, and Cochrane Library databases were searched from inception until June 2024, for studies including patients with ILD who underwent definitive RT alone for ES-NSCLC. Data including treatment-related mortality, toxicity, local control, and overall survival were collected and analyzed.\n\nRESULTS: Of 3545 records reviewed, 24 studies were identified for full data abstraction, contributing a total of 705 patients. A specific ILD subtype was not reported for 71% (n = 502) of patients. ILD severity was not reported for 62% (n = 440) of patients. Risk of treatment-related mortality was 7.9%, with severe treatment-related respiratory toxicity 15.7%. A higher volume of lung receiving ≥5 Gy (V5) was significantly correlated with mortality. The estimated local control at 3 year was 76% and median overall survival was 2.5 years.\n\nCONCLUSIONS: The relative merits of RT for the treatment of ES-NSCLC in patients with ILD should be considered in the context of the rates of treatment-related mortality and toxicity. Future studies would benefit from consistent reporting of ILD characteristics, which may help in risk stratification in this challenging clinical scenario."
+    },
+    {
+      "pmid": "41248618",
+      "doi": "10.1016/j.lungcan.2025.108842",
+      "title": "Genetic composition and evolutionary trajectories of brain metastasis in non-small-cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-11-14T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41248618/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108842",
+      "abstract": "INTRODUCTION: Non-small cell lung cancer (NSCLC) is an aggressive solid malignancy that commonly disseminates to the central nervous system (CNS). Comparative analysis of primary NSCLC and brain metastases (BM) by next-generation sequencing may reveal somatic genetic alterations that drive or favor NSCLC-derived BM.\n\nMETHODS: We performed whole-exome sequencing (WES) in 62 archival samples from 31 paired-matched primary NSCLC sites and corresponding BM. The median age of patients was 66 years; 22 had adenocarcinoma, and 9 had squamous cell carcinoma, 6 patients presented synchronous BM at lung cancer diagnosis, and 22 developed BM after 1-78 months (median 13 months).\n\nRESULTS: Mutations in the RTK-RAS, WNT, NOTCH, and PIK pathways were enriched across all samples. The KMT2D and TP53 genes were the most frequently mutated in the primary tumor and corresponding BM. FAT1, NSD1, and NF1 mutations were among the most frequent alterations newly detected in BM. Non-druggable hotspot alterations in actionable genes, including EGFR, KRAS, ALK, and ROS1, showed various patterns between the two tumor sites.\n\nCONCLUSIONS: Our study provides a comprehensive overview of genetic alterations specific to primary NSCLC, unique to BM, and shared between both sites, which may contribute to BM formation affecting various evolutionary trajectories."
     },
     {
       "pmid": "41242499",
@@ -346,86 +406,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41242287/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108839",
       "abstract": "OBJECTIVES: This study aimed to evaluate the prognostic value of quantitative N1 nodal burden metrics-including positive node count, positive station count, lymph node ratio (LNR), and lymph node station ratio (LNsR)-in patients with non-skip pN2 non-small cell lung cancer (NSCLC).\n\nMETHODS: This retrospective study included 477 non-skip pN2 NSCLC patients who underwent complete surgical resection at our center from December 2008 to December 2020. N1 metrics were dichotomized based on optimal cutoffs determined by overall survival (OS). Kaplan-Meier analysis and Cox regression models were utilized to assess disease-free survival (DFS) and OS and to identify independent prognostic factors.\n\nRESULTS: In multivariable analysis, a high N1 LNR emerged as the sole N1 metric that independently predicted worse DFS (HR = 1.47, 95 % CI: 1.05-2.04, p = 0.023). In contrast, its prognostic significance for OS was attenuated (p = 0.162). However, an advanced pT4 stage (p = 0.044) was an independent predictor of worse OS, while adjuvant therapy (p = 0.016) was associated with improved OS. Notably, subgroup analysis revealed that an elevated N1 LNR independently predicted worse DFS in the pN2a subgroup (p = 0.009). Building on this, we developed a novel three-tiered stratification (pN2a-low LNR, pN2a-high LNR, and pN2b) that effectively discriminated patient outcomes for both DFS (p < 0.001) and OS (p < 0.01).\n\nCONCLUSIONS: N1 LNR is a powerful and independent predictor of disease recurrence in non-skip pN2 NSCLC, outperforming other N1 metrics for predicting DFS. Incorporating N1 LNR into clinical assessments, particularly for pN2a patients, can enhance prognostic accuracy and potentially guidemore personalized surveillance and treatment strategies."
-    },
-    {
-      "pmid": "41242286",
-      "doi": "10.1016/j.lungcan.2025.108841",
-      "title": "NHWD-870 suppresses tumor proliferation via the BRD4/STRADA/CCND1 axis in small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41242286/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108841",
-      "abstract": "BACKGROUND: Small cell lung cancer (SCLC) is a highly aggressive malignancy with poor prognosis and limited therapeutic options. The lack of effective targeted therapies for SCLC is a major limitation of this field. Bromodomain and Extra-Terminal (BET) inhibitors have emerged as a promising class of anticancer agents. This study aimed to evaluate the preclinical efficacy and mechanism of action of NHWD-870, a novel BET inhibitor targeting BRD4, in SCLC.\n\nMETHOD: The therapeutic effects of NHWD-870 on SCLC have been validated through compassionate use. The anti-tumor effects of NHWD-870 were explored using in vitro and in vivo models. CCK-8 assays and flow cytometry were utilized to examine cell viability, apoptosis, and mechanisms of cell cycle arrest. The in vivo effectiveness of NHWD-870 was evaluated using cell line-derived xenograft (CDX) and patient-derived xenograft (PDX) models of SCLC. Mechanistic studies involving RNA sequencing, Western blotting, qPCR, and transfection were conducted to investigate and confirm the underlying mechanisms of NHWD-870.\n\nRESULT: Our study observed the efficacy of NHWD-870 in a patient with SCLC. NHWD-870 demonstrated robust anti-tumor activity against SCLC in both in vitro and in vivo models, effectively halting tumor growth, inducing apoptosis, and disrupting the cell cycle. RNA sequencing confirmed that the cell cycle is its primary pathway of action, with BRD4, STRADA, and CCND1 identified as key targets.\n\nCONCLUSION: NHWD-870 exhibits anti-tumor activity both in vitro and in vivo against SCLC, primarily by regulating the BRD4/STRADA/CCND1 axis and inhibiting the transition of the cell cycle from the G1 phase to the S phase. These findings highlight the therapeutic potential of NHWD-870 as a novel BET inhibitor for SCLC treatment and provide a molecular basis for further clinical development."
-    },
-    {
-      "pmid": "41240596",
-      "doi": "10.1016/j.lungcan.2025.108837",
-      "title": "Letter to the Editor: On the clinical irrelevance of SUCRA rankings in relapsed small-cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-12T00:00:00+00:00",
-      "pubtypes": [
-        "Letter"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41240596/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108837",
-      "abstract": null
-    },
-    {
-      "pmid": "41240595",
-      "doi": "10.1016/j.lungcan.2025.108838",
-      "title": "Threshold of adequate resection margin for sub-lobar resection in peripheral clinical stage IA1-2 non-small cell lung cancer with tumor spread through air spaces.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41240595/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108838",
-      "abstract": "OBJECTIVES: Sub-lobar resection (SR) is an established treatment for peripheral clinical stage IA1-2 (cIA1-2) non-small cell lung cancer (NSCLC). However, it may fail to achieve complete resection and is associated with worse survival than lobar resection (LR) in spread through air spaces (STAS)\n\nMETHODS: Consecutive patients with peripheral cIA1-2 (consolidation-to-tumor ratio > 0.5) NSCLC who underwent surgery between 2010 and 2020 across seven high-volume institutions were retrospectively reviewed. Stabilized inverse probability of treatment weighting (IPTW) was applied to mitigate selection bias. The primary endpoint was overall survival (OS), and the secondary endpoint was recurrence-free survival (RFS).\n\nRESULTS: A total of 6,027 STAS\n\nCONCLUSIONS: In peripheral cIA1-2 NSCLC, STAS status may modify the prognostic impact of both resection extent and margin. For STAS"
-    },
-    {
-      "pmid": "41225256",
-      "doi": "10.1007/s00520-025-10143-2",
-      "title": "Psychological resilience in newly diagnosed lung cancer patients: Trajectories and influencing factors.",
-      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-      "pubdate": "2025-11-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41225256/",
-      "url_doi": "https://doi.org/10.1007/s00520-025-10143-2",
-      "abstract": "AIMS: To identify different classes of newly diagnosed lung cancer patients based on heterogeneous trajectories of psychological resilience and influencing factors of different classes.\n\nMETHODS: From October 2022 to December 2023, 388 newly diagnosed lung cancer patients were included. Baseline assessment (T0) data were collected at the first day of hospitalization, including demographic, clinical characteristics, psychological (psychological resilience, symptom burden, anxiety, medical coping styles), and social (social support) factors. Measurements were repeated at 3 days after surgery (T1), the day of hospital discharge (T2), 3 months post-discharge (T3), 6 months post-discharge (T4), and 1 year post-discharge (T5). A latent class growth model (LCGM) was used to define different classes of trajectories of psychological resilience.\n\nRESULTS: Data from 333 patients were analyzed. The three latent classes had a similar pattern across different intercepts, with a significant decrease from T0 to T2, followed by a significant increase from T2 to T5, and with T5 being higher than T0. The three trajectories were named Class 1 (sustained high), Class 2 (rapid recovery), and Class 3 (slow recovery), respectively. Multiple logistic regressions showed that Class 1 (sustained high) predicted higher social support, aged 20 ~ 40, being male and a civil servant, and Class 2 (rapid recovery), and Class 3 (slow recovery) predicted higher anxiety and resignation coping compared to Class 1.\n\nCONCLUSION: Healthcare providers should pay attention to periods of declining psychological resilience and implement interventions for vulnerable populations."
     }
   ]
 }
