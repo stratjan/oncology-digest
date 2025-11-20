@@ -1,6 +1,26 @@
 {
-  "generated": "2025-11-19T05:18:13.451548Z",
+  "generated": "2025-11-20T05:18:24.086850Z",
   "items": [
+    {
+      "pmid": "41259198",
+      "doi": "10.1001/jama.2025.23244",
+      "title": "Lung Cancer Screening Saves Lives, but Could Save So Many More.",
+      "journal": "JAMA",
+      "pubdate": "2025-11-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 5.352,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41259198/",
+      "url_doi": "https://doi.org/10.1001/jama.2025.23244",
+      "abstract": null
+    },
     {
       "pmid": "40975161",
       "doi": "10.1016/j.canlet.2025.218046",
@@ -80,6 +100,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40650354/",
       "url_doi": "https://doi.org/10.1002/ijc.70045",
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
+    },
+    {
+      "pmid": "41259656",
+      "doi": "10.1158/2767-9764.CRC-25-0564",
+      "title": "Cancer Incidence and Mortality Estimates in Latin America and the Caribbean: A Systematic Analysis of the GLOBOCAN 2022.",
+      "journal": "Cancer research communications",
+      "pubdate": "2025-11-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1158/2767-9764.crc-25-0564",
+      "metric_name": "SJR",
+      "metric_value": 1.569,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41259656/",
+      "url_doi": "https://doi.org/10.1158/2767-9764.CRC-25-0564",
+      "abstract": "Cancer is a leading cause of death in Latin America and the Caribbean (LAC), and up-to-date estimates are essential to guide cancer policy. Using GLOBOCAN 2022 data, we analyzed cancer incidence and mortality across 32 LAC countries, calculated age-standardized rates, and assessed early-onset cancer (diagnosed at ages 15-50). Mortality-to-incidence ratios (MIRs) were used as a proxy for survival, Joinpoint regression estimated annual percent change (APC), and linear regression evaluated correlation between the Human Development Index (HDI) and cancer indicators. In 2022, LAC recorded 1,551,060 new cancer cases (ASIR 186.6 per 100,000) and 749,242 deaths (ASMR 85.2 per 100,000). Prostate and breast cancers were the most common malignancies, while lung and breast cancers caused the highest mortality. Mortality declined for prostate cancer (APC -1.52, 95% CI -1.80 to -1.24) and male lung cancer (-2.50, 95% CI -2.68 to -2.33) but increased for female lung (+1.88, 95% CI 1.71 to 2.05) and colorectal cancer (+2.48, 95% CI 2.30 to 2.67). HDI showed an inverse correlation with MIR (p < 0.001), suggesting improved survival with higher development. Early-onset cancers represented 17% of new cases and 11% of deaths. These findings reveal a growing cancer burden and that persistent disparities in cancer epidemiology persists across LAC, highlighting the urgent need for targeted cancer control strategies and regional cancer control plans."
+    },
+    {
+      "pmid": "41259663",
+      "doi": "10.1158/2767-9764.CRC-25-0186",
+      "title": "Low OLFM1 and BMP6 Expression Predicts Recurrence in Early-Stage Non-Squamous NSCLC with Pure Solid Tumor Appearance.",
+      "journal": "Cancer research communications",
+      "pubdate": "2025-11-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1158/2767-9764.crc-25-0186",
+      "metric_name": "SJR",
+      "metric_value": 1.569,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41259663/",
+      "url_doi": "https://doi.org/10.1158/2767-9764.CRC-25-0186",
+      "abstract": "While pathological stage I (pStage I) non-small cell lung cancer (NSCLC) has a good prognosis, some patients experience disease recurrence. Identification of prognostic markers for pStage I NSCLC may facilitate personalized perioperative treatment by expanding the candidates for adjuvant treatment. NSCLC patients with ground-glass opacity have excellent survival outcomes. Therefore, in this study, we explored prognostic biomarkers in pure solid non-squamous NSCLC. We focused on non-squamous NSCLC because the gene expression status is distinct from that of squamous cell carcinomas. RNA sequencing was performed on frozen tumor specimens from 33 non-squamous NSCLC patients with disease recurrence (recurrence group) and 33 counterparts (control group) extracted from patients without disease recurrence using propensity score matching (Cohort 1). The candidate genes were further refined using an independent real-world Cohort 2a (N = 125) and validated in The Cancer Genome Atlas cohort. Through the analysis of Cohort 1 and Cohort 2a, we found that low expression of six genes (BMP6, KCNK3, NFASC, OLFM1, PEG3, and TNXB) was associated with disease recurrence. The prognostic impact of the six genes was confirmed using The Cancer Genome Atlas lung adenocarcinoma database. Multivariable proportional hazard analysis using the Cohort 2a dataset revealed that the combination of BMP6 and OLFM1 status predicted recurrence-free survival. In conclusion, we found that low BMP6/OLFM1 gene status is a potential biomarker to identify high-risk pStage I pure solid non-squamous NSCLC patients after pulmonary resection."
     },
     {
       "pmid": "41116141",
@@ -164,6 +224,27 @@
       "abstract": null
     },
     {
+      "pmid": "41259771",
+      "doi": "10.1056/NEJMc2513316",
+      "title": "Neoadjuvant Nivolumab plus Chemotherapy in Lung Cancer. Reply.",
+      "journal": "The New England journal of medicine",
+      "pubdate": "2025-11-20T00:00:00+00:00",
+      "pubtypes": [
+        "Letter",
+        "Comment"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41259771/",
+      "url_doi": "https://doi.org/10.1056/NEJMc2513316",
+      "abstract": null
+    },
+    {
       "pmid": "41082707",
       "doi": "10.1200/JCO-25-00036",
       "title": "Simultaneous Durvalumab and Platinum-Based Chemoradiotherapy in Unresectable Stage III Non-Small Cell Lung Cancer: The Phase III PACIFIC-2 Study.",
@@ -184,6 +265,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41082707/",
       "url_doi": "https://doi.org/10.1200/JCO-25-00036",
       "abstract": "PURPOSE: Immunotherapy targeting PD-L1 improves outcomes in patients with unresectable stage III non-small cell lung cancer (NSCLC) and no progression after definitive, concurrent chemoradiotherapy (cCRT). Earlier administration of immunotherapy, simultaneously with cCRT, may improve outcomes further.\n\nMETHODS: Eligible patients were randomly assigned (2:1) to receive either durvalumab or placebo administered from the start of cCRT. Patients without progression after completing cCRT received consolidation durvalumab or placebo (per initial random assignment) until progression. The primary end point was progression-free survival (PFS) by blinded independent central review. Key secondary end points included objective response rate (ORR), overall survival (OS), the proportion of patients alive at 24 months (OS24), and safety.\n\nRESULTS: In total, 328 patients were randomly assigned to receive durvalumab (n = 219) or placebo (n = 109). There was no statistically significant difference with durvalumab versus placebo in PFS (hazard ratio [HR], 0.85 [95% CI, 0.65 to 1.12];\n\nCONCLUSION: Among patients with unresectable stage III NSCLC, durvalumab administered from the start of cCRT failed to demonstrate additional benefit compared with cCRT plus placebo. Consolidation durvalumab following definitive cCRT remains the standard of care in this setting."
+    },
+    {
+      "pmid": "41254996",
+      "doi": "10.2340/1651-226X.2025.44344",
+      "title": "Prevalence, molecular characterization, and prognosis of c-Met protein overexpression in a real-world cohort of patients with non-squamous non-small cell lung cancer.",
+      "journal": "Acta oncologica (Stockholm, Sweden)",
+      "pubdate": "2025-11-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.2340/1651-226x.2025.44344",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41254996/",
+      "url_doi": "https://doi.org/10.2340/1651-226X.2025.44344",
+      "abstract": "BACKGROUND AND PURPOSE: c-Met (also known as MET) protein is encoded by the MET proto-oncogene. In non-small cell lung cancer (NSCLC), c-Met protein overexpression (OE) drives tumorigenesis and is a therapeutic target, given recent US Food and Drug Administration approval of telisotuzumab vedotin-tllv. This retrospective analysis of tumor samples and clinical data from real-world patients with non-squamous NSCLC characterized the prevalence of c-Met protein OE, its association with messenger ribonucleic acid (mRNA) expression, MET gene amplification, programmed-death ligand 1 (PD-L1) expression, and its impact on prognosis.\n\nPATIENTS AND METHODS: A patient cohort was selected for manual abstraction of clinical data from electronic health records. Patients were selected based on the availability of sufficient remnant tissue for biomarker analyses, including c-Met immunohistochemistry (IHC). Comparative assessments were conducted for c-Met protein expression by IHC, MET gene amplification, mRNA expression, and PD-L1 expression levels by IHC.\n\nRESULTS: In total, 305 and 84 patients were included in the biomarker prevalence and outcome analyses, respectively. Overall, c-Met protein OE was detected in 25% of tissue samples. Of the 212 samples with fluorescence in situ hybridization data, MET amplification was seen in 9%. Concordance of c-Met protein OE with MET mRNA levels was observed with area under the concentration-time curve values of 0.738 and 0.736 in MET OE or MET high OE, respectively, using Receiver Operating Characteristic analysis. c-Met protein OE was associated with poor prognosis (unadjusted hazard ratio for death of 2.04).\n\nINTERPRETATION: These data suggest that c-Met protein OE is associated with MET mRNA expression, shows limited overlap with other MET aberrations, and may be linked to poor prognosis in NSCLC."
+    },
+    {
+      "pmid": "41197618",
+      "doi": "10.1016/j.xcrm.2025.102434",
+      "title": "Trilaciclib triggers a neutrophil-related immune response and sensitizes non-small cell lung cancer to anti-PD-1 therapy.",
+      "journal": "Cell reports. Medicine",
+      "pubdate": "2025-11-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.xcrm.2025.102434",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41197618/",
+      "url_doi": "https://doi.org/10.1016/j.xcrm.2025.102434",
+      "abstract": "Immunotherapy-based combination approaches have improved treatment efficacy in advanced non-small cell lung cancer (NSCLC), but progressive disease remains a challenge. Trilaciclib is a cyclin-dependent kinase 4/6 inhibitor approved for myelopreservation in extensive-stage small cell lung cancer (ES-SCLC). Our results demonstrate that trilaciclib has antitumor potential in NSCLC without significant toxicity. It reprograms the tumor immune microenvironment by primarily increasing antitumor neutrophils and CD8"
     },
     {
       "pmid": "41248681",
@@ -365,47 +486,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40864503/",
       "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-1735",
       "abstract": "PURPOSE: First-line treatment options for MET exon 14 skipping-mutant metastatic non-small cell lung cancer vary because of differences in drug approvals and clinical experience. This study investigates factors influencing outcomes with first-line MET tyrosine kinase inhibitors (TKI) versus immune checkpoint inhibitors (ICI) ± chemotherapy.\n\nEXPERIMENTAL DESIGN: Clinicopathologic data were collected from patients with metastatic MET exon 14 skipping-mutant non-small cell lung cancer treated with first-line MET TKI or ICI ± chemotherapy at five centers. Primary endpoints were real-world progression-free survival (rwPFS) and overall survival (OS) to first-line MET TKI versus ICI ± chemotherapy. Subgroup analyses by clinical and tumor characteristics were performed.\n\nRESULTS: Among 158 patients, 80 received MET TKI and 78 received ICI ± chemotherapy as first-line treatment. Baseline clinicopathologic features were balanced except for a higher proportion of patients with a history of smoking in the ICI ± chemotherapy group (P = 0.03). With a median follow-up of 37.9 months, no difference was observed in rwPFS (HR, 0.85; P = 0.4) or OS (HR, 0.97; P = 0.9) with first-line MET TKI versus ICI ± chemotherapy. In subgroup analyses, first-line ICI ± chemotherapy improved rwPFS in PD-L1 ≥80% (HR, 0.50; P = 0.03), whereas MET TKI improved rwPFS (HR, 0.40; P = 0.005) and OS (HR, 0.49; P = 0.03) in PD-L1 <50%, as well as rwPFS (HR, 0.39; P = 0.02) and OS (HR, 0.36; P = 0.03) in brain metastases and rwPFS (HR, 0.55; P = 0.01) in bone metastases. No significant differences were observed in the incidence of high-grade toxicity (P = 0.9) or rates of permanent treatment discontinuation (P = 0.2) between first-line MET TKI and ICI ± chemotherapy.\n\nCONCLUSIONS: First-line MET TKI improved outcomes in PD-L1 <50% and brain/bone metastases, whereas ICI ± chemotherapy prolonged PFS only in PD-L1 ≥80%, emphasizing the need for personalized treatment selection."
-    },
-    {
-      "pmid": "41232938",
-      "doi": "10.1183/13993003.00156-2025",
-      "title": "European Respiratory Society and European Society of Thoracic Surgeons clinical practice guideline on fitness for curative intent treatment of lung cancer.",
-      "journal": "The European respiratory journal",
-      "pubdate": "2025-11-13T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Practice Guideline"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Guideline",
-      "study_class": "Guideline",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41232938/",
-      "url_doi": "https://doi.org/10.1183/13993003.00156-2025",
-      "abstract": "A multidisciplinary panel of lung cancer experts with a special interest in functional evaluation of lung cancer patients, and lung cancer patient representatives, has been facilitated by the European Society of Thoracic Surgeons and the European Respiratory Society to provide healthcare professionals with practical and up-to-date recommendations for the assessment of patients' fitness for curative intent treatments for lung cancer. The panel formulated four PICO (population, intervention, comparison and outcomes) questions and seven complementary narrative questions. Both types of questions were assigned to groups of at least two experts. A medical librarian conducted the literature searches, and the authors selected relevant studies based on predefined inclusion criteria. Risk of bias was assessed using the QUIPS (Quality in Prognosis Studies) tool. Data were summarised and the certainty of evidence was assessed with GRADE (Grading of Recommendations, Assessment, Development and Evaluations) and the Evidence to Decisions framework was used to formulate recommendations. A series of multidisciplinary recommendations was formulated about the utilisation of pulmonary function tests, split lung function values, exercise tests, cardiologic testing, and the role of prehabilitation, sublobar resections, risk scores and comorbidities in selecting patients for curative intent treatment."
-    },
-    {
-      "pmid": "41242287",
-      "doi": "10.1016/j.lungcan.2025.108839",
-      "title": "Impact of N1 lymph node burden on survival outcomes in non-skip pN2 non-small-cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-13T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(25)00731-7/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41242287/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108839",
-      "abstract": "OBJECTIVES: This study aimed to evaluate the prognostic value of quantitative N1 nodal burden metrics-including positive node count, positive station count, lymph node ratio (LNR), and lymph node station ratio (LNsR)-in patients with non-skip pN2 non-small cell lung cancer (NSCLC).\n\nMETHODS: This retrospective study included 477 non-skip pN2 NSCLC patients who underwent complete surgical resection at our center from December 2008 to December 2020. N1 metrics were dichotomized based on optimal cutoffs determined by overall survival (OS). Kaplan-Meier analysis and Cox regression models were utilized to assess disease-free survival (DFS) and OS and to identify independent prognostic factors.\n\nRESULTS: In multivariable analysis, a high N1 LNR emerged as the sole N1 metric that independently predicted worse DFS (HR = 1.47, 95 % CI: 1.05-2.04, p = 0.023). In contrast, its prognostic significance for OS was attenuated (p = 0.162). However, an advanced pT4 stage (p = 0.044) was an independent predictor of worse OS, while adjuvant therapy (p = 0.016) was associated with improved OS. Notably, subgroup analysis revealed that an elevated N1 LNR independently predicted worse DFS in the pN2a subgroup (p = 0.009). Building on this, we developed a novel three-tiered stratification (pN2a-low LNR, pN2a-high LNR, and pN2b) that effectively discriminated patient outcomes for both DFS (p < 0.001) and OS (p < 0.01).\n\nCONCLUSIONS: N1 LNR is a powerful and independent predictor of disease recurrence in non-skip pN2 NSCLC, outperforming other N1 metrics for predicting DFS. Incorporating N1 LNR into clinical assessments, particularly for pN2a patients, can enhance prognostic accuracy and potentially guidemore personalized surveillance and treatment strategies."
     }
   ]
 }
