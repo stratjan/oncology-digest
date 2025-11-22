@@ -1,6 +1,24 @@
 {
-  "generated": "2025-11-21T05:18:59.857382Z",
+  "generated": "2025-11-22T05:16:55.880296Z",
   "items": [
+    {
+      "pmid": "41266687",
+      "doi": "10.1038/s41591-025-04116-5",
+      "title": "Editorial Expression of Concern: Rationale for co-targeting IGF-1R and ALK in ALK fusion-positive lung cancer.",
+      "journal": "Nature medicine",
+      "pubdate": "2025-11-20T00:00:00+00:00",
+      "pubtypes": [],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 18.333,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41266687/",
+      "url_doi": "https://doi.org/10.1038/s41591-025-04116-5",
+      "abstract": null
+    },
     {
       "pmid": "41259198",
       "doi": "10.1001/jama.2025.23244",
@@ -20,6 +38,27 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41259198/",
       "url_doi": "https://doi.org/10.1001/jama.2025.23244",
       "abstract": null
+    },
+    {
+      "pmid": "41266553",
+      "doi": "10.1038/s41698-025-01144-9",
+      "title": "MET (c-Met) protein overexpression is an emerging protein biomarker in non-small cell lung cancer.",
+      "journal": "NPJ precision oncology",
+      "pubdate": "2025-11-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41698-025-01144-9",
+      "metric_name": "SJR",
+      "metric_value": 3.37,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41266553/",
+      "url_doi": "https://doi.org/10.1038/s41698-025-01144-9",
+      "abstract": "MET protein (also known as c-Met protein) overexpression (OE) is an emerging clinically relevant biomarker that is targetable with antibody-drug conjugates. c-Met protein's prevalence varies, depending on the different OE thresholds, antibodies, and detection methodologies used. Unlike MET genomic aberrations, MET protein OE is a protein biomarker requiring immunohistochemistry (IHC)-based testing. Herein, we summarize the current evidence on MET protein OE, including prognostic value, heterogeneity, and stability. We also provide key considerations for enabling optimal real-world testing of this IHC-based biomarker."
     },
     {
       "pmid": "40975161",
@@ -204,6 +243,26 @@
       "abstract": null
     },
     {
+      "pmid": "41268710",
+      "doi": "10.1080/14796694.2025.2586004",
+      "title": "Datopotamab deruxtecan versus docetaxel for non-small cell lung cancer: a plain language summary of the TROPION-Lung01 study.",
+      "journal": "Future oncology (London, England)",
+      "pubdate": "2025-11-21T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41268710/",
+      "url_doi": "https://doi.org/10.1080/14796694.2025.2586004",
+      "abstract": null
+    },
+    {
       "pmid": "41259771",
       "doi": "10.1056/NEJMc2513316",
       "title": "Neoadjuvant Nivolumab plus Chemotherapy in Lung Cancer. Reply.",
@@ -245,6 +304,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41082707/",
       "url_doi": "https://doi.org/10.1200/JCO-25-00036",
       "abstract": "PURPOSE: Immunotherapy targeting PD-L1 improves outcomes in patients with unresectable stage III non-small cell lung cancer (NSCLC) and no progression after definitive, concurrent chemoradiotherapy (cCRT). Earlier administration of immunotherapy, simultaneously with cCRT, may improve outcomes further.\n\nMETHODS: Eligible patients were randomly assigned (2:1) to receive either durvalumab or placebo administered from the start of cCRT. Patients without progression after completing cCRT received consolidation durvalumab or placebo (per initial random assignment) until progression. The primary end point was progression-free survival (PFS) by blinded independent central review. Key secondary end points included objective response rate (ORR), overall survival (OS), the proportion of patients alive at 24 months (OS24), and safety.\n\nRESULTS: In total, 328 patients were randomly assigned to receive durvalumab (n = 219) or placebo (n = 109). There was no statistically significant difference with durvalumab versus placebo in PFS (hazard ratio [HR], 0.85 [95% CI, 0.65 to 1.12];\n\nCONCLUSION: Among patients with unresectable stage III NSCLC, durvalumab administered from the start of cCRT failed to demonstrate additional benefit compared with cCRT plus placebo. Consolidation durvalumab following definitive cCRT remains the standard of care in this setting."
+    },
+    {
+      "pmid": "41265379",
+      "doi": "10.1016/j.lungcan.2025.108847",
+      "title": "Long-term outcomes of Extensive-Stage small cell lung cancer treated with chemotherapy or Chemo-immunotherapy: A propensity score adjusted cohort study.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-11-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41265379/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108847",
+      "abstract": "BACKGROUND: Combining atezolizumab with carboplatin plus etoposide (Carbo-E) improved overall survival (OS) in patients with extensive-stage small cell lung cancer (ES-SCLC). However, there is a paucity of real-world outcomes. We present the largest and longest follow-up retrospective study evaluating treatment outcomes in ES-SCLC.\n\nMETHODS: We conducted a retrospective cohort study to compare response rate, OS, and progression-free survival (PFS) in patients with ES-SCLC who received Carbo-E, Carbo-E and atezolizumab (Carbo-E-Atezo), and cisplatin and etoposide (Cis-E). We included all adult patients (≥ 18 years) treated at Cleveland Clinic between 1/2010-12/2022. Propensity score (PS) weighting and multivariable Cox proportional hazards regression adjusted for confounders.\n\nRESULTS: Among 602 ES-SCLC patients, 375 (62 %) received Carbo-E, 160 (27 %) received Carbo-E-Atezo, and 67 (11 %) received Cis-E. The median age was 67, 65, and 59 years, respectively. The median follow-up among survivors was 23.9 months (IQR: 13.3---57.3). Five-year unadjusted OS was 4.5 % (Carbo-E), 7 % (Carbo-E-Atezo), and 5.2 % (Cis-E). Carbo-E-Atezo was associated with a longer PS-adjusted median OS than Carbo-E (9.1 vs. 8.2 months, P = 0.039), but no difference was seen in PFS (5.5 vs. 5.5, P = 0.09) or response rate (P > 0.9). Compared to Carbo-E, Cis-E showed higher response rates (OR: 1.67, P = 0.03) but no improvement in OS (11 vs 8.3 months, P = 0.067) or PFS (7.7 vs. 5.5 months, P = 0.058). Cis-E did not differ significantly from Carbo-E-Atezo in response rate, OS, or PFS.\n\nCONCLUSION: Long-term outcomes in ES-SCLC remain poor. Atezolizumab added to Carbo-E modestly improved OS but not PFS. Cisplatin-based regimens increased response rates but did not improve survival."
     },
     {
       "pmid": "41254996",
@@ -385,87 +464,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41033152/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.116011",
       "abstract": "INTRODUCTION: Young adults are a minority of lung cancer (LC) patients, however, clinical presentation and cancer biology can differ. Here, we report the first German cohort study of young adults with LC.\n\nMETHODS: We included patients diagnosed with LC between 2019 and 2023 at the West German Cancer Centre (University Medicine Essen) in this retrospective cohort study. For analysis of clinicogenomic baseline characteristics and overall survival (OS), patients were stratified by age at diagnosis into a young cohort (YC; n = 56, ≤45 years), an older cohort (OC; n = 2.682, >45 years) and analysed across age decades.\n\nRESULTS: 71 of 2.738 patients with LC (2.59 %) were ≤ 45 years old. 56/71 were diagnosed with NSCLC or SCLC. YC frequently reported no history of smoking (21 % vs. 6 %; p < 0.001). Among YC, adenocarcinoma (59 % vs. 49 %) and NSCLC not-otherwise-specified (NSCLC NOS; 27 % vs. 8.2 %) were the dominant histological subtypes (p < 0.001). Stage IV disease was significantly more common in YC (stage IV: 66 % vs. 44 %; p = 0.005) with more frequent regional lymph node involvement (N1-N3 79 % vs. 56.9 %) and extrathoracic lymph node metastases (38 % vs. 14 %; p < 0.001). Frequent targetable genomic alterations in YC included ALK translocations (21 % vs. 2.2 %; p < 0.001). YC with metastatic NSCLC had similar median OS compared to OC, although OS was improved in those with targetable alterations.\n\nCONCLUSION: Early-onset LC is characterized by advanced disease stage, adenocarcinoma histopathology and frequent targetable genomic alterations, especially in patients without a history of smoking. Early diagnosis remains a critical unmet medical need in this subgroup of patients."
-    },
-    {
-      "pmid": "41260046",
-      "doi": "10.1016/j.lungcan.2025.108844",
-      "title": "Tarlatamab population survival kinetics in extensive-stage small cell lung cancer: brief report.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-15T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41260046/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108844",
-      "abstract": "PURPOSE: Immune checkpoint inhibitors (ICIs) prolong progression-free survival (PFS) and overall survival (OS) in extensive-stage small cell lung cancer (ES-SCLC). ES-SCLC PFS curve exponential decay nonlinear regression analyses (EDNLRAs) suggests that only 10% of patients benefit. Here we report ES-SCLC EDNLRAs for the bispecific T-cell engager tarlatamab.\n\nEXPERIMENTAL DESIGN: We digitized tarlatamab ES-SCLC PFS and OS curves from published studies and performed EDNLRAs of curve data.\n\nRESULTS: All four PFS curves fit 2-phase decay models, suggesting the presence of two distinct subpopulations- one with a short PFS half-life (median 3.2 months, similar to the tarlatamab DeLLphi-304 study chemotherapy arm) and the other with a very long PFS half-life). EDNLRAs indicated that 88 % of the patients belonged to the rapidly progressing subpopulation. The proportion of patients in the subpopulation with long PFS was lower than the study response rates. However, log-linear plots of response-duration curves also suggested 2-phase decay, with one subpopulation having very long responses and the other having very short responses. Two of four OS curves assessed fit 2-phase decay models. Longer follow-up will be required to assess the other two curves. For curves fitting 2-phase decay models, OS half-life for the subpopulation with shorter OS was modestly longer than the OS for the Dellphi-304 chemotherapy arm.\n\nCONCLUSIONS: In ES-SCLC, EDNLRA of tarlatamab PFS curves and log-linear plots of response duration curves suggest two distinct subpopulations- one deriving marked benefit from tarlatamab and the other deriving much less benefit. Individual patient data might provide insight into underlying driving factors."
-    },
-    {
-      "pmid": "41248848",
-      "doi": "10.1016/j.jtho.2025.11.008",
-      "title": "Andamertinib in Advanced Non-Small-Cell Lung Cancer with EGFR Exon 20 Insertions After Platinum-Based Chemotherapy or Immunotherapy: Results from the Phase 2 KANNON Study.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-11-15T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41248848/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.11.008",
-      "abstract": "PURPOSE: This study aimed to evaluate andamertinib, a selective and irreversible tyrosine kinase inhibitor, in pretreated advanced epidermal growth factor receptor (EGFR) exon 20 insertion (ex20ins)-mutant non-small-cell lung cancer (NSCLC).\n\nPATIENTS AND METHODS: In the phase 2, multicenter, single-arm KANNON study (NCT06015503), patients with locally advanced or metastatic NSCLC harboring EGFR ex20ins mutations who had progressed after platinum-based chemotherapy or immunotherapy received oral andamertinib 240 mg once daily in 28-day cycles. The primary endpoint was the confirmed objective response rate (ORR) assessed by independent review.\n\nRESULTS: A total of 92 patients were enrolled and received daily 240 mg andamertinib, with nearly 30 different exon20ins subtypes included. The confirmed ORR was 42.7% (95% confidence interval [CI], 32.4-53.0), with a disease control rate of 86.5% and a median duration of response of 8.7 months (95% CI, 5.65-11.96). As of September 6, 2025 with a median follow-up of 15.4 months (range, 0.4-20.5), the median progression-free survival was 6.2 months (95% CI, 4.63-7.85), and median overall survival was not reached (95% CI, 13.93 months to not estimable), with a 12-month survival rate of 70.5%. Among 38 patients with brain metastasis, the systemic confirmed ORR was 47.4% (95% CI: 31.5-63.2). Grade ≥3 treatment-related adverse events occurred in 40.2% of patients and the most frequent events were diarrhea (12.0%) and rash (7.6%). No interstitial lung disease or grade ≥3 QT prolongation was reported.\n\nCONCLUSIONS: Andamertinib at 240 mg once daily demonstrated efficacy with a manageable safety profile in previously treated patients with EGFR ex20ins-mutant NSCLC."
-    },
-    {
-      "pmid": "41242285",
-      "doi": "10.1016/j.lungcan.2025.108843",
-      "title": "Prevalence and molecular landscape of NRG1 fusions in Japanese solid tumors: a nationwide data analysis using the C-CAT database.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-15T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41242285/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108843",
-      "abstract": "INTRODUCTION: Neuregulin 1 (NRG1) gene fusions are critical oncogenic drivers that activate the ERBB signaling pathway across various solid tumors. Although targeted therapies for NRG1 fusion-positive cancers are advancing rapidly in clinical settings, their epidemiological and clinicogenomic characteristics remain poorly understood, warranting large-scale investigations.\n\nMETHODS: We performed a retrospective analysis of patients with advanced solid tumors who were registered in the Center for Cancer Genomics and Advanced Therapeutics database of Japan between June 2019 and February 2025. Our evaluation focused on the prevalence of NRG1 fusions, identities of fusion partners, co-occurring genomic alterations, tumor mutational burden, microsatellite instability status, and relevant clinical characteristics.\n\nRESULTS: Our study included 95,149 patients with advanced solid tumors who underwent comprehensive genomic profiling. Among them, 29 (0.03 %) harbored NRG1 fusions, most frequently in lung cancer (17 of 5,670 cases, 0.30 %). CD74 emerged as the predominant fusion partner, constituting 82.4 % of lung cancers, whereas other solid tumors exhibited a more diverse range of partners. Co-occurring genomic alterations were detected in 20 of 29 patients (69.0 %), with the most frequent alterations found in CDKN2A, CDKN2B, and MTAP. Additionally, pathological examination revealed mucinous adenocarcinoma in 17.6 % of lung cancers associated with NRG1 fusions.\n\nCONCLUSION: This study confirms that NRG1 fusions are rare but significantly associated with lung cancer and the CD74 fusion partner. Our nationwide analysis represents the most comprehensive assessment of NRG1 fusions in Japanese patients with advanced solid tumors."
-    },
-    {
-      "pmid": "40581332",
-      "doi": "10.1016/j.ijrobp.2025.06.3854",
-      "title": "Treatment Toxicity and Outcomes Following Definitive Radiation Therapy for Patients With Early-Stage Non-Small Cell Lung Cancers and Pre-Existing Interstitial Lung Disease-A Systematic Review and Dosimetric Analysis.",
-      "journal": "International journal of radiation oncology, biology, physics",
-      "pubdate": "2025-11-15T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40581332/",
-      "url_doi": "https://doi.org/10.1016/j.ijrobp.2025.06.3854",
-      "abstract": "BACKGROUND: Patients with interstitial lung disease (ILD) who develop lung cancer represent a unique challenge, as they are at higher risk for serious toxicity from local and systemic therapies. The aim of this study is to provide an up-to-date analysis on toxicities and outcomes associated with definitive radiation therapy (RT) in patients with ILD and early-stage non-small cell lung cancer (ES-NSCLC).\n\nMETHODS AND MATERIALS: We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The PubMed (MEDLINE), EMBASE, and Cochrane Library databases were searched from inception until June 2024, for studies including patients with ILD who underwent definitive RT alone for ES-NSCLC. Data including treatment-related mortality, toxicity, local control, and overall survival were collected and analyzed.\n\nRESULTS: Of 3545 records reviewed, 24 studies were identified for full data abstraction, contributing a total of 705 patients. A specific ILD subtype was not reported for 71% (n = 502) of patients. ILD severity was not reported for 62% (n = 440) of patients. Risk of treatment-related mortality was 7.9%, with severe treatment-related respiratory toxicity 15.7%. A higher volume of lung receiving ≥5 Gy (V5) was significantly correlated with mortality. The estimated local control at 3 year was 76% and median overall survival was 2.5 years.\n\nCONCLUSIONS: The relative merits of RT for the treatment of ES-NSCLC in patients with ILD should be considered in the context of the rates of treatment-related mortality and toxicity. Future studies would benefit from consistent reporting of ILD characteristics, which may help in risk stratification in this challenging clinical scenario."
     }
   ]
 }
