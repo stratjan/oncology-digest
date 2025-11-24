@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-23T05:16:48.803887Z",
+  "generated": "2025-11-24T05:19:00.575016Z",
   "items": [
     {
       "pmid": "41266687",
@@ -11,8 +11,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41591-025-04116-5.pdf",
       "metric_name": "SJR",
       "metric_value": 18.333,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41266687/",
@@ -53,7 +53,7 @@
       "trial_type": "Review/Meta",
       "study_class": "Review",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41698-025-01144-9",
+      "oa_url": "https://www.nature.com/articles/s41698-025-01144-9.pdf",
       "metric_name": "SJR",
       "metric_value": 3.37,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41266553/",
@@ -99,26 +99,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40189749/",
       "url_doi": "https://doi.org/10.1080/2162402X.2025.2484880",
       "abstract": "Deviations in the diversity and composition of the gut microbiota are called \"gut dysbiosis\". They have been linked to various chronic diseases including cancers and resistance to immunotherapy. Stool shotgun based-metagenomics informs on the ecological composition of the gut microbiota and the prevalence of homeostatic bacteria such as"
-    },
-    {
-      "pmid": "41247515",
-      "doi": "10.1007/s00259-025-07658-5",
-      "title": "[18F]FDG-PET/CT-based evaluation of tumor response kinetics during induction chemotherapy and concurrent radiochemotherapy in stage II - III small-cell lung cancer.",
-      "journal": "European journal of nuclear medicine and molecular imaging",
-      "pubdate": "2025-11-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00259-025-07658-5.pdf",
-      "metric_name": "SJR",
-      "metric_value": 2.392,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41247515/",
-      "url_doi": "https://doi.org/10.1007/s00259-025-07658-5",
-      "abstract": "PURPOSE: Evaluation of interim-[\n\nMETHODS: We included 35 patients with limited disease SCLC from a prospective institutional registry in this retrospective study. Patients received induction chemotherapy (3-4 cycles) followed by concurrent radiochemotherapy. Baseline [\n\nRESULTS: All patients underwent twice-daily radiotherapy to a base dose of 45 Gy. SUV\n\nCONCLUSION: Our decay model enables the characterization of ["
     },
     {
       "pmid": "40650354",
@@ -181,6 +161,88 @@
       "abstract": "While pathological stage I (pStage I) non-small cell lung cancer (NSCLC) has a good prognosis, some patients experience disease recurrence. Identification of prognostic markers for pStage I NSCLC may facilitate personalized perioperative treatment by expanding the candidates for adjuvant treatment. NSCLC patients with ground-glass opacity have excellent survival outcomes. Therefore, in this study, we explored prognostic biomarkers in pure solid non-squamous NSCLC. We focused on non-squamous NSCLC because the gene expression status is distinct from that of squamous cell carcinomas. RNA sequencing was performed on frozen tumor specimens from 33 non-squamous NSCLC patients with disease recurrence (recurrence group) and 33 counterparts (control group) extracted from patients without disease recurrence using propensity score matching (Cohort 1). The candidate genes were further refined using an independent real-world Cohort 2a (N = 125) and validated in The Cancer Genome Atlas cohort. Through the analysis of Cohort 1 and Cohort 2a, we found that low expression of six genes (BMP6, KCNK3, NFASC, OLFM1, PEG3, and TNXB) was associated with disease recurrence. The prognostic impact of the six genes was confirmed using The Cancer Genome Atlas lung adenocarcinoma database. Multivariable proportional hazard analysis using the Cohort 2a dataset revealed that the combination of BMP6 and OLFM1 status predicted recurrence-free survival. In conclusion, we found that low BMP6/OLFM1 gene status is a potential biomarker to identify high-risk pStage I pure solid non-squamous NSCLC patients after pulmonary resection."
     },
     {
+      "pmid": "41130887",
+      "doi": "10.1016/j.cllc.2025.09.013",
+      "title": "Tumor-Agnostic Circulating Tumor DNA Analysis as a Comprehensive Predictive Biomarker of Recurrence after Ablative Radiotherapy for Early-Stage Non-Small Cell Lung Cancer.",
+      "journal": "Clinical lung cancer",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.515,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41130887/",
+      "url_doi": "https://doi.org/10.1016/j.cllc.2025.09.013",
+      "abstract": "PURPOSE: This study aimed to evaluate whether pretreatment circulating tumor DNA (ctDNA) is a predictive biomarker for recurrence in patients with early-stage non-small cell lung cancer (ES-NSCLC), including those with pathologically unproven (PU) who received ablative radiotherapy.\n\nMATERIALS AND METHODS: Patients clinically diagnosed with cT1-2N0M0 NSCLC treated with radiotherapy alone at a single institute were included. Pretreatment plasma and matched white blood cell samples were subjected to targeted sequencing to detect ctDNA. The association between ctDNA detection and prognosis was evaluated. Integrated analysis including non-squamous cell carcinoma (SQ) cohort and enhancement of recurrence prediction with radiographic features were also evaluated.\n\nRESULTS: Of the 19 patients (10 SQ, and 9 PU) who met the sequence quality criteria, ctDNA was detected in 6. At the median follow-up of 60 months, detectable ctDNA was significantly associated with inferior progression-free survival (PFS) in both the SQ and PU cohorts (P = .01 and .02). In an analysis of 62 patients combined with the non-SQ cohort, ctDNA detection was the only significant factor for PFS. The combination of ctDNA and a high positron emission tomography maximum standardized uptake value provided a better recurrence risk model than ctDNA alone (the C-index improved from 0.63 to 0.72).\n\nCONCLUSION: These results suggest that pretreatment ctDNA detection can predict recurrence in patients with cT1-2N0M0 NSCLC, including those with PU tumors treated with ablative radiotherapy."
+    },
+    {
+      "pmid": "41067998",
+      "doi": "10.1016/j.cllc.2025.08.007",
+      "title": "Central Nervous System Outcomes of Lazertinib Treatment in EGFR-Mutated Advanced NSCLC: Pooled Analysis From LASER201 and LASER301.",
+      "journal": "Clinical lung cancer",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.cllc.2025.08.007",
+      "metric_name": "SJR",
+      "metric_value": 1.515,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41067998/",
+      "url_doi": "https://doi.org/10.1016/j.cllc.2025.08.007",
+      "abstract": "BACKGROUND: Lazertinib, a brain-penetrant, third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI), significantly improved efficacy in patients with treatment-naïve, EGFR-mutated advanced non-small cell lung cancer (NSCLC) in the clinical trials, LASER201 and LASER301. This analysis evaluated the efficacy and safety of lazertinib in patients with EGFR-mutated NSCLC and CNS metastases using pooled data from LASER201 and LASER301.\n\nPATIENTS AND METHODS: Patients with treatment-naïve, EGFR-mutated advanced NSCLC and stable CNS metastases who were treated with lazertinib in a cohort of LASER201 and LASER301 were included. Intracranial progression-free survival (iPFS), intracranial objective response rate (iORR), intracranial disease control rate (iDCR), intracranial duration of response (iDoR), and treatment-emergent adverse events (TEAEs) were assessed.\n\nRESULTS: A total of 64 patients were included in the intracranial full analysis set (iFAS); 24 patients had at least 1 measurable CNS lesion at baseline. The median iPFS was 27.7 months (95% CI: 15.7-32.8) in the iFAS population. For patients with at least 1 measurable CNS lesion at baseline, iORR was 92% and iDCR was 96%. The median iDoR was 26.5 months (95% CI: 8.3-30.1). TEAEs were reported in 98% of patients in the iFAS population, with grade ≥3 TEAEs occurring in 55% of patients. The most common TEAEs were paresthesia (47%), rash (41%), and pruritus (36%).\n\nCONCLUSION: In this pooled analysis of LASER201 and LASER301, lazertinib demonstrated a clinically meaningful treatment benefit and consistent safety profile in patients with EGFR-mutated advanced NSCLC and CNS metastases."
+    },
+    {
+      "pmid": "40973606",
+      "doi": "10.1016/j.cllc.2025.08.012",
+      "title": "A Phase 2 Study of Osimertinib in Combination With Platinum-Pemetrexed in Patients With Uncommon Epidermal Growth Factor Receptor-Mutated Advanced Non-Small Cell Lung Cancer (NEJ067/OPAL2).",
+      "journal": "Clinical lung cancer",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.515,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40973606/",
+      "url_doi": "https://doi.org/10.1016/j.cllc.2025.08.012",
+      "abstract": "BACKGROUND: In treatment-naïve advanced non-small cell lung cancer (NSCLC) patients with epidermal growth factor receptor (EGFR) mutations, approximately 10% to 15% correspond to uncommon mutations. For patients with EGFR uncommon mutations, monotherapy with either a second-generation EGFR tyrosine kinase inhibitor (TKI), afatinib, or a third-generation EGFR-TKI, osimertinib, is recommended as the initial therapy. However, needs remain unmet for patients with central nervous system (CNS) metastases and those who do not respond adequately to single-agent TKI therapy for EGFR uncommon mutations. The recently published FLAURA2 trial showed that osimertinib in combination with platinum-pemetrexed significantly prolonged progression-free survival (PFS) and provided high disease control compared with osimertinib monotherapy for common mutations. Therefore, we planned this phase II study to evaluate the efficacy and safety of osimertinib in combination with platinum-pemetrexed in treatment-naïve NSCLC patients with EGFR uncommon mutations.\n\nPATIENTS AND METHODS: Forty patients will be enrolled in the study. The primary endpoint is the objective response rate, and the secondary endpoints include safety, PFS and overall survival in overall patients, patients with and without CNS lesions at baseline and according to mutation subtype.\n\nCONCLUSIONS: In this study, we will explore the efficacy and safety of osimertinib in combination with platinum-pemetrexed in treatment-naïve NSCLC patients with EGFR uncommon mutations. Our findings may provide treatment options for patients with EGFR uncommon mutations, especially those with CNS metastases or those requiring more intensive treatment."
+    },
+    {
+      "pmid": "40887341",
+      "doi": "10.1016/j.cllc.2025.08.001",
+      "title": "Durvalumab Plus Platinum-Etoposide in Extensive-Stage Small-Cell Lung Cancer: Outcomes in Age, Sex, and Platinum Subgroups From the Phase 3 CASPIAN Study.",
+      "journal": "Clinical lung cancer",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://www.clinical-lung-cancer.com/article/S1525-7304(25)00164-0/pdf",
+      "metric_name": "SJR",
+      "metric_value": 1.515,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40887341/",
+      "url_doi": "https://doi.org/10.1016/j.cllc.2025.08.001",
+      "abstract": "INTRODUCTION: In the phase 3 CASPIAN study, first-line durvalumab plus etoposide combined with either carboplatin or cisplatin (EP) significantly improved overall survival (OS) versus EP alone in treatment-naïve extensive-stage small-cell lung cancer (ES-SCLC). We report exploratory subgroup analyses from CASPIAN.\n\nMETHODS: Patients with untreated ES-SCLC were randomized to durvalumab plus EP or EP alone. We analyzed OS and safety in subgroups defined by age, sex, and planned platinum agent, and patient-reported outcomes (PROs) by age.\n\nRESULTS: Of 537 patients (durvalumab plus EP: n = 268; EP alone: n = 269), 80.6% versus 19.4% were aged <70 versus ≥70 years; 69.6% versus 30.4% were male versus female; and planned platinum was cisplatin versus carboplatin in 25.1% versus 74.9%. The OS HRs for durvalumab plus EP versus EP were 0.71 (95% CI, 0.58-0.88) versus 0.74 (95% CI, 0.49-1.11) for patients aged <70 versus ≥70 years; 0.76 (95% CI, 0.62-0.95) versus 0.60 (95% CI, 0.42-0.84) for males versus females; and 0.65 (95% CI, 0.45-0.94) versus 0.74 (95% CI, 0.60-0.91) for planned cisplatin versus carboplatin. With durvalumab plus EP, rates of grade 3/4 adverse events (AEs) were similar across subgroups; serious AEs were more frequent in patients aged ≥70 versus <70 years; and immune-mediated AEs were more common in females versus males. Adding durvalumab to EP had no detrimental effect on PROs in either age subgroup.\n\nCONCLUSIONS: These findings support the use of durvalumab plus EP as first-line standard of care for ES-SCLC. Additional trials focused on elderly populations would be informative."
+    },
+    {
       "pmid": "41116141",
       "doi": "10.1007/s12325-025-03365-7",
       "title": "A Time and Motion Study Comparing Subcutaneous Pembrolizumab Versus Intravenous Pembrolizumab in Combination with Chemotherapy for the Treatment of Metastatic Non-small Cell Lung Cancer.",
@@ -223,6 +285,26 @@
       "abstract": "BACKGROUND: Accurate staging of mediastinal lymph nodes in patients with non-small-cell lung cancer (NSCLC) is essential to determine further management. Current guidelines recommend confirmatory mediastinoscopy for patients with suspicious mediastinal lymph node metastases in image-based staging but negative findings on endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA). In clinical practice, adherence to these recommendations is low and many physicians omit invasive surgical staging. This study aimed to assess the results of subsequent video-assisted mediastinoscopic lymphadenectomy (VAMLA).\n\nMETHODS: Retrospective single-center cohort analysis of patients who underwent surgery between 2015 and 2019. All patients were diagnosed with potentially resectable lung cancer or FDG-avid pulmonary nodule suspicious for NSCLC and underwent VAMLA following N0-N2 EBUS-TBNA for mediastinal staging.\n\nRESULTS: VAMLA was performed in 228 patients. Nodal upstaging after EBUS-TBNA occurred in 17.5 % of the cases (n = 40). During EBUS-TBNA, 1.72 (±1.06) lymph node stations were sampled, compared to 5.59 (±1.1) resected stations in VAMLA (p < 0.001). Clinical nodal status staged by PET/CT was significantly correlated with the occurrence of nodal upstaging by VAMLA, with an odds ratio of 7.69 in cN2 and 5.88 in patients with cN3, compared to cN0. Complications occurred in 8 patients (3.59 %). VAMLA was false negative in 1 patient (0.4 %).\n\nCONCLUSION: Subsequent VAMLA enables the accurate staging of patients after negative EBUS-TBNA. Overall, 17.5 % of cases had nodal upstaging and would otherwise not have received guideline-compliant treatment for NSCLC. These results underline the role of surgical mediastinal staging after negative EBUS-TBNA in patients with suspicious radiologic findings."
     },
     {
+      "pmid": "41275531",
+      "doi": "10.1016/j.resinv.2025.11.011",
+      "title": "Incidence and clinical features of venous thromboembolism in patients with lung cancer in Japan: results from the CS-Lung-003 prospective observational registry study.",
+      "journal": "Respiratory investigation",
+      "pubdate": "2025-11-22T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Prospective (non-RCT)",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.resinv.2025.11.011",
+      "metric_name": "SJR",
+      "metric_value": 0.584,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41275531/",
+      "url_doi": "https://doi.org/10.1016/j.resinv.2025.11.011",
+      "abstract": "BACKGROUND: Venous thromboembolism (VTE) is a frequent complication of cancer-associated thrombosis, and its management is critical when considering cancer treatment selection and prognosis. The aim of this study was to investigate the incidence and risk factors for VTE in patients with lung cancer using the CS-Lung003 platform, a multicenter prospective observational study of advanced lung cancer.\n\nMETHODS: Patients with a pathologic diagnosis of lung cancer at any stage were included. The incidence of VTE was calculated using the CS-Lung003 database, and risk factors were examined using logistic regression analysis.\n\nRESULTS: The analysis included 1744 patients (80 % male). Sixty patients (3.4 %) had VTE at/after enrollment in the CS-Lung003 trial. The median age was 69 years (range 63-76) in the group without VTE and 72 years (range 67-77) in the group with VTE. Adenocarcinoma was diagnosed in 58.7 % of patients in the group without VTE and 46.7 % in the group with VTE. Univariate analysis revealed male sex, body weight, and hypertension as risk factors for VTE. Overall survival was 29.1 months in the group without VTE and 30.6 months in the group with VTE. Among patients with stage IIIB-IV, the VTE group showed significantly longer overall survival compared with the non-VTE group (p = 0.041).\n\nCONCLUSIONS: The incidence of VTE in this study was low, suggesting that there may have been patients with VTE complications that were not reported in the registry. In addition, most patients with VTE received therapeutic intervention; appropriate diagnosis and treatment may have allowed cancer treatment to continue. Appropriate diagnosis and treatment of VTE might allow lung cancer therapy continuation without compromising survival.\n\nCLINICAL TRIAL REGISTRY/REGISTRATION NUMBER: UMIN-CTR/UMIN000026696."
+    },
+    {
       "pmid": "41217067",
       "doi": "10.1080/20565623.2025.2578145",
       "title": "Plain language summary of the ALINA study results: alectinib compared with chemotherapy after surgery in people with ALK-positive non-small cell lung cancer.",
@@ -261,6 +343,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41268710/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2586004",
       "abstract": null
+    },
+    {
+      "pmid": "41274414",
+      "doi": "10.1016/j.jtho.2025.11.012",
+      "title": "Brief Report: Alectinib with salvage platinum-taxane chemotherapy in a pregnant woman with ALK-rearranged NSCLC and rapid disease progression followed by a successful pregnancy.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-11-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41274414/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.11.012",
+      "abstract": "INTRODUCTION: Anaplastic lymphoma kinase (ALK)-rearranged non-small cell lung cancer (NSCLC) is a distinct molecular subtype that disproportionally affects younger never-smoking females, which overlaps with the reproductive age group. Alectinib is a second-generation ALK inhibitor, and is generally considered a safer option during pregnancy compared to lorlatinib. Here, we describe a case of a patient who became pregnant whilst on alectinib complicated by rapid disease progression, with a focus on maternal-fetal outcomes and placental health.\n\nMETHODS: A brief report was conducted detailing clinical management by a multidisciplinary team, pharmacokinetic analysis of alectinib levels, and post-delivery placental examination, including histopathology and mitochondrial respirometry function assessment as an indicator of placental health.\n\nRESULTS: A 29 year-old woman with metastatic ALK-rearranged NSCLC, became pregnant whilst on alectinib therapy. At 24 weeks of gestation, she experienced rapid systemic disease progression manifesting as marantic endocarditis with multi-territory small cerebral infarcts, thrombocytopaenia, an elevated D-dimer and developed two large middle cerebral ischaemic strokes requiring endovascular clot retrieval. Carboplatin and paclitaxel chemotherapy was added to alectinib. The patient responded well to treatment and successfully delivered an infant via elective caesarean section at 34+5 weeks. The patient was switched to lorlatinib plus pemetrexed postpartum. Although she achieved a complete metabolic response with lorlatinib plus pemetrexed, disease progression occurred several months later, and she died 28 months after initial diagnosis. Placental analysis showed features indicative of fetal growth restriction (FGR). Mitochondrial function appeared within normal limits, despite changes in placental morphology. The infant has shown normal development at 9 months of age.\n\nCONCLUSIONS: This is the first reported case of concurrent alectinib and cytotoxic chemotherapy during pregnancy, successfully used in the setting of progressive ALK-rearranged NSCLC. The placental findings align with observations in pregnancies complicated by FGR. This case highlights the potential feasibility and safety of intensification of systemic therapy during pregnancy, and underscores the importance of individualised multi-disciplinary care."
     },
     {
       "pmid": "41259771",
@@ -424,86 +526,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41260223/",
       "url_doi": "https://doi.org/10.1016/j.celrep.2025.116572",
       "abstract": "The transcription factor POU2F3 defines the identity of tuft cells and underlies a distinct molecular subtype of small cell lung cancer (SCLC). Although POU2F3 is considered undruggable, its activity critically depends on the coactivators OCA-T1 and OCA-T2. Here, we demonstrate that acute suppression of either POU2F3 or OCA-T1 induces regression of tuft cell-like SCLC xenografts in vivo. To explore the structural basis and druggability of this dependency, we determine crystal structures of POU2F3 bound to OCA-T1 or OCA-T2 in complex with DNA, revealing a tripartite, DNA-dependent interface. We further employ deep mutational scanning to assess the functional impact of 4,218 missense variants in POU2F3 and OCA-T1, uncovering both mutation-sensitive hotspots and structurally constrained regions critical for tumor cell fitness. These findings define a transcriptional complex that integrates DNA recognition with coactivator recruitment and nominate POU2F3-OCA-T as a structurally tractable vulnerability in tuft cell-like carcinomas."
-    },
-    {
-      "pmid": "41260457",
-      "doi": "10.1016/j.jtho.2025.11.010",
-      "title": "Clinical Significance of MTAP Deletions and their Overlap with Concurrent Oncogenic Driver Alterations Including EGFR in Non-Small Cell Lung Cancer.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-11-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41260457/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.11.010",
-      "abstract": "INTRODUCTION: MTAP (methylthioadenosine phosphorylase) deletions (dels) occur with CDKN2A deletions in a subset of non-small cell lung cancers (NSCLCs). These deletions have been associated with inferior survival in several tumor types, and they may be targetable by PRMT5 and MAT2A inhibitors via synthetic lethality. Their co-occurrence with oncogenic drivers including EGFR is underexplored.\n\nMETHODS: We analyzed 4,926 NSCLC tumors sequenced with MSK-IMPACT, a next-generation sequencing panel, and examined the incidence of MTAP dels with a copy number-based approach.\n\nRESULTS: 475 of 4,926 NSCLC tumors (10%) harbored an MTAP del. Among 258 stage IV MTAP-del NSCLC tumors, 214 (83%) also had a co-occurring oncogenic driver alteration, including 123 (48%) with EGFR mutations. Baseline MTAP deletion was associated with shorter time to osimertinib monotherapy discontinuation (19.0 vs 24.9 months, HR 1.8, CI 1.02 - 3.15, P=0.01), but did not statistically significantly affect overall survival (38.4 vs 40.5 months, HR 1.7, CI 0.8 - 3.6, P=0.1). In patients who developed resistance to osimertinib with paired pre- and post-treatment tissue samples, acquired MTAP del was identified in 9/69 patients (13%). A heavily pretreated patient with metastatic EGFR-mutant, MTAP-del NSCLC had a confirmed partial response to treatment with PRMT5 inhibitor monotherapy (BMS-986504).\n\nCONCLUSIONS: MTAP dels frequently co-occur with oncogenic driver alterations and can develop at time of osimertinib resistance. A patient with oncogenic driver-positive, MTAP-del NSCLC had a partial response to PRMT5 inhibitor treatment. This work could inform future trials of PRMT5 and MAT2A inhibitors."
-    },
-    {
-      "pmid": "41248681",
-      "doi": "10.1055/a-2748-2597",
-      "title": "[Correction: White paper on identification, information, and eligibility assessment of potential participants in lung cancer screening in Germany].",
-      "journal": "Pneumologie (Stuttgart, Germany)",
-      "pubdate": "2025-11-17T00:00:00+00:00",
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/a-2748-2597.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41248681/",
-      "url_doi": "https://doi.org/10.1055/a-2748-2597",
-      "abstract": null
-    },
-    {
-      "pmid": "41061426",
-      "doi": "10.1016/j.ejca.2025.116042",
-      "title": "Survival outcomes with carboplatin versus cisplatin and the impact of COVID-19 on platinum choice: A nationwide Netherlands registry study in small cell lung cancer patients (CACIS).",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2025-11-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.ejca.2025.116042",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41061426/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116042",
-      "abstract": "BACKGROUND: Guidelines recommend cisplatin as the preferred platinum agent in the first-line treatment for small cell lung cancer (SCLC), especially limited-stage disease (LS-SCLC). However, during the COVID-19 pandemic, carboplatin use likely increased due to logistical advantages. We evaluated the pandemic's impact on platinum agent utilization in the Netherlands and compared overall survival (OS) and safety between cisplatin and carboplatin.\n\nMETHODS: Using Netherlands Cancer Registry data, first-line platinum-based treatments for LS-SCLC and extensive-stage SCLC (ES-SCLC) between 2018 and 2023 were analyzed. OS was evaluated using univariable and multivariable analyses. Grades 3-5 treatment-related adverse events were studied in three hospitals.\n\nFINDINGS: Overall, 1683 LS-SCLC (carboplatin, N = 1011[60 %]; cisplatin, N = 672[40 %]) and 3668 ES-SCLC (carboplatin, N = 3002[82 %]; cisplatin, N = 666[18 %]) patients were included. During the pandemic, quarterly usage rates of carboplatin reached up to 81 % and 90 % in LS-SCLC and ES-SCLC, respectively. In LS-SCLC, univariable analysis showed significantly shorter median OS with carboplatin compared to cisplatin (17.9m vs. 26.3m; HR, 1.48; 95 %CI, 1.31-1.68; p < 0.001). Similar findings were observed in ES-SCLC (8.0m vs. 9.3m; HR, 1.19; 95 %CI, 1.09-1.30; p < 0.001). However, multivariable analyses, after adjusting for confounders, showed no significant OS differences in either LS-SCLC (HR, 1.06; 95 %CI, 0.90-1.25; p = 0.463) or ES-SCLC (HR, 1.01; 95 %CI, 0.92-1.12; p = 0.785). Confounders were performance status (PS), age, sex, and chemoradiotherapy type for LS-SCLC, and PS, age, sex, stage, and liver metastases for ES-SCLC. Hematologic toxicity was higher with carboplatin, while cisplatin led to more nonhematologic toxicity.\n\nINTERPRETATION: These findings challenge the long-standing belief of cisplatin's superiority and support the adoption of carboplatin in SCLC."
-    },
-    {
-      "pmid": "41033152",
-      "doi": "10.1016/j.ejca.2025.116011",
-      "title": "Early years, advanced disease: The unmet need in young adults with non-small cell lung cancer.",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2025-11-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.ejca.2025.116011",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41033152/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116011",
-      "abstract": "INTRODUCTION: Young adults are a minority of lung cancer (LC) patients, however, clinical presentation and cancer biology can differ. Here, we report the first German cohort study of young adults with LC.\n\nMETHODS: We included patients diagnosed with LC between 2019 and 2023 at the West German Cancer Centre (University Medicine Essen) in this retrospective cohort study. For analysis of clinicogenomic baseline characteristics and overall survival (OS), patients were stratified by age at diagnosis into a young cohort (YC; n = 56, ≤45 years), an older cohort (OC; n = 2.682, >45 years) and analysed across age decades.\n\nRESULTS: 71 of 2.738 patients with LC (2.59 %) were ≤ 45 years old. 56/71 were diagnosed with NSCLC or SCLC. YC frequently reported no history of smoking (21 % vs. 6 %; p < 0.001). Among YC, adenocarcinoma (59 % vs. 49 %) and NSCLC not-otherwise-specified (NSCLC NOS; 27 % vs. 8.2 %) were the dominant histological subtypes (p < 0.001). Stage IV disease was significantly more common in YC (stage IV: 66 % vs. 44 %; p = 0.005) with more frequent regional lymph node involvement (N1-N3 79 % vs. 56.9 %) and extrathoracic lymph node metastases (38 % vs. 14 %; p < 0.001). Frequent targetable genomic alterations in YC included ALK translocations (21 % vs. 2.2 %; p < 0.001). YC with metastatic NSCLC had similar median OS compared to OC, although OS was improved in those with targetable alterations.\n\nCONCLUSION: Early-onset LC is characterized by advanced disease stage, adenocarcinoma histopathology and frequent targetable genomic alterations, especially in patients without a history of smoking. Early diagnosis remains a critical unmet medical need in this subgroup of patients."
     }
   ]
 }
