@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-24T05:19:00.575016Z",
+  "generated": "2025-11-25T05:19:11.857604Z",
   "items": [
     {
       "pmid": "41266687",
@@ -243,6 +243,26 @@
       "abstract": "INTRODUCTION: In the phase 3 CASPIAN study, first-line durvalumab plus etoposide combined with either carboplatin or cisplatin (EP) significantly improved overall survival (OS) versus EP alone in treatment-naïve extensive-stage small-cell lung cancer (ES-SCLC). We report exploratory subgroup analyses from CASPIAN.\n\nMETHODS: Patients with untreated ES-SCLC were randomized to durvalumab plus EP or EP alone. We analyzed OS and safety in subgroups defined by age, sex, and planned platinum agent, and patient-reported outcomes (PROs) by age.\n\nRESULTS: Of 537 patients (durvalumab plus EP: n = 268; EP alone: n = 269), 80.6% versus 19.4% were aged <70 versus ≥70 years; 69.6% versus 30.4% were male versus female; and planned platinum was cisplatin versus carboplatin in 25.1% versus 74.9%. The OS HRs for durvalumab plus EP versus EP were 0.71 (95% CI, 0.58-0.88) versus 0.74 (95% CI, 0.49-1.11) for patients aged <70 versus ≥70 years; 0.76 (95% CI, 0.62-0.95) versus 0.60 (95% CI, 0.42-0.84) for males versus females; and 0.65 (95% CI, 0.45-0.94) versus 0.74 (95% CI, 0.60-0.91) for planned cisplatin versus carboplatin. With durvalumab plus EP, rates of grade 3/4 adverse events (AEs) were similar across subgroups; serious AEs were more frequent in patients aged ≥70 versus <70 years; and immune-mediated AEs were more common in females versus males. Adding durvalumab to EP had no detrimental effect on PROs in either age subgroup.\n\nCONCLUSIONS: These findings support the use of durvalumab plus EP as first-line standard of care for ES-SCLC. Additional trials focused on elderly populations would be informative."
     },
     {
+      "pmid": "41275660",
+      "doi": "10.1016/j.oraloncology.2025.107791",
+      "title": "Subcutaneous amivantamab in recurrent/metastatic head and neck squamous cell cancer after disease progression on checkpoint inhibitor and chemotherapy: Preliminary results from the phase 1b/2 OrigAMI-4 study.",
+      "journal": "Oral oncology",
+      "pubdate": "2025-11-22T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.oraloncology.2025.107791",
+      "metric_name": "SJR",
+      "metric_value": 1.326,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41275660/",
+      "url_doi": "https://doi.org/10.1016/j.oraloncology.2025.107791",
+      "abstract": "Overexpression of EGFR and MET occurs in a high proportion of recurrent and/or metastatic (R/M) head and neck squamous cell carcinoma (HNSCC). Amivantamab, an EGFR-MET bispecific antibody with immune-cell directing activity, is approved in EGFR-mutated advanced non-small cell lung cancer and is being evaluated in phase 3 trials for other solid tumors. Cohort 1 of OrigAMI-4 (NCT06385080) enrolled adult participants with human papillomavirus-unrelated R/M HNSCC with disease progression on/after prior checkpoint inhibitor and platinum-based chemotherapy. Subcutaneous amivantamab was administered at 1600 mg (2240 mg for ≥ 80 kg body weight) on Cycle 1 Day 1 and 2400 mg (3360 mg for ≥ 80 kg body weight) thereafter. Primary end point was investigator-assessed objective response rate (ORR). As of July 1, 2025 (median follow-up, 3.5 months [range, 0-13.4]), 86 participants (median age, 63.5 years; 45 % Asian; 43 % White) received ≥ 1 dose of subcutaneous amivantamab. Subcutaneous amivantamab was well tolerated. Administration-related reactions were reported in 7 % (n = 6/86) of participants; no new safety signals were observed. In the efficacy population (n = 38; median follow-up, 8.3 months [range, 1.1-13.4]), confirmed ORR was 45 % (95 % CI, 29 %-62 %), median time to first response was 6.4 weeks (range, 5.7-18.3), and median duration of response was 7.2 months (95 % CI, 5.3-NE). The clinical benefit rate (responder or durable stable disease) was 76 % (95 % CI, 60 %-89 %). Median progression-free survival was 6.8 months (95 % CI, 4.2-9.0). Subcutaneous amivantamab as second-/third-line treatment among participants with R/M HNSCC demonstrated rapid and durable antitumor activity. The safety profile of subcutaneous amivantamab was consistent with previous studies."
+    },
+    {
       "pmid": "41116141",
       "doi": "10.1007/s12325-025-03365-7",
       "title": "A Time and Motion Study Comparing Subcutaneous Pembrolizumab Versus Intravenous Pembrolizumab in Combination with Chemotherapy for the Treatment of Metastatic Non-small Cell Lung Cancer.",
@@ -263,6 +283,27 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41116141/",
       "url_doi": "https://doi.org/10.1007/s12325-025-03365-7",
       "abstract": "INTRODUCTION: Subcutaneous (SC) formulations of oncology therapies could provide time-saving benefits for both patients and healthcare professionals (HCPs) compared with intravenous (IV) delivery. This prospective observational study, conducted alongside the MK-3475A-D77 phase 3, open-label randomized clinical trial, quantifies HCP and patient time with pembrolizumab SC versus pembrolizumab IV among patients with metastatic non-small cell lung cancer.\n\nMETHODS: Seventeen sites across eight countries in Europe (n = 4), South America (n = 3), and Asia (n = 1) were enrolled. Primary endpoints were active HCP time; patient time in the treatment chair, treatment room, and healthcare facility; and consumables usage. Descriptive statistics included weighted mean (WM), and a linear mixed model (LMM) was employed to explore differences in time measures between pembrolizumab SC and pembrolizumab IV per visit.\n\nRESULTS: Overall, 212 observations were analyzed (153 SC and 59 IV). Total active HCP time was reduced by 45.6% with SC versus IV (WM, 14.0 vs 25.8 min); HCPs spent 44.3% less time on the drug preparation process with SC versus IV (WM, 5.1 vs 9.1 min) and 46.3% less time on the drug administration process with SC versus IV (WM, 8.9 vs 16.7 min). Patient chair time was reduced by 49.6% with SC versus IV (WM, 59.0 vs 117.2 min). Patients receiving SC spent less time in the treatment room than those receiving IV (WM, 66.7 vs 126.9 min; difference - 47.4%). Exploratory LMM showed considerable between-group differences for active HCP time and patient time in the treatment chair and treatment room.\n\nCONCLUSION: Pembrolizumab SC substantially reduces active HCP time and patient chair time versus pembrolizumab IV. Time liberated for HCPs could be reallocated toward additional patient care activities, while optimized chair utilization could improve overall healthcare efficiency."
+    },
+    {
+      "pmid": "41237754",
+      "doi": "10.1016/j.thromres.2025.109525",
+      "title": "Venous thrombosis in lung cancer compared with other tumors: results from the TESEO-SEOM registry.",
+      "journal": "Thrombosis research",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.972,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41237754/",
+      "url_doi": "https://doi.org/10.1016/j.thromres.2025.109525",
+      "abstract": "BACKGROUND: Cancer-associated venous thromboembolism (VTE) is a major adverse prognostic factor with heterogeneous outcomes across tumor types. We aimed to describe the characteristics of lung cancer patients with VTE, compare outcomes across malignancies, and assess their association with complications, progression, and survival.\n\nMETHODS: We analyzed TESEO-SEOM, a prospective multicenter registry including patients with active cancer and VTE. Patients were stratified by tumor site, with lung as reference. Outcomes included recurrent VTE, bleeding, and survival. Analyses were stratified by tumor type and VTE presentation (clinically suspected, symptomatic/asymptomatic incidental). Complications were estimated using competing-risk methods.\n\nRESULTS: Among 3855 patients, the most frequent cancers were gastrointestinal (39.4 %), lung (22.2 %), and breast (10.4 %). Pulmonary embolism predominated (55 %), especially in lung cancer (69.8 %). Overall, 48.9 % of events were clinically suspected and 50.9 % incidental; suspected were more common in lung cancer (53.9 %), whereas incidental diagnoses predominated in gastrointestinal tumors (58.8 %). Complications occurred in 17.6 % (10.2 % bleeding, 7.4 % recurrent VTE). Recurrence was highest in gastrointestinal cancers (11.4 %, Gray's p = 0.022), while bleeding did not differ (p = 0.213). VTE-related mortality was low (1 %), while mixed-cause mortality was highest in lung cancer (17.2 %). Median PFS and OS were shortest in lung cancer (4.5 and 7.7 months, p < 0.0001). Incidental asymptomatic events conferred longer survival, particularly in lung cancer (OS 11.5 vs. 7.3 months for symptomatic incidental and 5.6 for suspected, p < 0.001).\n\nCONCLUSION: VTE in lung cancer is associated with more severe presentation, higher mixed-cause mortality, and worse survival than in other tumors. Incidental asymptomatic VTE predicts better outcomes, supporting risk stratification by tumor type and presentation."
     },
     {
       "pmid": "41108995",
@@ -466,66 +507,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41265379/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108847",
       "abstract": "BACKGROUND: Combining atezolizumab with carboplatin plus etoposide (Carbo-E) improved overall survival (OS) in patients with extensive-stage small cell lung cancer (ES-SCLC). However, there is a paucity of real-world outcomes. We present the largest and longest follow-up retrospective study evaluating treatment outcomes in ES-SCLC.\n\nMETHODS: We conducted a retrospective cohort study to compare response rate, OS, and progression-free survival (PFS) in patients with ES-SCLC who received Carbo-E, Carbo-E and atezolizumab (Carbo-E-Atezo), and cisplatin and etoposide (Cis-E). We included all adult patients (≥ 18 years) treated at Cleveland Clinic between 1/2010-12/2022. Propensity score (PS) weighting and multivariable Cox proportional hazards regression adjusted for confounders.\n\nRESULTS: Among 602 ES-SCLC patients, 375 (62 %) received Carbo-E, 160 (27 %) received Carbo-E-Atezo, and 67 (11 %) received Cis-E. The median age was 67, 65, and 59 years, respectively. The median follow-up among survivors was 23.9 months (IQR: 13.3---57.3). Five-year unadjusted OS was 4.5 % (Carbo-E), 7 % (Carbo-E-Atezo), and 5.2 % (Cis-E). Carbo-E-Atezo was associated with a longer PS-adjusted median OS than Carbo-E (9.1 vs. 8.2 months, P = 0.039), but no difference was seen in PFS (5.5 vs. 5.5, P = 0.09) or response rate (P > 0.9). Compared to Carbo-E, Cis-E showed higher response rates (OR: 1.67, P = 0.03) but no improvement in OS (11 vs 8.3 months, P = 0.067) or PFS (7.7 vs. 5.5 months, P = 0.058). Cis-E did not differ significantly from Carbo-E-Atezo in response rate, OS, or PFS.\n\nCONCLUSION: Long-term outcomes in ES-SCLC remain poor. Atezolizumab added to Carbo-E modestly improved OS but not PFS. Cisplatin-based regimens increased response rates but did not improve survival."
-    },
-    {
-      "pmid": "41254996",
-      "doi": "10.2340/1651-226X.2025.44344",
-      "title": "Prevalence, molecular characterization, and prognosis of c-Met protein overexpression in a real-world cohort of patients with non-squamous non-small cell lung cancer.",
-      "journal": "Acta oncologica (Stockholm, Sweden)",
-      "pubdate": "2025-11-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://medicaljournalssweden.se/actaoncologica/article/download/1544-1553/52051",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41254996/",
-      "url_doi": "https://doi.org/10.2340/1651-226X.2025.44344",
-      "abstract": "BACKGROUND AND PURPOSE: c-Met (also known as MET) protein is encoded by the MET proto-oncogene. In non-small cell lung cancer (NSCLC), c-Met protein overexpression (OE) drives tumorigenesis and is a therapeutic target, given recent US Food and Drug Administration approval of telisotuzumab vedotin-tllv. This retrospective analysis of tumor samples and clinical data from real-world patients with non-squamous NSCLC characterized the prevalence of c-Met protein OE, its association with messenger ribonucleic acid (mRNA) expression, MET gene amplification, programmed-death ligand 1 (PD-L1) expression, and its impact on prognosis.\n\nPATIENTS AND METHODS: A patient cohort was selected for manual abstraction of clinical data from electronic health records. Patients were selected based on the availability of sufficient remnant tissue for biomarker analyses, including c-Met immunohistochemistry (IHC). Comparative assessments were conducted for c-Met protein expression by IHC, MET gene amplification, mRNA expression, and PD-L1 expression levels by IHC.\n\nRESULTS: In total, 305 and 84 patients were included in the biomarker prevalence and outcome analyses, respectively. Overall, c-Met protein OE was detected in 25% of tissue samples. Of the 212 samples with fluorescence in situ hybridization data, MET amplification was seen in 9%. Concordance of c-Met protein OE with MET mRNA levels was observed with area under the concentration-time curve values of 0.738 and 0.736 in MET OE or MET high OE, respectively, using Receiver Operating Characteristic analysis. c-Met protein OE was associated with poor prognosis (unadjusted hazard ratio for death of 2.04).\n\nINTERPRETATION: These data suggest that c-Met protein OE is associated with MET mRNA expression, shows limited overlap with other MET aberrations, and may be linked to poor prognosis in NSCLC."
-    },
-    {
-      "pmid": "41197618",
-      "doi": "10.1016/j.xcrm.2025.102434",
-      "title": "Trilaciclib triggers a neutrophil-related immune response and sensitizes non-small cell lung cancer to anti-PD-1 therapy.",
-      "journal": "Cell reports. Medicine",
-      "pubdate": "2025-11-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.xcrm.2025.102434",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41197618/",
-      "url_doi": "https://doi.org/10.1016/j.xcrm.2025.102434",
-      "abstract": "Immunotherapy-based combination approaches have improved treatment efficacy in advanced non-small cell lung cancer (NSCLC), but progressive disease remains a challenge. Trilaciclib is a cyclin-dependent kinase 4/6 inhibitor approved for myelopreservation in extensive-stage small cell lung cancer (ES-SCLC). Our results demonstrate that trilaciclib has antitumor potential in NSCLC without significant toxicity. It reprograms the tumor immune microenvironment by primarily increasing antitumor neutrophils and CD8"
-    },
-    {
-      "pmid": "41260223",
-      "doi": "10.1016/j.celrep.2025.116572",
-      "title": "Structural basis of DNA-dependent coactivator recruitment by the tuft cell master regulator POU2F3.",
-      "journal": "Cell reports",
-      "pubdate": "2025-11-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.cell.com/cell-reports/pdf/S2211-1247(25)01344-0.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41260223/",
-      "url_doi": "https://doi.org/10.1016/j.celrep.2025.116572",
-      "abstract": "The transcription factor POU2F3 defines the identity of tuft cells and underlies a distinct molecular subtype of small cell lung cancer (SCLC). Although POU2F3 is considered undruggable, its activity critically depends on the coactivators OCA-T1 and OCA-T2. Here, we demonstrate that acute suppression of either POU2F3 or OCA-T1 induces regression of tuft cell-like SCLC xenografts in vivo. To explore the structural basis and druggability of this dependency, we determine crystal structures of POU2F3 bound to OCA-T1 or OCA-T2 in complex with DNA, revealing a tripartite, DNA-dependent interface. We further employ deep mutational scanning to assess the functional impact of 4,218 missense variants in POU2F3 and OCA-T1, uncovering both mutation-sensitive hotspots and structurally constrained regions critical for tumor cell fitness. These findings define a transcriptional complex that integrates DNA recognition with coactivator recruitment and nominate POU2F3-OCA-T as a structurally tractable vulnerability in tuft cell-like carcinomas."
     }
   ]
 }
