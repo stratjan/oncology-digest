@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-25T05:19:11.857604Z",
+  "generated": "2025-11-26T05:18:56.166713Z",
   "items": [
     {
       "pmid": "41266687",
@@ -20,24 +20,24 @@
       "abstract": null
     },
     {
-      "pmid": "41259198",
-      "doi": "10.1001/jama.2025.23244",
-      "title": "Lung Cancer Screening Saves Lives, but Could Save So Many More.",
-      "journal": "JAMA",
-      "pubdate": "2025-11-19T00:00:00+00:00",
+      "pmid": "41289566",
+      "doi": "10.1158/0008-5472.CAN-25-0582",
+      "title": "A Deep Learning Framework Integrating Tumor Microenvironmental Features Accurately Predicts Multiple Driver Gene Mutations in Lung Cancer Pathology Images.",
+      "journal": "Cancer research",
+      "pubdate": "2025-11-25T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
       "entity": "Thoracic-other",
       "trial_type": null,
-      "study_class": "Other",
+      "study_class": "Preclinical",
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 5.352,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41259198/",
-      "url_doi": "https://doi.org/10.1001/jama.2025.23244",
-      "abstract": null
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41289566/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0582",
+      "abstract": "Deep learning (DL) has the potential to enable the prediction of gene mutations directly from routine histopathology slides in lung cancer. However, existing approaches have largely been limited to mutation-level prediction and have not achieved precise identification of driver mutation subtypes or exonic variants, constraining the translation of DL into targeted therapy. In this study, we assembled a large multicenter dataset of paired pathology images and next-generation sequencing from 2573 lung cancer patients from four hospitals in China. Development of NAVF-Bio, an adaptive multi-view feature fusion framework based on multiple-instance learning, enabled integration of tumor microenvironment (TME) features from whole-slide images (WSIs) to predict driver mutations and tumor mutational burden (TMB). Benchmarking against 11 state-of-the-art DL methods indicated that NAVF-Bio consistently outperformed existing models in predicting driver mutations (TP53, EGFR, KRAS, ALK) and TMB status, achieving clinically relevant performance in external multicenter validation. Notably, NAVF-Bio accurately predicted the mutated driver gene exons across centers, while interpretability analyses using WSI visualization and TME quantification further demonstrated the ability of NAVF-Bio to elucidate pathologically relevant tumor features. Finally, a multi-gene mutation prediction platform for lung cancer was generated to facilitate the screening of driver gene mutations. Overall, NAVF-Bio mimics the workflow of pathologists when examining slides by observing multi-scale features of WSIs and TME characteristics to predict driver gene mutations in lung cancer, which could guide the selection of targeted therapies for patients."
     },
     {
       "pmid": "41266553",
@@ -119,46 +119,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40650354/",
       "url_doi": "https://doi.org/10.1002/ijc.70045",
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
-    },
-    {
-      "pmid": "41259656",
-      "doi": "10.1158/2767-9764.CRC-25-0564",
-      "title": "Cancer Incidence and Mortality Estimates in Latin America and the Caribbean: A Systematic Analysis of the GLOBOCAN 2022.",
-      "journal": "Cancer research communications",
-      "pubdate": "2025-11-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerrescommun/article-pdf/doi/10.1158/2767-9764.CRC-25-0564/3672629/crc-25-0564.pdf",
-      "metric_name": "SJR",
-      "metric_value": 1.569,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41259656/",
-      "url_doi": "https://doi.org/10.1158/2767-9764.CRC-25-0564",
-      "abstract": "Cancer is a leading cause of death in Latin America and the Caribbean (LAC), and up-to-date estimates are essential to guide cancer policy. Using GLOBOCAN 2022 data, we analyzed cancer incidence and mortality across 32 LAC countries, calculated age-standardized rates, and assessed early-onset cancer (diagnosed at ages 15-50). Mortality-to-incidence ratios (MIRs) were used as a proxy for survival, Joinpoint regression estimated annual percent change (APC), and linear regression evaluated correlation between the Human Development Index (HDI) and cancer indicators. In 2022, LAC recorded 1,551,060 new cancer cases (ASIR 186.6 per 100,000) and 749,242 deaths (ASMR 85.2 per 100,000). Prostate and breast cancers were the most common malignancies, while lung and breast cancers caused the highest mortality. Mortality declined for prostate cancer (APC -1.52, 95% CI -1.80 to -1.24) and male lung cancer (-2.50, 95% CI -2.68 to -2.33) but increased for female lung (+1.88, 95% CI 1.71 to 2.05) and colorectal cancer (+2.48, 95% CI 2.30 to 2.67). HDI showed an inverse correlation with MIR (p < 0.001), suggesting improved survival with higher development. Early-onset cancers represented 17% of new cases and 11% of deaths. These findings reveal a growing cancer burden and that persistent disparities in cancer epidemiology persists across LAC, highlighting the urgent need for targeted cancer control strategies and regional cancer control plans."
-    },
-    {
-      "pmid": "41259663",
-      "doi": "10.1158/2767-9764.CRC-25-0186",
-      "title": "Low OLFM1 and BMP6 Expression Predicts Recurrence in Early-Stage Non-Squamous NSCLC with Pure Solid Tumor Appearance.",
-      "journal": "Cancer research communications",
-      "pubdate": "2025-11-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerrescommun/article-pdf/doi/10.1158/2767-9764.CRC-25-0186/3672612/crc-25-0186.pdf",
-      "metric_name": "SJR",
-      "metric_value": 1.569,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41259663/",
-      "url_doi": "https://doi.org/10.1158/2767-9764.CRC-25-0186",
-      "abstract": "While pathological stage I (pStage I) non-small cell lung cancer (NSCLC) has a good prognosis, some patients experience disease recurrence. Identification of prognostic markers for pStage I NSCLC may facilitate personalized perioperative treatment by expanding the candidates for adjuvant treatment. NSCLC patients with ground-glass opacity have excellent survival outcomes. Therefore, in this study, we explored prognostic biomarkers in pure solid non-squamous NSCLC. We focused on non-squamous NSCLC because the gene expression status is distinct from that of squamous cell carcinomas. RNA sequencing was performed on frozen tumor specimens from 33 non-squamous NSCLC patients with disease recurrence (recurrence group) and 33 counterparts (control group) extracted from patients without disease recurrence using propensity score matching (Cohort 1). The candidate genes were further refined using an independent real-world Cohort 2a (N = 125) and validated in The Cancer Genome Atlas cohort. Through the analysis of Cohort 1 and Cohort 2a, we found that low expression of six genes (BMP6, KCNK3, NFASC, OLFM1, PEG3, and TNXB) was associated with disease recurrence. The prognostic impact of the six genes was confirmed using The Cancer Genome Atlas lung adenocarcinoma database. Multivariable proportional hazard analysis using the Cohort 2a dataset revealed that the combination of BMP6 and OLFM1 status predicted recurrence-free survival. In conclusion, we found that low BMP6/OLFM1 gene status is a potential biomarker to identify high-risk pStage I pure solid non-squamous NSCLC patients after pulmonary resection."
     },
     {
       "pmid": "41130887",
@@ -243,6 +203,46 @@
       "abstract": "INTRODUCTION: In the phase 3 CASPIAN study, first-line durvalumab plus etoposide combined with either carboplatin or cisplatin (EP) significantly improved overall survival (OS) versus EP alone in treatment-naïve extensive-stage small-cell lung cancer (ES-SCLC). We report exploratory subgroup analyses from CASPIAN.\n\nMETHODS: Patients with untreated ES-SCLC were randomized to durvalumab plus EP or EP alone. We analyzed OS and safety in subgroups defined by age, sex, and planned platinum agent, and patient-reported outcomes (PROs) by age.\n\nRESULTS: Of 537 patients (durvalumab plus EP: n = 268; EP alone: n = 269), 80.6% versus 19.4% were aged <70 versus ≥70 years; 69.6% versus 30.4% were male versus female; and planned platinum was cisplatin versus carboplatin in 25.1% versus 74.9%. The OS HRs for durvalumab plus EP versus EP were 0.71 (95% CI, 0.58-0.88) versus 0.74 (95% CI, 0.49-1.11) for patients aged <70 versus ≥70 years; 0.76 (95% CI, 0.62-0.95) versus 0.60 (95% CI, 0.42-0.84) for males versus females; and 0.65 (95% CI, 0.45-0.94) versus 0.74 (95% CI, 0.60-0.91) for planned cisplatin versus carboplatin. With durvalumab plus EP, rates of grade 3/4 adverse events (AEs) were similar across subgroups; serious AEs were more frequent in patients aged ≥70 versus <70 years; and immune-mediated AEs were more common in females versus males. Adding durvalumab to EP had no detrimental effect on PROs in either age subgroup.\n\nCONCLUSIONS: These findings support the use of durvalumab plus EP as first-line standard of care for ES-SCLC. Additional trials focused on elderly populations would be informative."
     },
     {
+      "pmid": "40946254",
+      "doi": "10.1007/s40487-025-00378-8",
+      "title": "First-Line Tislelizumab Plus Chemotherapy in Advanced Non-Squamous Non-Small Cell Lung Cancer: PD-L1 ≥ 50% Subgroup Analysis from the RATIONALE-304 Trial.",
+      "journal": "Oncology and therapy",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1007/s40487-025-00378-8",
+      "metric_name": "SJR",
+      "metric_value": 1.33,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40946254/",
+      "url_doi": "https://doi.org/10.1007/s40487-025-00378-8",
+      "abstract": "INTRODUCTION: RATIONALE-304 compared first-line tislelizumab (a programmed cell death protein 1 inhibitor) plus chemotherapy versus chemotherapy in advanced non-squamous non-small cell lung cancer (nsq-NSCLC). This exploratory analysis focused on patients with tumor cell programmed death ligand 1 (PD-L1) expression ≥ 50%.\n\nMETHODS: Patients with stage IIIB/IV nsq-NSCLC were randomized (2:1) to tislelizumab plus platinum-based chemotherapy and pemetrexed every 3 weeks, followed by maintenance tislelizumab and pemetrexed, or platinum-based chemotherapy and pemetrexed followed by maintenance pemetrexed. The primary endpoint was independent review committee (IRC)-assessed progression-free survival (PFS); secondary endpoints included overall survival (OS), IRC-assessed objective response rates, and safety.\n\nRESULTS: The PD-L1 ≥ 50% population included 110 patients (tislelizumab plus chemotherapy, n = 74; chemotherapy, n = 36); 71.8% (n = 79) were male and 28.2% (n = 31) were female. Consistent with the final analysis (median follow-up 16.5 months), the 4-year follow-up data (median follow-up 23.4 months) continued to show an improvement in median PFS (17.2 vs. 4.6 months; stratified HR 0.29, 95% CI 0.17-0.50) and median OS (41.9 vs. 13.1 months; stratified HR 0.38, 95% CI 0.23-0.62) for patients who received tislelizumab plus chemotherapy versus chemotherapy. An additional post hoc analysis showed no significant differences in PFS or OS between PD-L1 50-89% and ≥ 90% subgroups in the tislelizumab plus chemotherapy arm. The safety profile of tislelizumab plus chemotherapy was manageable and consistent with previous analyses.\n\nCONCLUSIONS: In patients with advanced nsq-NSCLC and PD-L1 tumor cell expression ≥ 50%, first-line tislelizumab plus chemotherapy demonstrated clinically meaningful improvement in PFS and OS versus chemotherapy. Efficacy was consistent across subgroups of patients with high PD-L1 tumor cell expression levels (50-89% and ≥ 90%).\n\nTRIAL REGISTRATION: Clinical Trials.gov NCT03663205."
+    },
+    {
+      "pmid": "40908346",
+      "doi": "10.1007/s40487-025-00372-0",
+      "title": "Asian Subgroup Analysis of Patients in the Phase 2 DeLLphi-301 Study of Tarlatamab for Previously Treated Small Cell Lung Cancer.",
+      "journal": "Oncology and therapy",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s40487-025-00372-0.pdf",
+      "metric_name": "SJR",
+      "metric_value": 1.33,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40908346/",
+      "url_doi": "https://doi.org/10.1007/s40487-025-00372-0",
+      "abstract": "INTRODUCTION: Tarlatamab is a bispecific T-cell engager (BiTE\n\nMETHODS: Patients with previously treated, advanced SCLC received 10 mg tarlatamab every 2 weeks. The primary endpoint was objective response rate (ORR) by blinded independent central review (RECIST version 1.1). Key secondary endpoints included duration of response (DOR), progression-free survival (PFS), overall survival (OS) and safety. The present analysis includes patients enrolled at sites in Asia.\n\nRESULTS: A total of 43 patients were enrolled at sites in Asia. ORR was 46.3% (95% confidence interval [CI], 30.7-62.6) and median DOR was 7.2 months (95% CI 3.9 to not estimable). The median follow-up was 16.6 months for PFS and 21.2 months for OS. Median PFS was 5.4 months (95% CI 3.0-8.1) and median OS was 19.0 months (95% CI 11.4 to not estimable). The most common treatment-emergent adverse event (AE) was cytokine release syndrome (48.8%), and all such events were grade 1 or 2. There were no discontinuations due to treatment-related AEs.\n\nCONCLUSIONS: Tarlatamab demonstrated durable responses and promising survival outcomes with a manageable safety profile in this post hoc analysis of patients from Asia with previously treated SCLC.\n\nTRIAL REGISTRATION: ClinicalTrials.gov, NCT05060016."
+    },
+    {
       "pmid": "41275660",
       "doi": "10.1016/j.oraloncology.2025.107791",
       "title": "Subcutaneous amivantamab in recurrent/metastatic head and neck squamous cell cancer after disease progression on checkpoint inhibitor and chemotherapy: Preliminary results from the phase 1b/2 OrigAMI-4 study.",
@@ -306,6 +306,26 @@
       "abstract": "BACKGROUND: Cancer-associated venous thromboembolism (VTE) is a major adverse prognostic factor with heterogeneous outcomes across tumor types. We aimed to describe the characteristics of lung cancer patients with VTE, compare outcomes across malignancies, and assess their association with complications, progression, and survival.\n\nMETHODS: We analyzed TESEO-SEOM, a prospective multicenter registry including patients with active cancer and VTE. Patients were stratified by tumor site, with lung as reference. Outcomes included recurrent VTE, bleeding, and survival. Analyses were stratified by tumor type and VTE presentation (clinically suspected, symptomatic/asymptomatic incidental). Complications were estimated using competing-risk methods.\n\nRESULTS: Among 3855 patients, the most frequent cancers were gastrointestinal (39.4 %), lung (22.2 %), and breast (10.4 %). Pulmonary embolism predominated (55 %), especially in lung cancer (69.8 %). Overall, 48.9 % of events were clinically suspected and 50.9 % incidental; suspected were more common in lung cancer (53.9 %), whereas incidental diagnoses predominated in gastrointestinal tumors (58.8 %). Complications occurred in 17.6 % (10.2 % bleeding, 7.4 % recurrent VTE). Recurrence was highest in gastrointestinal cancers (11.4 %, Gray's p = 0.022), while bleeding did not differ (p = 0.213). VTE-related mortality was low (1 %), while mixed-cause mortality was highest in lung cancer (17.2 %). Median PFS and OS were shortest in lung cancer (4.5 and 7.7 months, p < 0.0001). Incidental asymptomatic events conferred longer survival, particularly in lung cancer (OS 11.5 vs. 7.3 months for symptomatic incidental and 5.6 for suspected, p < 0.001).\n\nCONCLUSION: VTE in lung cancer is associated with more severe presentation, higher mixed-cause mortality, and worse survival than in other tumors. Incidental asymptomatic VTE predicts better outcomes, supporting risk stratification by tumor type and presentation."
     },
     {
+      "pmid": "41288932",
+      "doi": "10.1007/s10147-025-02929-5",
+      "title": "Association of fat-free mass index and survival in patients with lung cancer: a multicenter cohort study.",
+      "journal": "International journal of clinical oncology",
+      "pubdate": "2025-11-25T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.936,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41288932/",
+      "url_doi": "https://doi.org/10.1007/s10147-025-02929-5",
+      "abstract": "BACKGROUND: Fat-free mass index (FFMI) is a prognostic influence in cancer patients. However, for the prognosis of Chinese lung cancer (LC) patients, the threshold and impact of FFMI are not known. The aim of the present study was to examine the association between FFMI and the prognosis of Chinese patients with LC.\n\nMETHODS: Totally 1,881 adult patients with LC were enrolled. During a median follow-up of 41.0 months (range 23.8-64.3), we reported 938 deaths. The optimal stratification method was used to determine the gender-specific optimal threshold for FFMI. Cox regression model and Kaplan-Meier curve were used to evaluate the relationship between FFMI and prognosis. Mediation analysis was used to determine the mediating effect of inflammation.\n\nRESULTS: The optimal cutoff points for low FFMI in males and females were 17.27 kg/m\n\nCONCLUSION: In this prospective study, low FFMI, as determined by cutoff values, was an independent prognostic factor for patients with LC in both males and females. The association between FFMI and LC prognosis was significantly mediated by NLR."
+    },
+    {
       "pmid": "41108995",
       "doi": "10.1016/j.suronc.2025.102309",
       "title": "Mediastinal staging with video-assisted mediastinoscopic lymphadenectomy after endobronchial ultrasound-guided transbronchial needle aspiration: real-world evidence in 228 patients.",
@@ -364,6 +384,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41217067/",
       "url_doi": "https://doi.org/10.1080/20565623.2025.2578145",
       "abstract": null
+    },
+    {
+      "pmid": "41286347",
+      "doi": "10.1038/s41598-025-29214-9",
+      "title": "Modeling the metastatic tumor microenvironment: a co-culture platform of lung cancer and blood vessel organoids for drug evaluation.",
+      "journal": "Scientific reports",
+      "pubdate": "2025-11-24T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41598-025-29214-9",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41286347/",
+      "url_doi": "https://doi.org/10.1038/s41598-025-29214-9",
+      "abstract": "Tumor cell-vasculature interactions play a crucial role in lung cancer progression and metastasis; however, traditional cell culture models rarely capture these complex dynamics. We developed a vascularized lung cancer organoid (VLCO) model by coculturing lung cancer organoids (LCOs) with blood vessel organoids (BVOs) to recreate the tumor-vasculature niche in a three-dimensional in vitro system. During coculture, LCOs migrated along BVO-formed vascular networks and invaded vessel-like structures, mimicking intravasation. The organoid types interacted via secretory factors, including TGF-β and PDGF-BB, inducing epithelial-mesenchymal transition (EMT) in LCOs and pericyte-to-fibroblast transition in BVOs. We also developed a scalable drug response assay for vasculature-induced EMT, enabling targeted therapeutic screening. The VLCO model provides a robust platform for studying tumor-endothelial crosstalk and testing antimetastatic therapies targeting tumor-vasculature interactions."
     },
     {
       "pmid": "41268710",
@@ -447,66 +487,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41082707/",
       "url_doi": "https://doi.org/10.1200/JCO-25-00036",
       "abstract": "PURPOSE: Immunotherapy targeting PD-L1 improves outcomes in patients with unresectable stage III non-small cell lung cancer (NSCLC) and no progression after definitive, concurrent chemoradiotherapy (cCRT). Earlier administration of immunotherapy, simultaneously with cCRT, may improve outcomes further.\n\nMETHODS: Eligible patients were randomly assigned (2:1) to receive either durvalumab or placebo administered from the start of cCRT. Patients without progression after completing cCRT received consolidation durvalumab or placebo (per initial random assignment) until progression. The primary end point was progression-free survival (PFS) by blinded independent central review. Key secondary end points included objective response rate (ORR), overall survival (OS), the proportion of patients alive at 24 months (OS24), and safety.\n\nRESULTS: In total, 328 patients were randomly assigned to receive durvalumab (n = 219) or placebo (n = 109). There was no statistically significant difference with durvalumab versus placebo in PFS (hazard ratio [HR], 0.85 [95% CI, 0.65 to 1.12];\n\nCONCLUSION: Among patients with unresectable stage III NSCLC, durvalumab administered from the start of cCRT failed to demonstrate additional benefit compared with cCRT plus placebo. Consolidation durvalumab following definitive cCRT remains the standard of care in this setting."
-    },
-    {
-      "pmid": "41270901",
-      "doi": "10.1016/j.modpat.2025.100938",
-      "title": "A Comprehensive Mutational and Histopathological Analysis of STK11-Mutant Non-Small Cell Lung Carcinomas.",
-      "journal": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
-      "pubdate": "2025-11-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.modpat.2025.100938",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41270901/",
-      "url_doi": "https://doi.org/10.1016/j.modpat.2025.100938",
-      "abstract": "Despite recent advances in the understanding of genomic and immunopathologic mechanisms of lung cancer, this disease remains the leading cause of cancer-related deaths in the United States. STK11 (LKB1) mutations are present in approximately 20% of non-small cell lung cancers (NSCLCs) and drive tumor progression through disruption of cellular metabolism, polarity, and stress responses ultimately leading to immune evasion and resistance to cancer therapy. Although these tumors are associated with poor prognoses, the clinicopathologic significance of different STK11 mutation subtypes and their associations with tumor histology, cellular behaviors, metastatic potential, and clinical outcomes remain incompletely understood. In this study, we retrospectively analyze a large cohort of STK11-mutant and STK11 wild-type NSCLCs using a combination of next generation sequencing, immunologic biomarkers, histopathologic characterization, and radiographic imaging. Overall, we demonstrate that STK11-mutant tumors display diverse molecular and morphologic features and are associated with high rates of aggressive histopathologic growth patterns, lymphovascular invasion, and spread through the airspaces (STAS). Among Stage 4 cases, STK11 mutations have notable differences in organotropism, with the STK11-loss cohort in particular demonstrating the highest rates of brain metastases at the time of initial diagnosis. Furthermore, among Stage 4 cases, while all STK11 mutation types result in decreased overall survival probability compared to the STK11 wild-type cohort, the effect appears most pronounced among the STK11-loss/KRAS-mutant group. These findings underscore the heterogeneity of STK11-mutant NSCLCs and highlight the opportunity for further investigation into specific STK11 mutation subtypes in guiding prognosis and therapeutic decision making for individuals with lung cancer."
-    },
-    {
-      "pmid": "41270639",
-      "doi": "10.1016/j.lungcan.2025.108845",
-      "title": "First-line treatment in EGFR-mutated non-small cell lung cancer: brief report of an individual patient data comparison of phase 3 clinical trials.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108845",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41270639/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108845",
-      "abstract": "INTRODUCTION: Clinical trials evaluated the efficacy and safety of novel first-line treatment strategies for advanced epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC), relative to osimertinib monotherapy.\n\nMETHODS: After review of the literature, we performed an individual patient data comparison of efficacy and safety of investigational regimens from phase 3 randomized controlled trials in untreated EGFR-mutated NSCLC.\n\nRESULTS: Two studies were included in the analysis: FLAURA2 and MARIPOSA, evaluating the osimertinib-chemotherapy and amivantamab-lazertinib combinations, respectively. In progression free survival (PFS), there was a statistically significant difference favoring the FLAURA2 in the intent-to-treat (ITT) population [Hazard ratio (HR) 0.79], not confirmed in the overall survival (OS) analysis where we did not find any significant difference. FLAURA2 PFS was longer in patients with central nervous system (CNS) metastases (HR 0.63), without liver metastases (HR 0.73), and with EGFR L858R (HR 0.68). In intracranial PFS (icPFS), there was a statistically significant difference favoring the FLAURA2 (HR 0.52). We found no differences in PFS in patients without CNS metastases, and with exon 19 deletions. No new safety signals resulted from the safety analysis. In FLAURA2, anemia, diarrhea, and neutropenia were more frequent, while in MARIPOSA rash and paronychia.\n\nCONCLUSION: In the ITT population, we found no differences in OS between amivantamab-lazertinib and osimertinib-chemotherapy, despite a slightly higher PFS of the latter. Osimertinib-chemotherapy could be more effective in patients with CNS metastases, without liver metastases, and EGFR L858R mutation, however we could not compare OS in these subgroups. Due to the indirect nature of the comparison and the limitation of the methods our results are not definitive, but rather hypothesis-generating. Other factors must be considered in the choice of the treatment, including patient's characteristics, the safety profile of the combinations, and center's facilities and expertise."
-    },
-    {
-      "pmid": "41265379",
-      "doi": "10.1016/j.lungcan.2025.108847",
-      "title": "Long-term outcomes of Extensive-Stage small cell lung cancer treated with chemotherapy or Chemo-immunotherapy: A propensity score adjusted cohort study.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41265379/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108847",
-      "abstract": "BACKGROUND: Combining atezolizumab with carboplatin plus etoposide (Carbo-E) improved overall survival (OS) in patients with extensive-stage small cell lung cancer (ES-SCLC). However, there is a paucity of real-world outcomes. We present the largest and longest follow-up retrospective study evaluating treatment outcomes in ES-SCLC.\n\nMETHODS: We conducted a retrospective cohort study to compare response rate, OS, and progression-free survival (PFS) in patients with ES-SCLC who received Carbo-E, Carbo-E and atezolizumab (Carbo-E-Atezo), and cisplatin and etoposide (Cis-E). We included all adult patients (≥ 18 years) treated at Cleveland Clinic between 1/2010-12/2022. Propensity score (PS) weighting and multivariable Cox proportional hazards regression adjusted for confounders.\n\nRESULTS: Among 602 ES-SCLC patients, 375 (62 %) received Carbo-E, 160 (27 %) received Carbo-E-Atezo, and 67 (11 %) received Cis-E. The median age was 67, 65, and 59 years, respectively. The median follow-up among survivors was 23.9 months (IQR: 13.3---57.3). Five-year unadjusted OS was 4.5 % (Carbo-E), 7 % (Carbo-E-Atezo), and 5.2 % (Cis-E). Carbo-E-Atezo was associated with a longer PS-adjusted median OS than Carbo-E (9.1 vs. 8.2 months, P = 0.039), but no difference was seen in PFS (5.5 vs. 5.5, P = 0.09) or response rate (P > 0.9). Compared to Carbo-E, Cis-E showed higher response rates (OR: 1.67, P = 0.03) but no improvement in OS (11 vs 8.3 months, P = 0.067) or PFS (7.7 vs. 5.5 months, P = 0.058). Cis-E did not differ significantly from Carbo-E-Atezo in response rate, OS, or PFS.\n\nCONCLUSION: Long-term outcomes in ES-SCLC remain poor. Atezolizumab added to Carbo-E modestly improved OS but not PFS. Cisplatin-based regimens increased response rates but did not improve survival."
     }
   ]
 }
