@@ -1,23 +1,25 @@
 {
-  "generated": "2025-11-26T05:18:56.166713Z",
+  "generated": "2025-11-27T05:18:25.462489Z",
   "items": [
     {
-      "pmid": "41266687",
-      "doi": "10.1038/s41591-025-04116-5",
-      "title": "Editorial Expression of Concern: Rationale for co-targeting IGF-1R and ALK in ALK fusion-positive lung cancer.",
-      "journal": "Nature medicine",
-      "pubdate": "2025-11-20T00:00:00+00:00",
-      "pubtypes": [],
-      "entity": "Thoracic-other",
+      "pmid": "41296331",
+      "doi": "10.1001/jamaoncol.2025.5097",
+      "title": "Lorlatinib in Tyrosine Kinase Inhibitor-Naive Advanced ROS1-Positive Non-Small Cell Lung Cancer: A Phase 2 Nonrandomized Clinical Trial.",
+      "journal": "JAMA oncology",
+      "pubdate": "2025-11-26T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
       "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41591-025-04116-5.pdf",
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 18.333,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41266687/",
-      "url_doi": "https://doi.org/10.1038/s41591-025-04116-5",
-      "abstract": null
+      "metric_value": 8.377,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41296331/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.5097",
+      "abstract": "IMPORTANCE: ROS1 rearrangement is rare but is an attractive therapeutic target in advanced non-small cell lung cancer (NSCLC). Crizotinib, entrectinib, and repotrectinib have been approved by the US Food and Drug Administration for treatment of ROS1-positive NSCLC. Lorlatinib, a brain-penetrant, third-generation tyrosine kinase inhibitor (TKI), targets ROS1 and ALK; however, its efficacy and safety for patients with advanced ROS1-positive remains unknown.\n\nOBJECTIVE: To evaluate the efficacy and safety of lorlatinib for patients with advanced ROS1-positive NSCLC never treated with any TKI.\n\nDESIGN, SETTING, AND PARTICIPANTS: This multicenter phase 2 nonrandomized clinical trial enrolled patients with advanced ROS1-positive NSCLC who were TKI-naive with an Eastern Cooperative Oncology Group performance status of 2 or less, and 1 or no prior platinum-based chemotherapy. Participants were recruited from June 2019 to April 2023 and followed up through August 2024. Data analysis was performed from April 5 to August 30, 2025.\n\nINTERVENTIONS: Lorlatinib, 100 mg daily, was administered until disease progression, toxic effects, consent withdrawal, or death.\n\nMAIN OUTCOMES AND MEASURES: Objective response rate (ORR). Secondary end points were progression-free survival (PFS), overall survival, and safety.\n\nRESULTS: The analysis included 32 patients (mean [IQR] age, 59 [11] years; 20 female [63%] and 12 male [37%] individuals), all of whom had adenocarcinoma histologic findings. There were 21 patients (66%) who were treatment-naive, and 11 (34%) who had prior chemotherapy. The median (SD) follow-up duration was 22.1 (15.4-46.8) months; ORR was 73% (95% CI, 56%-86%; 22 of 30 patients), and disease control rate was 90% (95% CI, 74%-97%; 27 of 30 patients). Median (IQR) PFS was 53.6 (95% CI, 27.8-79.5) months, and overall survival was not reached. For treatment-naive vs previously treated patients, the ORR was 90% vs 60%, and PFS was not reached vs 35.8 months. Grade 3 to 4 adverse effects were hypertriglyceridemia (5 patients [16%]) and hypercholesterolemia (8 patients [25%]). No treatment-related deaths occurred.\n\nCONCLUSIONS AND RELEVANCE: In this nonrandomized clinical trial, lorlatinib demonstrated durable efficacy and manageable safety in TKI-naive advanced ROS1-positive NSCLC, supporting the potential for using lorlatinib in earlier treatment settings.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03612154."
     },
     {
       "pmid": "41289566",
@@ -38,27 +40,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41289566/",
       "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0582",
       "abstract": "Deep learning (DL) has the potential to enable the prediction of gene mutations directly from routine histopathology slides in lung cancer. However, existing approaches have largely been limited to mutation-level prediction and have not achieved precise identification of driver mutation subtypes or exonic variants, constraining the translation of DL into targeted therapy. In this study, we assembled a large multicenter dataset of paired pathology images and next-generation sequencing from 2573 lung cancer patients from four hospitals in China. Development of NAVF-Bio, an adaptive multi-view feature fusion framework based on multiple-instance learning, enabled integration of tumor microenvironment (TME) features from whole-slide images (WSIs) to predict driver mutations and tumor mutational burden (TMB). Benchmarking against 11 state-of-the-art DL methods indicated that NAVF-Bio consistently outperformed existing models in predicting driver mutations (TP53, EGFR, KRAS, ALK) and TMB status, achieving clinically relevant performance in external multicenter validation. Notably, NAVF-Bio accurately predicted the mutated driver gene exons across centers, while interpretability analyses using WSI visualization and TME quantification further demonstrated the ability of NAVF-Bio to elucidate pathologically relevant tumor features. Finally, a multi-gene mutation prediction platform for lung cancer was generated to facilitate the screening of driver gene mutations. Overall, NAVF-Bio mimics the workflow of pathologists when examining slides by observing multi-scale features of WSIs and TME characteristics to predict driver gene mutations in lung cancer, which could guide the selection of targeted therapies for patients."
-    },
-    {
-      "pmid": "41266553",
-      "doi": "10.1038/s41698-025-01144-9",
-      "title": "MET (c-Met) protein overexpression is an emerging protein biomarker in non-small cell lung cancer.",
-      "journal": "NPJ precision oncology",
-      "pubdate": "2025-11-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41698-025-01144-9.pdf",
-      "metric_name": "SJR",
-      "metric_value": 3.37,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41266553/",
-      "url_doi": "https://doi.org/10.1038/s41698-025-01144-9",
-      "abstract": "MET protein (also known as c-Met protein) overexpression (OE) is an emerging clinically relevant biomarker that is targetable with antibody-drug conjugates. c-Met protein's prevalence varies, depending on the different OE thresholds, antibodies, and detection methodologies used. Unlike MET genomic aberrations, MET protein OE is a protein biomarker requiring immunohistochemistry (IHC)-based testing. Herein, we summarize the current evidence on MET protein OE, including prognostic value, heterogeneity, and stability. We also provide key considerations for enabling optimal real-world testing of this IHC-based biomarker."
     },
     {
       "pmid": "40975161",
@@ -243,6 +224,26 @@
       "abstract": "INTRODUCTION: Tarlatamab is a bispecific T-cell engager (BiTE\n\nMETHODS: Patients with previously treated, advanced SCLC received 10 mg tarlatamab every 2 weeks. The primary endpoint was objective response rate (ORR) by blinded independent central review (RECIST version 1.1). Key secondary endpoints included duration of response (DOR), progression-free survival (PFS), overall survival (OS) and safety. The present analysis includes patients enrolled at sites in Asia.\n\nRESULTS: A total of 43 patients were enrolled at sites in Asia. ORR was 46.3% (95% confidence interval [CI], 30.7-62.6) and median DOR was 7.2 months (95% CI 3.9 to not estimable). The median follow-up was 16.6 months for PFS and 21.2 months for OS. Median PFS was 5.4 months (95% CI 3.0-8.1) and median OS was 19.0 months (95% CI 11.4 to not estimable). The most common treatment-emergent adverse event (AE) was cytokine release syndrome (48.8%), and all such events were grade 1 or 2. There were no discontinuations due to treatment-related AEs.\n\nCONCLUSIONS: Tarlatamab demonstrated durable responses and promising survival outcomes with a manageable safety profile in this post hoc analysis of patients from Asia with previously treated SCLC.\n\nTRIAL REGISTRATION: ClinicalTrials.gov, NCT05060016."
     },
     {
+      "pmid": "41296193",
+      "doi": "10.1007/s40487-025-00402-x",
+      "title": "Exploratory Analyses of Patient Preferences for Atezolizumab Subcutaneous Versus Intravenous from the IMscin002 Study in Patients with Non-Small Cell Lung Cancer.",
+      "journal": "Oncology and therapy",
+      "pubdate": "2025-11-26T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1007/s40487-025-00402-x",
+      "metric_name": "SJR",
+      "metric_value": 1.33,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41296193/",
+      "url_doi": "https://doi.org/10.1007/s40487-025-00402-x",
+      "abstract": "INTRODUCTION: The primary analysis of IMscin002 (NCT05171777) demonstrated that most patients preferred atezolizumab subcutaneous (SC) administration over intravenous (IV) administration; we report patient preference according to baseline characteristics, mean injection duration, and cumulative number of SC injections at each center from IMscin002.\n\nMETHODS: In this phase 2, randomized, open-label, crossover trial, patients aged ≥18 years, with EGFR/ALK wild-type tumors and either PD-L1+ (≥ 1%) resected non-small cell lung cancer (NSCLC) (stage 2, 3a, or selected 3b; AJCC 8th edition) with prior chemotherapy and no evidence of recurrence, or untreated PD-L1-high (≥ 50%) stage 4 NSCLC were eligible. Patients, randomized 1:1, received atezolizumab IV or SC for three cycles before switching to the alternative formulation for another three cycles. Patients chose a formulation for the continuation period after cycle 6.\n\nPRIMARY ENDPOINT: patient preference for atezolizumab SC/IV.\n\nRESULTS: Among 179 patients randomized, demographics and characteristics were generally balanced between arms. Overall, 87/123 patients (70.7%) preferred atezolizumab SC, of whom 86.2% had a very/fairly strong preference compared with 69.2% of patients who preferred IV (n = 26/123, 21.1%). Patient preference for atezolizumab SC was independent of baseline characteristics and mean injection duration. A higher proportion of preference was seen in patients aged > 74 years (87.5%). A trend for a greater number of patients preferring atezolizumab SC over IV was seen in patients at centers where a higher number of cumulative injections (> 47 to ≤ 164) were administered before preference disclosure.\n\nCONCLUSIONS: Most patients preferred atezolizumab SC regardless of baseline characteristics, mean injection duration, and cumulative number of SC injections. The trend for a stronger preference was higher among patients who preferred SC than those who preferred IV. Our findings suggest that the proportion of preference for atezolizumab SC over IV is highest in patients aged > 74 years, and that administrator's experience could be an important factor influencing patient preference.\n\nCLINICAL TRIAL REGISTRATION NUMBER: NCT05171777."
+    },
+    {
       "pmid": "41275660",
       "doi": "10.1016/j.oraloncology.2025.107791",
       "title": "Subcutaneous amivantamab in recurrent/metastatic head and neck squamous cell cancer after disease progression on checkpoint inhibitor and chemotherapy: Preliminary results from the phase 1b/2 OrigAMI-4 study.",
@@ -386,6 +387,48 @@
       "abstract": null
     },
     {
+      "pmid": "41205892",
+      "doi": "10.1016/j.envpol.2025.127348",
+      "title": "Association of radon exposure with lung cancer: serum biomarkers and computed tomography evidence from male miners.",
+      "journal": "Environmental pollution (Barking, Essex : 1987)",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.envpol.2025.127348",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41205892/",
+      "url_doi": "https://doi.org/10.1016/j.envpol.2025.127348",
+      "abstract": "The objective of this research is to investigate the association between occupational radon exposure and pulmonary health outcomes in male miners from Chongqing, China. Between June 2022 and December 2023, 110 miners were enrolled in this cross-sectional study. Personal radon exposure levels were measured using passive cumulative dosimeters, with pulmonary health assessed through radiologist-interpreted low-dose computed tomography (CT) scans and serum biomarker analysis (CEA, CYFRA21-1, NSE, and CA125) via ELISA. Multivariable analyses revealed strong dose-response relationships between radon exposure and both serum biomarkers and CT abnormalities. high radon exposure predicted substantial biomarker elevations including a 2.45-fold increase in CYFRA21-1 (β = 0.39, 95 % CI 0.25-0.54, p < 0.001), 1.60-fold increase in CEA (β = 0.20, 0.05-0.35, p = 0.008), and 3.58-fold increased CT abnormality risk (OR = 3.58, p = 0.023). Mediation analysis identified CYFRA21-1 as accounting for 69 % (p = 0.024) and CEA for 24.7 % (p = 0.036) of radon's effect on CT abnormalities. These findings demonstrate that occupational radon exposure contributes to pulmonary damage through both direct effects and biomarker-mediated pathways, with CYFRA21-1 and CEA emerging as potential early indicators of lung cancer in radon-exposed populations."
+    },
+    {
+      "pmid": "41192233",
+      "doi": "10.1016/j.ejca.2025.116059",
+      "title": "EORTC 1417 - REACTION: A phase II study of etoposide and cis/carboplatin with or without pembrolizumab in untreated extensive small cell lung cancer.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-12-09T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "entity": "SCLC",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192233/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116059",
+      "abstract": "BACKGROUND: Anti-PD-L1 antibodies with platinum-etoposide extend overall survival (OS) of extensive disease Small Cell Lung Cancer (ED-SCLC) patients. We evaluated the benefit of first-line pembrolizumab with platinum-etoposide in chemo-sensitive ED-SCLC.\n\nMETHODS: REACTION is a multicenter, open-label, randomized phase II trial. Eligible patients (responders after 2 cycles of platinum-etoposide) were randomized 1:1 to experimental arm pembrolizumab in combination with 4 cycles of platinum-etoposide then pembrolizumab vs platinum-etoposide in the control arm. The primary endpoint was progression free survival (PFS). Circulating tumour cells (CTCs) were enumerated and their association with PFS and OS was investigated.\n\nRESULTS: Between Feb 7, 2018 and Oct 31, 2019, 125 patients were recruited (61 vs 64 experimental and control arms respectively) with 119 (58 vs 61) eligible and receiving at least one dose of treatment. Baseline characteristics were median age 65 vs 63.5 years, PS 1 (62 vs 60 %), and brain metastases (8 vs 11 %), in the experimental and control arms respectively. Amongst 124 patients who started treatment, 46 (37 %) experienced adverse events grade ≥ 3 for pembrolizumab arm vs 26 % in the control arm. Response rate was 61 % (67 vs 56 %). Median PFS (95 % CI) was 4.7 months (4.2, 5.6) vs 5.4 (4.7, 5.6), HR (80 % CI) = 0.84 (0.65, 1.09) and 1-sided p = 0.194. Median OS (95 % CI) was 12.3 months (8.9, 14.8) vs 10.4 (8.2, 12.2), HR (80 % CI) = 0.73 (0.54, 1.0) and 1-sided p = 0.097. CTC count per 7.5 ml blood at randomization was associated significantly with both PFS and OS regardless of treatment arms.\n\nCONCLUSIONS: Pembrolizumab added to platinum-etoposide did not improve PFS over platinum-etoposide alone in chemo-sensitive patients with ED."
+    },
+    {
       "pmid": "41286347",
       "doi": "10.1038/s41598-025-29214-9",
       "title": "Modeling the metastatic tumor microenvironment: a co-culture platform of lung cancer and blood vessel organoids for drug evaluation.",
@@ -424,69 +467,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41268710/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2586004",
       "abstract": null
-    },
-    {
-      "pmid": "41274414",
-      "doi": "10.1016/j.jtho.2025.11.012",
-      "title": "Brief Report: Alectinib with salvage platinum-taxane chemotherapy in a pregnant woman with ALK-rearranged NSCLC and rapid disease progression followed by a successful pregnancy.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-11-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41274414/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.11.012",
-      "abstract": "INTRODUCTION: Anaplastic lymphoma kinase (ALK)-rearranged non-small cell lung cancer (NSCLC) is a distinct molecular subtype that disproportionally affects younger never-smoking females, which overlaps with the reproductive age group. Alectinib is a second-generation ALK inhibitor, and is generally considered a safer option during pregnancy compared to lorlatinib. Here, we describe a case of a patient who became pregnant whilst on alectinib complicated by rapid disease progression, with a focus on maternal-fetal outcomes and placental health.\n\nMETHODS: A brief report was conducted detailing clinical management by a multidisciplinary team, pharmacokinetic analysis of alectinib levels, and post-delivery placental examination, including histopathology and mitochondrial respirometry function assessment as an indicator of placental health.\n\nRESULTS: A 29 year-old woman with metastatic ALK-rearranged NSCLC, became pregnant whilst on alectinib therapy. At 24 weeks of gestation, she experienced rapid systemic disease progression manifesting as marantic endocarditis with multi-territory small cerebral infarcts, thrombocytopaenia, an elevated D-dimer and developed two large middle cerebral ischaemic strokes requiring endovascular clot retrieval. Carboplatin and paclitaxel chemotherapy was added to alectinib. The patient responded well to treatment and successfully delivered an infant via elective caesarean section at 34+5 weeks. The patient was switched to lorlatinib plus pemetrexed postpartum. Although she achieved a complete metabolic response with lorlatinib plus pemetrexed, disease progression occurred several months later, and she died 28 months after initial diagnosis. Placental analysis showed features indicative of fetal growth restriction (FGR). Mitochondrial function appeared within normal limits, despite changes in placental morphology. The infant has shown normal development at 9 months of age.\n\nCONCLUSIONS: This is the first reported case of concurrent alectinib and cytotoxic chemotherapy during pregnancy, successfully used in the setting of progressive ALK-rearranged NSCLC. The placental findings align with observations in pregnancies complicated by FGR. This case highlights the potential feasibility and safety of intensification of systemic therapy during pregnancy, and underscores the importance of individualised multi-disciplinary care."
-    },
-    {
-      "pmid": "41259771",
-      "doi": "10.1056/NEJMc2513316",
-      "title": "Neoadjuvant Nivolumab plus Chemotherapy in Lung Cancer. Reply.",
-      "journal": "The New England journal of medicine",
-      "pubdate": "2025-11-20T00:00:00+00:00",
-      "pubtypes": [
-        "Letter",
-        "Comment"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41259771/",
-      "url_doi": "https://doi.org/10.1056/NEJMc2513316",
-      "abstract": null
-    },
-    {
-      "pmid": "41082707",
-      "doi": "10.1200/JCO-25-00036",
-      "title": "Simultaneous Durvalumab and Platinum-Based Chemoradiotherapy in Unresectable Stage III Non-Small Cell Lung Cancer: The Phase III PACIFIC-2 Study.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-11-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "RCT",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1200/jco-25-00036",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41082707/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-00036",
-      "abstract": "PURPOSE: Immunotherapy targeting PD-L1 improves outcomes in patients with unresectable stage III non-small cell lung cancer (NSCLC) and no progression after definitive, concurrent chemoradiotherapy (cCRT). Earlier administration of immunotherapy, simultaneously with cCRT, may improve outcomes further.\n\nMETHODS: Eligible patients were randomly assigned (2:1) to receive either durvalumab or placebo administered from the start of cCRT. Patients without progression after completing cCRT received consolidation durvalumab or placebo (per initial random assignment) until progression. The primary end point was progression-free survival (PFS) by blinded independent central review. Key secondary end points included objective response rate (ORR), overall survival (OS), the proportion of patients alive at 24 months (OS24), and safety.\n\nRESULTS: In total, 328 patients were randomly assigned to receive durvalumab (n = 219) or placebo (n = 109). There was no statistically significant difference with durvalumab versus placebo in PFS (hazard ratio [HR], 0.85 [95% CI, 0.65 to 1.12];\n\nCONCLUSION: Among patients with unresectable stage III NSCLC, durvalumab administered from the start of cCRT failed to demonstrate additional benefit compared with cCRT plus placebo. Consolidation durvalumab following definitive cCRT remains the standard of care in this setting."
     }
   ]
 }
