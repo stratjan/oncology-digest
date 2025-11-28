@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-27T05:18:25.462489Z",
+  "generated": "2025-11-28T05:19:39.685625Z",
   "items": [
     {
       "pmid": "41296331",
@@ -236,7 +236,7 @@
       "trial_type": null,
       "study_class": "Preclinical",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1007/s40487-025-00402-x",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s40487-025-00402-x.pdf",
       "metric_name": "SJR",
       "metric_value": 1.33,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41296193/",
@@ -429,6 +429,111 @@
       "abstract": "BACKGROUND: Anti-PD-L1 antibodies with platinum-etoposide extend overall survival (OS) of extensive disease Small Cell Lung Cancer (ED-SCLC) patients. We evaluated the benefit of first-line pembrolizumab with platinum-etoposide in chemo-sensitive ED-SCLC.\n\nMETHODS: REACTION is a multicenter, open-label, randomized phase II trial. Eligible patients (responders after 2 cycles of platinum-etoposide) were randomized 1:1 to experimental arm pembrolizumab in combination with 4 cycles of platinum-etoposide then pembrolizumab vs platinum-etoposide in the control arm. The primary endpoint was progression free survival (PFS). Circulating tumour cells (CTCs) were enumerated and their association with PFS and OS was investigated.\n\nRESULTS: Between Feb 7, 2018 and Oct 31, 2019, 125 patients were recruited (61 vs 64 experimental and control arms respectively) with 119 (58 vs 61) eligible and receiving at least one dose of treatment. Baseline characteristics were median age 65 vs 63.5 years, PS 1 (62 vs 60 %), and brain metastases (8 vs 11 %), in the experimental and control arms respectively. Amongst 124 patients who started treatment, 46 (37 %) experienced adverse events grade ≥ 3 for pembrolizumab arm vs 26 % in the control arm. Response rate was 61 % (67 vs 56 %). Median PFS (95 % CI) was 4.7 months (4.2, 5.6) vs 5.4 (4.7, 5.6), HR (80 % CI) = 0.84 (0.65, 1.09) and 1-sided p = 0.194. Median OS (95 % CI) was 12.3 months (8.9, 14.8) vs 10.4 (8.2, 12.2), HR (80 % CI) = 0.73 (0.54, 1.0) and 1-sided p = 0.097. CTC count per 7.5 ml blood at randomization was associated significantly with both PFS and OS regardless of treatment arms.\n\nCONCLUSIONS: Pembrolizumab added to platinum-etoposide did not improve PFS over platinum-etoposide alone in chemo-sensitive patients with ED."
     },
     {
+      "pmid": "41232543",
+      "doi": "10.1016/S1470-2045(25)00537-6",
+      "title": "Defining eligibility for lung cancer screening based on individual risk.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41232543/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00537-6",
+      "abstract": null
+    },
+    {
+      "pmid": "41232542",
+      "doi": "10.1016/S1470-2045(25)00490-5",
+      "title": "Effectiveness of NELSON versus PLCOm2012 lung cancer screening eligibility criteria in Germany (HANSE): a prospective cohort study.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Prospective (non-RCT)",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/s1470-2045(25)00490-5",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41232542/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00490-5",
+      "abstract": "BACKGROUND: Low-dose chest CT screening can reduce lung cancer mortality through early diagnosis. Several studies suggest that risk prediction models are more efficient than categorical age and smoking criteria for participant selection, but there are still reservations from policy makers about their implementation. We aimed to compare the effectiveness of a predefined PLCOm2012 model threshold with the categorical NELSON risk criteria.\n\nMETHODS: In this ongoing prospective cohort study, current or former smokers aged 55-79 years who met either NELSON risk criteria or had a PLCOm2012 6-year risk of at least 1·58% were recruited from three certified German lung cancer centres in Großhansdorf, Hannover, and Lübeck, and received low-dose CT at baseline and 1-year follow-up screening rounds, including all downstream follow-up procedures. The PLCOm2012 cutoff point of at least 1·58% was predefined and estimated to result in an equal group size as with the NELSON inclusion criteria. The primary outcome was the comparison of the positive predictive values for lung cancers detected in PLCOm2012-selected versus NELSON-selected groups. Here, we report the final results of the primary analysis. This study is registered with ClinicalTrials.gov, NCT04913155.\n\nFINDINGS: Between July 23, 2021, and Aug 19, 2022 (end of recruitment), 5191 participants (2208 [43·5%] female, 2983 [57·5%] male, and 5076 [97·8%] of European White ethnicity) who met either one or both high-risk criteria were enrolled (4167 PLCOm2012-selected vs 3916 NELSON-selected participants) and underwent the baseline low-dose CT scan. In the observation period between the two low-dose CT screening rounds (mean volume CT dose index 1·15 mGy [SD 0·15]) with a median time interval of 1·05 years (IQR 0·95-1·08), 111 lung cancers were detected. The positive predictive value (lung cancer detection rate) in the PLCOm2012-selected group was 108 of 4167 participants (2·59% [95% CI 2·13-3·12]) compared with 85 of 3916 participants (2·17% [1·74-2·68]) in the NELSON-selected group (p=0·0016), resulting in a lower number needed to screen (38·6 [32·1-46·9] vs 46·1 [37·3-57·5]).\n\nINTERPRETATION: Participant selection using the PLCOm2012 risk prediction model with a 6-year risk of at least 1·58% cutoff is more efficient and effective in detecting lung cancer than the NELSON criteria and should therefore be implemented in lung cancer screening programmes.\n\nFUNDING: Federal Ministry of Education and Research (German Center for Lung Research) and AstraZeneca."
+    },
+    {
+      "pmid": "41033335",
+      "doi": "10.1016/S2213-2600(25)00240-1",
+      "title": "Durvalumab, carboplatin, and etoposide in patients who are treatment-naive with extensive-stage small-cell lung cancer and poor performance status (NEJ045A): a single-arm phase 2 trial.",
+      "journal": "The Lancet. Respiratory medicine",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41033335/",
+      "url_doi": "https://doi.org/10.1016/S2213-2600(25)00240-1",
+      "abstract": "BACKGROUND: Treating patients with extensive-stage small-cell lung cancer (SCLC) with poor performance status poses considerable challenges. We aimed to evaluate the combination of an immune checkpoint inhibitor with platinum-based therapy in this population.\n\nMETHODS: This open-label, single-arm phase 2 NEJ045A trial enrolled untreated patients with extensive-stage SCLC with performance status 2 or 3. Participants received four cycles of durvalumab, carboplatin, and etoposide, followed by durvalumab maintenance. A dose adjustment strategy was used, with initial reductions in carboplatin-etoposide dosages, subsequently adjusted based on adverse events, allowing for potential escalation. The primary endpoint was tolerability, assessed by the proportion of patients completing induction therapy. A key secondary endpoint was 1-year survival rate. This trial is registered at the Japan Registry of Clinical Trials (jRCTs031200319) and has been completed.\n\nFINDINGS: Between April 8, 2021, and Oct 3, 2023, 57 patients (performance status 2 n=43 and performance status 3 n=14) were enrolled with a median age of 73·5 years (IQR 69·0-77·5), 44 (79%) of 56 were male. 26 (67%; 80% CI 55·2-76·7; p<0·0001) of 39 patients with performance status 2 and five (50%; 26·7-73·3; p=0·0088) of ten with performance status 3 completed induction therapy, exceeding the pre-specified threshold. Grade 3 or higher adverse events occurred in 52 (93%) of 56 patients, and 12 (21%) of 56 discontinued due to adverse events. The 1-year survival rates were 43·4% (80% CI 34·1-53·1) overall (p<0·0001), 50·0% (39·1-60·9) in performance status 2 (p<0·0001), and 18·2% (5·0-41·5) in performance status 3.\n\nINTERPRETATION: Durvalumab, carboplatin, and etoposide showed tolerability and promising efficacy as a first-line treatment for patients with untreated extensive-stage SCLC with poor performance status, supporting the integration of immune checkpoint inhibitors in this therapeutically challenging population.\n\nFUNDING: AstraZeneca KK."
+    },
+    {
+      "pmid": "40983066",
+      "doi": "10.1016/S2213-2600(25)00209-7",
+      "title": "Retifanlimab versus placebo in combination with platinum-based chemotherapy in patients with first-line non-squamous or squamous metastatic non-small-cell lung cancer (POD1UM-304): a phase 3, multiregional, placebo-controlled, double-blind, randomised study.",
+      "journal": "The Lancet. Respiratory medicine",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40983066/",
+      "url_doi": "https://doi.org/10.1016/S2213-2600(25)00209-7",
+      "abstract": "BACKGROUND: Checkpoint inhibitors, including combinations with standard-of-care chemotherapy, have shown survival benefit in patients with metastatic non-small-cell lung cancer (NSCLC); however, access to these drugs varies. We aimed to evaluate the efficacy of the PD-1 inhibitor retifanlimab plus platinum-based chemotherapy as first-line treatment for non-squamous or squamous metastatic NSCLC.\n\nMETHODS: POD1UM-304 was a phase 3, multiregional, placebo-controlled, double-blind, randomised study conducted in approximately 124 hospitals and private clinical centres in 16 countries. Male and female adults aged 18 years or older with squamous or non-squamous stage IV NSCLC (staging by American Joint Committee on Cancer version 8) with Eastern Cooperative Oncology Group performance status 0 or 1 and no previous systemic therapy for metastatic NSCLC were eligible. Patients were randomly assigned (2:1) using interactive response technology to receive intravenous retifanlimab 375 mg or matching placebo on day 1 of each 21-day cycle plus standard platinum-based chemotherapy according to tumour histology for up to 2 years. Patients with non-squamous NSCLC received pemetrexed 500 mg/m\n\nFINDINGS: Between Sept 11, 2020, and March 14, 2023, 1388 patients were assessed for eligibility, 583 of whom were randomly assigned to retifanlimab plus chemotherapy (n=391) or placebo plus chemotherapy (n=192). 381 (65%) patients had non-squamous NSCLC and 202 (35%) had squamous NSCLC; 467 (80%) patients were male and 116 (20%) were female. Median age was 64 years (IQR 58-68). Median overall survival was longer in the retifanlimab plus chemotherapy group than in the placebo plus chemotherapy group (18·1 months [95% CI 16·2-21·0] vs 13·4 months [11·0-16·7]; hazard ratio 0·75 [95% CI 0·60-0·93]; p=0·0042). Overall, higher incidences of treatment-emergent adverse events that were serious (158 [41%] of 389 vs 57 [30%] of 190), grade 3 or worse (238 [61%] vs 103 [54%]), or led to retifanlimab or placebo dose delay (169 [43%] vs 67 [35%]) or discontinuation (33 [8%] vs nine [5%]) were observed in the retifanlimab plus chemotherapy group than in the placebo plus chemotherapy group. The proportions of fatal COVID-19-related treatment-emergent adverse events were similar in the retifanlimab plus chemotherapy group and the placebo plus chemotherapy group (four [1%] vs five [3%]).\n\nINTERPRETATION: Retifanlimab improved overall survival compared with placebo when added to platinum-based chemotherapy, with a safety profile that is representative of previous PD-1 and PD-L1 inhibitor-chemotherapy combinations. Adding retifanlimab to first-line chemotherapy could be a potential treatment option for patients with squamous or non-squamous metastatic NSCLC.\n\nFUNDING: Incyte."
+    },
+    {
+      "pmid": "41307293",
+      "doi": "10.1002/14651858.CD004143.pub6",
+      "title": "Long-term hormone therapy for perimenopausal and postmenopausal women.",
+      "journal": "The Cochrane database of systematic reviews",
+      "pubdate": "2025-11-27T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "entity": "Other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41307293/",
+      "url_doi": "https://doi.org/10.1002/14651858.CD004143.pub6",
+      "abstract": "BACKGROUND: Hormone therapy is widely provided to control menopausal symptoms and has been used for the management and prevention of cardiovascular disease, osteoporosis and dementia in older women. This is an updated version of a Cochrane review first published in 2005.\n\nOBJECTIVES: To assess the long-term effects of prolonged use (at least one year) of hormone therapy on mortality, cardiovascular outcomes, cancer, gallbladder disease, fractures and cognition in perimenopausal and postmenopausal women.\n\nSEARCH METHODS: We used the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, three other databases and two trial registers, together with reference checking, citation searching and contact with study authors to identify the studies included in the review. The latest search date was 26 September 2024.\n\nSELECTION CRITERIA: We included randomised, double-blind trials in which peri- or postmenopausal women took hormone therapy or placebo for at least one year. We included various oestrogen formulations, with or without progestogens. We focused on studies assessing hormone therapy's effects on long-term clinical outcomes, including death, coronary events and cancer. Hormone therapy's efficacy in managing menopausal symptoms was beyond the scope of this review, and is assessed in other Cochrane reviews.\n\nDATA COLLECTION AND ANALYSIS: Two review authors independently selected studies, assessed risk of bias and extracted data. We calculated risk ratios (RRs) for dichotomous data and mean differences (MDs) for continuous data, along with 95% confidence intervals (CIs). We assessed the certainty of the evidence using GRADE.\n\nMAIN RESULTS: We included 24 studies - with two newly added in this update - involving 45,660 participants. We derived nearly 70% of the data from two well-conducted studies: the Heart and Estrogen/progestin Replacement Study (HERS 1998) and the large, multi-component Women's Health Initiative research programme, which included two hormone therapy arms (WHI 1998). Across all the studies, most participants were postmenopausal American women with one or more comorbidities. The mean participant age in most studies was over 60 years. Only one included study focused on perimenopausal women. We present full results for all included studies with available data in the main review. The results presented below are drawn from WHI 1998, in which the combined hormone therapy arm and the oestrogen-only arm were run concurrently, with women assigned to the appropriate trial based on their uterus status. One study with 16,608 postmenopausal women with an intact uterus compared combined continuous hormone therapy (conjugated equine oestrogen and medroxyprogesterone acetate) to placebo, and measured outcomes at an average of 5.6 years of follow-up. Based on this study, combined continuous hormone therapy probably makes little to no difference to the risk of a coronary event (RR 1.17, 95% CI 0.95 to 1.44; moderate-certainty evidence). It may increase the risk of stroke (RR 1.39, 95% CI 1.09 to 2.09; low-certainty evidence) and venous thromboembolism (RR 2.03, 95% CI 1.55 to 6.64; low-certainty evidence). Compared to placebo, combined continuous hormone therapy probably increases the risk of breast cancer (RR 1.27, 95% CI 1.03 to 1.56; moderate-certainty evidence) and probably makes little to no difference to the risk of lung cancer (RR 1.06, 95% CI 0.77 to 1.46; moderate-certainty evidence). It may increase gallbladder disease requiring surgery (RR 1.64, 95% CI 1.30 to 2.06; 14,203 participants; low-certainty evidence), and probably reduces the risk of all clinical fractures (RR 0.78, 95% CI 0.71 to 0.86; moderate-certainty evidence). One study including 10,739 postmenopausal women who had undergone a hysterectomy compared oestrogen-only (conjugated equine oestrogen) hormone therapy to placebo, and measured outcomes at an average of seven years' follow-up. Based on this study, oestrogen-only hormone therapy probably makes little to no difference to the risk of coronary events (RR 0.94, 95% CI 0.78 to 1.13), venous thromboembolism (RR 1.32, 95% CI 1.00 to 1.74) and breast cancer (RR 0.79, 95% CI 0.61 to 1.01), all with moderate-certainty evidence. It may make little to no difference to the risk of lung cancer (RR 1.04, 95% CI 0.73 to 1.48; low-certainty evidence). Oestrogen-only hormone therapy probably increases the risk of stroke (RR 1.33, 95% CI 1.06 to 1.67) and gallbladder disease requiring surgery (RR 1.78, 95% CI 1.42 to 2.24), and probably reduces the risk of all clinical fractures (RR 0.73, 95% CI 0.65 to 0.80), all with moderate-certainty evidence. We judged most included studies to have a low risk of bias for most domains. The overall certainty of evidence for the main comparisons was moderate. The main limitation was that only about 30% of women were 50 to 59 years old at baseline, the age group most likely to consider hormone therapy for vasomotor symptoms.\n\nAUTHORS' CONCLUSIONS: Long-term follow-up of women using hormone therapy suggests that the risk profiles vary between combined hormone therapy and oestrogen-only therapy. Oestrogen-only hormone therapy probably makes little to no difference to coronary events, and probably increases the risk of stroke and gallbladder disease. It probably makes little to no difference in the risk of breast cancer, and probably reduces the risk of all fractures. Combined hormone therapy may increase the risk of thromboembolism and probably increases the risk of breast cancer. These results should be interpreted with caution as they are based on one study using oral hormone therapy, which may not represent the risks of the hormone therapy currently used in clinical practice."
+    },
+    {
       "pmid": "41286347",
       "doi": "10.1038/s41598-025-29214-9",
       "title": "Modeling the metastatic tumor microenvironment: a co-culture platform of lung cancer and blood vessel organoids for drug evaluation.",
@@ -449,24 +554,24 @@
       "abstract": "Tumor cell-vasculature interactions play a crucial role in lung cancer progression and metastasis; however, traditional cell culture models rarely capture these complex dynamics. We developed a vascularized lung cancer organoid (VLCO) model by coculturing lung cancer organoids (LCOs) with blood vessel organoids (BVOs) to recreate the tumor-vasculature niche in a three-dimensional in vitro system. During coculture, LCOs migrated along BVO-formed vascular networks and invaded vessel-like structures, mimicking intravasation. The organoid types interacted via secretory factors, including TGF-β and PDGF-BB, inducing epithelial-mesenchymal transition (EMT) in LCOs and pericyte-to-fibroblast transition in BVOs. We also developed a scalable drug response assay for vasculature-induced EMT, enabling targeted therapeutic screening. The VLCO model provides a robust platform for studying tumor-endothelial crosstalk and testing antimetastatic therapies targeting tumor-vasculature interactions."
     },
     {
-      "pmid": "41268710",
-      "doi": "10.1080/14796694.2025.2586004",
-      "title": "Datopotamab deruxtecan versus docetaxel for non-small cell lung cancer: a plain language summary of the TROPION-Lung01 study.",
-      "journal": "Future oncology (London, England)",
-      "pubdate": "2025-11-21T00:00:00+00:00",
+      "pmid": "41297351",
+      "doi": "10.1016/j.lungcan.2025.108853",
+      "title": "AXL expression to predict resistance to immunotherapy in metastatic non-small cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-11-22T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(25)00745-7/pdf",
       "metric_name": null,
       "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41268710/",
-      "url_doi": "https://doi.org/10.1080/14796694.2025.2586004",
-      "abstract": null
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41297351/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108853",
+      "abstract": "BACKGROUND: Non-small cell lung cancer (NSCLC) remains a major therapeutic challenge. While PD-1/PD-L1 immunotherapies have improved outcomes, predictive biomarkers are limited. AXL, a receptor tyrosine kinase associated with poor prognosis, may impact treatment response. This study evaluates AXL expression and clinical outcomes in advanced NSCLC patients treated with immunotherapy or chemotherapy.\n\nMETHODS: This retrospective study included 89 metastatic NSCLC patients treated at the University Hospital of Reims (2015-2023) with either anti-PD-1 therapy or chemotherapy. Clinical data and outcomes-progression-free survival (PFS) and overall survival (OS)-were analyzed. AXL expression was assessed by immunohistochemistry, and propensity score matching adjusted for prognostic variables.\n\nRESULTS: AXL-positive tumors were associated with shorter PFS (4.3 vs. 5.3 months, p = 0.044). Immunotherapy improved PFS (7.6 vs. 4.4 months, p = 0.006) and response rate (48 % vs. 22 %) compared to chemotherapy. However, AXL-positive patients derived less benefit from immunotherapy; IO-treated AXL-negative patients had significantly better PFS (p = 0.003) and OS (p = 0.018). Multivariate analysis identified AXL as an independent factor for poorer PFS (HR 4.15, p = 0.013) and OS (HR 5.634, p = 0.004). KRAS and STK11 mutations were more frequent in AXL-positive tumors.\n\nCONCLUSIONS: AXL expression is associated with reduced immunotherapy efficacy in NSCLC and may serve as a predictive biomarker and therapeutic target."
     }
   ]
 }
