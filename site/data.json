@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-28T05:19:39.685625Z",
+  "generated": "2025-11-29T05:16:46.973632Z",
   "items": [
     {
       "pmid": "41296331",
@@ -244,26 +244,6 @@
       "abstract": "INTRODUCTION: The primary analysis of IMscin002 (NCT05171777) demonstrated that most patients preferred atezolizumab subcutaneous (SC) administration over intravenous (IV) administration; we report patient preference according to baseline characteristics, mean injection duration, and cumulative number of SC injections at each center from IMscin002.\n\nMETHODS: In this phase 2, randomized, open-label, crossover trial, patients aged ≥18 years, with EGFR/ALK wild-type tumors and either PD-L1+ (≥ 1%) resected non-small cell lung cancer (NSCLC) (stage 2, 3a, or selected 3b; AJCC 8th edition) with prior chemotherapy and no evidence of recurrence, or untreated PD-L1-high (≥ 50%) stage 4 NSCLC were eligible. Patients, randomized 1:1, received atezolizumab IV or SC for three cycles before switching to the alternative formulation for another three cycles. Patients chose a formulation for the continuation period after cycle 6.\n\nPRIMARY ENDPOINT: patient preference for atezolizumab SC/IV.\n\nRESULTS: Among 179 patients randomized, demographics and characteristics were generally balanced between arms. Overall, 87/123 patients (70.7%) preferred atezolizumab SC, of whom 86.2% had a very/fairly strong preference compared with 69.2% of patients who preferred IV (n = 26/123, 21.1%). Patient preference for atezolizumab SC was independent of baseline characteristics and mean injection duration. A higher proportion of preference was seen in patients aged > 74 years (87.5%). A trend for a greater number of patients preferring atezolizumab SC over IV was seen in patients at centers where a higher number of cumulative injections (> 47 to ≤ 164) were administered before preference disclosure.\n\nCONCLUSIONS: Most patients preferred atezolizumab SC regardless of baseline characteristics, mean injection duration, and cumulative number of SC injections. The trend for a stronger preference was higher among patients who preferred SC than those who preferred IV. Our findings suggest that the proportion of preference for atezolizumab SC over IV is highest in patients aged > 74 years, and that administrator's experience could be an important factor influencing patient preference.\n\nCLINICAL TRIAL REGISTRATION NUMBER: NCT05171777."
     },
     {
-      "pmid": "41275660",
-      "doi": "10.1016/j.oraloncology.2025.107791",
-      "title": "Subcutaneous amivantamab in recurrent/metastatic head and neck squamous cell cancer after disease progression on checkpoint inhibitor and chemotherapy: Preliminary results from the phase 1b/2 OrigAMI-4 study.",
-      "journal": "Oral oncology",
-      "pubdate": "2025-11-22T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.oraloncology.2025.107791",
-      "metric_name": "SJR",
-      "metric_value": 1.326,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41275660/",
-      "url_doi": "https://doi.org/10.1016/j.oraloncology.2025.107791",
-      "abstract": "Overexpression of EGFR and MET occurs in a high proportion of recurrent and/or metastatic (R/M) head and neck squamous cell carcinoma (HNSCC). Amivantamab, an EGFR-MET bispecific antibody with immune-cell directing activity, is approved in EGFR-mutated advanced non-small cell lung cancer and is being evaluated in phase 3 trials for other solid tumors. Cohort 1 of OrigAMI-4 (NCT06385080) enrolled adult participants with human papillomavirus-unrelated R/M HNSCC with disease progression on/after prior checkpoint inhibitor and platinum-based chemotherapy. Subcutaneous amivantamab was administered at 1600 mg (2240 mg for ≥ 80 kg body weight) on Cycle 1 Day 1 and 2400 mg (3360 mg for ≥ 80 kg body weight) thereafter. Primary end point was investigator-assessed objective response rate (ORR). As of July 1, 2025 (median follow-up, 3.5 months [range, 0-13.4]), 86 participants (median age, 63.5 years; 45 % Asian; 43 % White) received ≥ 1 dose of subcutaneous amivantamab. Subcutaneous amivantamab was well tolerated. Administration-related reactions were reported in 7 % (n = 6/86) of participants; no new safety signals were observed. In the efficacy population (n = 38; median follow-up, 8.3 months [range, 1.1-13.4]), confirmed ORR was 45 % (95 % CI, 29 %-62 %), median time to first response was 6.4 weeks (range, 5.7-18.3), and median duration of response was 7.2 months (95 % CI, 5.3-NE). The clinical benefit rate (responder or durable stable disease) was 76 % (95 % CI, 60 %-89 %). Median progression-free survival was 6.8 months (95 % CI, 4.2-9.0). Subcutaneous amivantamab as second-/third-line treatment among participants with R/M HNSCC demonstrated rapid and durable antitumor activity. The safety profile of subcutaneous amivantamab was consistent with previous studies."
-    },
-    {
       "pmid": "41116141",
       "doi": "10.1007/s12325-025-03365-7",
       "title": "A Time and Motion Study Comparing Subcutaneous Pembrolizumab Versus Intravenous Pembrolizumab in Combination with Chemotherapy for the Treatment of Metastatic Non-small Cell Lung Cancer.",
@@ -345,26 +325,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41108995/",
       "url_doi": "https://doi.org/10.1016/j.suronc.2025.102309",
       "abstract": "BACKGROUND: Accurate staging of mediastinal lymph nodes in patients with non-small-cell lung cancer (NSCLC) is essential to determine further management. Current guidelines recommend confirmatory mediastinoscopy for patients with suspicious mediastinal lymph node metastases in image-based staging but negative findings on endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA). In clinical practice, adherence to these recommendations is low and many physicians omit invasive surgical staging. This study aimed to assess the results of subsequent video-assisted mediastinoscopic lymphadenectomy (VAMLA).\n\nMETHODS: Retrospective single-center cohort analysis of patients who underwent surgery between 2015 and 2019. All patients were diagnosed with potentially resectable lung cancer or FDG-avid pulmonary nodule suspicious for NSCLC and underwent VAMLA following N0-N2 EBUS-TBNA for mediastinal staging.\n\nRESULTS: VAMLA was performed in 228 patients. Nodal upstaging after EBUS-TBNA occurred in 17.5 % of the cases (n = 40). During EBUS-TBNA, 1.72 (±1.06) lymph node stations were sampled, compared to 5.59 (±1.1) resected stations in VAMLA (p < 0.001). Clinical nodal status staged by PET/CT was significantly correlated with the occurrence of nodal upstaging by VAMLA, with an odds ratio of 7.69 in cN2 and 5.88 in patients with cN3, compared to cN0. Complications occurred in 8 patients (3.59 %). VAMLA was false negative in 1 patient (0.4 %).\n\nCONCLUSION: Subsequent VAMLA enables the accurate staging of patients after negative EBUS-TBNA. Overall, 17.5 % of cases had nodal upstaging and would otherwise not have received guideline-compliant treatment for NSCLC. These results underline the role of surgical mediastinal staging after negative EBUS-TBNA in patients with suspicious radiologic findings."
-    },
-    {
-      "pmid": "41275531",
-      "doi": "10.1016/j.resinv.2025.11.011",
-      "title": "Incidence and clinical features of venous thromboembolism in patients with lung cancer in Japan: results from the CS-Lung-003 prospective observational registry study.",
-      "journal": "Respiratory investigation",
-      "pubdate": "2025-11-22T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Prospective (non-RCT)",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.resinv.2025.11.011",
-      "metric_name": "SJR",
-      "metric_value": 0.584,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41275531/",
-      "url_doi": "https://doi.org/10.1016/j.resinv.2025.11.011",
-      "abstract": "BACKGROUND: Venous thromboembolism (VTE) is a frequent complication of cancer-associated thrombosis, and its management is critical when considering cancer treatment selection and prognosis. The aim of this study was to investigate the incidence and risk factors for VTE in patients with lung cancer using the CS-Lung003 platform, a multicenter prospective observational study of advanced lung cancer.\n\nMETHODS: Patients with a pathologic diagnosis of lung cancer at any stage were included. The incidence of VTE was calculated using the CS-Lung003 database, and risk factors were examined using logistic regression analysis.\n\nRESULTS: The analysis included 1744 patients (80 % male). Sixty patients (3.4 %) had VTE at/after enrollment in the CS-Lung003 trial. The median age was 69 years (range 63-76) in the group without VTE and 72 years (range 67-77) in the group with VTE. Adenocarcinoma was diagnosed in 58.7 % of patients in the group without VTE and 46.7 % in the group with VTE. Univariate analysis revealed male sex, body weight, and hypertension as risk factors for VTE. Overall survival was 29.1 months in the group without VTE and 30.6 months in the group with VTE. Among patients with stage IIIB-IV, the VTE group showed significantly longer overall survival compared with the non-VTE group (p = 0.041).\n\nCONCLUSIONS: The incidence of VTE in this study was low, suggesting that there may have been patients with VTE complications that were not reported in the registry. In addition, most patients with VTE received therapeutic intervention; appropriate diagnosis and treatment may have allowed cancer treatment to continue. Appropriate diagnosis and treatment of VTE might allow lung cancer therapy continuation without compromising survival.\n\nCLINICAL TRIAL REGISTRY/REGISTRATION NUMBER: UMIN-CTR/UMIN000026696."
     },
     {
       "pmid": "41217067",
@@ -552,26 +512,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41286347/",
       "url_doi": "https://doi.org/10.1038/s41598-025-29214-9",
       "abstract": "Tumor cell-vasculature interactions play a crucial role in lung cancer progression and metastasis; however, traditional cell culture models rarely capture these complex dynamics. We developed a vascularized lung cancer organoid (VLCO) model by coculturing lung cancer organoids (LCOs) with blood vessel organoids (BVOs) to recreate the tumor-vasculature niche in a three-dimensional in vitro system. During coculture, LCOs migrated along BVO-formed vascular networks and invaded vessel-like structures, mimicking intravasation. The organoid types interacted via secretory factors, including TGF-β and PDGF-BB, inducing epithelial-mesenchymal transition (EMT) in LCOs and pericyte-to-fibroblast transition in BVOs. We also developed a scalable drug response assay for vasculature-induced EMT, enabling targeted therapeutic screening. The VLCO model provides a robust platform for studying tumor-endothelial crosstalk and testing antimetastatic therapies targeting tumor-vasculature interactions."
-    },
-    {
-      "pmid": "41297351",
-      "doi": "10.1016/j.lungcan.2025.108853",
-      "title": "AXL expression to predict resistance to immunotherapy in metastatic non-small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-11-22T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(25)00745-7/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41297351/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108853",
-      "abstract": "BACKGROUND: Non-small cell lung cancer (NSCLC) remains a major therapeutic challenge. While PD-1/PD-L1 immunotherapies have improved outcomes, predictive biomarkers are limited. AXL, a receptor tyrosine kinase associated with poor prognosis, may impact treatment response. This study evaluates AXL expression and clinical outcomes in advanced NSCLC patients treated with immunotherapy or chemotherapy.\n\nMETHODS: This retrospective study included 89 metastatic NSCLC patients treated at the University Hospital of Reims (2015-2023) with either anti-PD-1 therapy or chemotherapy. Clinical data and outcomes-progression-free survival (PFS) and overall survival (OS)-were analyzed. AXL expression was assessed by immunohistochemistry, and propensity score matching adjusted for prognostic variables.\n\nRESULTS: AXL-positive tumors were associated with shorter PFS (4.3 vs. 5.3 months, p = 0.044). Immunotherapy improved PFS (7.6 vs. 4.4 months, p = 0.006) and response rate (48 % vs. 22 %) compared to chemotherapy. However, AXL-positive patients derived less benefit from immunotherapy; IO-treated AXL-negative patients had significantly better PFS (p = 0.003) and OS (p = 0.018). Multivariate analysis identified AXL as an independent factor for poorer PFS (HR 4.15, p = 0.013) and OS (HR 5.634, p = 0.004). KRAS and STK11 mutations were more frequent in AXL-positive tumors.\n\nCONCLUSIONS: AXL expression is associated with reduced immunotherapy efficacy in NSCLC and may serve as a predictive biomarker and therapeutic target."
     }
   ]
 }
