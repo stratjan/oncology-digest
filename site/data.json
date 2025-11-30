@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-29T05:16:46.973632Z",
+  "generated": "2025-11-30T05:17:15.083151Z",
   "items": [
     {
       "pmid": "41296331",
@@ -20,6 +20,67 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41296331/",
       "url_doi": "https://doi.org/10.1001/jamaoncol.2025.5097",
       "abstract": "IMPORTANCE: ROS1 rearrangement is rare but is an attractive therapeutic target in advanced non-small cell lung cancer (NSCLC). Crizotinib, entrectinib, and repotrectinib have been approved by the US Food and Drug Administration for treatment of ROS1-positive NSCLC. Lorlatinib, a brain-penetrant, third-generation tyrosine kinase inhibitor (TKI), targets ROS1 and ALK; however, its efficacy and safety for patients with advanced ROS1-positive remains unknown.\n\nOBJECTIVE: To evaluate the efficacy and safety of lorlatinib for patients with advanced ROS1-positive NSCLC never treated with any TKI.\n\nDESIGN, SETTING, AND PARTICIPANTS: This multicenter phase 2 nonrandomized clinical trial enrolled patients with advanced ROS1-positive NSCLC who were TKI-naive with an Eastern Cooperative Oncology Group performance status of 2 or less, and 1 or no prior platinum-based chemotherapy. Participants were recruited from June 2019 to April 2023 and followed up through August 2024. Data analysis was performed from April 5 to August 30, 2025.\n\nINTERVENTIONS: Lorlatinib, 100 mg daily, was administered until disease progression, toxic effects, consent withdrawal, or death.\n\nMAIN OUTCOMES AND MEASURES: Objective response rate (ORR). Secondary end points were progression-free survival (PFS), overall survival, and safety.\n\nRESULTS: The analysis included 32 patients (mean [IQR] age, 59 [11] years; 20 female [63%] and 12 male [37%] individuals), all of whom had adenocarcinoma histologic findings. There were 21 patients (66%) who were treatment-naive, and 11 (34%) who had prior chemotherapy. The median (SD) follow-up duration was 22.1 (15.4-46.8) months; ORR was 73% (95% CI, 56%-86%; 22 of 30 patients), and disease control rate was 90% (95% CI, 74%-97%; 27 of 30 patients). Median (IQR) PFS was 53.6 (95% CI, 27.8-79.5) months, and overall survival was not reached. For treatment-naive vs previously treated patients, the ORR was 90% vs 60%, and PFS was not reached vs 35.8 months. Grade 3 to 4 adverse effects were hypertriglyceridemia (5 patients [16%]) and hypercholesterolemia (8 patients [25%]). No treatment-related deaths occurred.\n\nCONCLUSIONS AND RELEVANCE: In this nonrandomized clinical trial, lorlatinib demonstrated durable efficacy and manageable safety in TKI-naive advanced ROS1-positive NSCLC, supporting the potential for using lorlatinib in earlier treatment settings.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03612154."
+    },
+    {
+      "pmid": "41314982",
+      "doi": "10.1136/jitc-2025-013237",
+      "title": "Immune-modulating effects on tumor-draining lymph nodes of neoadjuvant chemoradiotherapy combined with dual immunotherapy in patients with T3-4N0-2 NSCLC.",
+      "journal": "Journal for immunotherapy of cancer",
+      "pubdate": "2025-11-28T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1136/jitc-2025-013237",
+      "metric_name": "SJR",
+      "metric_value": 4.22,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41314982/",
+      "url_doi": "https://doi.org/10.1136/jitc-2025-013237",
+      "abstract": "BACKGROUND: Tumor-draining lymph nodes (TDLN) play a key role in inducing and promoting antitumor immunity. TDLN are commonly situated near the primary tumor and are therefore often exposed to therapeutic radiation. The impact of induction therapies comprising concurrent immunotherapy and radiation on TDLN is poorly understood. We studied the immune-modulating effects in TDLN of patients with T3-4N0-2 non-small cell lung cancer (NSCLC) using a combination of spatial transcriptomics and immunohistochemical analyses.\n\nMETHODS: This observational cohort study collected TDLN from 2 groups: (1) patients from the INCREASE trial who were treated with neoadjuvant ipilimumab/nivolumab (IPI/NIVO) plus chemoradiotherapy (CRT) (n=25) and (2) a matched control cohort of patients with NSCLC who had neoadjuvant CRT only (n=25). TDLN were classified based on the cumulative dose of radiation received, categorized as low (≤5 Gy), intermediate (20-30 Gy), or high dose (50-60 Gy). The TDLN were subjected to duplex immunohistochemistry of CD8/Ki67, PD-1/FOXP3, and CD8/cleaved caspase-3. On a subset of TDLN, additional GeoMx spatial transcriptomics profiling of CD8/Ki67+T cell hotspots was carried out.\n\nRESULTS: After addition of IPI/NIVO to CRT in the INCREASE cohort, resected TDLN showed robust type I immune responses and increased levels of CD8 and regulatory T cells in irradiated TDLN when compared with the control cohort. These immune responses were observed across all radiation dose groups, with the most pronounced effects in high dose TDLN. Significant changes in extracellular matrix and macrophage-associated gene signatures, indicating elevated fibrosis and prolonged inflammation, were observed in the TDLN with high radiation exposure, changes which were partially alleviated by immunotherapy.\n\nCONCLUSION: In the INCREASE trial, neoadjuvant IPI/NIVO combined with CRT for patients with T3-4N0-2 NSCLC elicited enhanced immune responses in TDLN despite exposure to high dose radiation. Even though radiation-induced fibrosis was evident in high dose TDLN, the immune responses were not diminished when compared with low dose TDLN. These findings underscore the resilience of TDLN immunological function under intense radiation exposure."
+    },
+    {
+      "pmid": "41314984",
+      "doi": "10.1136/jitc-2025-013072",
+      "title": "Second-event endpoints (EFS2, PRFS2 and PFS2) after anti-PD-(L)1-based RCTs: a systematic review and meta-analysis.",
+      "journal": "Journal for immunotherapy of cancer",
+      "pubdate": "2025-11-28T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "entity": "Other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1136/jitc-2025-013072",
+      "metric_name": "SJR",
+      "metric_value": 4.22,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41314984/",
+      "url_doi": "https://doi.org/10.1136/jitc-2025-013072",
+      "abstract": "BACKGROUND: Immune checkpoint inhibitors (ICIs), particularly anti-PD-(L)1s, have transformed cancer care by their extended efficacy, even receiving next-line. Event-free survival 2 (EFS2), progression/recurrence-free survival 2 (PRFS2) and progression-free survival 2 (PFS2) capture the time from randomization to objective recurrence/progression or death on the first subsequent therapy, potentially offering a more accurate measure of durable benefit than first-event endpoints. Our aim is to review the magnitude of this benefit and evaluate long-term endpoints as surrogates for overall survival (OS) in immunotherapy for solid malignancies.\n\nMETHODS: A Preferred Reporting Items for Systematic Reviews and Meta-Analyses-compliant systematic review and meta-analysis searched Web of Science, National Institutes of Health Clinical Trials Registry, American Society of Clinical Oncology and European Society of Medical Oncology conference databases from inception until June 12, 2025, for anti-PD-(L)1-based randomized controlled phase II/III clinical trials (RCTs) in patients with solid malignancies that reported EFS2, PRFS2 or PFS2. HRs comparing ICI and non-ICI arms were pooled using a random-effects meta-analytic approach. Sensitivity analyses and meta-regressions assessed effect modifiers. A linear regression compared EFS2/PRFS2/PFS2 and EFS/disease-free survival (DFS)/PFS versus OS HRs.\n\nRESULTS: 47 RCTs met inclusion criteria from 2,078 citations, comprising 58 intervention comparisons (ICs) and 34,973 patients. Non-small cell lung cancer (NSCLC) was the most investigated tumor (17 RCTs). Anti-PD-(L)1s performed generally worse when administered as a subsequent therapy in non-ICI-experienced patients (p<0.05). Early anti-PD-(L)1 use was associated with significantly improved EFS2/PRFS2/PFS2 (HR 0.72; 95% CI 0.68 to 0.76), with consistent findings across curative and recurrent/metastatic settings, and particularly strong effects in RCTs involving patients with deficient mismatch repair or high microsatellite instability tumors and those with more radiological responses. In 54 ICs reporting both OS and EFS2/PRFS2/PFS2 HRs, a strong correlation (R²=0.74) was observed across all RCTs, and an even stronger 0.86 specifically among patients with NSCLC (22 ICs). Conversely, EFS/DFS/PFS presented R² 0.39 across all RCTs (51 ICs), and 0.65 in NSCLC (21 ICs; p<0.01).\n\nCONCLUSIONS: Early use of anti-PD-(L)1 therapy is associated with prolonged disease control and may be linked to enhanced responsiveness to subsequent therapies, mostly based on NSCLC data. Additionally, EFS2/PRFS2/PFS2 are solid candidate surrogates for OS and could be considered for routine inclusion and prespecified into immunotherapy RCTs to better capture long-term benefit and inform regulatory, clinical, and reimbursement decision-making.\n\nPROSPERO REGISTRATION NUMBER: CRD42024585378."
+    },
+    {
+      "pmid": "41315854",
+      "doi": "10.1038/s41746-025-02009-y",
+      "title": "Leveraging large language models to extract smoking history from clinical notes for lung cancer surveillance.",
+      "journal": "NPJ digital medicine",
+      "pubdate": "2025-11-28T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41746-025-02009-y",
+      "metric_name": "SJR",
+      "metric_value": 4.164,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41315854/",
+      "url_doi": "https://doi.org/10.1038/s41746-025-02009-y",
+      "abstract": "Accurate smoking documentation in electronic health records (EHRs) is crucial for risk assessment and patient monitoring. However, key information is often missing or inaccurately recorded. Large language models (LLMs) present a promising solution for interpreting clinical narratives to extract comprehensive smoking data. We developed a framework utilizing LLMs combined with rule-based longitudinal smoothing techniques to enhance data quality. We compared generative LLMs (Gemini-1.5-Flash, PaLM-2-Text-Bison, GPT-4) against BERT-based models using 1683 manually annotated clinical notes from 518 patients across Stanford and Sutter Health systems. Generative LLMs achieved superior performance ( > 96% accuracy) across seven smoking variables, with external validation showing robust generalizability (97.5-98.8% accuracy). We deployed Gemini-1.5-Flash to 79,408 notes from 4792 lung cancer patients, demonstrating that risk model-based surveillance incorporating smoking factors outperformed NCCN Guidelines in identifying second malignancies. Our study highlights the potential of generative LLMs to improve smoking history documentation quality, enhancing lung cancer surveillance and broader clinical applications."
     },
     {
       "pmid": "41289566",
@@ -492,6 +553,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41307293/",
       "url_doi": "https://doi.org/10.1002/14651858.CD004143.pub6",
       "abstract": "BACKGROUND: Hormone therapy is widely provided to control menopausal symptoms and has been used for the management and prevention of cardiovascular disease, osteoporosis and dementia in older women. This is an updated version of a Cochrane review first published in 2005.\n\nOBJECTIVES: To assess the long-term effects of prolonged use (at least one year) of hormone therapy on mortality, cardiovascular outcomes, cancer, gallbladder disease, fractures and cognition in perimenopausal and postmenopausal women.\n\nSEARCH METHODS: We used the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, three other databases and two trial registers, together with reference checking, citation searching and contact with study authors to identify the studies included in the review. The latest search date was 26 September 2024.\n\nSELECTION CRITERIA: We included randomised, double-blind trials in which peri- or postmenopausal women took hormone therapy or placebo for at least one year. We included various oestrogen formulations, with or without progestogens. We focused on studies assessing hormone therapy's effects on long-term clinical outcomes, including death, coronary events and cancer. Hormone therapy's efficacy in managing menopausal symptoms was beyond the scope of this review, and is assessed in other Cochrane reviews.\n\nDATA COLLECTION AND ANALYSIS: Two review authors independently selected studies, assessed risk of bias and extracted data. We calculated risk ratios (RRs) for dichotomous data and mean differences (MDs) for continuous data, along with 95% confidence intervals (CIs). We assessed the certainty of the evidence using GRADE.\n\nMAIN RESULTS: We included 24 studies - with two newly added in this update - involving 45,660 participants. We derived nearly 70% of the data from two well-conducted studies: the Heart and Estrogen/progestin Replacement Study (HERS 1998) and the large, multi-component Women's Health Initiative research programme, which included two hormone therapy arms (WHI 1998). Across all the studies, most participants were postmenopausal American women with one or more comorbidities. The mean participant age in most studies was over 60 years. Only one included study focused on perimenopausal women. We present full results for all included studies with available data in the main review. The results presented below are drawn from WHI 1998, in which the combined hormone therapy arm and the oestrogen-only arm were run concurrently, with women assigned to the appropriate trial based on their uterus status. One study with 16,608 postmenopausal women with an intact uterus compared combined continuous hormone therapy (conjugated equine oestrogen and medroxyprogesterone acetate) to placebo, and measured outcomes at an average of 5.6 years of follow-up. Based on this study, combined continuous hormone therapy probably makes little to no difference to the risk of a coronary event (RR 1.17, 95% CI 0.95 to 1.44; moderate-certainty evidence). It may increase the risk of stroke (RR 1.39, 95% CI 1.09 to 2.09; low-certainty evidence) and venous thromboembolism (RR 2.03, 95% CI 1.55 to 6.64; low-certainty evidence). Compared to placebo, combined continuous hormone therapy probably increases the risk of breast cancer (RR 1.27, 95% CI 1.03 to 1.56; moderate-certainty evidence) and probably makes little to no difference to the risk of lung cancer (RR 1.06, 95% CI 0.77 to 1.46; moderate-certainty evidence). It may increase gallbladder disease requiring surgery (RR 1.64, 95% CI 1.30 to 2.06; 14,203 participants; low-certainty evidence), and probably reduces the risk of all clinical fractures (RR 0.78, 95% CI 0.71 to 0.86; moderate-certainty evidence). One study including 10,739 postmenopausal women who had undergone a hysterectomy compared oestrogen-only (conjugated equine oestrogen) hormone therapy to placebo, and measured outcomes at an average of seven years' follow-up. Based on this study, oestrogen-only hormone therapy probably makes little to no difference to the risk of coronary events (RR 0.94, 95% CI 0.78 to 1.13), venous thromboembolism (RR 1.32, 95% CI 1.00 to 1.74) and breast cancer (RR 0.79, 95% CI 0.61 to 1.01), all with moderate-certainty evidence. It may make little to no difference to the risk of lung cancer (RR 1.04, 95% CI 0.73 to 1.48; low-certainty evidence). Oestrogen-only hormone therapy probably increases the risk of stroke (RR 1.33, 95% CI 1.06 to 1.67) and gallbladder disease requiring surgery (RR 1.78, 95% CI 1.42 to 2.24), and probably reduces the risk of all clinical fractures (RR 0.73, 95% CI 0.65 to 0.80), all with moderate-certainty evidence. We judged most included studies to have a low risk of bias for most domains. The overall certainty of evidence for the main comparisons was moderate. The main limitation was that only about 30% of women were 50 to 59 years old at baseline, the age group most likely to consider hormone therapy for vasomotor symptoms.\n\nAUTHORS' CONCLUSIONS: Long-term follow-up of women using hormone therapy suggests that the risk profiles vary between combined hormone therapy and oestrogen-only therapy. Oestrogen-only hormone therapy probably makes little to no difference to coronary events, and probably increases the risk of stroke and gallbladder disease. It probably makes little to no difference in the risk of breast cancer, and probably reduces the risk of all fractures. Combined hormone therapy may increase the risk of thromboembolism and probably increases the risk of breast cancer. These results should be interpreted with caution as they are based on one study using oral hormone therapy, which may not represent the risks of the hormone therapy currently used in clinical practice."
+    },
+    {
+      "pmid": "41260223",
+      "doi": "10.1016/j.celrep.2025.116572",
+      "title": "Structural basis of DNA-dependent coactivator recruitment by the tuft cell master regulator POU2F3.",
+      "journal": "Cell reports",
+      "pubdate": "2025-11-25T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.cell.com/cell-reports/pdf/S2211-1247(25)01344-0.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41260223/",
+      "url_doi": "https://doi.org/10.1016/j.celrep.2025.116572",
+      "abstract": "The transcription factor POU2F3 defines the identity of tuft cells and underlies a distinct molecular subtype of small cell lung cancer (SCLC). Although POU2F3 is considered undruggable, its activity critically depends on the coactivators OCA-T1 and OCA-T2. Here, we demonstrate that acute suppression of either POU2F3 or OCA-T1 induces regression of tuft cell-like SCLC xenografts in vivo. To explore the structural basis and druggability of this dependency, we determine crystal structures of POU2F3 bound to OCA-T1 or OCA-T2 in complex with DNA, revealing a tripartite, DNA-dependent interface. We further employ deep mutational scanning to assess the functional impact of 4,218 missense variants in POU2F3 and OCA-T1, uncovering both mutation-sensitive hotspots and structurally constrained regions critical for tumor cell fitness. These findings define a transcriptional complex that integrates DNA recognition with coactivator recruitment and nominate POU2F3-OCA-T as a structurally tractable vulnerability in tuft cell-like carcinomas."
     },
     {
       "pmid": "41286347",
