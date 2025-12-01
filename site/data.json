@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-30T05:17:15.083151Z",
+  "generated": "2025-12-01T05:27:28.320906Z",
   "items": [
     {
       "pmid": "41296331",
@@ -75,7 +75,7 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41746-025-02009-y",
+      "oa_url": "https://www.nature.com/articles/s41746-025-02009-y.pdf",
       "metric_name": "SJR",
       "metric_value": 4.164,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41315854/",
@@ -573,26 +573,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41260223/",
       "url_doi": "https://doi.org/10.1016/j.celrep.2025.116572",
       "abstract": "The transcription factor POU2F3 defines the identity of tuft cells and underlies a distinct molecular subtype of small cell lung cancer (SCLC). Although POU2F3 is considered undruggable, its activity critically depends on the coactivators OCA-T1 and OCA-T2. Here, we demonstrate that acute suppression of either POU2F3 or OCA-T1 induces regression of tuft cell-like SCLC xenografts in vivo. To explore the structural basis and druggability of this dependency, we determine crystal structures of POU2F3 bound to OCA-T1 or OCA-T2 in complex with DNA, revealing a tripartite, DNA-dependent interface. We further employ deep mutational scanning to assess the functional impact of 4,218 missense variants in POU2F3 and OCA-T1, uncovering both mutation-sensitive hotspots and structurally constrained regions critical for tumor cell fitness. These findings define a transcriptional complex that integrates DNA recognition with coactivator recruitment and nominate POU2F3-OCA-T as a structurally tractable vulnerability in tuft cell-like carcinomas."
-    },
-    {
-      "pmid": "41286347",
-      "doi": "10.1038/s41598-025-29214-9",
-      "title": "Modeling the metastatic tumor microenvironment: a co-culture platform of lung cancer and blood vessel organoids for drug evaluation.",
-      "journal": "Scientific reports",
-      "pubdate": "2025-11-24T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41598-025-29214-9",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41286347/",
-      "url_doi": "https://doi.org/10.1038/s41598-025-29214-9",
-      "abstract": "Tumor cell-vasculature interactions play a crucial role in lung cancer progression and metastasis; however, traditional cell culture models rarely capture these complex dynamics. We developed a vascularized lung cancer organoid (VLCO) model by coculturing lung cancer organoids (LCOs) with blood vessel organoids (BVOs) to recreate the tumor-vasculature niche in a three-dimensional in vitro system. During coculture, LCOs migrated along BVO-formed vascular networks and invaded vessel-like structures, mimicking intravasation. The organoid types interacted via secretory factors, including TGF-β and PDGF-BB, inducing epithelial-mesenchymal transition (EMT) in LCOs and pericyte-to-fibroblast transition in BVOs. We also developed a scalable drug response assay for vasculature-induced EMT, enabling targeted therapeutic screening. The VLCO model provides a robust platform for studying tumor-endothelial crosstalk and testing antimetastatic therapies targeting tumor-vasculature interactions."
     }
   ]
 }
