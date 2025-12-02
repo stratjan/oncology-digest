@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-01T05:27:28.320906Z",
+  "generated": "2025-12-02T05:18:58.313067Z",
   "items": [
     {
       "pmid": "41296331",
@@ -83,24 +83,24 @@
       "abstract": "Accurate smoking documentation in electronic health records (EHRs) is crucial for risk assessment and patient monitoring. However, key information is often missing or inaccurately recorded. Large language models (LLMs) present a promising solution for interpreting clinical narratives to extract comprehensive smoking data. We developed a framework utilizing LLMs combined with rule-based longitudinal smoothing techniques to enhance data quality. We compared generative LLMs (Gemini-1.5-Flash, PaLM-2-Text-Bison, GPT-4) against BERT-based models using 1683 manually annotated clinical notes from 518 patients across Stanford and Sutter Health systems. Generative LLMs achieved superior performance ( > 96% accuracy) across seven smoking variables, with external validation showing robust generalizability (97.5-98.8% accuracy). We deployed Gemini-1.5-Flash to 79,408 notes from 4792 lung cancer patients, demonstrating that risk model-based surveillance incorporating smoking factors outperformed NCCN Guidelines in identifying second malignancies. Our study highlights the potential of generative LLMs to improve smoking history documentation quality, enhancing lung cancer surveillance and broader clinical applications."
     },
     {
-      "pmid": "41289566",
-      "doi": "10.1158/0008-5472.CAN-25-0582",
-      "title": "A Deep Learning Framework Integrating Tumor Microenvironmental Features Accurately Predicts Multiple Driver Gene Mutations in Lung Cancer Pathology Images.",
+      "pmid": "41321105",
+      "doi": "10.1158/0008-5472.CAN-25-3547",
+      "title": "Can't KEEP Up: UXS1 Dependency Exposes a Pyrimidine Vulnerability in KEAP1-Mutant Lung Cancer.",
       "journal": "Cancer research",
-      "pubdate": "2025-11-25T00:00:00+00:00",
+      "pubdate": "2025-12-01T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
       "entity": "Thoracic-other",
       "trial_type": null,
-      "study_class": "Preclinical",
+      "study_class": "Other",
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
       "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41289566/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0582",
-      "abstract": "Deep learning (DL) has the potential to enable the prediction of gene mutations directly from routine histopathology slides in lung cancer. However, existing approaches have largely been limited to mutation-level prediction and have not achieved precise identification of driver mutation subtypes or exonic variants, constraining the translation of DL into targeted therapy. In this study, we assembled a large multicenter dataset of paired pathology images and next-generation sequencing from 2573 lung cancer patients from four hospitals in China. Development of NAVF-Bio, an adaptive multi-view feature fusion framework based on multiple-instance learning, enabled integration of tumor microenvironment (TME) features from whole-slide images (WSIs) to predict driver mutations and tumor mutational burden (TMB). Benchmarking against 11 state-of-the-art DL methods indicated that NAVF-Bio consistently outperformed existing models in predicting driver mutations (TP53, EGFR, KRAS, ALK) and TMB status, achieving clinically relevant performance in external multicenter validation. Notably, NAVF-Bio accurately predicted the mutated driver gene exons across centers, while interpretability analyses using WSI visualization and TME quantification further demonstrated the ability of NAVF-Bio to elucidate pathologically relevant tumor features. Finally, a multi-gene mutation prediction platform for lung cancer was generated to facilitate the screening of driver gene mutations. Overall, NAVF-Bio mimics the workflow of pathologists when examining slides by observing multi-scale features of WSIs and TME characteristics to predict driver gene mutations in lung cancer, which could guide the selection of targeted therapies for patients."
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41321105/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-3547",
+      "abstract": "Loss-of-function mutations in KEAP1 are found in more than 20% of non-small cell lung cancers. These mutations stabilize the transcription factor NRF2 to induce a battery of antioxidative and cytoprotective genes. Although NRF2 accumulation promotes cancer cell fitness, it also creates several targetable vulnerabilities. In this issue of Cancer Research, Gebru and colleagues reveal the dependency of KEAP1-mutant non-small cell lung cancers on UDP-xylose synthase 1 (UXS1). The authors found that NRF2-driven expression of UDP-glucose 6-dehydrogenase leads to the accumulation of UDP-glucuronic acid. Consequently, loss of UXS1-mediated UDP-glucuronic acid decarboxylation causes sequestration of UDP, depletion of pyrimidine pools, and replication stress, thereby inducing apoptosis and senescence. Importantly, these effects are selective to KEAP1-mutant tumors, with KEAP1 wild-type cells and normal tissue unaffected by UXS1 loss. DNA damage induction with cell-cycle kinase inhibitors synergized with UXS1 loss to promote the death of KEAP1-mutant cells. These findings suggest that UXS1 loss is synthetic lethal with NRF2 activation and may be a promising target for therapy. See related article by Gebru et al., p. 4806."
     },
     {
       "pmid": "40975161",
@@ -265,26 +265,6 @@
       "abstract": "INTRODUCTION: RATIONALE-304 compared first-line tislelizumab (a programmed cell death protein 1 inhibitor) plus chemotherapy versus chemotherapy in advanced non-squamous non-small cell lung cancer (nsq-NSCLC). This exploratory analysis focused on patients with tumor cell programmed death ligand 1 (PD-L1) expression ≥ 50%.\n\nMETHODS: Patients with stage IIIB/IV nsq-NSCLC were randomized (2:1) to tislelizumab plus platinum-based chemotherapy and pemetrexed every 3 weeks, followed by maintenance tislelizumab and pemetrexed, or platinum-based chemotherapy and pemetrexed followed by maintenance pemetrexed. The primary endpoint was independent review committee (IRC)-assessed progression-free survival (PFS); secondary endpoints included overall survival (OS), IRC-assessed objective response rates, and safety.\n\nRESULTS: The PD-L1 ≥ 50% population included 110 patients (tislelizumab plus chemotherapy, n = 74; chemotherapy, n = 36); 71.8% (n = 79) were male and 28.2% (n = 31) were female. Consistent with the final analysis (median follow-up 16.5 months), the 4-year follow-up data (median follow-up 23.4 months) continued to show an improvement in median PFS (17.2 vs. 4.6 months; stratified HR 0.29, 95% CI 0.17-0.50) and median OS (41.9 vs. 13.1 months; stratified HR 0.38, 95% CI 0.23-0.62) for patients who received tislelizumab plus chemotherapy versus chemotherapy. An additional post hoc analysis showed no significant differences in PFS or OS between PD-L1 50-89% and ≥ 90% subgroups in the tislelizumab plus chemotherapy arm. The safety profile of tislelizumab plus chemotherapy was manageable and consistent with previous analyses.\n\nCONCLUSIONS: In patients with advanced nsq-NSCLC and PD-L1 tumor cell expression ≥ 50%, first-line tislelizumab plus chemotherapy demonstrated clinically meaningful improvement in PFS and OS versus chemotherapy. Efficacy was consistent across subgroups of patients with high PD-L1 tumor cell expression levels (50-89% and ≥ 90%).\n\nTRIAL REGISTRATION: Clinical Trials.gov NCT03663205."
     },
     {
-      "pmid": "40908346",
-      "doi": "10.1007/s40487-025-00372-0",
-      "title": "Asian Subgroup Analysis of Patients in the Phase 2 DeLLphi-301 Study of Tarlatamab for Previously Treated Small Cell Lung Cancer.",
-      "journal": "Oncology and therapy",
-      "pubdate": "2025-12-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/s40487-025-00372-0.pdf",
-      "metric_name": "SJR",
-      "metric_value": 1.33,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40908346/",
-      "url_doi": "https://doi.org/10.1007/s40487-025-00372-0",
-      "abstract": "INTRODUCTION: Tarlatamab is a bispecific T-cell engager (BiTE\n\nMETHODS: Patients with previously treated, advanced SCLC received 10 mg tarlatamab every 2 weeks. The primary endpoint was objective response rate (ORR) by blinded independent central review (RECIST version 1.1). Key secondary endpoints included duration of response (DOR), progression-free survival (PFS), overall survival (OS) and safety. The present analysis includes patients enrolled at sites in Asia.\n\nRESULTS: A total of 43 patients were enrolled at sites in Asia. ORR was 46.3% (95% confidence interval [CI], 30.7-62.6) and median DOR was 7.2 months (95% CI 3.9 to not estimable). The median follow-up was 16.6 months for PFS and 21.2 months for OS. Median PFS was 5.4 months (95% CI 3.0-8.1) and median OS was 19.0 months (95% CI 11.4 to not estimable). The most common treatment-emergent adverse event (AE) was cytokine release syndrome (48.8%), and all such events were grade 1 or 2. There were no discontinuations due to treatment-related AEs.\n\nCONCLUSIONS: Tarlatamab demonstrated durable responses and promising survival outcomes with a manageable safety profile in this post hoc analysis of patients from Asia with previously treated SCLC.\n\nTRIAL REGISTRATION: ClinicalTrials.gov, NCT05060016."
-    },
-    {
       "pmid": "41296193",
       "doi": "10.1007/s40487-025-00402-x",
       "title": "Exploratory Analyses of Patient Preferences for Atezolizumab Subcutaneous Versus Intravenous from the IMscin002 Study in Patients with Non-Small Cell Lung Cancer.",
@@ -346,26 +326,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41237754/",
       "url_doi": "https://doi.org/10.1016/j.thromres.2025.109525",
       "abstract": "BACKGROUND: Cancer-associated venous thromboembolism (VTE) is a major adverse prognostic factor with heterogeneous outcomes across tumor types. We aimed to describe the characteristics of lung cancer patients with VTE, compare outcomes across malignancies, and assess their association with complications, progression, and survival.\n\nMETHODS: We analyzed TESEO-SEOM, a prospective multicenter registry including patients with active cancer and VTE. Patients were stratified by tumor site, with lung as reference. Outcomes included recurrent VTE, bleeding, and survival. Analyses were stratified by tumor type and VTE presentation (clinically suspected, symptomatic/asymptomatic incidental). Complications were estimated using competing-risk methods.\n\nRESULTS: Among 3855 patients, the most frequent cancers were gastrointestinal (39.4 %), lung (22.2 %), and breast (10.4 %). Pulmonary embolism predominated (55 %), especially in lung cancer (69.8 %). Overall, 48.9 % of events were clinically suspected and 50.9 % incidental; suspected were more common in lung cancer (53.9 %), whereas incidental diagnoses predominated in gastrointestinal tumors (58.8 %). Complications occurred in 17.6 % (10.2 % bleeding, 7.4 % recurrent VTE). Recurrence was highest in gastrointestinal cancers (11.4 %, Gray's p = 0.022), while bleeding did not differ (p = 0.213). VTE-related mortality was low (1 %), while mixed-cause mortality was highest in lung cancer (17.2 %). Median PFS and OS were shortest in lung cancer (4.5 and 7.7 months, p < 0.0001). Incidental asymptomatic events conferred longer survival, particularly in lung cancer (OS 11.5 vs. 7.3 months for symptomatic incidental and 5.6 for suspected, p < 0.001).\n\nCONCLUSION: VTE in lung cancer is associated with more severe presentation, higher mixed-cause mortality, and worse survival than in other tumors. Incidental asymptomatic VTE predicts better outcomes, supporting risk stratification by tumor type and presentation."
-    },
-    {
-      "pmid": "41288932",
-      "doi": "10.1007/s10147-025-02929-5",
-      "title": "Association of fat-free mass index and survival in patients with lung cancer: a multicenter cohort study.",
-      "journal": "International journal of clinical oncology",
-      "pubdate": "2025-11-25T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 0.936,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41288932/",
-      "url_doi": "https://doi.org/10.1007/s10147-025-02929-5",
-      "abstract": "BACKGROUND: Fat-free mass index (FFMI) is a prognostic influence in cancer patients. However, for the prognosis of Chinese lung cancer (LC) patients, the threshold and impact of FFMI are not known. The aim of the present study was to examine the association between FFMI and the prognosis of Chinese patients with LC.\n\nMETHODS: Totally 1,881 adult patients with LC were enrolled. During a median follow-up of 41.0 months (range 23.8-64.3), we reported 938 deaths. The optimal stratification method was used to determine the gender-specific optimal threshold for FFMI. Cox regression model and Kaplan-Meier curve were used to evaluate the relationship between FFMI and prognosis. Mediation analysis was used to determine the mediating effect of inflammation.\n\nRESULTS: The optimal cutoff points for low FFMI in males and females were 17.27 kg/m\n\nCONCLUSION: In this prospective study, low FFMI, as determined by cutoff values, was an independent prognostic factor for patients with LC in both males and females. The association between FFMI and LC prognosis was significantly mediated by NLR."
     },
     {
       "pmid": "41108995",
@@ -448,6 +408,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192233/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.116059",
       "abstract": "BACKGROUND: Anti-PD-L1 antibodies with platinum-etoposide extend overall survival (OS) of extensive disease Small Cell Lung Cancer (ED-SCLC) patients. We evaluated the benefit of first-line pembrolizumab with platinum-etoposide in chemo-sensitive ED-SCLC.\n\nMETHODS: REACTION is a multicenter, open-label, randomized phase II trial. Eligible patients (responders after 2 cycles of platinum-etoposide) were randomized 1:1 to experimental arm pembrolizumab in combination with 4 cycles of platinum-etoposide then pembrolizumab vs platinum-etoposide in the control arm. The primary endpoint was progression free survival (PFS). Circulating tumour cells (CTCs) were enumerated and their association with PFS and OS was investigated.\n\nRESULTS: Between Feb 7, 2018 and Oct 31, 2019, 125 patients were recruited (61 vs 64 experimental and control arms respectively) with 119 (58 vs 61) eligible and receiving at least one dose of treatment. Baseline characteristics were median age 65 vs 63.5 years, PS 1 (62 vs 60 %), and brain metastases (8 vs 11 %), in the experimental and control arms respectively. Amongst 124 patients who started treatment, 46 (37 %) experienced adverse events grade ≥ 3 for pembrolizumab arm vs 26 % in the control arm. Response rate was 61 % (67 vs 56 %). Median PFS (95 % CI) was 4.7 months (4.2, 5.6) vs 5.4 (4.7, 5.6), HR (80 % CI) = 0.84 (0.65, 1.09) and 1-sided p = 0.194. Median OS (95 % CI) was 12.3 months (8.9, 14.8) vs 10.4 (8.2, 12.2), HR (80 % CI) = 0.73 (0.54, 1.0) and 1-sided p = 0.097. CTC count per 7.5 ml blood at randomization was associated significantly with both PFS and OS regardless of treatment arms.\n\nCONCLUSIONS: Pembrolizumab added to platinum-etoposide did not improve PFS over platinum-etoposide alone in chemo-sensitive patients with ED."
+    },
+    {
+      "pmid": "41325571",
+      "doi": "10.1200/JCO-24-02835",
+      "title": "Amivantamab Plus Lazertinib in Atypical EGFR-Mutated Advanced Non-Small Cell Lung Cancer: Results From CHRYSALIS-2.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41325571/",
+      "url_doi": "https://doi.org/10.1200/JCO-24-02835",
+      "abstract": "PURPOSE: For patients with advanced non-small cell lung cancer (NSCLC) harboring atypical epidermal growth factor receptor (\n\nPATIENTS AND METHODS: CHRYSALIS-2 Cohort C enrolled participants with NSCLC harboring atypical\n\nRESULTS: As of January 12, 2024, 105 participants received amivantamab-lazertinib. Most common atypical mutations were G719X (56%), L861X (26%), and S768I (23%), including single and compound mutations. In the overall population (median follow-up: 16.1 months), the ORR was 52% (95% CI, 42 to 62). The median duration of response (mDoR) was 14.1 months (95% CI, 9.5 to 26.2). The median progression-free survival (mPFS) was 11.1 months (95% CI, 7.8 to 17.8); median overall survival (mOS) was not estimable (NE; 95% CI, 22.8 to NE). Adverse events were consistent with previous studies and primarily grade 1 and 2. Among treatment-naïve participants, the ORR was 57% (95% CI, 42 to 71). The mPFS was 19.5 months (95% CI, 11.2 to NE), the mDoR was 20.7 months (95% CI, 9.9 to NE), and mOS was NE (95% CI, 26.3 to NE). Solitary or compound\n\nCONCLUSION: In participants with atypical"
     },
     {
       "pmid": "41232543",
@@ -533,6 +513,27 @@
       "abstract": "BACKGROUND: Checkpoint inhibitors, including combinations with standard-of-care chemotherapy, have shown survival benefit in patients with metastatic non-small-cell lung cancer (NSCLC); however, access to these drugs varies. We aimed to evaluate the efficacy of the PD-1 inhibitor retifanlimab plus platinum-based chemotherapy as first-line treatment for non-squamous or squamous metastatic NSCLC.\n\nMETHODS: POD1UM-304 was a phase 3, multiregional, placebo-controlled, double-blind, randomised study conducted in approximately 124 hospitals and private clinical centres in 16 countries. Male and female adults aged 18 years or older with squamous or non-squamous stage IV NSCLC (staging by American Joint Committee on Cancer version 8) with Eastern Cooperative Oncology Group performance status 0 or 1 and no previous systemic therapy for metastatic NSCLC were eligible. Patients were randomly assigned (2:1) using interactive response technology to receive intravenous retifanlimab 375 mg or matching placebo on day 1 of each 21-day cycle plus standard platinum-based chemotherapy according to tumour histology for up to 2 years. Patients with non-squamous NSCLC received pemetrexed 500 mg/m\n\nFINDINGS: Between Sept 11, 2020, and March 14, 2023, 1388 patients were assessed for eligibility, 583 of whom were randomly assigned to retifanlimab plus chemotherapy (n=391) or placebo plus chemotherapy (n=192). 381 (65%) patients had non-squamous NSCLC and 202 (35%) had squamous NSCLC; 467 (80%) patients were male and 116 (20%) were female. Median age was 64 years (IQR 58-68). Median overall survival was longer in the retifanlimab plus chemotherapy group than in the placebo plus chemotherapy group (18·1 months [95% CI 16·2-21·0] vs 13·4 months [11·0-16·7]; hazard ratio 0·75 [95% CI 0·60-0·93]; p=0·0042). Overall, higher incidences of treatment-emergent adverse events that were serious (158 [41%] of 389 vs 57 [30%] of 190), grade 3 or worse (238 [61%] vs 103 [54%]), or led to retifanlimab or placebo dose delay (169 [43%] vs 67 [35%]) or discontinuation (33 [8%] vs nine [5%]) were observed in the retifanlimab plus chemotherapy group than in the placebo plus chemotherapy group. The proportions of fatal COVID-19-related treatment-emergent adverse events were similar in the retifanlimab plus chemotherapy group and the placebo plus chemotherapy group (four [1%] vs five [3%]).\n\nINTERPRETATION: Retifanlimab improved overall survival compared with placebo when added to platinum-based chemotherapy, with a safety profile that is representative of previous PD-1 and PD-L1 inhibitor-chemotherapy combinations. Adding retifanlimab to first-line chemotherapy could be a potential treatment option for patients with squamous or non-squamous metastatic NSCLC.\n\nFUNDING: Incyte."
     },
     {
+      "pmid": "41164890",
+      "doi": "10.1080/14796694.2025.2579208",
+      "title": "Safety of osimertinib in Chinese patients with non-small cell lung cancer: a multi-center, prospective, observational study.",
+      "journal": "Future oncology (London, England)",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Prospective (non-RCT)",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41164890/",
+      "url_doi": "https://doi.org/10.1080/14796694.2025.2579208",
+      "abstract": "BACKGROUND: This prospective, observational study evaluated the real-world safety of osimertinib in a broad Chinese population with non-small cell lung cancer (NSCLC).\n\nMETHODS: Chinese NSCLC patients who received osimertinib were enrolled and followed up for 12 months. The primary endpoint was the incidence of adverse drug reactions (ADRs).\n\nRESULTS: From 20 April 2020 to 1 August 2022, 1,700 patients were enrolled from 30 centers, with 706 (41.5%) patients ≥65 years old. Osimertinib was administered as first-line, second-line, third/later-line and adjuvant therapy in 44.9%, 34.2%, 14.3% and 4.5% of the patients, respectively. ADRs, adverse events (AEs), Grade ≥3 AEs, and serious AEs were reported in 627 (36.9%), 959 (56.4%), 165 (9.7%), and 102 (6.0%) patients, respectively. AEs of special interests occurred in 59 (3.5%) patients, with 41 (2.4%) and 19 (1.1%) reporting QTc prolongation and interstitial lung disease/pneumonitis-like events, respectively. The safety profiles in patients ≥65 years old and those usually not included in randomized clinical trials were similar to that in the total population.\n\nCONCLUSION: This largest real-world safety study of osimertinib in China demonstrated that osimertinib was well-tolerated in a broad NSCLC population, including patients usually not included in randomized clinical trials, without new safety signals identified.\n\nCLINICAL TRIAL REGISTRATION: NCT03485326 (www.clinicaltrials.gov)."
+    },
+    {
       "pmid": "41307293",
       "doi": "10.1002/14651858.CD004143.pub6",
       "title": "Long-term hormone therapy for perimenopausal and postmenopausal women.",
@@ -553,26 +554,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41307293/",
       "url_doi": "https://doi.org/10.1002/14651858.CD004143.pub6",
       "abstract": "BACKGROUND: Hormone therapy is widely provided to control menopausal symptoms and has been used for the management and prevention of cardiovascular disease, osteoporosis and dementia in older women. This is an updated version of a Cochrane review first published in 2005.\n\nOBJECTIVES: To assess the long-term effects of prolonged use (at least one year) of hormone therapy on mortality, cardiovascular outcomes, cancer, gallbladder disease, fractures and cognition in perimenopausal and postmenopausal women.\n\nSEARCH METHODS: We used the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, three other databases and two trial registers, together with reference checking, citation searching and contact with study authors to identify the studies included in the review. The latest search date was 26 September 2024.\n\nSELECTION CRITERIA: We included randomised, double-blind trials in which peri- or postmenopausal women took hormone therapy or placebo for at least one year. We included various oestrogen formulations, with or without progestogens. We focused on studies assessing hormone therapy's effects on long-term clinical outcomes, including death, coronary events and cancer. Hormone therapy's efficacy in managing menopausal symptoms was beyond the scope of this review, and is assessed in other Cochrane reviews.\n\nDATA COLLECTION AND ANALYSIS: Two review authors independently selected studies, assessed risk of bias and extracted data. We calculated risk ratios (RRs) for dichotomous data and mean differences (MDs) for continuous data, along with 95% confidence intervals (CIs). We assessed the certainty of the evidence using GRADE.\n\nMAIN RESULTS: We included 24 studies - with two newly added in this update - involving 45,660 participants. We derived nearly 70% of the data from two well-conducted studies: the Heart and Estrogen/progestin Replacement Study (HERS 1998) and the large, multi-component Women's Health Initiative research programme, which included two hormone therapy arms (WHI 1998). Across all the studies, most participants were postmenopausal American women with one or more comorbidities. The mean participant age in most studies was over 60 years. Only one included study focused on perimenopausal women. We present full results for all included studies with available data in the main review. The results presented below are drawn from WHI 1998, in which the combined hormone therapy arm and the oestrogen-only arm were run concurrently, with women assigned to the appropriate trial based on their uterus status. One study with 16,608 postmenopausal women with an intact uterus compared combined continuous hormone therapy (conjugated equine oestrogen and medroxyprogesterone acetate) to placebo, and measured outcomes at an average of 5.6 years of follow-up. Based on this study, combined continuous hormone therapy probably makes little to no difference to the risk of a coronary event (RR 1.17, 95% CI 0.95 to 1.44; moderate-certainty evidence). It may increase the risk of stroke (RR 1.39, 95% CI 1.09 to 2.09; low-certainty evidence) and venous thromboembolism (RR 2.03, 95% CI 1.55 to 6.64; low-certainty evidence). Compared to placebo, combined continuous hormone therapy probably increases the risk of breast cancer (RR 1.27, 95% CI 1.03 to 1.56; moderate-certainty evidence) and probably makes little to no difference to the risk of lung cancer (RR 1.06, 95% CI 0.77 to 1.46; moderate-certainty evidence). It may increase gallbladder disease requiring surgery (RR 1.64, 95% CI 1.30 to 2.06; 14,203 participants; low-certainty evidence), and probably reduces the risk of all clinical fractures (RR 0.78, 95% CI 0.71 to 0.86; moderate-certainty evidence). One study including 10,739 postmenopausal women who had undergone a hysterectomy compared oestrogen-only (conjugated equine oestrogen) hormone therapy to placebo, and measured outcomes at an average of seven years' follow-up. Based on this study, oestrogen-only hormone therapy probably makes little to no difference to the risk of coronary events (RR 0.94, 95% CI 0.78 to 1.13), venous thromboembolism (RR 1.32, 95% CI 1.00 to 1.74) and breast cancer (RR 0.79, 95% CI 0.61 to 1.01), all with moderate-certainty evidence. It may make little to no difference to the risk of lung cancer (RR 1.04, 95% CI 0.73 to 1.48; low-certainty evidence). Oestrogen-only hormone therapy probably increases the risk of stroke (RR 1.33, 95% CI 1.06 to 1.67) and gallbladder disease requiring surgery (RR 1.78, 95% CI 1.42 to 2.24), and probably reduces the risk of all clinical fractures (RR 0.73, 95% CI 0.65 to 0.80), all with moderate-certainty evidence. We judged most included studies to have a low risk of bias for most domains. The overall certainty of evidence for the main comparisons was moderate. The main limitation was that only about 30% of women were 50 to 59 years old at baseline, the age group most likely to consider hormone therapy for vasomotor symptoms.\n\nAUTHORS' CONCLUSIONS: Long-term follow-up of women using hormone therapy suggests that the risk profiles vary between combined hormone therapy and oestrogen-only therapy. Oestrogen-only hormone therapy probably makes little to no difference to coronary events, and probably increases the risk of stroke and gallbladder disease. It probably makes little to no difference in the risk of breast cancer, and probably reduces the risk of all fractures. Combined hormone therapy may increase the risk of thromboembolism and probably increases the risk of breast cancer. These results should be interpreted with caution as they are based on one study using oral hormone therapy, which may not represent the risks of the hormone therapy currently used in clinical practice."
-    },
-    {
-      "pmid": "41260223",
-      "doi": "10.1016/j.celrep.2025.116572",
-      "title": "Structural basis of DNA-dependent coactivator recruitment by the tuft cell master regulator POU2F3.",
-      "journal": "Cell reports",
-      "pubdate": "2025-11-25T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.cell.com/cell-reports/pdf/S2211-1247(25)01344-0.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41260223/",
-      "url_doi": "https://doi.org/10.1016/j.celrep.2025.116572",
-      "abstract": "The transcription factor POU2F3 defines the identity of tuft cells and underlies a distinct molecular subtype of small cell lung cancer (SCLC). Although POU2F3 is considered undruggable, its activity critically depends on the coactivators OCA-T1 and OCA-T2. Here, we demonstrate that acute suppression of either POU2F3 or OCA-T1 induces regression of tuft cell-like SCLC xenografts in vivo. To explore the structural basis and druggability of this dependency, we determine crystal structures of POU2F3 bound to OCA-T1 or OCA-T2 in complex with DNA, revealing a tripartite, DNA-dependent interface. We further employ deep mutational scanning to assess the functional impact of 4,218 missense variants in POU2F3 and OCA-T1, uncovering both mutation-sensitive hotspots and structurally constrained regions critical for tumor cell fitness. These findings define a transcriptional complex that integrates DNA recognition with coactivator recruitment and nominate POU2F3-OCA-T as a structurally tractable vulnerability in tuft cell-like carcinomas."
     }
   ]
 }
