@@ -1,26 +1,6 @@
 {
-  "generated": "2025-12-02T05:18:58.313067Z",
+  "generated": "2025-12-03T05:17:25.007313Z",
   "items": [
-    {
-      "pmid": "41296331",
-      "doi": "10.1001/jamaoncol.2025.5097",
-      "title": "Lorlatinib in Tyrosine Kinase Inhibitor-Naive Advanced ROS1-Positive Non-Small Cell Lung Cancer: A Phase 2 Nonrandomized Clinical Trial.",
-      "journal": "JAMA oncology",
-      "pubdate": "2025-11-26T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 8.377,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41296331/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.5097",
-      "abstract": "IMPORTANCE: ROS1 rearrangement is rare but is an attractive therapeutic target in advanced non-small cell lung cancer (NSCLC). Crizotinib, entrectinib, and repotrectinib have been approved by the US Food and Drug Administration for treatment of ROS1-positive NSCLC. Lorlatinib, a brain-penetrant, third-generation tyrosine kinase inhibitor (TKI), targets ROS1 and ALK; however, its efficacy and safety for patients with advanced ROS1-positive remains unknown.\n\nOBJECTIVE: To evaluate the efficacy and safety of lorlatinib for patients with advanced ROS1-positive NSCLC never treated with any TKI.\n\nDESIGN, SETTING, AND PARTICIPANTS: This multicenter phase 2 nonrandomized clinical trial enrolled patients with advanced ROS1-positive NSCLC who were TKI-naive with an Eastern Cooperative Oncology Group performance status of 2 or less, and 1 or no prior platinum-based chemotherapy. Participants were recruited from June 2019 to April 2023 and followed up through August 2024. Data analysis was performed from April 5 to August 30, 2025.\n\nINTERVENTIONS: Lorlatinib, 100 mg daily, was administered until disease progression, toxic effects, consent withdrawal, or death.\n\nMAIN OUTCOMES AND MEASURES: Objective response rate (ORR). Secondary end points were progression-free survival (PFS), overall survival, and safety.\n\nRESULTS: The analysis included 32 patients (mean [IQR] age, 59 [11] years; 20 female [63%] and 12 male [37%] individuals), all of whom had adenocarcinoma histologic findings. There were 21 patients (66%) who were treatment-naive, and 11 (34%) who had prior chemotherapy. The median (SD) follow-up duration was 22.1 (15.4-46.8) months; ORR was 73% (95% CI, 56%-86%; 22 of 30 patients), and disease control rate was 90% (95% CI, 74%-97%; 27 of 30 patients). Median (IQR) PFS was 53.6 (95% CI, 27.8-79.5) months, and overall survival was not reached. For treatment-naive vs previously treated patients, the ORR was 90% vs 60%, and PFS was not reached vs 35.8 months. Grade 3 to 4 adverse effects were hypertriglyceridemia (5 patients [16%]) and hypercholesterolemia (8 patients [25%]). No treatment-related deaths occurred.\n\nCONCLUSIONS AND RELEVANCE: In this nonrandomized clinical trial, lorlatinib demonstrated durable efficacy and manageable safety in TKI-naive advanced ROS1-positive NSCLC, supporting the potential for using lorlatinib in earlier treatment settings.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03612154."
-    },
     {
       "pmid": "41314982",
       "doi": "10.1136/jitc-2025-013237",
@@ -81,6 +61,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41315854/",
       "url_doi": "https://doi.org/10.1038/s41746-025-02009-y",
       "abstract": "Accurate smoking documentation in electronic health records (EHRs) is crucial for risk assessment and patient monitoring. However, key information is often missing or inaccurately recorded. Large language models (LLMs) present a promising solution for interpreting clinical narratives to extract comprehensive smoking data. We developed a framework utilizing LLMs combined with rule-based longitudinal smoothing techniques to enhance data quality. We compared generative LLMs (Gemini-1.5-Flash, PaLM-2-Text-Bison, GPT-4) against BERT-based models using 1683 manually annotated clinical notes from 518 patients across Stanford and Sutter Health systems. Generative LLMs achieved superior performance ( > 96% accuracy) across seven smoking variables, with external validation showing robust generalizability (97.5-98.8% accuracy). We deployed Gemini-1.5-Flash to 79,408 notes from 4792 lung cancer patients, demonstrating that risk model-based surveillance incorporating smoking factors outperformed NCCN Guidelines in identifying second malignancies. Our study highlights the potential of generative LLMs to improve smoking history documentation quality, enhancing lung cancer surveillance and broader clinical applications."
+    },
+    {
+      "pmid": "41329713",
+      "doi": "10.1158/0008-5472.CAN-25-0433",
+      "title": "Transfer of Damaged Mitochondria from Cancer Cells to Cancer-Associated Fibroblasts Promotes Tyrosine Kinase Inhibitor Tolerance in EGFR-Mutant Lung Cancer.",
+      "journal": "Cancer research",
+      "pubdate": "2025-12-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41329713/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0433",
+      "abstract": "Drug-tolerant persister (DTP) cells drive therapeutic resistance in EGFR-mutant lung adenocarcinoma. Using single-cell RNA sequencing, we identified a clinically significant RGS5+MYL9+ cancer-associated fibroblast (CAF) population that was associated with EGFR tyrosine kinase inhibitor (TKI) resistance and poor prognosis. These CAFs were recruited to DTP niches via CCL11 signaling, and they formed tunneling nanotubes through Miro1/RhoA activation induced by TKI-generated mitochondrial reactive oxygen species (ROS). Remarkably, RGS5+MYL9+ CAFs functioned as \"metabolic sinks\" by accepting tumor-derived damaged mitochondria, thereby promoting DTP survival. Treatment with fasudil, a Rho kinase inhibitor, effectively blocked mitochondrial transfer and restored sensitivity to the EGFR-TKI osimertinib in vivo. Together, this work reveals targetable stromal-tumor crosstalk that sustains DTP populations, proposing a combination therapy for overcoming EGFR-TKI resistance."
     },
     {
       "pmid": "41321105",
@@ -163,26 +163,6 @@
       "abstract": "The Dutch-Belgian lung cancer (LC) screening trial (Nederlands-Leuvens Longkanker Screenings Onderzoek [NELSON]) demonstrated low-dose computed tomography (CT) reduces LC mortality by 24% among men. The NELSON protocol differed from previous trials in the eligibility criteria, the use of volume-based nodule management, and increasing screening intervals. The early-stage sensitivity of the protocol is pivotal in determining the optimal screening strategy, such as the interval and age range. The MIcrosimulation SCreening ANalysis-Lung natural history model was used to reproduce LC incidence and mortality by detection method (clinical or screen-detected), sex, histology, and stage in the NELSON trial based on individual-level data. We evaluated screening effectiveness by stage and histology, accounting for population characteristics, trial design, and LC epidemiology. We find stage IA non-small cell LC (NSCLC) sensitivity of 24.6% (other NSCLC) to 41.0% (adenocarcinoma) at baseline screening. At repeat screening rounds, we find this increased to 70.9% for stage IA adenocarcinoma. For stage IB, the sensitivity by histology ranges from 26.4% to 77.1%; for stage II, 39.6%-81.9%. Upon detection, the probability of LC mortality prevention is estimated at 83% for stage IA. The sensitivity for detecting early-stage LC is found to depend on the histology of cancer and is increased for adenocarcinoma at repeat screenings. Despite a low rate of referral to follow-up screening in the NELSON trial, early-stage CT sensitivity and the probability of mortality prevention were similar to previous estimates from the National Lung cancer Screening Trial. Previously demonstrated screening effectiveness may be maintained when implementing new programs, while reducing unnecessary follow-up when considering NELSON evidence."
     },
     {
-      "pmid": "41130887",
-      "doi": "10.1016/j.cllc.2025.09.013",
-      "title": "Tumor-Agnostic Circulating Tumor DNA Analysis as a Comprehensive Predictive Biomarker of Recurrence after Ablative Radiotherapy for Early-Stage Non-Small Cell Lung Cancer.",
-      "journal": "Clinical lung cancer",
-      "pubdate": "2025-12-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 1.515,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41130887/",
-      "url_doi": "https://doi.org/10.1016/j.cllc.2025.09.013",
-      "abstract": "PURPOSE: This study aimed to evaluate whether pretreatment circulating tumor DNA (ctDNA) is a predictive biomarker for recurrence in patients with early-stage non-small cell lung cancer (ES-NSCLC), including those with pathologically unproven (PU) who received ablative radiotherapy.\n\nMATERIALS AND METHODS: Patients clinically diagnosed with cT1-2N0M0 NSCLC treated with radiotherapy alone at a single institute were included. Pretreatment plasma and matched white blood cell samples were subjected to targeted sequencing to detect ctDNA. The association between ctDNA detection and prognosis was evaluated. Integrated analysis including non-squamous cell carcinoma (SQ) cohort and enhancement of recurrence prediction with radiographic features were also evaluated.\n\nRESULTS: Of the 19 patients (10 SQ, and 9 PU) who met the sequence quality criteria, ctDNA was detected in 6. At the median follow-up of 60 months, detectable ctDNA was significantly associated with inferior progression-free survival (PFS) in both the SQ and PU cohorts (P = .01 and .02). In an analysis of 62 patients combined with the non-SQ cohort, ctDNA detection was the only significant factor for PFS. The combination of ctDNA and a high positron emission tomography maximum standardized uptake value provided a better recurrence risk model than ctDNA alone (the C-index improved from 0.63 to 0.72).\n\nCONCLUSION: These results suggest that pretreatment ctDNA detection can predict recurrence in patients with cT1-2N0M0 NSCLC, including those with PU tumors treated with ablative radiotherapy."
-    },
-    {
       "pmid": "41067998",
       "doi": "10.1016/j.cllc.2025.08.007",
       "title": "Central Nervous System Outcomes of Lazertinib Treatment in EGFR-Mutated Advanced NSCLC: Pooled Analysis From LASER201 and LASER301.",
@@ -263,26 +243,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40946254/",
       "url_doi": "https://doi.org/10.1007/s40487-025-00378-8",
       "abstract": "INTRODUCTION: RATIONALE-304 compared first-line tislelizumab (a programmed cell death protein 1 inhibitor) plus chemotherapy versus chemotherapy in advanced non-squamous non-small cell lung cancer (nsq-NSCLC). This exploratory analysis focused on patients with tumor cell programmed death ligand 1 (PD-L1) expression ≥ 50%.\n\nMETHODS: Patients with stage IIIB/IV nsq-NSCLC were randomized (2:1) to tislelizumab plus platinum-based chemotherapy and pemetrexed every 3 weeks, followed by maintenance tislelizumab and pemetrexed, or platinum-based chemotherapy and pemetrexed followed by maintenance pemetrexed. The primary endpoint was independent review committee (IRC)-assessed progression-free survival (PFS); secondary endpoints included overall survival (OS), IRC-assessed objective response rates, and safety.\n\nRESULTS: The PD-L1 ≥ 50% population included 110 patients (tislelizumab plus chemotherapy, n = 74; chemotherapy, n = 36); 71.8% (n = 79) were male and 28.2% (n = 31) were female. Consistent with the final analysis (median follow-up 16.5 months), the 4-year follow-up data (median follow-up 23.4 months) continued to show an improvement in median PFS (17.2 vs. 4.6 months; stratified HR 0.29, 95% CI 0.17-0.50) and median OS (41.9 vs. 13.1 months; stratified HR 0.38, 95% CI 0.23-0.62) for patients who received tislelizumab plus chemotherapy versus chemotherapy. An additional post hoc analysis showed no significant differences in PFS or OS between PD-L1 50-89% and ≥ 90% subgroups in the tislelizumab plus chemotherapy arm. The safety profile of tislelizumab plus chemotherapy was manageable and consistent with previous analyses.\n\nCONCLUSIONS: In patients with advanced nsq-NSCLC and PD-L1 tumor cell expression ≥ 50%, first-line tislelizumab plus chemotherapy demonstrated clinically meaningful improvement in PFS and OS versus chemotherapy. Efficacy was consistent across subgroups of patients with high PD-L1 tumor cell expression levels (50-89% and ≥ 90%).\n\nTRIAL REGISTRATION: Clinical Trials.gov NCT03663205."
-    },
-    {
-      "pmid": "41296193",
-      "doi": "10.1007/s40487-025-00402-x",
-      "title": "Exploratory Analyses of Patient Preferences for Atezolizumab Subcutaneous Versus Intravenous from the IMscin002 Study in Patients with Non-Small Cell Lung Cancer.",
-      "journal": "Oncology and therapy",
-      "pubdate": "2025-11-26T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/s40487-025-00402-x.pdf",
-      "metric_name": "SJR",
-      "metric_value": 1.33,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41296193/",
-      "url_doi": "https://doi.org/10.1007/s40487-025-00402-x",
-      "abstract": "INTRODUCTION: The primary analysis of IMscin002 (NCT05171777) demonstrated that most patients preferred atezolizumab subcutaneous (SC) administration over intravenous (IV) administration; we report patient preference according to baseline characteristics, mean injection duration, and cumulative number of SC injections at each center from IMscin002.\n\nMETHODS: In this phase 2, randomized, open-label, crossover trial, patients aged ≥18 years, with EGFR/ALK wild-type tumors and either PD-L1+ (≥ 1%) resected non-small cell lung cancer (NSCLC) (stage 2, 3a, or selected 3b; AJCC 8th edition) with prior chemotherapy and no evidence of recurrence, or untreated PD-L1-high (≥ 50%) stage 4 NSCLC were eligible. Patients, randomized 1:1, received atezolizumab IV or SC for three cycles before switching to the alternative formulation for another three cycles. Patients chose a formulation for the continuation period after cycle 6.\n\nPRIMARY ENDPOINT: patient preference for atezolizumab SC/IV.\n\nRESULTS: Among 179 patients randomized, demographics and characteristics were generally balanced between arms. Overall, 87/123 patients (70.7%) preferred atezolizumab SC, of whom 86.2% had a very/fairly strong preference compared with 69.2% of patients who preferred IV (n = 26/123, 21.1%). Patient preference for atezolizumab SC was independent of baseline characteristics and mean injection duration. A higher proportion of preference was seen in patients aged > 74 years (87.5%). A trend for a greater number of patients preferring atezolizumab SC over IV was seen in patients at centers where a higher number of cumulative injections (> 47 to ≤ 164) were administered before preference disclosure.\n\nCONCLUSIONS: Most patients preferred atezolizumab SC regardless of baseline characteristics, mean injection duration, and cumulative number of SC injections. The trend for a stronger preference was higher among patients who preferred SC than those who preferred IV. Our findings suggest that the proportion of preference for atezolizumab SC over IV is highest in patients aged > 74 years, and that administrator's experience could be an important factor influencing patient preference.\n\nCLINICAL TRIAL REGISTRATION NUMBER: NCT05171777."
     },
     {
       "pmid": "41116141",
@@ -469,6 +429,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41232542/",
       "url_doi": "https://doi.org/10.1016/S1470-2045(25)00490-5",
       "abstract": "BACKGROUND: Low-dose chest CT screening can reduce lung cancer mortality through early diagnosis. Several studies suggest that risk prediction models are more efficient than categorical age and smoking criteria for participant selection, but there are still reservations from policy makers about their implementation. We aimed to compare the effectiveness of a predefined PLCOm2012 model threshold with the categorical NELSON risk criteria.\n\nMETHODS: In this ongoing prospective cohort study, current or former smokers aged 55-79 years who met either NELSON risk criteria or had a PLCOm2012 6-year risk of at least 1·58% were recruited from three certified German lung cancer centres in Großhansdorf, Hannover, and Lübeck, and received low-dose CT at baseline and 1-year follow-up screening rounds, including all downstream follow-up procedures. The PLCOm2012 cutoff point of at least 1·58% was predefined and estimated to result in an equal group size as with the NELSON inclusion criteria. The primary outcome was the comparison of the positive predictive values for lung cancers detected in PLCOm2012-selected versus NELSON-selected groups. Here, we report the final results of the primary analysis. This study is registered with ClinicalTrials.gov, NCT04913155.\n\nFINDINGS: Between July 23, 2021, and Aug 19, 2022 (end of recruitment), 5191 participants (2208 [43·5%] female, 2983 [57·5%] male, and 5076 [97·8%] of European White ethnicity) who met either one or both high-risk criteria were enrolled (4167 PLCOm2012-selected vs 3916 NELSON-selected participants) and underwent the baseline low-dose CT scan. In the observation period between the two low-dose CT screening rounds (mean volume CT dose index 1·15 mGy [SD 0·15]) with a median time interval of 1·05 years (IQR 0·95-1·08), 111 lung cancers were detected. The positive predictive value (lung cancer detection rate) in the PLCOm2012-selected group was 108 of 4167 participants (2·59% [95% CI 2·13-3·12]) compared with 85 of 3916 participants (2·17% [1·74-2·68]) in the NELSON-selected group (p=0·0016), resulting in a lower number needed to screen (38·6 [32·1-46·9] vs 46·1 [37·3-57·5]).\n\nINTERPRETATION: Participant selection using the PLCOm2012 risk prediction model with a 6-year risk of at least 1·58% cutoff is more efficient and effective in detecting lung cancer than the NELSON criteria and should therefore be implemented in lung cancer screening programmes.\n\nFUNDING: Federal Ministry of Education and Research (German Center for Lung Research) and AstraZeneca."
+    },
+    {
+      "pmid": "41327467",
+      "doi": "10.1186/s13075-025-03703-8",
+      "title": "From autoimmune inflammation to malignancy: causal genetic evidence for the RA-squamous cell lung cancer axis.",
+      "journal": "Arthritis research & therapy",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1186/s13075-025-03703-8",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41327467/",
+      "url_doi": "https://doi.org/10.1186/s13075-025-03703-8",
+      "abstract": "BACKGROUND: The association between rheumatoid arthritis (RA) and lung cancer risk has attracted considerable clinical attention, but conclusions remain inconsistent due to confounding factors such as smoking, and previous studies have paid less attention to specific histological subtypes. This study aims to systematically elucidate the complex relationship between the two through an evidence triangulation strategy combining large-scale clinical cohort studies, machine learning risk prediction, and genetic causal inference.\n\nMETHODS: This study adopted an evidence triangulation strategy, integrating evidence from different populations and methods. First layer of evidence (clinical association, Chinese population): We conducted 1:1 propensity score matching analysis on a real-world cohort of 8,867 subjects (4,661 RA patients) (2014-2024, First Teaching Hospital of Tianjin University of Traditional Chinese Medicine), with particular focus on the association between RA and different lung cancer subtypes (adenocarcinoma, squamous cell carcinoma, small cell carcinoma). We also built machine learning models (logistic regression, random forest, XGBoost) based on 22 clinical features from this cohort to explore the feasibility of individualized risk prediction for overall lung cancer. Second layer of evidence (genetic causation, European population): We turned to use completely independent large-scale public GWAS summary data (RA: N = 92,044, European ancestry; squamous cell lung cancer: N = 63,053, European ancestry; smoking: N = 111,752, European ancestry), employing multivariable Mendelian randomization (MVMR) analysis, after adjusting for the genetic effects of smoking, to specifically explore the causal effect of RA on squamous cell lung cancer.\n\nRESULTS: Clinical evidence reveals that the association between RA and lung cancer exhibits significant subtype specificity: after matching, RA significantly increases squamous cell lung cancer risk (adjusted OR = 2.415, 95% CI: 1.104-5.283, P = 0.027), but shows no significant association with adenocarcinoma (P = 0.437) or small cell carcinoma (P = 0.564). Machine learning models based on clinical features showed limited predictive ability (AUC = 0.57-0.68), revealing the challenge of translating population associations into individual predictions. In an independent European population, genetic analysis presents an instructive paradox: preliminary univariable MR analysis shows RA has a genetic protective effect on squamous cell lung cancer (OR = 0.985), while linkage disequilibrium score regression (LDSC) shows no significant genetic correlation between the two (rg = -0.019, P = 0.806). After simultaneously adjusting for the genetic effects of smoking in multivariable MR analysis, the causal promoting effect of RA on squamous cell lung cancer was revealed (OR = 1.02, 95% CI: 1.00-1.04, P = 0.046), explaining that the apparent protective effect observed in univariable analysis was actually caused by smoking confounding.\n\nCONCLUSION: RA specifically increases squamous cell lung cancer (but not other subtypes) risk. Multivariable Mendelian randomization resolves the causal paradox caused by smoking confounding. Clinical evidence (China) and genetic evidence (Europe) come from different populations and require further validation. Results support implementation of targeted squamous cell lung cancer screening for high-risk RA patients."
     },
     {
       "pmid": "41033335",
