@@ -13,7 +13,7 @@
       "Anamnese",
       "Checkliste"
     ],
-    "body": "Onkologische Diagnose\nNSCLC               (ED <||>)\nHistologie                <||>\nHistologie aus            <||>\nTNM                       <||> (METs)\nUICC                      <||>\nLok Primarius             <||>\nPDL1 Status               <||>% TPS / <||>% IC\nMolekularpathologie       <||> (nur positive Nachweise, angefordert am:) (Entnahmestelle) (nNGM Panel 2.0)\nRauchstatus               <||>py\nECOG                      <||>\nLungenfunktion (Datum): FEV1: , DCO: \n\nProzedere:\n<||>\n\nRauchentwöhnung:\nangeboten                 <||>\nwahrgenommen              <||>\n\nAntiresorptive Therapie:         <||>\nDistress Syndrom Screening:      <||>\nPalliativfragebogen:             <||>\nPatientenverfügung:              <||>\nPrimäre prophylaktische Antikoagulation: <||>\n\nVorerkrankungen:"
+    "body": "Onkologische Diagnose\nNSCLC               (ED <||>)\nHistologie                <||>\nHistologie aus            <||>\nTNM                       <||> (METs)\nUICC                      <||>\nLok Primarius             <||>\nPDL1 Status               <||>% TPS / <||>% IC\nMolekularpathologie       <||> (nur positive Nachweise, angefordert am:) (Entnahmestelle) (nNGM Panel 2.0)\nRauchstatus               <||>py\nECOG                      <||>\nLungenfunktion (Datum): FEV1: , DCO: \n\nProzedere:\n<||>\n\nRauchentwöhnung:\nangeboten                 <||>\nwahrgenommen              <||>\n\nAntiresorptive Therapie:         <||>\n\nHerzschrittmacher?:               <||>\nDistress Syndrom Screening:      <||>\nPalliativfragebogen:             <||>\nPatientenverfügung:              <||>\nPrimäre prophylaktische Antikoagulation: <||>\n\nVorerkrankungen:"
   },
   {
   "id": "tb-0019",
