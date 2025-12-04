@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-03T05:17:25.007313Z",
+  "generated": "2025-12-04T05:18:13.300617Z",
   "items": [
     {
       "pmid": "41314982",
@@ -288,6 +288,26 @@
       "abstract": "BACKGROUND: Cancer-associated venous thromboembolism (VTE) is a major adverse prognostic factor with heterogeneous outcomes across tumor types. We aimed to describe the characteristics of lung cancer patients with VTE, compare outcomes across malignancies, and assess their association with complications, progression, and survival.\n\nMETHODS: We analyzed TESEO-SEOM, a prospective multicenter registry including patients with active cancer and VTE. Patients were stratified by tumor site, with lung as reference. Outcomes included recurrent VTE, bleeding, and survival. Analyses were stratified by tumor type and VTE presentation (clinically suspected, symptomatic/asymptomatic incidental). Complications were estimated using competing-risk methods.\n\nRESULTS: Among 3855 patients, the most frequent cancers were gastrointestinal (39.4 %), lung (22.2 %), and breast (10.4 %). Pulmonary embolism predominated (55 %), especially in lung cancer (69.8 %). Overall, 48.9 % of events were clinically suspected and 50.9 % incidental; suspected were more common in lung cancer (53.9 %), whereas incidental diagnoses predominated in gastrointestinal tumors (58.8 %). Complications occurred in 17.6 % (10.2 % bleeding, 7.4 % recurrent VTE). Recurrence was highest in gastrointestinal cancers (11.4 %, Gray's p = 0.022), while bleeding did not differ (p = 0.213). VTE-related mortality was low (1 %), while mixed-cause mortality was highest in lung cancer (17.2 %). Median PFS and OS were shortest in lung cancer (4.5 and 7.7 months, p < 0.0001). Incidental asymptomatic events conferred longer survival, particularly in lung cancer (OS 11.5 vs. 7.3 months for symptomatic incidental and 5.6 for suspected, p < 0.001).\n\nCONCLUSION: VTE in lung cancer is associated with more severe presentation, higher mixed-cause mortality, and worse survival than in other tumors. Incidental asymptomatic VTE predicts better outcomes, supporting risk stratification by tumor type and presentation."
     },
     {
+      "pmid": "41331169",
+      "doi": "10.1007/s12672-025-04168-6",
+      "title": "A deep learning model for multiclass lung cancer classification using multimodal data fusion.",
+      "journal": "Discover oncology",
+      "pubdate": "2025-12-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.88,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41331169/",
+      "url_doi": "https://doi.org/10.1007/s12672-025-04168-6",
+      "abstract": null
+    },
+    {
       "pmid": "41108995",
       "doi": "10.1016/j.suronc.2025.102309",
       "title": "Mediastinal staging with video-assisted mediastinoscopic lymphadenectomy after endobronchial ultrasound-guided transbronchial needle aspiration: real-world evidence in 228 patients.",
@@ -514,26 +534,24 @@
       "abstract": "BACKGROUND: This prospective, observational study evaluated the real-world safety of osimertinib in a broad Chinese population with non-small cell lung cancer (NSCLC).\n\nMETHODS: Chinese NSCLC patients who received osimertinib were enrolled and followed up for 12 months. The primary endpoint was the incidence of adverse drug reactions (ADRs).\n\nRESULTS: From 20 April 2020 to 1 August 2022, 1,700 patients were enrolled from 30 centers, with 706 (41.5%) patients ≥65 years old. Osimertinib was administered as first-line, second-line, third/later-line and adjuvant therapy in 44.9%, 34.2%, 14.3% and 4.5% of the patients, respectively. ADRs, adverse events (AEs), Grade ≥3 AEs, and serious AEs were reported in 627 (36.9%), 959 (56.4%), 165 (9.7%), and 102 (6.0%) patients, respectively. AEs of special interests occurred in 59 (3.5%) patients, with 41 (2.4%) and 19 (1.1%) reporting QTc prolongation and interstitial lung disease/pneumonitis-like events, respectively. The safety profiles in patients ≥65 years old and those usually not included in randomized clinical trials were similar to that in the total population.\n\nCONCLUSION: This largest real-world safety study of osimertinib in China demonstrated that osimertinib was well-tolerated in a broad NSCLC population, including patients usually not included in randomized clinical trials, without new safety signals identified.\n\nCLINICAL TRIAL REGISTRATION: NCT03485326 (www.clinicaltrials.gov)."
     },
     {
-      "pmid": "41307293",
-      "doi": "10.1002/14651858.CD004143.pub6",
-      "title": "Long-term hormone therapy for perimenopausal and postmenopausal women.",
-      "journal": "The Cochrane database of systematic reviews",
-      "pubdate": "2025-11-27T00:00:00+00:00",
+      "pmid": "41330054",
+      "doi": "10.1016/j.ejca.2025.116153",
+      "title": "Garsorasib in patients with KRAS G12C-mutated non-small-cell lung cancer: A pooled analysis of phase 1/2 study.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2025-11-29T00:00:00+00:00",
       "pubtypes": [
-        "Journal Article",
-        "Meta-Analysis",
-        "Review"
+        "Journal Article"
       ],
-      "entity": "Other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41307293/",
-      "url_doi": "https://doi.org/10.1002/14651858.CD004143.pub6",
-      "abstract": "BACKGROUND: Hormone therapy is widely provided to control menopausal symptoms and has been used for the management and prevention of cardiovascular disease, osteoporosis and dementia in older women. This is an updated version of a Cochrane review first published in 2005.\n\nOBJECTIVES: To assess the long-term effects of prolonged use (at least one year) of hormone therapy on mortality, cardiovascular outcomes, cancer, gallbladder disease, fractures and cognition in perimenopausal and postmenopausal women.\n\nSEARCH METHODS: We used the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, three other databases and two trial registers, together with reference checking, citation searching and contact with study authors to identify the studies included in the review. The latest search date was 26 September 2024.\n\nSELECTION CRITERIA: We included randomised, double-blind trials in which peri- or postmenopausal women took hormone therapy or placebo for at least one year. We included various oestrogen formulations, with or without progestogens. We focused on studies assessing hormone therapy's effects on long-term clinical outcomes, including death, coronary events and cancer. Hormone therapy's efficacy in managing menopausal symptoms was beyond the scope of this review, and is assessed in other Cochrane reviews.\n\nDATA COLLECTION AND ANALYSIS: Two review authors independently selected studies, assessed risk of bias and extracted data. We calculated risk ratios (RRs) for dichotomous data and mean differences (MDs) for continuous data, along with 95% confidence intervals (CIs). We assessed the certainty of the evidence using GRADE.\n\nMAIN RESULTS: We included 24 studies - with two newly added in this update - involving 45,660 participants. We derived nearly 70% of the data from two well-conducted studies: the Heart and Estrogen/progestin Replacement Study (HERS 1998) and the large, multi-component Women's Health Initiative research programme, which included two hormone therapy arms (WHI 1998). Across all the studies, most participants were postmenopausal American women with one or more comorbidities. The mean participant age in most studies was over 60 years. Only one included study focused on perimenopausal women. We present full results for all included studies with available data in the main review. The results presented below are drawn from WHI 1998, in which the combined hormone therapy arm and the oestrogen-only arm were run concurrently, with women assigned to the appropriate trial based on their uterus status. One study with 16,608 postmenopausal women with an intact uterus compared combined continuous hormone therapy (conjugated equine oestrogen and medroxyprogesterone acetate) to placebo, and measured outcomes at an average of 5.6 years of follow-up. Based on this study, combined continuous hormone therapy probably makes little to no difference to the risk of a coronary event (RR 1.17, 95% CI 0.95 to 1.44; moderate-certainty evidence). It may increase the risk of stroke (RR 1.39, 95% CI 1.09 to 2.09; low-certainty evidence) and venous thromboembolism (RR 2.03, 95% CI 1.55 to 6.64; low-certainty evidence). Compared to placebo, combined continuous hormone therapy probably increases the risk of breast cancer (RR 1.27, 95% CI 1.03 to 1.56; moderate-certainty evidence) and probably makes little to no difference to the risk of lung cancer (RR 1.06, 95% CI 0.77 to 1.46; moderate-certainty evidence). It may increase gallbladder disease requiring surgery (RR 1.64, 95% CI 1.30 to 2.06; 14,203 participants; low-certainty evidence), and probably reduces the risk of all clinical fractures (RR 0.78, 95% CI 0.71 to 0.86; moderate-certainty evidence). One study including 10,739 postmenopausal women who had undergone a hysterectomy compared oestrogen-only (conjugated equine oestrogen) hormone therapy to placebo, and measured outcomes at an average of seven years' follow-up. Based on this study, oestrogen-only hormone therapy probably makes little to no difference to the risk of coronary events (RR 0.94, 95% CI 0.78 to 1.13), venous thromboembolism (RR 1.32, 95% CI 1.00 to 1.74) and breast cancer (RR 0.79, 95% CI 0.61 to 1.01), all with moderate-certainty evidence. It may make little to no difference to the risk of lung cancer (RR 1.04, 95% CI 0.73 to 1.48; low-certainty evidence). Oestrogen-only hormone therapy probably increases the risk of stroke (RR 1.33, 95% CI 1.06 to 1.67) and gallbladder disease requiring surgery (RR 1.78, 95% CI 1.42 to 2.24), and probably reduces the risk of all clinical fractures (RR 0.73, 95% CI 0.65 to 0.80), all with moderate-certainty evidence. We judged most included studies to have a low risk of bias for most domains. The overall certainty of evidence for the main comparisons was moderate. The main limitation was that only about 30% of women were 50 to 59 years old at baseline, the age group most likely to consider hormone therapy for vasomotor symptoms.\n\nAUTHORS' CONCLUSIONS: Long-term follow-up of women using hormone therapy suggests that the risk profiles vary between combined hormone therapy and oestrogen-only therapy. Oestrogen-only hormone therapy probably makes little to no difference to coronary events, and probably increases the risk of stroke and gallbladder disease. It probably makes little to no difference in the risk of breast cancer, and probably reduces the risk of all fractures. Combined hormone therapy may increase the risk of thromboembolism and probably increases the risk of breast cancer. These results should be interpreted with caution as they are based on one study using oral hormone therapy, which may not represent the risks of the hormone therapy currently used in clinical practice."
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41330054/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116153",
+      "abstract": "INTRODUCTION: Garsorasib, a KRAS G12C inhibitor, has previously demonstrated its efficacy and safety in patients with KRAS G12C-mutated non-small-cell lung cancer (NSCLC). Here, we present long-term follow-up data from a pooled analysis of the phase 1/2 study.\n\nMETHODS: This multicenter, open-label phase 1/2 study enrolled patients with KRAS G12C-mutated, locally advanced or metastatic NSCLC. The primary endpoints for phase 1 were safety and tolerability and for phase 2 objective response rate (ORR) by a blinded independent review committee per RECIST version 1.1. Data was pooled from patients who received garsorasib 600 mg twice daily.\n\nRESULTS: This pooled dataset included 189 patients (N = 66 in phase 1 and N = 123 in phase 2). The median pooled follow-up time was 13.0 months (IQR: 6.7-17.5). The objective response rate was 48.1 % (95 %CI: 40.8-55.5), and disease control rate was 87.8 % (95 %CI: 82.3-92.1). The median duration of response was 12.45 months (95 % CI: 8.31, 14.49), the median progression-free survival was 9.07 months (95 %CI: 7.39-9.76), and the median overall survival was 14.19 months (95 %CI: 13.08-17.54). Treatment-related adverse events of any grade occurred in 96.3 % of patients, with grade ≥ 3 in 49.2 % of patients. No new safety findings were observed, and most of the adverse events were controllable.\n\nCONCLUSION: This pooled analysis confirmed the robust efficacy and manageable safety of garsorasib in KRAS G12C-mutated NSCLC.\n\nGOV IDENTIFIER: NCT05383898."
     }
   ]
 }
