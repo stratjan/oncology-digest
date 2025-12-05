@@ -1,67 +1,6 @@
 {
-  "generated": "2025-12-04T05:18:13.300617Z",
+  "generated": "2025-12-05T05:18:06.050697Z",
   "items": [
-    {
-      "pmid": "41314982",
-      "doi": "10.1136/jitc-2025-013237",
-      "title": "Immune-modulating effects on tumor-draining lymph nodes of neoadjuvant chemoradiotherapy combined with dual immunotherapy in patients with T3-4N0-2 NSCLC.",
-      "journal": "Journal for immunotherapy of cancer",
-      "pubdate": "2025-11-28T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1136/jitc-2025-013237",
-      "metric_name": "SJR",
-      "metric_value": 4.22,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41314982/",
-      "url_doi": "https://doi.org/10.1136/jitc-2025-013237",
-      "abstract": "BACKGROUND: Tumor-draining lymph nodes (TDLN) play a key role in inducing and promoting antitumor immunity. TDLN are commonly situated near the primary tumor and are therefore often exposed to therapeutic radiation. The impact of induction therapies comprising concurrent immunotherapy and radiation on TDLN is poorly understood. We studied the immune-modulating effects in TDLN of patients with T3-4N0-2 non-small cell lung cancer (NSCLC) using a combination of spatial transcriptomics and immunohistochemical analyses.\n\nMETHODS: This observational cohort study collected TDLN from 2 groups: (1) patients from the INCREASE trial who were treated with neoadjuvant ipilimumab/nivolumab (IPI/NIVO) plus chemoradiotherapy (CRT) (n=25) and (2) a matched control cohort of patients with NSCLC who had neoadjuvant CRT only (n=25). TDLN were classified based on the cumulative dose of radiation received, categorized as low (≤5 Gy), intermediate (20-30 Gy), or high dose (50-60 Gy). The TDLN were subjected to duplex immunohistochemistry of CD8/Ki67, PD-1/FOXP3, and CD8/cleaved caspase-3. On a subset of TDLN, additional GeoMx spatial transcriptomics profiling of CD8/Ki67+T cell hotspots was carried out.\n\nRESULTS: After addition of IPI/NIVO to CRT in the INCREASE cohort, resected TDLN showed robust type I immune responses and increased levels of CD8 and regulatory T cells in irradiated TDLN when compared with the control cohort. These immune responses were observed across all radiation dose groups, with the most pronounced effects in high dose TDLN. Significant changes in extracellular matrix and macrophage-associated gene signatures, indicating elevated fibrosis and prolonged inflammation, were observed in the TDLN with high radiation exposure, changes which were partially alleviated by immunotherapy.\n\nCONCLUSION: In the INCREASE trial, neoadjuvant IPI/NIVO combined with CRT for patients with T3-4N0-2 NSCLC elicited enhanced immune responses in TDLN despite exposure to high dose radiation. Even though radiation-induced fibrosis was evident in high dose TDLN, the immune responses were not diminished when compared with low dose TDLN. These findings underscore the resilience of TDLN immunological function under intense radiation exposure."
-    },
-    {
-      "pmid": "41314984",
-      "doi": "10.1136/jitc-2025-013072",
-      "title": "Second-event endpoints (EFS2, PRFS2 and PFS2) after anti-PD-(L)1-based RCTs: a systematic review and meta-analysis.",
-      "journal": "Journal for immunotherapy of cancer",
-      "pubdate": "2025-11-28T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Meta-Analysis"
-      ],
-      "entity": "Other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1136/jitc-2025-013072",
-      "metric_name": "SJR",
-      "metric_value": 4.22,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41314984/",
-      "url_doi": "https://doi.org/10.1136/jitc-2025-013072",
-      "abstract": "BACKGROUND: Immune checkpoint inhibitors (ICIs), particularly anti-PD-(L)1s, have transformed cancer care by their extended efficacy, even receiving next-line. Event-free survival 2 (EFS2), progression/recurrence-free survival 2 (PRFS2) and progression-free survival 2 (PFS2) capture the time from randomization to objective recurrence/progression or death on the first subsequent therapy, potentially offering a more accurate measure of durable benefit than first-event endpoints. Our aim is to review the magnitude of this benefit and evaluate long-term endpoints as surrogates for overall survival (OS) in immunotherapy for solid malignancies.\n\nMETHODS: A Preferred Reporting Items for Systematic Reviews and Meta-Analyses-compliant systematic review and meta-analysis searched Web of Science, National Institutes of Health Clinical Trials Registry, American Society of Clinical Oncology and European Society of Medical Oncology conference databases from inception until June 12, 2025, for anti-PD-(L)1-based randomized controlled phase II/III clinical trials (RCTs) in patients with solid malignancies that reported EFS2, PRFS2 or PFS2. HRs comparing ICI and non-ICI arms were pooled using a random-effects meta-analytic approach. Sensitivity analyses and meta-regressions assessed effect modifiers. A linear regression compared EFS2/PRFS2/PFS2 and EFS/disease-free survival (DFS)/PFS versus OS HRs.\n\nRESULTS: 47 RCTs met inclusion criteria from 2,078 citations, comprising 58 intervention comparisons (ICs) and 34,973 patients. Non-small cell lung cancer (NSCLC) was the most investigated tumor (17 RCTs). Anti-PD-(L)1s performed generally worse when administered as a subsequent therapy in non-ICI-experienced patients (p<0.05). Early anti-PD-(L)1 use was associated with significantly improved EFS2/PRFS2/PFS2 (HR 0.72; 95% CI 0.68 to 0.76), with consistent findings across curative and recurrent/metastatic settings, and particularly strong effects in RCTs involving patients with deficient mismatch repair or high microsatellite instability tumors and those with more radiological responses. In 54 ICs reporting both OS and EFS2/PRFS2/PFS2 HRs, a strong correlation (R²=0.74) was observed across all RCTs, and an even stronger 0.86 specifically among patients with NSCLC (22 ICs). Conversely, EFS/DFS/PFS presented R² 0.39 across all RCTs (51 ICs), and 0.65 in NSCLC (21 ICs; p<0.01).\n\nCONCLUSIONS: Early use of anti-PD-(L)1 therapy is associated with prolonged disease control and may be linked to enhanced responsiveness to subsequent therapies, mostly based on NSCLC data. Additionally, EFS2/PRFS2/PFS2 are solid candidate surrogates for OS and could be considered for routine inclusion and prespecified into immunotherapy RCTs to better capture long-term benefit and inform regulatory, clinical, and reimbursement decision-making.\n\nPROSPERO REGISTRATION NUMBER: CRD42024585378."
-    },
-    {
-      "pmid": "41315854",
-      "doi": "10.1038/s41746-025-02009-y",
-      "title": "Leveraging large language models to extract smoking history from clinical notes for lung cancer surveillance.",
-      "journal": "NPJ digital medicine",
-      "pubdate": "2025-11-28T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41746-025-02009-y.pdf",
-      "metric_name": "SJR",
-      "metric_value": 4.164,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41315854/",
-      "url_doi": "https://doi.org/10.1038/s41746-025-02009-y",
-      "abstract": "Accurate smoking documentation in electronic health records (EHRs) is crucial for risk assessment and patient monitoring. However, key information is often missing or inaccurately recorded. Large language models (LLMs) present a promising solution for interpreting clinical narratives to extract comprehensive smoking data. We developed a framework utilizing LLMs combined with rule-based longitudinal smoothing techniques to enhance data quality. We compared generative LLMs (Gemini-1.5-Flash, PaLM-2-Text-Bison, GPT-4) against BERT-based models using 1683 manually annotated clinical notes from 518 patients across Stanford and Sutter Health systems. Generative LLMs achieved superior performance ( > 96% accuracy) across seven smoking variables, with external validation showing robust generalizability (97.5-98.8% accuracy). We deployed Gemini-1.5-Flash to 79,408 notes from 4792 lung cancer patients, demonstrating that risk model-based surveillance incorporating smoking factors outperformed NCCN Guidelines in identifying second malignancies. Our study highlights the potential of generative LLMs to improve smoking history documentation quality, enhancing lung cancer surveillance and broader clinical applications."
-    },
     {
       "pmid": "41329713",
       "doi": "10.1158/0008-5472.CAN-25-0433",
@@ -74,8 +13,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1158/0008-5472.can-25-0433",
       "metric_name": "SJR",
       "metric_value": 3.879,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41329713/",
@@ -121,26 +60,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40975161/",
       "url_doi": "https://doi.org/10.1016/j.canlet.2025.218046",
       "abstract": "Dysregulated ISC metabolism has been implicated in cancer progression, but its role in LUAD pathogenesis and therapeutic targeting remains poorly understood. Here, we demonstrate that ISC biogenesis is significantly upregulated in LUAD, driven by transcription factors KLF15 and ZNF384, which activate GLRX5, LYRM4, NFS1 and BOLA3 promoters. IL-1β promotes PCAF mitochondrial translocation, releasing EP300 to amplify KLF15/ZNF384-mediated transcriptional activation. The natural monoterpenoid Hinokitiol inhibits LUAD growth by disrupting EP300-KLF15/ZNF384 interactions, suppressing ISC biogenesis gene expression and inducing ferroptosis. Mechanistically, the membrane protein TMDD1, particularly its cytoplasmic domain, promotes Hinokitiol's anti-tumor effects by facilitating EP300-KLF15/ZNF384 dissociation and inhibiting ISC biogenesis. Remarkably, Hinokitiol exhibits stage-dependent efficacy, with superior suppression of metastatic (stage IV) tumors linked to heightened ferroptosis sensitivity. This study not only elucidates the transcriptional machinery governing ISC biogenesis in LUAD but also highlights Hinokitiol's dual mechanism as a promising stage-specific therapeutic agent, offering novel strategies for advanced disease management."
-    },
-    {
-      "pmid": "40189749",
-      "doi": "10.1080/2162402X.2025.2484880",
-      "title": "Surrogate markers of intestinal dysfunction associated with survival in advanced cancers.",
-      "journal": "Oncoimmunology",
-      "pubdate": "2025-12-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1080/2162402x.2025.2484880",
-      "metric_name": "SJR",
-      "metric_value": 2.542,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40189749/",
-      "url_doi": "https://doi.org/10.1080/2162402X.2025.2484880",
-      "abstract": "Deviations in the diversity and composition of the gut microbiota are called \"gut dysbiosis\". They have been linked to various chronic diseases including cancers and resistance to immunotherapy. Stool shotgun based-metagenomics informs on the ecological composition of the gut microbiota and the prevalence of homeostatic bacteria such as"
     },
     {
       "pmid": "40650354",
@@ -245,6 +164,26 @@
       "abstract": "INTRODUCTION: RATIONALE-304 compared first-line tislelizumab (a programmed cell death protein 1 inhibitor) plus chemotherapy versus chemotherapy in advanced non-squamous non-small cell lung cancer (nsq-NSCLC). This exploratory analysis focused on patients with tumor cell programmed death ligand 1 (PD-L1) expression ≥ 50%.\n\nMETHODS: Patients with stage IIIB/IV nsq-NSCLC were randomized (2:1) to tislelizumab plus platinum-based chemotherapy and pemetrexed every 3 weeks, followed by maintenance tislelizumab and pemetrexed, or platinum-based chemotherapy and pemetrexed followed by maintenance pemetrexed. The primary endpoint was independent review committee (IRC)-assessed progression-free survival (PFS); secondary endpoints included overall survival (OS), IRC-assessed objective response rates, and safety.\n\nRESULTS: The PD-L1 ≥ 50% population included 110 patients (tislelizumab plus chemotherapy, n = 74; chemotherapy, n = 36); 71.8% (n = 79) were male and 28.2% (n = 31) were female. Consistent with the final analysis (median follow-up 16.5 months), the 4-year follow-up data (median follow-up 23.4 months) continued to show an improvement in median PFS (17.2 vs. 4.6 months; stratified HR 0.29, 95% CI 0.17-0.50) and median OS (41.9 vs. 13.1 months; stratified HR 0.38, 95% CI 0.23-0.62) for patients who received tislelizumab plus chemotherapy versus chemotherapy. An additional post hoc analysis showed no significant differences in PFS or OS between PD-L1 50-89% and ≥ 90% subgroups in the tislelizumab plus chemotherapy arm. The safety profile of tislelizumab plus chemotherapy was manageable and consistent with previous analyses.\n\nCONCLUSIONS: In patients with advanced nsq-NSCLC and PD-L1 tumor cell expression ≥ 50%, first-line tislelizumab plus chemotherapy demonstrated clinically meaningful improvement in PFS and OS versus chemotherapy. Efficacy was consistent across subgroups of patients with high PD-L1 tumor cell expression levels (50-89% and ≥ 90%).\n\nTRIAL REGISTRATION: Clinical Trials.gov NCT03663205."
     },
     {
+      "pmid": "41275660",
+      "doi": "10.1016/j.oraloncology.2025.107791",
+      "title": "Subcutaneous amivantamab in recurrent/metastatic head and neck squamous cell cancer after disease progression on checkpoint inhibitor and chemotherapy: Preliminary results from the phase 1b/2 OrigAMI-4 study.",
+      "journal": "Oral oncology",
+      "pubdate": "2025-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.oraloncology.2025.107791",
+      "metric_name": "SJR",
+      "metric_value": 1.326,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41275660/",
+      "url_doi": "https://doi.org/10.1016/j.oraloncology.2025.107791",
+      "abstract": "Overexpression of EGFR and MET occurs in a high proportion of recurrent and/or metastatic (R/M) head and neck squamous cell carcinoma (HNSCC). Amivantamab, an EGFR-MET bispecific antibody with immune-cell directing activity, is approved in EGFR-mutated advanced non-small cell lung cancer and is being evaluated in phase 3 trials for other solid tumors. Cohort 1 of OrigAMI-4 (NCT06385080) enrolled adult participants with human papillomavirus-unrelated R/M HNSCC with disease progression on/after prior checkpoint inhibitor and platinum-based chemotherapy. Subcutaneous amivantamab was administered at 1600 mg (2240 mg for ≥ 80 kg body weight) on Cycle 1 Day 1 and 2400 mg (3360 mg for ≥ 80 kg body weight) thereafter. Primary end point was investigator-assessed objective response rate (ORR). As of July 1, 2025 (median follow-up, 3.5 months [range, 0-13.4]), 86 participants (median age, 63.5 years; 45 % Asian; 43 % White) received ≥ 1 dose of subcutaneous amivantamab. Subcutaneous amivantamab was well tolerated. Administration-related reactions were reported in 7 % (n = 6/86) of participants; no new safety signals were observed. In the efficacy population (n = 38; median follow-up, 8.3 months [range, 1.1-13.4]), confirmed ORR was 45 % (95 % CI, 29 %-62 %), median time to first response was 6.4 weeks (range, 5.7-18.3), and median duration of response was 7.2 months (95 % CI, 5.3-NE). The clinical benefit rate (responder or durable stable disease) was 76 % (95 % CI, 60 %-89 %). Median progression-free survival was 6.8 months (95 % CI, 4.2-9.0). Subcutaneous amivantamab as second-/third-line treatment among participants with R/M HNSCC demonstrated rapid and durable antitumor activity. The safety profile of subcutaneous amivantamab was consistent with previous studies."
+    },
+    {
       "pmid": "41116141",
       "doi": "10.1007/s12325-025-03365-7",
       "title": "A Time and Motion Study Comparing Subcutaneous Pembrolizumab Versus Intravenous Pembrolizumab in Combination with Chemotherapy for the Treatment of Metastatic Non-small Cell Lung Cancer.",
@@ -299,8 +238,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1007/s12672-025-04168-6",
       "metric_name": "SJR",
       "metric_value": 0.88,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41331169/",
@@ -390,6 +329,26 @@
       "abstract": "BACKGROUND: Anti-PD-L1 antibodies with platinum-etoposide extend overall survival (OS) of extensive disease Small Cell Lung Cancer (ED-SCLC) patients. We evaluated the benefit of first-line pembrolizumab with platinum-etoposide in chemo-sensitive ED-SCLC.\n\nMETHODS: REACTION is a multicenter, open-label, randomized phase II trial. Eligible patients (responders after 2 cycles of platinum-etoposide) were randomized 1:1 to experimental arm pembrolizumab in combination with 4 cycles of platinum-etoposide then pembrolizumab vs platinum-etoposide in the control arm. The primary endpoint was progression free survival (PFS). Circulating tumour cells (CTCs) were enumerated and their association with PFS and OS was investigated.\n\nRESULTS: Between Feb 7, 2018 and Oct 31, 2019, 125 patients were recruited (61 vs 64 experimental and control arms respectively) with 119 (58 vs 61) eligible and receiving at least one dose of treatment. Baseline characteristics were median age 65 vs 63.5 years, PS 1 (62 vs 60 %), and brain metastases (8 vs 11 %), in the experimental and control arms respectively. Amongst 124 patients who started treatment, 46 (37 %) experienced adverse events grade ≥ 3 for pembrolizumab arm vs 26 % in the control arm. Response rate was 61 % (67 vs 56 %). Median PFS (95 % CI) was 4.7 months (4.2, 5.6) vs 5.4 (4.7, 5.6), HR (80 % CI) = 0.84 (0.65, 1.09) and 1-sided p = 0.194. Median OS (95 % CI) was 12.3 months (8.9, 14.8) vs 10.4 (8.2, 12.2), HR (80 % CI) = 0.73 (0.54, 1.0) and 1-sided p = 0.097. CTC count per 7.5 ml blood at randomization was associated significantly with both PFS and OS regardless of treatment arms.\n\nCONCLUSIONS: Pembrolizumab added to platinum-etoposide did not improve PFS over platinum-etoposide alone in chemo-sensitive patients with ED."
     },
     {
+      "pmid": "41339316",
+      "doi": "10.1038/s41467-025-66803-8",
+      "title": "Non-small cell lung cancer molecular subtypes and vulnerability to immunotherapy treatment combinations.",
+      "journal": "Nature communications",
+      "pubdate": "2025-12-03T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41467-025-66803-8_reference.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41339316/",
+      "url_doi": "https://doi.org/10.1038/s41467-025-66803-8",
+      "abstract": "The phase 3 IMpower150 trial in treatment-naïve patients with metastatic non-small-cell lung cancer (NSCLC) demonstrates significantly longer progression-free (PFS) and overall survival (OS) with first-line atezolizumab (anti-PD-L1)-bevacizumab (anti-VEGF)-carboplatin-paclitaxel (ABCP) than with bevacizumab-carboplatin-paclitaxel (BCP). We characterise four molecular NSCLC subtypes identified by unsupervised clustering of transcriptomes of 564 pre-treatment primary tumour samples from IMpower150 using non-negative matrix factorization (NMF1-4). Each subtype has distinct tumour PD-L1 expression levels, epithelial characteristics, immune composition, and treatment outcomes. Both NMF2 (enriched in tumour proliferation signal, macrophages, and monocytes) and NMF4 (enriched in B cells and T cells) have elevated tumour PD-L1 expression. Of these two, only NMF4 demonstrates PFS and OS benefits with ABCP versus either BCP or atezolizumab-carboplatin-paclitaxel (ACP). Patients with NMF1 (enriched in basal and squamous-like cells) have improved outcomes on ABCP compared with ACP or BCP; those with NMF3 (enriched in adenocarcinoma signatures) show similar outcomes among treatments. These insights could help inform individualised first-line treatment for metastatic NSCLC."
+    },
+    {
       "pmid": "41325571",
       "doi": "10.1200/JCO-24-02835",
       "title": "Amivantamab Plus Lazertinib in Atypical EGFR-Mutated Advanced Non-Small Cell Lung Cancer: Results From CHRYSALIS-2.",
@@ -401,8 +360,8 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1200/jco-24-02835",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41325571/",
