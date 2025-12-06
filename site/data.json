@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-05T05:18:06.050697Z",
+  "generated": "2025-12-06T05:16:46.239533Z",
   "items": [
     {
       "pmid": "41329713",
@@ -349,6 +349,26 @@
       "abstract": "The phase 3 IMpower150 trial in treatment-naïve patients with metastatic non-small-cell lung cancer (NSCLC) demonstrates significantly longer progression-free (PFS) and overall survival (OS) with first-line atezolizumab (anti-PD-L1)-bevacizumab (anti-VEGF)-carboplatin-paclitaxel (ABCP) than with bevacizumab-carboplatin-paclitaxel (BCP). We characterise four molecular NSCLC subtypes identified by unsupervised clustering of transcriptomes of 564 pre-treatment primary tumour samples from IMpower150 using non-negative matrix factorization (NMF1-4). Each subtype has distinct tumour PD-L1 expression levels, epithelial characteristics, immune composition, and treatment outcomes. Both NMF2 (enriched in tumour proliferation signal, macrophages, and monocytes) and NMF4 (enriched in B cells and T cells) have elevated tumour PD-L1 expression. Of these two, only NMF4 demonstrates PFS and OS benefits with ABCP versus either BCP or atezolizumab-carboplatin-paclitaxel (ACP). Patients with NMF1 (enriched in basal and squamous-like cells) have improved outcomes on ABCP compared with ACP or BCP; those with NMF3 (enriched in adenocarcinoma signatures) show similar outcomes among treatments. These insights could help inform individualised first-line treatment for metastatic NSCLC."
     },
     {
+      "pmid": "41344502",
+      "doi": "10.1016/j.jtho.2025.11.014",
+      "title": "Population impact of risk-based lung cancer screening on late-stage incidence in Greater Manchester.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-12-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41344502/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.11.014",
+      "abstract": "BACKGROUND: Low dose CT (LDCT) screening reduces lung cancer mortality in clinical trials, but evidence of impact in real-world programmes is lacking. Here we examine the impact of screening in a socio-economically deprived area at the population level. We hypothesised that late-stage lung cancer incidence, as a surrogate for lung cancer mortality, would decrease following systematic implementation of screening in a high-risk population.\n\nMETHODS: Late-stage lung cancer incidence among individuals aged 55-80 at the time of screening invitation was compared before and after screening implementation between regions with and without implementation of community-based lung cancer screening (North & East Manchester [screening] vs 4 neighbouring regions [no screening]). The effect of screening was estimated using difference-in-difference modelling.\n\nRESULTS: Late-stage lung cancer incidence decreased more steeply in the screening region, such that screening was associated with a 22% reduction in late-stage lung cancer incidence among the invited age range 55-80 (adjusted incidence rate ratio, IRR\n\nCONCLUSION: Implementation of targeted, community-based lung cancer screening in an area of high socioeconomic deprivation was associated with a significant reduction in late-stage lung cancer incidence. This provides a demonstration of screening effectiveness and public health benefit."
+    },
+    {
       "pmid": "41325571",
       "doi": "10.1200/JCO-24-02835",
       "title": "Amivantamab Plus Lazertinib in Atypical EGFR-Mutated Advanced Non-Small Cell Lung Cancer: Results From CHRYSALIS-2.",
@@ -491,26 +511,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41164890/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2579208",
       "abstract": "BACKGROUND: This prospective, observational study evaluated the real-world safety of osimertinib in a broad Chinese population with non-small cell lung cancer (NSCLC).\n\nMETHODS: Chinese NSCLC patients who received osimertinib were enrolled and followed up for 12 months. The primary endpoint was the incidence of adverse drug reactions (ADRs).\n\nRESULTS: From 20 April 2020 to 1 August 2022, 1,700 patients were enrolled from 30 centers, with 706 (41.5%) patients ≥65 years old. Osimertinib was administered as first-line, second-line, third/later-line and adjuvant therapy in 44.9%, 34.2%, 14.3% and 4.5% of the patients, respectively. ADRs, adverse events (AEs), Grade ≥3 AEs, and serious AEs were reported in 627 (36.9%), 959 (56.4%), 165 (9.7%), and 102 (6.0%) patients, respectively. AEs of special interests occurred in 59 (3.5%) patients, with 41 (2.4%) and 19 (1.1%) reporting QTc prolongation and interstitial lung disease/pneumonitis-like events, respectively. The safety profiles in patients ≥65 years old and those usually not included in randomized clinical trials were similar to that in the total population.\n\nCONCLUSION: This largest real-world safety study of osimertinib in China demonstrated that osimertinib was well-tolerated in a broad NSCLC population, including patients usually not included in randomized clinical trials, without new safety signals identified.\n\nCLINICAL TRIAL REGISTRATION: NCT03485326 (www.clinicaltrials.gov)."
-    },
-    {
-      "pmid": "41330054",
-      "doi": "10.1016/j.ejca.2025.116153",
-      "title": "Garsorasib in patients with KRAS G12C-mutated non-small-cell lung cancer: A pooled analysis of phase 1/2 study.",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2025-11-29T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41330054/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116153",
-      "abstract": "INTRODUCTION: Garsorasib, a KRAS G12C inhibitor, has previously demonstrated its efficacy and safety in patients with KRAS G12C-mutated non-small-cell lung cancer (NSCLC). Here, we present long-term follow-up data from a pooled analysis of the phase 1/2 study.\n\nMETHODS: This multicenter, open-label phase 1/2 study enrolled patients with KRAS G12C-mutated, locally advanced or metastatic NSCLC. The primary endpoints for phase 1 were safety and tolerability and for phase 2 objective response rate (ORR) by a blinded independent review committee per RECIST version 1.1. Data was pooled from patients who received garsorasib 600 mg twice daily.\n\nRESULTS: This pooled dataset included 189 patients (N = 66 in phase 1 and N = 123 in phase 2). The median pooled follow-up time was 13.0 months (IQR: 6.7-17.5). The objective response rate was 48.1 % (95 %CI: 40.8-55.5), and disease control rate was 87.8 % (95 %CI: 82.3-92.1). The median duration of response was 12.45 months (95 % CI: 8.31, 14.49), the median progression-free survival was 9.07 months (95 %CI: 7.39-9.76), and the median overall survival was 14.19 months (95 %CI: 13.08-17.54). Treatment-related adverse events of any grade occurred in 96.3 % of patients, with grade ≥ 3 in 49.2 % of patients. No new safety findings were observed, and most of the adverse events were controllable.\n\nCONCLUSION: This pooled analysis confirmed the robust efficacy and manageable safety of garsorasib in KRAS G12C-mutated NSCLC.\n\nGOV IDENTIFIER: NCT05383898."
     }
   ]
 }
