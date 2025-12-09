@@ -1,46 +1,6 @@
 {
-  "generated": "2025-12-08T05:20:26.447174Z",
+  "generated": "2025-12-09T05:19:24.124851Z",
   "items": [
-    {
-      "pmid": "41329713",
-      "doi": "10.1158/0008-5472.CAN-25-0433",
-      "title": "Transfer of Damaged Mitochondria from Cancer Cells to Cancer-Associated Fibroblasts Promotes Tyrosine Kinase Inhibitor Tolerance in EGFR-Mutant Lung Cancer.",
-      "journal": "Cancer research",
-      "pubdate": "2025-12-02T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1158/0008-5472.can-25-0433",
-      "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41329713/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-0433",
-      "abstract": "Drug-tolerant persister (DTP) cells drive therapeutic resistance in EGFR-mutant lung adenocarcinoma. Using single-cell RNA sequencing, we identified a clinically significant RGS5+MYL9+ cancer-associated fibroblast (CAF) population that was associated with EGFR tyrosine kinase inhibitor (TKI) resistance and poor prognosis. These CAFs were recruited to DTP niches via CCL11 signaling, and they formed tunneling nanotubes through Miro1/RhoA activation induced by TKI-generated mitochondrial reactive oxygen species (ROS). Remarkably, RGS5+MYL9+ CAFs functioned as \"metabolic sinks\" by accepting tumor-derived damaged mitochondria, thereby promoting DTP survival. Treatment with fasudil, a Rho kinase inhibitor, effectively blocked mitochondrial transfer and restored sensitivity to the EGFR-TKI osimertinib in vivo. Together, this work reveals targetable stromal-tumor crosstalk that sustains DTP populations, proposing a combination therapy for overcoming EGFR-TKI resistance."
-    },
-    {
-      "pmid": "41331169",
-      "doi": "10.1007/s12672-025-04168-6",
-      "title": "A deep learning model for multiclass lung cancer classification using multimodal data fusion.",
-      "journal": "Discover oncology",
-      "pubdate": "2025-12-02T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1007/s12672-025-04168-6",
-      "metric_name": "SJR",
-      "metric_value": 0.88,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41331169/",
-      "url_doi": "https://doi.org/10.1007/s12672-025-04168-6",
-      "abstract": null
-    },
     {
       "pmid": "41176132",
       "doi": "10.1016/j.taap.2025.117625",
@@ -129,7 +89,7 @@
       "doi": "10.1097/JS9.0000000000004151",
       "title": "A more selective risk-stratified, machine learning based, lung cancer thromboprophylaxis protocol following vats segmentectomy: a prospective cohort study.",
       "journal": "International journal of surgery (London, England)",
-      "pubdate": "2025-12-05T00:00:00+00:00",
+      "pubdate": "2025-12-08T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
@@ -163,26 +123,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41339316/",
       "url_doi": "https://doi.org/10.1038/s41467-025-66803-8",
       "abstract": "The phase 3 IMpower150 trial in treatment-naïve patients with metastatic non-small-cell lung cancer (NSCLC) demonstrates significantly longer progression-free (PFS) and overall survival (OS) with first-line atezolizumab (anti-PD-L1)-bevacizumab (anti-VEGF)-carboplatin-paclitaxel (ABCP) than with bevacizumab-carboplatin-paclitaxel (BCP). We characterise four molecular NSCLC subtypes identified by unsupervised clustering of transcriptomes of 564 pre-treatment primary tumour samples from IMpower150 using non-negative matrix factorization (NMF1-4). Each subtype has distinct tumour PD-L1 expression levels, epithelial characteristics, immune composition, and treatment outcomes. Both NMF2 (enriched in tumour proliferation signal, macrophages, and monocytes) and NMF4 (enriched in B cells and T cells) have elevated tumour PD-L1 expression. Of these two, only NMF4 demonstrates PFS and OS benefits with ABCP versus either BCP or atezolizumab-carboplatin-paclitaxel (ACP). Patients with NMF1 (enriched in basal and squamous-like cells) have improved outcomes on ABCP compared with ACP or BCP; those with NMF3 (enriched in adenocarcinoma signatures) show similar outcomes among treatments. These insights could help inform individualised first-line treatment for metastatic NSCLC."
-    },
-    {
-      "pmid": "41344502",
-      "doi": "10.1016/j.jtho.2025.11.014",
-      "title": "Population impact of risk-based lung cancer screening on late-stage incidence in Greater Manchester.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-12-02T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41344502/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.11.014",
-      "abstract": "BACKGROUND: Low dose CT (LDCT) screening reduces lung cancer mortality in clinical trials, but evidence of impact in real-world programmes is lacking. Here we examine the impact of screening in a socio-economically deprived area at the population level. We hypothesised that late-stage lung cancer incidence, as a surrogate for lung cancer mortality, would decrease following systematic implementation of screening in a high-risk population.\n\nMETHODS: Late-stage lung cancer incidence among individuals aged 55-80 at the time of screening invitation was compared before and after screening implementation between regions with and without implementation of community-based lung cancer screening (North & East Manchester [screening] vs 4 neighbouring regions [no screening]). The effect of screening was estimated using difference-in-difference modelling.\n\nRESULTS: Late-stage lung cancer incidence decreased more steeply in the screening region, such that screening was associated with a 22% reduction in late-stage lung cancer incidence among the invited age range 55-80 (adjusted incidence rate ratio, IRR\n\nCONCLUSION: Implementation of targeted, community-based lung cancer screening in an area of high socioeconomic deprivation was associated with a significant reduction in late-stage lung cancer incidence. This provides a demonstration of screening effectiveness and public health benefit."
     }
   ]
 }
