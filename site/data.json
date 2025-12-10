@@ -1,6 +1,27 @@
 {
-  "generated": "2025-12-09T05:19:24.124851Z",
+  "generated": "2025-12-10T05:20:11.789740Z",
   "items": [
+    {
+      "pmid": "41360425",
+      "doi": "10.1136/jitc-2025-012880",
+      "title": "PD-L1 phenotype classification based on expression in tumor and immune cells as a potential biomarker for optimizing anti-PD-1/CTLA-4 immunotherapies in NSCLC.",
+      "journal": "Journal for immunotherapy of cancer",
+      "pubdate": "2025-12-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://jitc.bmj.com/content/13/12/e012880.full.pdf",
+      "metric_name": "SJR",
+      "metric_value": 4.22,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41360425/",
+      "url_doi": "https://doi.org/10.1136/jitc-2025-012880",
+      "abstract": "BACKGROUND: Compared with conventional chemotherapy, pembrolizumab-based chemoimmunotherapy (Pembro) and nivolumab plus ipilimumab with or without two cycles of platinum-doublet chemotherapy (Nivo+Ipi) improve survival in advanced non-small cell lung cancer (NSCLC). However, biomarkers for selecting optimal immunotherapy remain unclear. This study aimed to assess whether programmed cell death-ligand 1 (PD-L1) expression on tumor and immune cells (ICs) can guide first-line immunotherapy in advanced NSCLC.\n\nMETHODS: This multicenter, observational study retrospectively reviewed patients with NSCLC treated with first-line Pembro or Nivo+Ipi who had evaluable PD-L1 expression on tumor (Tumor Proportion Score (TPS), 22C3) and ICs score (SP142). In addition, whole-exome and RNA sequencing were performed on treatment-naïve NSCLCs with available PD-L1 expression status by both assays.\n\nRESULTS: Between 2019 and 2023, 198 patients were included (Pembro/Nivo+Ipi: 137/61). In the Pembro cohort, patients with high TPS (≥ 50%) had significantly longer progression-free survival (PFS) than those with low TPS (< 50%) (median PFS (mPFS, months): 8.1 vs 7.1; p=0.02), while IC score was not predictive. In the Nivo+Ipi cohort, high IC score (≥1) was associated with longer PFS than low IC score (0) (mPFS: 7.7 vs 2.8; p=0.04), while TPS showed no impact. Among patients with low TPS/high IC scores, Nivo+Ipi achieved longer PFS than Pembro (mPFS: 12.4 vs 6.6; restricted mean survival time (RMST)\n\nCONCLUSIONS: Patients with NSCLC and low TPS/high IC scores may benefit more from Nivo+Ipi than from Pembro due to distinct genomic and immunological features, including high TMB and T"
+    },
     {
       "pmid": "41176132",
       "doi": "10.1016/j.taap.2025.117625",
@@ -85,6 +106,27 @@
       "abstract": "BACKGROUND: Anti-PD-L1 antibodies with platinum-etoposide extend overall survival (OS) of extensive disease Small Cell Lung Cancer (ED-SCLC) patients. We evaluated the benefit of first-line pembrolizumab with platinum-etoposide in chemo-sensitive ED-SCLC.\n\nMETHODS: REACTION is a multicenter, open-label, randomized phase II trial. Eligible patients (responders after 2 cycles of platinum-etoposide) were randomized 1:1 to experimental arm pembrolizumab in combination with 4 cycles of platinum-etoposide then pembrolizumab vs platinum-etoposide in the control arm. The primary endpoint was progression free survival (PFS). Circulating tumour cells (CTCs) were enumerated and their association with PFS and OS was investigated.\n\nRESULTS: Between Feb 7, 2018 and Oct 31, 2019, 125 patients were recruited (61 vs 64 experimental and control arms respectively) with 119 (58 vs 61) eligible and receiving at least one dose of treatment. Baseline characteristics were median age 65 vs 63.5 years, PS 1 (62 vs 60 %), and brain metastases (8 vs 11 %), in the experimental and control arms respectively. Amongst 124 patients who started treatment, 46 (37 %) experienced adverse events grade ≥ 3 for pembrolizumab arm vs 26 % in the control arm. Response rate was 61 % (67 vs 56 %). Median PFS (95 % CI) was 4.7 months (4.2, 5.6) vs 5.4 (4.7, 5.6), HR (80 % CI) = 0.84 (0.65, 1.09) and 1-sided p = 0.194. Median OS (95 % CI) was 12.3 months (8.9, 14.8) vs 10.4 (8.2, 12.2), HR (80 % CI) = 0.73 (0.54, 1.0) and 1-sided p = 0.097. CTC count per 7.5 ml blood at randomization was associated significantly with both PFS and OS regardless of treatment arms.\n\nCONCLUSIONS: Pembrolizumab added to platinum-etoposide did not improve PFS over platinum-etoposide alone in chemo-sensitive patients with ED."
     },
     {
+      "pmid": "41360981",
+      "doi": "10.1038/s41467-025-65930-6",
+      "title": "Precise diagnosis of small invasive pulmonary nodules driven by single-cell immune signatures in peripheral blood.",
+      "journal": "Nature communications",
+      "pubdate": "2025-12-08T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41467-025-65930-6.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41360981/",
+      "url_doi": "https://doi.org/10.1038/s41467-025-65930-6",
+      "abstract": "Early detection of lung cancer is crucial for improving patient outcomes. However, accurately diagnosing invasive pulmonary nodules and predicting tumor invasiveness remain major clinical challenges. Given the established role of immune dysfunction in cancer development, we hypothesize that peripheral immune profiling could provide a strategy for managing pulmonary nodules. In this multi-center, prospective study, we combine peripheral immune profiling via mass cytometry with machine learning algorithms to develop an integrated pulmonary nodule management platform. This platform accurately distinguishes invasive from non-invasive pulmonary nodules (AUC = 0.952), outperforming established clinical and radiomics-based models. Furthermore, it effectively predicts tumor invasiveness, differentiating minimally invasive from invasive adenocarcinoma (AUC = 0.949), thereby offering valuable guidance for surgical decision-making. In conclusion, the platform demonstrates substantial clinical utility and holds significant promise as a precision tool for future management of pulmonary nodules."
+    },
+    {
       "pmid": "41351270",
       "doi": "10.1097/JS9.0000000000004151",
       "title": "A more selective risk-stratified, machine learning based, lung cancer thromboprophylaxis protocol following vats segmentectomy: a prospective cohort study.",
@@ -103,26 +145,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41351270/",
       "url_doi": "https://doi.org/10.1097/JS9.0000000000004151",
       "abstract": "BACKGROUND: Venous thromboembolism (VTE) represents a potentially fatal but preventable postoperative complication. We sought to establish and validate an explainable prediction model based on the machine learning (ML) approach for VTE, and assess its prognostic implications in thoracic oncology patients undergoing VATS Segmentectomy.\n\nMATERIALS AND METHODS: We prospectively developed and validated a predictive model for postoperative VTE following VATS segmentectomy. Patients were sequentially enrolled into training (n = 557, Apr.2017-Jan.2021) and validation cohorts (n = 239, Feb.2021-Oct.2022). 49 clinicopathological variables, including the novel biomarker von Willebrand factor A2 (vWF-A2), were evaluated. 11 ML algorithms were compared based on several evaluation indexes including AUC. SHapley Additive exPlanations (SHAP) analysis was utilized for feature ranking and interpretability. The final model was benchmarked against the traditional Caprini score, and the prognostic impact of postoperative VTE on long-term survival was further assessed.\n\nRESULTS: In this prospective study, eXtreme gradient boosting (XGBoost) demonstrated superior discriminative performance among 11 evaluated ML-models. After feature reduction based on ranked feature importance, a final interpretable XGBoost model comprising 11 variables was established. This model accurately predicted postoperative VTE in both training (AUC = 0.903) and validation (AUC = 0.856) cohorts, significantly outperforming the conventional Caprini score RAM. Additionally, comparison of oncologic outcomes revealed no significant difference in overall survival (P = 0.068), whereas disease-free survival was significantly shorter in patients experiencing postoperative VTE (P = 0.017).\n\nCONCLUSION: Our explainable risk-stratification ML model not only accurately predicts the risk of VTE following VATS segmentectomy in early-stage NSCLC patients, but also exhibits substantial clinical relevance to adverse prognostic outcomes in this patient cohort."
-    },
-    {
-      "pmid": "41339316",
-      "doi": "10.1038/s41467-025-66803-8",
-      "title": "Non-small cell lung cancer molecular subtypes and vulnerability to immunotherapy treatment combinations.",
-      "journal": "Nature communications",
-      "pubdate": "2025-12-03T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41467-025-66803-8_reference.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41339316/",
-      "url_doi": "https://doi.org/10.1038/s41467-025-66803-8",
-      "abstract": "The phase 3 IMpower150 trial in treatment-naïve patients with metastatic non-small-cell lung cancer (NSCLC) demonstrates significantly longer progression-free (PFS) and overall survival (OS) with first-line atezolizumab (anti-PD-L1)-bevacizumab (anti-VEGF)-carboplatin-paclitaxel (ABCP) than with bevacizumab-carboplatin-paclitaxel (BCP). We characterise four molecular NSCLC subtypes identified by unsupervised clustering of transcriptomes of 564 pre-treatment primary tumour samples from IMpower150 using non-negative matrix factorization (NMF1-4). Each subtype has distinct tumour PD-L1 expression levels, epithelial characteristics, immune composition, and treatment outcomes. Both NMF2 (enriched in tumour proliferation signal, macrophages, and monocytes) and NMF4 (enriched in B cells and T cells) have elevated tumour PD-L1 expression. Of these two, only NMF4 demonstrates PFS and OS benefits with ABCP versus either BCP or atezolizumab-carboplatin-paclitaxel (ACP). Patients with NMF1 (enriched in basal and squamous-like cells) have improved outcomes on ABCP compared with ACP or BCP; those with NMF3 (enriched in adenocarcinoma signatures) show similar outcomes among treatments. These insights could help inform individualised first-line treatment for metastatic NSCLC."
     }
   ]
 }
