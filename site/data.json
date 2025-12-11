@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-10T05:20:11.789740Z",
+  "generated": "2025-12-11T05:20:41.183047Z",
   "items": [
     {
       "pmid": "41360425",
@@ -63,6 +63,46 @@
       "abstract": "The objective of this research is to investigate the association between occupational radon exposure and pulmonary health outcomes in male miners from Chongqing, China. Between June 2022 and December 2023, 110 miners were enrolled in this cross-sectional study. Personal radon exposure levels were measured using passive cumulative dosimeters, with pulmonary health assessed through radiologist-interpreted low-dose computed tomography (CT) scans and serum biomarker analysis (CEA, CYFRA21-1, NSE, and CA125) via ELISA. Multivariable analyses revealed strong dose-response relationships between radon exposure and both serum biomarkers and CT abnormalities. high radon exposure predicted substantial biomarker elevations including a 2.45-fold increase in CYFRA21-1 (β = 0.39, 95 % CI 0.25-0.54, p < 0.001), 1.60-fold increase in CEA (β = 0.20, 0.05-0.35, p = 0.008), and 3.58-fold increased CT abnormality risk (OR = 3.58, p = 0.023). Mediation analysis identified CYFRA21-1 as accounting for 69 % (p = 0.024) and CEA for 24.7 % (p = 0.036) of radon's effect on CT abnormalities. These findings demonstrate that occupational radon exposure contributes to pulmonary damage through both direct effects and biomarker-mediated pathways, with CYFRA21-1 and CEA emerging as potential early indicators of lung cancer in radon-exposed populations."
     },
     {
+      "pmid": "41370740",
+      "doi": "10.1200/JCO-25-02102",
+      "title": "Reply to: \"Improving the Reporting of Long-Term Effects in the IMpower010 Trial\" and \"Adjuvant Atezolizumab in Early-Stage Non-Small Cell Lung Cancer: Signals, Silences, and the Need for Methodological Clarity\".",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-12-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41370740/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-02102",
+      "abstract": null
+    },
+    {
+      "pmid": "41370734",
+      "doi": "10.1200/JCO-25-01540",
+      "title": "Adjuvant Atezolizumab in Early-Stage Non-Small Cell Lung Cancer: Signals, Silences, and the Need for Methodological Clarity.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-12-10T00:00:00+00:00",
+      "pubtypes": [
+        "Letter"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41370734/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01540",
+      "abstract": null
+    },
+    {
       "pmid": "41109959",
       "doi": "10.1200/JCO-25-02023",
       "title": "Updated Overall Survival Analysis From the Phase II PHAROS Study of Encorafenib Plus Binimetinib in Patients With BRAF V600E-Mutant Metastatic Non-Small Cell Lung Cancer.",
@@ -75,8 +115,8 @@
       "entity": "NSCLC",
       "trial_type": "Phase II",
       "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12680272/",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41109959/",
@@ -145,6 +185,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41351270/",
       "url_doi": "https://doi.org/10.1097/JS9.0000000000004151",
       "abstract": "BACKGROUND: Venous thromboembolism (VTE) represents a potentially fatal but preventable postoperative complication. We sought to establish and validate an explainable prediction model based on the machine learning (ML) approach for VTE, and assess its prognostic implications in thoracic oncology patients undergoing VATS Segmentectomy.\n\nMATERIALS AND METHODS: We prospectively developed and validated a predictive model for postoperative VTE following VATS segmentectomy. Patients were sequentially enrolled into training (n = 557, Apr.2017-Jan.2021) and validation cohorts (n = 239, Feb.2021-Oct.2022). 49 clinicopathological variables, including the novel biomarker von Willebrand factor A2 (vWF-A2), were evaluated. 11 ML algorithms were compared based on several evaluation indexes including AUC. SHapley Additive exPlanations (SHAP) analysis was utilized for feature ranking and interpretability. The final model was benchmarked against the traditional Caprini score, and the prognostic impact of postoperative VTE on long-term survival was further assessed.\n\nRESULTS: In this prospective study, eXtreme gradient boosting (XGBoost) demonstrated superior discriminative performance among 11 evaluated ML-models. After feature reduction based on ranked feature importance, a final interpretable XGBoost model comprising 11 variables was established. This model accurately predicted postoperative VTE in both training (AUC = 0.903) and validation (AUC = 0.856) cohorts, significantly outperforming the conventional Caprini score RAM. Additionally, comparison of oncologic outcomes revealed no significant difference in overall survival (P = 0.068), whereas disease-free survival was significantly shorter in patients experiencing postoperative VTE (P = 0.017).\n\nCONCLUSION: Our explainable risk-stratification ML model not only accurately predicts the risk of VTE following VATS segmentectomy in early-stage NSCLC patients, but also exhibits substantial clinical relevance to adverse prognostic outcomes in this patient cohort."
+    },
+    {
+      "pmid": "41365311",
+      "doi": "10.1016/S1470-2045(25)00594-7",
+      "title": "Vebreltinib in MET amplification-driven advanced non-small-cell lung cancer (KUNPENG): a single-arm, multi-cohort, multicentre, phase 2 study.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2025-12-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41365311/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00594-7",
+      "abstract": "BACKGROUND: MET amplification is recognised as a de novo driver alteration in non-small-cell lung cancer (NSCLC) but treatment responses with existing MET inhibitors remain largely unsatisfactory. We aimed to investigate the antitumour activity and safety of vebreltinib, a potent and highly selective MET inhibitor, in patients with MET amplification-driven NSCLC.\n\nMETHODS: KUNPENG was a multicentre, multi-cohort, single-arm, phase 2 trial conducted across 17 hospitals in China, in patients with locally advanced or metastatic NSCLC with MET dysregulation. Patients were eligible if they were MET inhibitor-naive, aged 18 years or older with MET amplification-driven NSCLC (gene copy number of six or higher), and progressed after previous standard chemotherapy or were ineligible for chemotherapy (cohort 2) or refused chemotherapy (cohort 3). Patients received 200 mg vebreltinib orally twice daily until disease progression or intolerable toxicity. The primary endpoint was the objective response rate, assessed by a masked independent review committee in the full analysis set. The study was amended to merge cohorts 2 and 3 due to slow accrual and was closed to enrolment on Nov 14, 2023. This trial is registered with ClinicalTrials.gov (NCT04258033).\n\nFINDINGS: Between Jan 17, 2020, and Nov 14, 2023, 145 patients were enrolled; of these, 86 patients (30 chemotherapy-treated and 56 untreated) from cohorts 2 and 3 were included in the current analysis. The median age was 65 years (range 48-82; IQR 59-71), 77 (90%) patients were male, and nine (10%) were female. All patients were Chinese. 42 patients had partial response, resulting in an objective response rate of 48·8% (42 of 86; 95% CI 38·3-59·4) per masked independent review committee. The median follow-up was 18·6 months (IQR 15·7-37·3). The incidence of grade 3 or worse treatment-related adverse events was 31% (27 of 86), predominantly abnormal liver function terms reported by the investigators (eight [9%]). Serious adverse events related to treatment were reported by 16 (19%) patients. 11 treatment-emergent adverse events leading to death occurred, of which one patient died of abnormal liver function, which was possibly related to vebreltinib treatment.\n\nINTERPRETATION: Vebreltinib showed antitumour activity in patients with MET amplification-driven advanced NSCLC who had previously received chemotherapy or were chemotherapy-naive. Further research is needed to validate these findings.\n\nFUNDING: Beijing Pearl Biotechnology and Avistone Biotechnology."
     }
   ]
 }
