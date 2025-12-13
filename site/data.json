@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-12T05:20:17.531744Z",
+  "generated": "2025-12-13T05:19:50.283539Z",
   "items": [
     {
       "pmid": "41378717",
@@ -14,7 +14,7 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1111/cas.70242",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.70242",
       "metric_name": "SJR",
       "metric_value": 1.661,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378717/",
@@ -34,7 +34,7 @@
       "trial_type": null,
       "study_class": "Preclinical",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1111/cas.70270",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.70270",
       "metric_name": "SJR",
       "metric_value": 1.661,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378711/",
@@ -143,27 +143,6 @@
       "abstract": "We have recently developed polymer/lipid nanoparticles PBAE-PEG/4A3-SC8/DOPE/Cholesterol/DOTAP (hereafter, PBAE-PEG/LNP) that can deliver mRNA into lung cells. Here, using PBAE-PEG/LNP, we delivered"
     },
     {
-      "pmid": "41109959",
-      "doi": "10.1200/JCO-25-02023",
-      "title": "Updated Overall Survival Analysis From the Phase II PHAROS Study of Encorafenib Plus Binimetinib in Patients With BRAF V600E-Mutant Metastatic Non-Small Cell Lung Cancer.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-12-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Phase II",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12680272/",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41109959/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02023",
-      "abstract": "The phase II PHAROS study previously showed that encorafenib plus binimetinib has antitumor activity in patients with BRAF V600E-mutant metastatic non-small cell lung cancer (mNSCLC). In PHAROS, 98 patients (59 treatment-naïve; 39 previously treated) received encorafenib 450 mg once daily and binimetinib 45 mg twice daily. We report updated results from data cutoff of March 14, 2025. The median duration of treatment with both encorafenib and binimetinib was 16.3 months in treatment-naïve and 5.5 months in previously treated patients. After median follow-up for overall survival (OS) of 52.3 months in treatment-naïve patients, mOS was 47.6 months (95% CI, 31.3 to not estimable); 4-year OS probability was 49% (95% CI, 35 to 62). After median follow-up for OS of 48.2 months in previously treated patients, mOS was 22.7 months (95% CI, 14.1 to 32.6); 4-year OS probability was 31% (95% CI, 16 to 47). In treatment-naïve and previously treated groups, 58% and 26% received ≥1 subsequent systemic anticancer treatment, respectively. Safety profile remained consistent with that in previous analyses. Although comparisons across trials should be done cautiously, to our knowledge, encorafenib plus binimetinib was associated with the longest mOS reported to date with targeted treatment in patients with treatment-naïve BRAF V600E-mutant mNSCLC."
-    },
-    {
       "pmid": "41372401",
       "doi": "10.1038/s41586-025-09825-y",
       "title": "Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma.",
@@ -202,6 +181,47 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41370740/",
       "url_doi": "https://doi.org/10.1200/JCO-25-02102",
       "abstract": null
+    },
+    {
+      "pmid": "41370734",
+      "doi": "10.1200/JCO-25-01540",
+      "title": "Adjuvant Atezolizumab in Early-Stage Non-Small Cell Lung Cancer: Signals, Silences, and the Need for Methodological Clarity.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-12-10T00:00:00+00:00",
+      "pubtypes": [
+        "Letter"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41370734/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01540",
+      "abstract": null
+    },
+    {
+      "pmid": "41109959",
+      "doi": "10.1200/JCO-25-02023",
+      "title": "Updated Overall Survival Analysis From the Phase II PHAROS Study of Encorafenib Plus Binimetinib in Patients With BRAF V600E-Mutant Metastatic Non-Small Cell Lung Cancer.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-12-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Phase II",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12680272/",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41109959/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-02023",
+      "abstract": "The phase II PHAROS study previously showed that encorafenib plus binimetinib has antitumor activity in patients with BRAF V600E-mutant metastatic non-small cell lung cancer (mNSCLC). In PHAROS, 98 patients (59 treatment-naïve; 39 previously treated) received encorafenib 450 mg once daily and binimetinib 45 mg twice daily. We report updated results from data cutoff of March 14, 2025. The median duration of treatment with both encorafenib and binimetinib was 16.3 months in treatment-naïve and 5.5 months in previously treated patients. After median follow-up for overall survival (OS) of 52.3 months in treatment-naïve patients, mOS was 47.6 months (95% CI, 31.3 to not estimable); 4-year OS probability was 49% (95% CI, 35 to 62). After median follow-up for OS of 48.2 months in previously treated patients, mOS was 22.7 months (95% CI, 14.1 to 32.6); 4-year OS probability was 31% (95% CI, 16 to 47). In treatment-naïve and previously treated groups, 58% and 26% received ≥1 subsequent systemic anticancer treatment, respectively. Safety profile remained consistent with that in previous analyses. Although comparisons across trials should be done cautiously, to our knowledge, encorafenib plus binimetinib was associated with the longest mOS reported to date with targeted treatment in patients with treatment-naïve BRAF V600E-mutant mNSCLC."
     },
     {
       "pmid": "41192233",
