@@ -1,6 +1,26 @@
 {
-  "generated": "2025-12-13T05:19:50.283539Z",
+  "generated": "2025-12-14T05:18:47.203802Z",
   "items": [
+    {
+      "pmid": "41386222",
+      "doi": "10.1016/j.ccell.2025.11.005",
+      "title": "Mapping the inflammatory origins of lung cancer.",
+      "journal": "Cancer cell",
+      "pubdate": "2025-12-11T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 19.027,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41386222/",
+      "url_doi": "https://doi.org/10.1016/j.ccell.2025.11.005",
+      "abstract": "How early precursor cells and their surrounding microenvironment cooperate to drive oncogenic progression in lung adenocarcinoma (LUAD) remains elusive. In this issue of Cancer Cell, Peng et al. conducted multimodal spatial-omics to comprehensively profile precancerous lung and LUAD tissues, uncovering alveolar progenitors and proinflammatory niches that co-evolve during cancer progression."
+    },
     {
       "pmid": "41378717",
       "doi": "10.1111/cas.70242",
@@ -83,6 +103,27 @@
       "abstract": "The covid 19 pandemic has had a significant impact on healthcare worldwide, yet the effects on the surgical treatment of lung cancer patients in Germany have not yet been adequately studied.This retrospective analysis used data from the German Thoracic Register. The surgical treatment of 2989 patients with bronchial carcinoma was analysed in two periods: 2020-2021 (pandemic phase: 1297 patients) and 2018-2019 (pre-pandemic phase: 1692 patients) across 8 German hospitals.During the pandemic phase, the number of complex surgeries decreased, and the need for intensive care dropped from 39.7% to 19.4% (p < 0.001). The rates of neoadjuvant chemotherapy and radiation therapy decreased from 44% to 17% and 20% to 5%, respectively (both p < 0.001). Simultaneously, a significant reduction in postoperative complications, particularly pneumonia (8.5% to 6.2%, p = 0.020), was observed.The lower complication rates may be attributed to stricter hygiene measures and reduced visitor access during the pandemic. Consideration of these risk factors in postoperative patient care may help improve the prognosis of surgically treated lung cancer patients in the future."
     },
     {
+      "pmid": "41219394",
+      "doi": "10.1038/s41571-025-01085-z",
+      "title": "Navigating the landscape of EGFR TKI resistance in EGFR-mutant NSCLC - mechanisms and evolving treatment approaches.",
+      "journal": "Nature reviews. Clinical oncology",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41219394/",
+      "url_doi": "https://doi.org/10.1038/s41571-025-01085-z",
+      "abstract": "Resistance to EGFR tyrosine kinase inhibitors (TKIs) remains a major obstacle in the clinical management of EGFR-mutant non-small-cell lung cancer (NSCLC). Despite the transformative therapeutic activity of the multiple iterations of EGFR TKIs, spanning from first-generation reversible inhibitors such as erlotinib and gefitinib to the current standard-of-care third-generation covalent inhibitor osimertinib, primary or acquired resistance to these agents inevitably emerges via diverse mechanisms. The advent of combination therapies that incorporate chemotherapy, anti-angiogenic agents, bispecific antibodies or antibody-drug conjugates has increased clinical benefit but introduced new resistance phenotypes, underscoring the dynamic plasticity and complexity of tumour evolution under therapeutic pressure. In this Review, we provide a comprehensive synthesis of the molecular mechanisms that underlie resistance to third-generation EGFR TKIs, describe biomarker-guided and biomarker-unselected therapeutic strategies to overcome these mechanisms, and discuss emerging approaches to pre-empt resistance through early application of combination therapies. We highlight the paradigm shift from radiological to molecular monitoring of resistance to therapy and explore how advances in circulating tumour DNA analysis, artificial intelligence and multi-omics might facilitate adaptive treatment strategies. As the therapeutic landscape evolves, a more complete mechanistic understanding of resistance will be essential to guide rational treatment sequencing, inform trial design and improve long-term outcomes for patients with EGFR-mutant NSCLC."
+    },
+    {
       "pmid": "41176132",
       "doi": "10.1016/j.taap.2025.117625",
       "title": "An intestinal matrix-based human lung cancer model reflects clinical data from gefitinib on dosage-dependent efficacy.",
@@ -103,6 +144,27 @@
       "abstract": "Lung cancer is the leading cause for cancer related death worldwide. One treatment option for patients with pulmonary adenocarcinoma is the targeted therapy gefitinib (Iressa®, ZD1839). As with other promising targeted therapies, desired in vivo effects of gefitinib came short to in vitro expectations, as preclinical testing is hampered by an inaccuracy of existing models and resistances develop frequently. We analysed the pharmacodynamics of gefitinib in a 3D tissue engineered human lung cancer model of HCC827 cells, as well as a resistant subpopulation of HCCres A2 cells. In 2D cell culture, a cell viability of 50 % was reached after treatment with 0.01-0.05 μM gefitinib. In the 3D model administering higher doses of gefitinib did not lead to a further reduction in viability and proliferation, or an increase in apoptosis. This shows that the pharmacodynamic effect of promising new therapies can often be overestimated in 2D versus 3D models. The results we obtained for gefitinib testing in the 3D models reflect astonishing well the efficacy of priorly published clinical data, suggesting that our 3D tumor models can display in vivo conditions more accurately, bridging the gap to living organisms. To mimic the clinical setting further, the lung cancer cells were cultivated under dynamic conditions in a bioreactor. The exploration of a resistant subpopulation confirmed an epithelial-mesenchymal transition. The described 3D lung cancer model can be used as a refined, preclinical testing platform for targeted therapies and with clinically relevant pharmacodynamic properties as shown exemplary for gefitinib."
     },
     {
+      "pmid": "41068447",
+      "doi": "10.1038/s41571-025-01080-4",
+      "title": "Unresectable stage III non-small-cell lung cancer: state of the art and challenges.",
+      "journal": "Nature reviews. Clinical oncology",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41068447/",
+      "url_doi": "https://doi.org/10.1038/s41571-025-01080-4",
+      "abstract": "Despite advances in immunotherapy, unresectable stage III non-small-cell lung cancer (NSCLC) remains a highly challenging disease, with only around one-third of patients remaining disease-free at 5 years. The PACIFIC trial established consolidation with the anti-PD-L1 antibody durvalumab after concurrent chemoradiotherapy as the standard-of-care approach. Furthermore, the LAURA trial has redefined the treatment of patients with stage III unresectable EGFR-mutant NSCLC, demonstrating unprecedented progression-free survival durations with osimertinib consolidation. Despite these advances, novel approaches are urgently needed. Circulating tumour DNA-based monitoring of minimal residual disease is emerging as a personalized method of tailoring treatment duration and escalation strategies. Novel radiotherapy techniques have the potential to provide synergy with immunotherapy while minimizing toxicities. Additionally, ongoing trials evaluating chemoimmunotherapy combinations adapted from the neoadjuvant setting with the potential for conversion to resectable disease might, in the near future, redefine the boundary of surgical resectability. In this Review, we describe the rapidly evolving field of unresectable stage III NSCLC, providing a state-of-the-art overview that includes challenging topics such as biomarkers, personalization of therapy and the role of immunotherapy rechallenge."
+    },
+    {
       "pmid": "41205892",
       "doi": "10.1016/j.envpol.2025.127348",
       "title": "Association of radon exposure with lung cancer: serum biomarkers and computed tomography evidence from male miners.",
@@ -121,6 +183,106 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41205892/",
       "url_doi": "https://doi.org/10.1016/j.envpol.2025.127348",
       "abstract": "The objective of this research is to investigate the association between occupational radon exposure and pulmonary health outcomes in male miners from Chongqing, China. Between June 2022 and December 2023, 110 miners were enrolled in this cross-sectional study. Personal radon exposure levels were measured using passive cumulative dosimeters, with pulmonary health assessed through radiologist-interpreted low-dose computed tomography (CT) scans and serum biomarker analysis (CEA, CYFRA21-1, NSE, and CA125) via ELISA. Multivariable analyses revealed strong dose-response relationships between radon exposure and both serum biomarkers and CT abnormalities. high radon exposure predicted substantial biomarker elevations including a 2.45-fold increase in CYFRA21-1 (β = 0.39, 95 % CI 0.25-0.54, p < 0.001), 1.60-fold increase in CEA (β = 0.20, 0.05-0.35, p = 0.008), and 3.58-fold increased CT abnormality risk (OR = 3.58, p = 0.023). Mediation analysis identified CYFRA21-1 as accounting for 69 % (p = 0.024) and CEA for 24.7 % (p = 0.036) of radon's effect on CT abnormalities. These findings demonstrate that occupational radon exposure contributes to pulmonary damage through both direct effects and biomarker-mediated pathways, with CYFRA21-1 and CEA emerging as potential early indicators of lung cancer in radon-exposed populations."
+    },
+    {
+      "pmid": "41388832",
+      "doi": "10.1080/14796694.2025.2596228",
+      "title": "Frontline sigvotatug vedotin plus pembrolizumab vs pembrolizumab for non-small cell lung cancer with PD-L1 tumor proportion score ≥50%: phase III study design.",
+      "journal": "Future oncology (London, England)",
+      "pubdate": "2025-12-13T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Phase III",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41388832/",
+      "url_doi": "https://doi.org/10.1080/14796694.2025.2596228",
+      "abstract": "Integrin beta-6 (IB6) is a tumor-associated membrane protein involved in many cellular processes, including wound healing and tissue remodeling. While IB6 expression is constitutively low in healthy tissues, high IB6 expression in numerous cancers, including non-small cell lung cancer (NSCLC), is associated with poor outcomes. In a phase I study, the novel IB6-directed vedotin-based antibody-drug conjugate sigvotatug vedotin (SV) showed manageable safety and encouraging efficacy as a monotherapy and in combination with pembrolizumab in patients with advanced solid tumors, including NSCLC. Based on those results, the phase III Sigvie-003 study is evaluating SV plus pembrolizumab compared with pembrolizumab monotherapy as first-line treatment in adult patients with locally advanced, unresectable, or metastatic NSCLC with high programmed cell death ligand 1 expression (tumor proportion score ≥50%). Here, we describe the design of the Sigvie-003 study, which is an open-label, randomized, controlled phase III study. Approximately 714 patients will be randomized 1:1. The dual primary endpoints are progression-free survival as assessed by blinded independent central review per Response Evaluation Criteria in Solid Tumors v1.1 and overall survival; secondary endpoints include additional efficacy, safety and tolerability, pharmacokinetics, and immunogenicity endpoints."
+    },
+    {
+      "pmid": "41387445",
+      "doi": "10.1038/s41467-025-67648-x",
+      "title": "Author Correction: Alectinib in combination with bevacizumab as first-line treatment in ALK-rearranged non-small cell lung cancer (ALEK-B): a single-arm, phase 2 trial.",
+      "journal": "Nature communications",
+      "pubdate": "2025-12-12T00:00:00+00:00",
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41467-025-67648-x.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41387445/",
+      "url_doi": "https://doi.org/10.1038/s41467-025-67648-x",
+      "abstract": null
+    },
+    {
+      "pmid": "41387456",
+      "doi": "10.1038/s41467-025-66780-y",
+      "title": "Microbiome analysis of 940 lung cancers in never-smokers reveals lack of clinically relevant associations.",
+      "journal": "Nature communications",
+      "pubdate": "2025-12-12T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41467-025-66780-y_reference.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41387456/",
+      "url_doi": "https://doi.org/10.1038/s41467-025-66780-y",
+      "abstract": "In spite of the growing interest in the microbiome in human cancer, there are currently only small-scale lung cancer microbiome studies conducted directly on tissue. As part of the Sherlock-Lung study, we studied the microbiomes of 940 lung cancers (4090 samples) in never smokers (LCINS) directly from lung tissue using three data types: 16S rRNA gene sequencing (16S), whole-genome sequencing (WGS) with paired blood, and RNA-seq. We observe very low biomass and few microbiome associations in LCINS using 16S and WGS tissue. Using RNA-seq, we observe more total microbial reads, and decreased relative abundance of several commensal bacteria at the genus and species levels in tumors relative to paired normal lung tissue. Among all datasets, we see no consistent associations between the lung tissue microbiome, or circulating bacterial DNA, and any available demographic and clinical features, including age, sex, genetic ancestry, second-hand tobacco smoking exposure, LCINS histology, stage, and overall survival. We also observe no microbiome associations with any human genomic alterations within the same samples. Every null result should be interpreted with caution given the possibility of future methodological breakthroughs. However, all together, using multiple data types in nearly 1000 patients, we find no substantive role for the lung cancer microbiome in treatment-naïve LCINS."
+    },
+    {
+      "pmid": "41386218",
+      "doi": "10.1016/j.cell.2025.11.021",
+      "title": "Are ultrasensitive ctDNA assays ready for clinical use in early-stage NSCLC?",
+      "journal": "Cell",
+      "pubdate": "2025-12-11T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41386218/",
+      "url_doi": "https://doi.org/10.1016/j.cell.2025.11.021",
+      "abstract": "Disease recurrence in early-stage non-small cell lung cancer (NSCLC) remains a persistent clinical challenge, underscoring the need for better prognostic biomarkers. In this preview, we highlight the clinical implications of ultrasensitive ctDNA monitoring in lung cancer risk modeling reported by Black et al. in this issue of Cell."
+    },
+    {
+      "pmid": "41205598",
+      "doi": "10.1016/j.cell.2025.10.020",
+      "title": "Longitudinal ultrasensitive ctDNA monitoring for high-resolution lung cancer risk prediction.",
+      "journal": "Cell",
+      "pubdate": "2025-12-11T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.cell.2025.10.020",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41205598/",
+      "url_doi": "https://doi.org/10.1016/j.cell.2025.10.020",
+      "abstract": "Biomarkers accurately informing prognostic assessment and therapeutic strategy are critical for improving patient outcome in oncology. Here, we apply a whole-genome, tumor-informed circulating tumor DNA (ctDNA) detection approach to address this challenge, leveraging 1,800 variants across 2,994 plasma samples from 431 patients with non-small cell lung cancer (NSCLC) from the TRACERx study. We show that ultrasensitive ctDNA detection below 80 parts per million both pre- and postoperatively is highly prognostic, and combinatorial analysis of the pre- and postoperative ctDNA status identifies an intermediate risk group, improving disease stratification. ctDNA kinetics demonstrate clinical utility during adjuvant therapy, where patients that \"clear\" ctDNA during adjuvant therapy experience improved outcomes. Moreover, characterization of patterns in postoperative ctDNA kinetics reveals insights into the timing, risk, and anatomical pattern of relapses. By incorporating longitudinal ultrasensitive ctDNA detection, we propose a refined schema for guiding the stratification and treatment recommendations in early stage NSCLC."
     },
     {
       "pmid": "41378732",
