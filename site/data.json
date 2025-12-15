@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-14T05:18:47.203802Z",
+  "generated": "2025-12-15T05:24:18.498252Z",
   "items": [
     {
       "pmid": "41386222",
@@ -101,6 +101,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41371250/",
       "url_doi": "https://doi.org/10.1055/a-2744-9284",
       "abstract": "The covid 19 pandemic has had a significant impact on healthcare worldwide, yet the effects on the surgical treatment of lung cancer patients in Germany have not yet been adequately studied.This retrospective analysis used data from the German Thoracic Register. The surgical treatment of 2989 patients with bronchial carcinoma was analysed in two periods: 2020-2021 (pandemic phase: 1297 patients) and 2018-2019 (pre-pandemic phase: 1692 patients) across 8 German hospitals.During the pandemic phase, the number of complex surgeries decreased, and the need for intensive care dropped from 39.7% to 19.4% (p < 0.001). The rates of neoadjuvant chemotherapy and radiation therapy decreased from 44% to 17% and 20% to 5%, respectively (both p < 0.001). Simultaneously, a significant reduction in postoperative complications, particularly pneumonia (8.5% to 6.2%, p = 0.020), was observed.The lower complication rates may be attributed to stricter hygiene measures and reduced visitor access during the pandemic. Consideration of these risk factors in postoperative patient care may help improve the prognosis of surgically treated lung cancer patients in the future."
+    },
+    {
+      "pmid": "41192526",
+      "doi": "10.1016/j.cellsig.2025.112211",
+      "title": "RIPK2/STAT3 signaling axis drives lung cancer metastasis through SNAIL activation: Molecular mechanisms and clinical implications.",
+      "journal": "Cellular signalling",
+      "pubdate": "2026-02-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
+      "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
+      "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
     },
     {
       "pmid": "41219394",
@@ -243,6 +263,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41387456/",
       "url_doi": "https://doi.org/10.1038/s41467-025-66780-y",
       "abstract": "In spite of the growing interest in the microbiome in human cancer, there are currently only small-scale lung cancer microbiome studies conducted directly on tissue. As part of the Sherlock-Lung study, we studied the microbiomes of 940 lung cancers (4090 samples) in never smokers (LCINS) directly from lung tissue using three data types: 16S rRNA gene sequencing (16S), whole-genome sequencing (WGS) with paired blood, and RNA-seq. We observe very low biomass and few microbiome associations in LCINS using 16S and WGS tissue. Using RNA-seq, we observe more total microbial reads, and decreased relative abundance of several commensal bacteria at the genus and species levels in tumors relative to paired normal lung tissue. Among all datasets, we see no consistent associations between the lung tissue microbiome, or circulating bacterial DNA, and any available demographic and clinical features, including age, sex, genetic ancestry, second-hand tobacco smoking exposure, LCINS histology, stage, and overall survival. We also observe no microbiome associations with any human genomic alterations within the same samples. Every null result should be interpreted with caution given the possibility of future methodological breakthroughs. However, all together, using multiple data types in nearly 1000 patients, we find no substantive role for the lung cancer microbiome in treatment-naïve LCINS."
+    },
+    {
+      "pmid": "41390056",
+      "doi": "10.1016/j.jtho.2025.12.004",
+      "title": "High penetrance rare variants underlying familial lung cancer risk: Insights from genetic epidemiology of lung cancer consortium.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-12-11T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41390056/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.12.004",
+      "abstract": "BACKGROUND: Rare, deleterious germline variants are key contributors to inherited lung cancer (LC) risk. The Genetic Epidemiology of LC Consortium (GELCC) has curated valuable high-risk LC families and is uniquely positioned to uncover rare, high-penetrance variants underlying familial LC (FLC).\n\nMETHODS: We performed whole-genome and exome sequencing on germline DNA from 120 high-risk LC families (177 FLC cases, 309 unaffected relatives). We prioritized rare (allele frequency <1% in the genome aggregation database), potentially deleterious variants present in two or more FLC cases. These variants were then validated in 10,085 sporadic LC (SLC) cases and 612,970 controls.\n\nRESULTS: We identified 118 candidate variants, 28 of which were validated in SLC with strong statistical support. We discovered a novel pathogenic axis of three truncating variants in GALNT6, MUC4, and ERBB3 genes, which are critical regulators of mucin-type O-glycosylation. Nine top hits mapped to the known 6q23-25 linkage region (ROS1, LAMA2, PRKN, SYNE1). Other candidates clustered in DNA repair (ATM, BRCA2, MLH1), oncogenic signaling (ERBB3, JAK1, PIM1), and extracellular matrix genes (COL6A3, FLG). Carriers of two or more variant alleles showed a strong dose-dependent risk. Furthermore, gene-based burden tests revealed strong associations between RARB, MGMT, and EBF1 with FLC susceptibility.\n\nCONCLUSION: Our findings underscore the significant role of rare, high-penetrance genetic variants in FLC susceptibility, particularly in mucin glycosylation and DNA repair genes. These findings offer promising targets for early detection and personalized therapies."
     },
     {
       "pmid": "41386218",
@@ -406,47 +446,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192233/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.116059",
       "abstract": "BACKGROUND: Anti-PD-L1 antibodies with platinum-etoposide extend overall survival (OS) of extensive disease Small Cell Lung Cancer (ED-SCLC) patients. We evaluated the benefit of first-line pembrolizumab with platinum-etoposide in chemo-sensitive ED-SCLC.\n\nMETHODS: REACTION is a multicenter, open-label, randomized phase II trial. Eligible patients (responders after 2 cycles of platinum-etoposide) were randomized 1:1 to experimental arm pembrolizumab in combination with 4 cycles of platinum-etoposide then pembrolizumab vs platinum-etoposide in the control arm. The primary endpoint was progression free survival (PFS). Circulating tumour cells (CTCs) were enumerated and their association with PFS and OS was investigated.\n\nRESULTS: Between Feb 7, 2018 and Oct 31, 2019, 125 patients were recruited (61 vs 64 experimental and control arms respectively) with 119 (58 vs 61) eligible and receiving at least one dose of treatment. Baseline characteristics were median age 65 vs 63.5 years, PS 1 (62 vs 60 %), and brain metastases (8 vs 11 %), in the experimental and control arms respectively. Amongst 124 patients who started treatment, 46 (37 %) experienced adverse events grade ≥ 3 for pembrolizumab arm vs 26 % in the control arm. Response rate was 61 % (67 vs 56 %). Median PFS (95 % CI) was 4.7 months (4.2, 5.6) vs 5.4 (4.7, 5.6), HR (80 % CI) = 0.84 (0.65, 1.09) and 1-sided p = 0.194. Median OS (95 % CI) was 12.3 months (8.9, 14.8) vs 10.4 (8.2, 12.2), HR (80 % CI) = 0.73 (0.54, 1.0) and 1-sided p = 0.097. CTC count per 7.5 ml blood at randomization was associated significantly with both PFS and OS regardless of treatment arms.\n\nCONCLUSIONS: Pembrolizumab added to platinum-etoposide did not improve PFS over platinum-etoposide alone in chemo-sensitive patients with ED."
-    },
-    {
-      "pmid": "41360981",
-      "doi": "10.1038/s41467-025-65930-6",
-      "title": "Precise diagnosis of small invasive pulmonary nodules driven by single-cell immune signatures in peripheral blood.",
-      "journal": "Nature communications",
-      "pubdate": "2025-12-08T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41467-025-65930-6.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41360981/",
-      "url_doi": "https://doi.org/10.1038/s41467-025-65930-6",
-      "abstract": "Early detection of lung cancer is crucial for improving patient outcomes. However, accurately diagnosing invasive pulmonary nodules and predicting tumor invasiveness remain major clinical challenges. Given the established role of immune dysfunction in cancer development, we hypothesize that peripheral immune profiling could provide a strategy for managing pulmonary nodules. In this multi-center, prospective study, we combine peripheral immune profiling via mass cytometry with machine learning algorithms to develop an integrated pulmonary nodule management platform. This platform accurately distinguishes invasive from non-invasive pulmonary nodules (AUC = 0.952), outperforming established clinical and radiomics-based models. Furthermore, it effectively predicts tumor invasiveness, differentiating minimally invasive from invasive adenocarcinoma (AUC = 0.949), thereby offering valuable guidance for surgical decision-making. In conclusion, the platform demonstrates substantial clinical utility and holds significant promise as a precision tool for future management of pulmonary nodules."
-    },
-    {
-      "pmid": "41351270",
-      "doi": "10.1097/JS9.0000000000004151",
-      "title": "A more selective risk-stratified, machine learning based, lung cancer thromboprophylaxis protocol following vats segmentectomy: a prospective cohort study.",
-      "journal": "International journal of surgery (London, England)",
-      "pubdate": "2025-12-08T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Prospective (non-RCT)",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1097/js9.0000000000004151",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41351270/",
-      "url_doi": "https://doi.org/10.1097/JS9.0000000000004151",
-      "abstract": "BACKGROUND: Venous thromboembolism (VTE) represents a potentially fatal but preventable postoperative complication. We sought to establish and validate an explainable prediction model based on the machine learning (ML) approach for VTE, and assess its prognostic implications in thoracic oncology patients undergoing VATS Segmentectomy.\n\nMATERIALS AND METHODS: We prospectively developed and validated a predictive model for postoperative VTE following VATS segmentectomy. Patients were sequentially enrolled into training (n = 557, Apr.2017-Jan.2021) and validation cohorts (n = 239, Feb.2021-Oct.2022). 49 clinicopathological variables, including the novel biomarker von Willebrand factor A2 (vWF-A2), were evaluated. 11 ML algorithms were compared based on several evaluation indexes including AUC. SHapley Additive exPlanations (SHAP) analysis was utilized for feature ranking and interpretability. The final model was benchmarked against the traditional Caprini score, and the prognostic impact of postoperative VTE on long-term survival was further assessed.\n\nRESULTS: In this prospective study, eXtreme gradient boosting (XGBoost) demonstrated superior discriminative performance among 11 evaluated ML-models. After feature reduction based on ranked feature importance, a final interpretable XGBoost model comprising 11 variables was established. This model accurately predicted postoperative VTE in both training (AUC = 0.903) and validation (AUC = 0.856) cohorts, significantly outperforming the conventional Caprini score RAM. Additionally, comparison of oncologic outcomes revealed no significant difference in overall survival (P = 0.068), whereas disease-free survival was significantly shorter in patients experiencing postoperative VTE (P = 0.017).\n\nCONCLUSION: Our explainable risk-stratification ML model not only accurately predicts the risk of VTE following VATS segmentectomy in early-stage NSCLC patients, but also exhibits substantial clinical relevance to adverse prognostic outcomes in this patient cohort."
     }
   ]
 }
