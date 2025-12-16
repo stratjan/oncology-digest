@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-15T05:24:18.498252Z",
+  "generated": "2025-12-16T05:21:30.020567Z",
   "items": [
     {
       "pmid": "41386222",
@@ -20,6 +20,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41386222/",
       "url_doi": "https://doi.org/10.1016/j.ccell.2025.11.005",
       "abstract": "How early precursor cells and their surrounding microenvironment cooperate to drive oncogenic progression in lung adenocarcinoma (LUAD) remains elusive. In this issue of Cancer Cell, Peng et al. conducted multimodal spatial-omics to comprehensively profile precancerous lung and LUAD tissues, uncovering alveolar progenitors and proinflammatory niches that co-evolve during cancer progression."
+    },
+    {
+      "pmid": "41397256",
+      "doi": "10.7326/ANNALS-25-00464",
+      "title": "Eligibility and Prognostic Performance of Smoking Duration-Based Versus Pack-Year-Based U.S. National Lung Cancer Screening Criteria Across Racial and Ethnic Groups.",
+      "journal": "Annals of internal medicine",
+      "pubdate": "2025-12-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.378,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41397256/",
+      "url_doi": "https://doi.org/10.7326/ANNALS-25-00464",
+      "abstract": "BACKGROUND: The U.S. Preventive Services Task Force expanded lung cancer (LC) screening eligibility in 2021 (USPSTF-2021) by decreasing the minimum number of smoking pack-years from 30 to 20. Underrepresented minorities still experience disparities in screening eligibility.\n\nOBJECTIVE: To evaluate screening eligibility and prognostic performance of alternative smoking duration-based criteria versus USPSTF-2021 (primary outcome) and risk-based screening using the recalibrated Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial 2012 (PLCOm2012\n\nDESIGN: Prospective, population-based Multiethnic Cohort linked to SEER (Surveillance, Epidemiology, and End Results) registries.\n\nSETTING: California and Hawai'i, with recruitment from 1993 to 1996.\n\nPARTICIPANTS: 105 261 adults aged 45 to 75 years with a history of smoking.\n\nMEASUREMENTS: Hypothetical eligibility and prognostic performance (sensitivity and specificity) in detecting 6-year LC.\n\nRESULTS: Under USPSTF-2021, 24.0% of the cohort would be eligible for screening; a 30-year smoking duration yielded the closest eligibility rate (27.5%). Compared with USPSTF-2021, the 30-year duration criteria would reduce eligibility gaps across all races relative to Whites, most notably in African Americans (30.4% vs. 28.8% for Whites under duration-based; 21.4% vs. 30.2% for Whites under USPSTF-2021) and Latinos (25.1% vs. 28.8% for Whites under duration-based; 15.7% vs. 30.2% for Whites under USPSTF-2021). Prognostic sensitivity to identify LC within 6 years increased across all races under the 30-year duration criteria, although specificity decreased commensurately. At matched overall eligibility (27.5%), a risk-based PLCOm2012\n\nLIMITATIONS: Cohort geography and enrollment period may limit generalizability. Overdiagnosis was not measured.\n\nCONCLUSION: Compared with USPSTF-2021, the 30-year duration-based criteria could reduce the eligibility gaps among African Americans and Latinos relative to Whites while improving 6-year LC detection sensitivity across all races.\n\nPRIMARY FUNDING SOURCE: National Institutes of Health."
     },
     {
       "pmid": "41378717",
@@ -265,6 +285,26 @@
       "abstract": "In spite of the growing interest in the microbiome in human cancer, there are currently only small-scale lung cancer microbiome studies conducted directly on tissue. As part of the Sherlock-Lung study, we studied the microbiomes of 940 lung cancers (4090 samples) in never smokers (LCINS) directly from lung tissue using three data types: 16S rRNA gene sequencing (16S), whole-genome sequencing (WGS) with paired blood, and RNA-seq. We observe very low biomass and few microbiome associations in LCINS using 16S and WGS tissue. Using RNA-seq, we observe more total microbial reads, and decreased relative abundance of several commensal bacteria at the genus and species levels in tumors relative to paired normal lung tissue. Among all datasets, we see no consistent associations between the lung tissue microbiome, or circulating bacterial DNA, and any available demographic and clinical features, including age, sex, genetic ancestry, second-hand tobacco smoking exposure, LCINS histology, stage, and overall survival. We also observe no microbiome associations with any human genomic alterations within the same samples. Every null result should be interpreted with caution given the possibility of future methodological breakthroughs. However, all together, using multiple data types in nearly 1000 patients, we find no substantive role for the lung cancer microbiome in treatment-naïve LCINS."
     },
     {
+      "pmid": "41391214",
+      "doi": "10.1016/j.lungcan.2025.108876",
+      "title": "Prognostic comparison of lymph node metastasis subtypes in lung adenocarcinoma: clinical implications of intranodal metastasis versus extranodal extension for optimizing R classification.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-12-11T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(25)00768-8/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41391214/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108876",
+      "abstract": "BACKGROUND: Lung adenocarcinoma (LUAD) prognosis is strongly influenced by lymph node (LN) status. While extranodal extension (ENE) is a recognized negative prognostic factor, the International Association for the Study of Lung Cancer (IASLC) has proposed reclassifying ENE from R0 (complete resection) to R1 (incomplete resection). The prognostic significance of intranodal metastasis (INM) remains less defined. This study aims to compare the prognosis of LUAD patients with INM versus ENE to inform potential refinements to the R classification system.\n\nMETHODS: This retrospective study enrolled 357 patients with pT1-3N0-1M0 LUAD who underwent lobectomy with systematic lymph node dissection between 2015 and 2021. Patients were stratified into three groups based on postoperative pathology: no LN metastasis (N0, n = 180), INM (n = 124), and ENE (n = 53). Overall survival (OS) and disease-free survival (DFS) were compared using Kaplan-Meier and Cox regression analyses.\n\nRESULTS: Among 177N1-stage patients, no significant difference in OS or DFS was observed between the INM and ENE groups (p > 0.05). However, both the INM and ENE groups showed significantly worse OS and DFS compared to the N0 group (p < 0.05). Multivariate analysis confirmed LN metastasis as an independent adverse prognostic factor for both DFS (HR = 2.95, 95 % CI: 1.32-6.61, P = 0.008) and OS (HR = 3.11, 95 % CI: 1.52-6.38, P = 0.002). Patients with nodal metastasis also had a significantly higher risk of recurrence.\n\nCONCLUSION: In N1-stage LUAD, the prognosis of patients with INM is comparable to that of patients with ENE, with both groups exhibiting significantly poorer outcomes than node-negative patients. These findings suggest that the presence of nodal metastasis, regardless of extracapsular extension, may represent occult residual disease. We propose that INM, alongside ENE, should be considered for classification as incomplete resection (R1) to better guide adjuvant therapy strategies."
+    },
+    {
       "pmid": "41390056",
       "doi": "10.1016/j.jtho.2025.12.004",
       "title": "High penetrance rare variants underlying familial lung cancer risk: Insights from genetic epidemiology of lung cancer consortium.",
@@ -424,28 +464,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41109959/",
       "url_doi": "https://doi.org/10.1200/JCO-25-02023",
       "abstract": "The phase II PHAROS study previously showed that encorafenib plus binimetinib has antitumor activity in patients with BRAF V600E-mutant metastatic non-small cell lung cancer (mNSCLC). In PHAROS, 98 patients (59 treatment-naïve; 39 previously treated) received encorafenib 450 mg once daily and binimetinib 45 mg twice daily. We report updated results from data cutoff of March 14, 2025. The median duration of treatment with both encorafenib and binimetinib was 16.3 months in treatment-naïve and 5.5 months in previously treated patients. After median follow-up for overall survival (OS) of 52.3 months in treatment-naïve patients, mOS was 47.6 months (95% CI, 31.3 to not estimable); 4-year OS probability was 49% (95% CI, 35 to 62). After median follow-up for OS of 48.2 months in previously treated patients, mOS was 22.7 months (95% CI, 14.1 to 32.6); 4-year OS probability was 31% (95% CI, 16 to 47). In treatment-naïve and previously treated groups, 58% and 26% received ≥1 subsequent systemic anticancer treatment, respectively. Safety profile remained consistent with that in previous analyses. Although comparisons across trials should be done cautiously, to our knowledge, encorafenib plus binimetinib was associated with the longest mOS reported to date with targeted treatment in patients with treatment-naïve BRAF V600E-mutant mNSCLC."
-    },
-    {
-      "pmid": "41192233",
-      "doi": "10.1016/j.ejca.2025.116059",
-      "title": "EORTC 1417 - REACTION: A phase II study of etoposide and cis/carboplatin with or without pembrolizumab in untreated extensive small cell lung cancer.",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2025-12-09T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Randomized Controlled Trial",
-        "Multicenter Study"
-      ],
-      "entity": "SCLC",
-      "trial_type": "RCT",
-      "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192233/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116059",
-      "abstract": "BACKGROUND: Anti-PD-L1 antibodies with platinum-etoposide extend overall survival (OS) of extensive disease Small Cell Lung Cancer (ED-SCLC) patients. We evaluated the benefit of first-line pembrolizumab with platinum-etoposide in chemo-sensitive ED-SCLC.\n\nMETHODS: REACTION is a multicenter, open-label, randomized phase II trial. Eligible patients (responders after 2 cycles of platinum-etoposide) were randomized 1:1 to experimental arm pembrolizumab in combination with 4 cycles of platinum-etoposide then pembrolizumab vs platinum-etoposide in the control arm. The primary endpoint was progression free survival (PFS). Circulating tumour cells (CTCs) were enumerated and their association with PFS and OS was investigated.\n\nRESULTS: Between Feb 7, 2018 and Oct 31, 2019, 125 patients were recruited (61 vs 64 experimental and control arms respectively) with 119 (58 vs 61) eligible and receiving at least one dose of treatment. Baseline characteristics were median age 65 vs 63.5 years, PS 1 (62 vs 60 %), and brain metastases (8 vs 11 %), in the experimental and control arms respectively. Amongst 124 patients who started treatment, 46 (37 %) experienced adverse events grade ≥ 3 for pembrolizumab arm vs 26 % in the control arm. Response rate was 61 % (67 vs 56 %). Median PFS (95 % CI) was 4.7 months (4.2, 5.6) vs 5.4 (4.7, 5.6), HR (80 % CI) = 0.84 (0.65, 1.09) and 1-sided p = 0.194. Median OS (95 % CI) was 12.3 months (8.9, 14.8) vs 10.4 (8.2, 12.2), HR (80 % CI) = 0.73 (0.54, 1.0) and 1-sided p = 0.097. CTC count per 7.5 ml blood at randomization was associated significantly with both PFS and OS regardless of treatment arms.\n\nCONCLUSIONS: Pembrolizumab added to platinum-etoposide did not improve PFS over platinum-etoposide alone in chemo-sensitive patients with ED."
     }
   ]
 }
