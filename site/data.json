@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-16T05:21:30.020567Z",
+  "generated": "2025-12-17T05:20:08.984700Z",
   "items": [
     {
       "pmid": "41386222",
@@ -80,47 +80,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378711/",
       "url_doi": "https://doi.org/10.1111/cas.70270",
       "abstract": "Cancer-stromal interactions play important roles in the biology of various cancers, including lung adenocarcinoma. We aimed to comprehensively analyze the lung cancer interactome and identify the key ligand-receptor pairs involved in the aggressiveness of lung adenocarcinoma. Transcriptome data were obtained from xenografts of 11 lung cancer cell lines that represented the major driver mutations in lung adenocarcinomas. A quantitative dataset was constructed in both stroma-to-cancer and cancer-to-stroma directions using the cancer-stromal interactome analysis method. The prognostic value of each factor was evaluated using multiple datasets. Analysis of 24,250 stroma-derived mouse transcripts and 26,289 human cancer-derived transcripts identified 1150 cancer-stromal interactions, from which we selected 117 interactions based on the intensity score of ligand-stromal transcript levels. Further prognostic analysis using public databases led us to identify 21 ligand-receptor pairs, including well-known as well as less well-characterized ligand-receptor pairs. Therefore, we selected tumor necrosis factor superfamily member 12/tumor necrosis factor receptor superfamily member 12A as possible factors contributing to the aggressiveness of lung adenocarcinoma via cancer-stromal interactions; immunohistochemical analysis confirmed that these factors were expressed mainly in the stroma and cancer cells, respectively, in both xenografts and primary lung adenocarcinoma. In human clinical specimens, high tumor necrosis factor receptor superfamily member 12A expression significantly correlated with tumor size, invasive diameter, and stage. Thus, tumor necrosis factor superfamily member 12 and its receptor tumor necrosis factor receptor superfamily member 12A signaling axis may be potential candidates for therapeutic intervention for lung adenocarcinoma."
-    },
-    {
-      "pmid": "41372911",
-      "doi": "10.1186/s12938-025-01497-z",
-      "title": "Application and prospects of lung organ-on-a-chip in the development of new drugs.",
-      "journal": "Biomedical engineering online",
-      "pubdate": "2025-12-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1186/s12938-025-01497-z",
-      "metric_name": "SJR",
-      "metric_value": 0.696,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41372911/",
-      "url_doi": "https://doi.org/10.1186/s12938-025-01497-z",
-      "abstract": "Respiratory disease, such as lung cancer, is a major risk factor that seriously endangers human health. In the development of new drugs, conventional preclinical and clinical testing stages rely on cell culture and animal experiment. However, the two methods may fall short of fully representing human biology, thereby presenting an opportunity to advance technological innovation. In this review, we focus on the structure and the composition of supporting cells of organ-on-a-chip (OOAC), whose most notable feature is its biomimetic representation of the human body. Its core advantage lies in its biomimetic human structure, which enables broad application scenarios in the field of pulmonary diseases including lung cancer, pneumonia, pulmonary edema, and pulmonary embolism. Finally, this review summarizes the current challenges and prospects of OOAC, highlighting its vast potential for advancement."
-    },
-    {
-      "pmid": "41371250",
-      "doi": "10.1055/a-2744-9284",
-      "title": "[Impact of the COVID 19 Pandemic on the Surgical Management of Lung Cancer in Germany: an Analysis from the German Thoracic Register].",
-      "journal": "Zentralblatt fur Chirurgie",
-      "pubdate": "2025-12-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 0.15,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41371250/",
-      "url_doi": "https://doi.org/10.1055/a-2744-9284",
-      "abstract": "The covid 19 pandemic has had a significant impact on healthcare worldwide, yet the effects on the surgical treatment of lung cancer patients in Germany have not yet been adequately studied.This retrospective analysis used data from the German Thoracic Register. The surgical treatment of 2989 patients with bronchial carcinoma was analysed in two periods: 2020-2021 (pandemic phase: 1297 patients) and 2018-2019 (pre-pandemic phase: 1692 patients) across 8 German hospitals.During the pandemic phase, the number of complex surgeries decreased, and the need for intensive care dropped from 39.7% to 19.4% (p < 0.001). The rates of neoadjuvant chemotherapy and radiation therapy decreased from 44% to 17% and 20% to 5%, respectively (both p < 0.001). Simultaneously, a significant reduction in postoperative complications, particularly pneumonia (8.5% to 6.2%, p = 0.020), was observed.The lower complication rates may be attributed to stricter hygiene measures and reduced visitor access during the pandemic. Consideration of these risk factors in postoperative patient care may help improve the prognosis of surgically treated lung cancer patients in the future."
     },
     {
       "pmid": "41192526",
@@ -383,87 +342,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378732/",
       "url_doi": "https://doi.org/10.1021/acs.nanolett.5c04269",
       "abstract": "We have recently developed polymer/lipid nanoparticles PBAE-PEG/4A3-SC8/DOPE/Cholesterol/DOTAP (hereafter, PBAE-PEG/LNP) that can deliver mRNA into lung cells. Here, using PBAE-PEG/LNP, we delivered"
-    },
-    {
-      "pmid": "41372401",
-      "doi": "10.1038/s41586-025-09825-y",
-      "title": "Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma.",
-      "journal": "Nature",
-      "pubdate": "2025-12-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41372401/",
-      "url_doi": "https://doi.org/10.1038/s41586-025-09825-y",
-      "abstract": "Understanding lung cancer evolution can identify tools for intercepting its growth"
-    },
-    {
-      "pmid": "41370740",
-      "doi": "10.1200/JCO-25-02102",
-      "title": "Reply to: \"Improving the Reporting of Long-Term Effects in the IMpower010 Trial\" and \"Adjuvant Atezolizumab in Early-Stage Non-Small Cell Lung Cancer: Signals, Silences, and the Need for Methodological Clarity\".",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-12-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41370740/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02102",
-      "abstract": null
-    },
-    {
-      "pmid": "41370734",
-      "doi": "10.1200/JCO-25-01540",
-      "title": "Adjuvant Atezolizumab in Early-Stage Non-Small Cell Lung Cancer: Signals, Silences, and the Need for Methodological Clarity.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-12-10T00:00:00+00:00",
-      "pubtypes": [
-        "Letter"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41370734/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01540",
-      "abstract": null
-    },
-    {
-      "pmid": "41109959",
-      "doi": "10.1200/JCO-25-02023",
-      "title": "Updated Overall Survival Analysis From the Phase II PHAROS Study of Encorafenib Plus Binimetinib in Patients With BRAF V600E-Mutant Metastatic Non-Small Cell Lung Cancer.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-12-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Phase II",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12680272/",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41109959/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02023",
-      "abstract": "The phase II PHAROS study previously showed that encorafenib plus binimetinib has antitumor activity in patients with BRAF V600E-mutant metastatic non-small cell lung cancer (mNSCLC). In PHAROS, 98 patients (59 treatment-naïve; 39 previously treated) received encorafenib 450 mg once daily and binimetinib 45 mg twice daily. We report updated results from data cutoff of March 14, 2025. The median duration of treatment with both encorafenib and binimetinib was 16.3 months in treatment-naïve and 5.5 months in previously treated patients. After median follow-up for overall survival (OS) of 52.3 months in treatment-naïve patients, mOS was 47.6 months (95% CI, 31.3 to not estimable); 4-year OS probability was 49% (95% CI, 35 to 62). After median follow-up for OS of 48.2 months in previously treated patients, mOS was 22.7 months (95% CI, 14.1 to 32.6); 4-year OS probability was 31% (95% CI, 16 to 47). In treatment-naïve and previously treated groups, 58% and 26% received ≥1 subsequent systemic anticancer treatment, respectively. Safety profile remained consistent with that in previous analyses. Although comparisons across trials should be done cautiously, to our knowledge, encorafenib plus binimetinib was associated with the longest mOS reported to date with targeted treatment in patients with treatment-naïve BRAF V600E-mutant mNSCLC."
     }
   ]
 }
