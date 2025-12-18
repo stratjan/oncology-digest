@@ -1,26 +1,6 @@
 {
-  "generated": "2025-12-17T05:20:08.984700Z",
+  "generated": "2025-12-18T05:19:58.660900Z",
   "items": [
-    {
-      "pmid": "41386222",
-      "doi": "10.1016/j.ccell.2025.11.005",
-      "title": "Mapping the inflammatory origins of lung cancer.",
-      "journal": "Cancer cell",
-      "pubdate": "2025-12-11T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 19.027,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41386222/",
-      "url_doi": "https://doi.org/10.1016/j.ccell.2025.11.005",
-      "abstract": "How early precursor cells and their surrounding microenvironment cooperate to drive oncogenic progression in lung adenocarcinoma (LUAD) remains elusive. In this issue of Cancer Cell, Peng et al. conducted multimodal spatial-omics to comprehensively profile precancerous lung and LUAD tissues, uncovering alveolar progenitors and proinflammatory niches that co-evolve during cancer progression."
-    },
     {
       "pmid": "41397256",
       "doi": "10.7326/ANNALS-25-00464",
@@ -42,44 +22,24 @@
       "abstract": "BACKGROUND: The U.S. Preventive Services Task Force expanded lung cancer (LC) screening eligibility in 2021 (USPSTF-2021) by decreasing the minimum number of smoking pack-years from 30 to 20. Underrepresented minorities still experience disparities in screening eligibility.\n\nOBJECTIVE: To evaluate screening eligibility and prognostic performance of alternative smoking duration-based criteria versus USPSTF-2021 (primary outcome) and risk-based screening using the recalibrated Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial 2012 (PLCOm2012\n\nDESIGN: Prospective, population-based Multiethnic Cohort linked to SEER (Surveillance, Epidemiology, and End Results) registries.\n\nSETTING: California and Hawai'i, with recruitment from 1993 to 1996.\n\nPARTICIPANTS: 105 261 adults aged 45 to 75 years with a history of smoking.\n\nMEASUREMENTS: Hypothetical eligibility and prognostic performance (sensitivity and specificity) in detecting 6-year LC.\n\nRESULTS: Under USPSTF-2021, 24.0% of the cohort would be eligible for screening; a 30-year smoking duration yielded the closest eligibility rate (27.5%). Compared with USPSTF-2021, the 30-year duration criteria would reduce eligibility gaps across all races relative to Whites, most notably in African Americans (30.4% vs. 28.8% for Whites under duration-based; 21.4% vs. 30.2% for Whites under USPSTF-2021) and Latinos (25.1% vs. 28.8% for Whites under duration-based; 15.7% vs. 30.2% for Whites under USPSTF-2021). Prognostic sensitivity to identify LC within 6 years increased across all races under the 30-year duration criteria, although specificity decreased commensurately. At matched overall eligibility (27.5%), a risk-based PLCOm2012\n\nLIMITATIONS: Cohort geography and enrollment period may limit generalizability. Overdiagnosis was not measured.\n\nCONCLUSION: Compared with USPSTF-2021, the 30-year duration-based criteria could reduce the eligibility gaps among African Americans and Latinos relative to Whites while improving 6-year LC detection sensitivity across all races.\n\nPRIMARY FUNDING SOURCE: National Institutes of Health."
     },
     {
-      "pmid": "41378717",
-      "doi": "10.1111/cas.70242",
-      "title": "Atezolizumab + Chemotherapy for Advanced Non-Small Cell Lung Cancer in Japanese Clinical Practice (J-TAIL-2).",
-      "journal": "Cancer science",
-      "pubdate": "2025-12-11T00:00:00+00:00",
+      "pmid": "41404835",
+      "doi": "10.1177/03008916251392738",
+      "title": "LDCT-based lung cancer screening and small cell lung cancer: Limited but non-negligible impact on survival. A brief report.",
+      "journal": "Tumori",
+      "pubdate": "2025-12-17T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "NSCLC",
+      "entity": "SCLC",
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.70242",
+      "oa_url": "https://doi.org/10.1177/03008916251392738",
       "metric_name": "SJR",
-      "metric_value": 1.661,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378717/",
-      "url_doi": "https://doi.org/10.1111/cas.70242",
-      "abstract": "First-line atezolizumab combination therapies were approved for the treatment of metastatic non-small cell lung cancer (NSCLC) based on results from the global phase 3 trials IMpower130, IMpower132, and IMpower150. These trials reported 12-month overall survival (OS) rates of 60%-67% with atezolizumab combination therapy. J-TAIL-2 (NCT04501497), a prospective, multicenter, observational study, evaluated atezolizumab combination therapy in routine clinical practice in Japan. Patients ≥ 20 years old with NSCLC received atezolizumab plus carboplatin and nab-paclitaxel (atezo + CnP), atezolizumab plus carboplatin or cisplatin plus pemetrexed (atezo + PP), or atezolizumab plus bevacizumab plus carboplatin and paclitaxel (atezo + bev + CP) in clinical practice. The primary endpoint was the 12-month OS rate. Secondary endpoints included OS, progression-free survival, and subgroup analyses, including IMpower-unlike (did not meet the main eligibility criteria of each IMpower trial) and IMpower-like patients. In total, 814 patients were enrolled (atezo + CnP, n = 217; atezo + PP, n = 211; atezo + bev + CP, n = 386). The IMpower-unlike group included patients with Eastern Cooperative Oncology Group performance status ≥ 2, autoimmune disease, or interstitial lung disease. Twelve-month OS rates (95% confidence interval [CI]) were 62.9% (55.8-69.2), 72.1% (65.2-77.9), and 68.3% (63.2-72.9) with atezo + CnP, atezo + PP, and atezo + bev + CP, respectively. OS hazard ratios (95% CI) in the IMpower-unlike vs. -like subgroups were 1.36 (0.91-2.05), 1.08 (0.70-1.68), and 1.49 (1.09-2.06), respectively. No new safety signals were observed. Real-world efficacy and safety for each atezolizumab combination were comparable to those in the relevant IMpower trials."
-    },
-    {
-      "pmid": "41378711",
-      "doi": "10.1111/cas.70270",
-      "title": "A Transcriptomic Analysis of Cancer-Stromal Interactome in Lung Cancer Xenograft Models.",
-      "journal": "Cancer science",
-      "pubdate": "2025-12-11T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.70270",
-      "metric_name": "SJR",
-      "metric_value": 1.661,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378711/",
-      "url_doi": "https://doi.org/10.1111/cas.70270",
-      "abstract": "Cancer-stromal interactions play important roles in the biology of various cancers, including lung adenocarcinoma. We aimed to comprehensively analyze the lung cancer interactome and identify the key ligand-receptor pairs involved in the aggressiveness of lung adenocarcinoma. Transcriptome data were obtained from xenografts of 11 lung cancer cell lines that represented the major driver mutations in lung adenocarcinomas. A quantitative dataset was constructed in both stroma-to-cancer and cancer-to-stroma directions using the cancer-stromal interactome analysis method. The prognostic value of each factor was evaluated using multiple datasets. Analysis of 24,250 stroma-derived mouse transcripts and 26,289 human cancer-derived transcripts identified 1150 cancer-stromal interactions, from which we selected 117 interactions based on the intensity score of ligand-stromal transcript levels. Further prognostic analysis using public databases led us to identify 21 ligand-receptor pairs, including well-known as well as less well-characterized ligand-receptor pairs. Therefore, we selected tumor necrosis factor superfamily member 12/tumor necrosis factor receptor superfamily member 12A as possible factors contributing to the aggressiveness of lung adenocarcinoma via cancer-stromal interactions; immunohistochemical analysis confirmed that these factors were expressed mainly in the stroma and cancer cells, respectively, in both xenografts and primary lung adenocarcinoma. In human clinical specimens, high tumor necrosis factor receptor superfamily member 12A expression significantly correlated with tumor size, invasive diameter, and stage. Thus, tumor necrosis factor superfamily member 12 and its receptor tumor necrosis factor receptor superfamily member 12A signaling axis may be potential candidates for therapeutic intervention for lung adenocarcinoma."
+      "metric_value": 0.535,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41404835/",
+      "url_doi": "https://doi.org/10.1177/03008916251392738",
+      "abstract": "Low-dose computed tomography (LDCT)-based lung cancer screening (LCS) seems to have very limited impact on small cell lung cancer (SCLC) outcomes. This study aims at describing frequency and outcomes of SCLC in a large LCS population.Patients diagnosed with SCLC among the total population enrolled in three different trials (n = 7473) were selected for the present analysis. Demographic and clinical data were collected at the baseline and follow-up screening rounds, while the vital status and date of death were obtained through a dedicated national platform. Of the 396 diagnosed LCs, 28 (7.1%) were SCLCs; median survival time from the diagnosis was 1.5 years, and overall mortality was 71.4%. Screen-detected SCLCs were 20/28 (71.4%); 5/20 (25%) were prevalent cancers and 15/20 (75%) incident ones. Five-year mortality among the screen-detected and non-screen detected SCLCs was 70% and 62.5%, respectively.The frequency of SCLC was lower as compared to other trials. Although no significant differences in five-year mortality were observed between screen-detected and non-screen-detected SCLCs, the overall five-year mortality was substantially lower than that reported in non-LCS populations, suggesting that LDCT-based LCS has an impact on SCLC outcome, albeit limited."
     },
     {
       "pmid": "41192526",
@@ -184,6 +144,46 @@
       "abstract": "The objective of this research is to investigate the association between occupational radon exposure and pulmonary health outcomes in male miners from Chongqing, China. Between June 2022 and December 2023, 110 miners were enrolled in this cross-sectional study. Personal radon exposure levels were measured using passive cumulative dosimeters, with pulmonary health assessed through radiologist-interpreted low-dose computed tomography (CT) scans and serum biomarker analysis (CEA, CYFRA21-1, NSE, and CA125) via ELISA. Multivariable analyses revealed strong dose-response relationships between radon exposure and both serum biomarkers and CT abnormalities. high radon exposure predicted substantial biomarker elevations including a 2.45-fold increase in CYFRA21-1 (β = 0.39, 95 % CI 0.25-0.54, p < 0.001), 1.60-fold increase in CEA (β = 0.20, 0.05-0.35, p = 0.008), and 3.58-fold increased CT abnormality risk (OR = 3.58, p = 0.023). Mediation analysis identified CYFRA21-1 as accounting for 69 % (p = 0.024) and CEA for 24.7 % (p = 0.036) of radon's effect on CT abnormalities. These findings demonstrate that occupational radon exposure contributes to pulmonary damage through both direct effects and biomarker-mediated pathways, with CYFRA21-1 and CEA emerging as potential early indicators of lung cancer in radon-exposed populations."
     },
     {
+      "pmid": "41406409",
+      "doi": "10.1200/JCO-25-02185",
+      "title": "Reply to: Blind Spots in REZILIENT-1: Does Post-platinum Zipalertinib Address Needs in Epidermal Growth Factor Receptor ex20ins+ Non-Small Cell Lung Cancer?",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-12-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41406409/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-02185",
+      "abstract": null
+    },
+    {
+      "pmid": "41406405",
+      "doi": "10.1200/JCO-25-01501",
+      "title": "Blind Spots in REZILIENT-1: Does Post-Platinum Zipalertinib Address Needs in Epidermal Growth Factor Receptor ex20ins+ Non-Small Cell Lung Cancer?",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2025-12-17T00:00:00+00:00",
+      "pubtypes": [
+        "Letter"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41406405/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01501",
+      "abstract": null
+    },
+    {
       "pmid": "41388832",
       "doi": "10.1080/14796694.2025.2596228",
       "title": "Frontline sigvotatug vedotin plus pembrolizumab vs pembrolizumab for non-small cell lung cancer with PD-L1 tumor proportion score ≥50%: phase III study design.",
@@ -242,106 +242,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41387456/",
       "url_doi": "https://doi.org/10.1038/s41467-025-66780-y",
       "abstract": "In spite of the growing interest in the microbiome in human cancer, there are currently only small-scale lung cancer microbiome studies conducted directly on tissue. As part of the Sherlock-Lung study, we studied the microbiomes of 940 lung cancers (4090 samples) in never smokers (LCINS) directly from lung tissue using three data types: 16S rRNA gene sequencing (16S), whole-genome sequencing (WGS) with paired blood, and RNA-seq. We observe very low biomass and few microbiome associations in LCINS using 16S and WGS tissue. Using RNA-seq, we observe more total microbial reads, and decreased relative abundance of several commensal bacteria at the genus and species levels in tumors relative to paired normal lung tissue. Among all datasets, we see no consistent associations between the lung tissue microbiome, or circulating bacterial DNA, and any available demographic and clinical features, including age, sex, genetic ancestry, second-hand tobacco smoking exposure, LCINS histology, stage, and overall survival. We also observe no microbiome associations with any human genomic alterations within the same samples. Every null result should be interpreted with caution given the possibility of future methodological breakthroughs. However, all together, using multiple data types in nearly 1000 patients, we find no substantive role for the lung cancer microbiome in treatment-naïve LCINS."
-    },
-    {
-      "pmid": "41391214",
-      "doi": "10.1016/j.lungcan.2025.108876",
-      "title": "Prognostic comparison of lymph node metastasis subtypes in lung adenocarcinoma: clinical implications of intranodal metastasis versus extranodal extension for optimizing R classification.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-12-11T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(25)00768-8/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41391214/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108876",
-      "abstract": "BACKGROUND: Lung adenocarcinoma (LUAD) prognosis is strongly influenced by lymph node (LN) status. While extranodal extension (ENE) is a recognized negative prognostic factor, the International Association for the Study of Lung Cancer (IASLC) has proposed reclassifying ENE from R0 (complete resection) to R1 (incomplete resection). The prognostic significance of intranodal metastasis (INM) remains less defined. This study aims to compare the prognosis of LUAD patients with INM versus ENE to inform potential refinements to the R classification system.\n\nMETHODS: This retrospective study enrolled 357 patients with pT1-3N0-1M0 LUAD who underwent lobectomy with systematic lymph node dissection between 2015 and 2021. Patients were stratified into three groups based on postoperative pathology: no LN metastasis (N0, n = 180), INM (n = 124), and ENE (n = 53). Overall survival (OS) and disease-free survival (DFS) were compared using Kaplan-Meier and Cox regression analyses.\n\nRESULTS: Among 177N1-stage patients, no significant difference in OS or DFS was observed between the INM and ENE groups (p > 0.05). However, both the INM and ENE groups showed significantly worse OS and DFS compared to the N0 group (p < 0.05). Multivariate analysis confirmed LN metastasis as an independent adverse prognostic factor for both DFS (HR = 2.95, 95 % CI: 1.32-6.61, P = 0.008) and OS (HR = 3.11, 95 % CI: 1.52-6.38, P = 0.002). Patients with nodal metastasis also had a significantly higher risk of recurrence.\n\nCONCLUSION: In N1-stage LUAD, the prognosis of patients with INM is comparable to that of patients with ENE, with both groups exhibiting significantly poorer outcomes than node-negative patients. These findings suggest that the presence of nodal metastasis, regardless of extracapsular extension, may represent occult residual disease. We propose that INM, alongside ENE, should be considered for classification as incomplete resection (R1) to better guide adjuvant therapy strategies."
-    },
-    {
-      "pmid": "41390056",
-      "doi": "10.1016/j.jtho.2025.12.004",
-      "title": "High penetrance rare variants underlying familial lung cancer risk: Insights from genetic epidemiology of lung cancer consortium.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-12-11T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41390056/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.12.004",
-      "abstract": "BACKGROUND: Rare, deleterious germline variants are key contributors to inherited lung cancer (LC) risk. The Genetic Epidemiology of LC Consortium (GELCC) has curated valuable high-risk LC families and is uniquely positioned to uncover rare, high-penetrance variants underlying familial LC (FLC).\n\nMETHODS: We performed whole-genome and exome sequencing on germline DNA from 120 high-risk LC families (177 FLC cases, 309 unaffected relatives). We prioritized rare (allele frequency <1% in the genome aggregation database), potentially deleterious variants present in two or more FLC cases. These variants were then validated in 10,085 sporadic LC (SLC) cases and 612,970 controls.\n\nRESULTS: We identified 118 candidate variants, 28 of which were validated in SLC with strong statistical support. We discovered a novel pathogenic axis of three truncating variants in GALNT6, MUC4, and ERBB3 genes, which are critical regulators of mucin-type O-glycosylation. Nine top hits mapped to the known 6q23-25 linkage region (ROS1, LAMA2, PRKN, SYNE1). Other candidates clustered in DNA repair (ATM, BRCA2, MLH1), oncogenic signaling (ERBB3, JAK1, PIM1), and extracellular matrix genes (COL6A3, FLG). Carriers of two or more variant alleles showed a strong dose-dependent risk. Furthermore, gene-based burden tests revealed strong associations between RARB, MGMT, and EBF1 with FLC susceptibility.\n\nCONCLUSION: Our findings underscore the significant role of rare, high-penetrance genetic variants in FLC susceptibility, particularly in mucin glycosylation and DNA repair genes. These findings offer promising targets for early detection and personalized therapies."
-    },
-    {
-      "pmid": "41386218",
-      "doi": "10.1016/j.cell.2025.11.021",
-      "title": "Are ultrasensitive ctDNA assays ready for clinical use in early-stage NSCLC?",
-      "journal": "Cell",
-      "pubdate": "2025-12-11T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41386218/",
-      "url_doi": "https://doi.org/10.1016/j.cell.2025.11.021",
-      "abstract": "Disease recurrence in early-stage non-small cell lung cancer (NSCLC) remains a persistent clinical challenge, underscoring the need for better prognostic biomarkers. In this preview, we highlight the clinical implications of ultrasensitive ctDNA monitoring in lung cancer risk modeling reported by Black et al. in this issue of Cell."
-    },
-    {
-      "pmid": "41205598",
-      "doi": "10.1016/j.cell.2025.10.020",
-      "title": "Longitudinal ultrasensitive ctDNA monitoring for high-resolution lung cancer risk prediction.",
-      "journal": "Cell",
-      "pubdate": "2025-12-11T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.cell.2025.10.020",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41205598/",
-      "url_doi": "https://doi.org/10.1016/j.cell.2025.10.020",
-      "abstract": "Biomarkers accurately informing prognostic assessment and therapeutic strategy are critical for improving patient outcome in oncology. Here, we apply a whole-genome, tumor-informed circulating tumor DNA (ctDNA) detection approach to address this challenge, leveraging 1,800 variants across 2,994 plasma samples from 431 patients with non-small cell lung cancer (NSCLC) from the TRACERx study. We show that ultrasensitive ctDNA detection below 80 parts per million both pre- and postoperatively is highly prognostic, and combinatorial analysis of the pre- and postoperative ctDNA status identifies an intermediate risk group, improving disease stratification. ctDNA kinetics demonstrate clinical utility during adjuvant therapy, where patients that \"clear\" ctDNA during adjuvant therapy experience improved outcomes. Moreover, characterization of patterns in postoperative ctDNA kinetics reveals insights into the timing, risk, and anatomical pattern of relapses. By incorporating longitudinal ultrasensitive ctDNA detection, we propose a refined schema for guiding the stratification and treatment recommendations in early stage NSCLC."
-    },
-    {
-      "pmid": "41378732",
-      "doi": "10.1021/acs.nanolett.5c04269",
-      "title": "PBAE-PEG/Lipid Nanoparticle Delivery of RNA for the Creation of Genetically Engineered Lung Cancer Mouse Models.",
-      "journal": "Nano letters",
-      "pubdate": "2025-12-11T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378732/",
-      "url_doi": "https://doi.org/10.1021/acs.nanolett.5c04269",
-      "abstract": "We have recently developed polymer/lipid nanoparticles PBAE-PEG/4A3-SC8/DOPE/Cholesterol/DOTAP (hereafter, PBAE-PEG/LNP) that can deliver mRNA into lung cells. Here, using PBAE-PEG/LNP, we delivered"
     }
   ]
 }
