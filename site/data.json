@@ -1,6 +1,26 @@
 {
-  "generated": "2025-12-18T05:19:58.660900Z",
+  "generated": "2025-12-19T05:20:29.231234Z",
   "items": [
+    {
+      "pmid": "41411619",
+      "doi": "10.1158/0008-5472.CAN-25-1483",
+      "title": "Small Cell Lung Cancer Classification: Unraveling Heterogeneity to Enable Personalized Treatments.",
+      "journal": "Cancer research",
+      "pubdate": "2025-12-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41411619/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1483",
+      "abstract": "Small cell lung cancer (SCLC) is an aggressive thoracic disease characterized by rapid proliferation and early metastatic spread. The survival outcomes for SCLC patients remain notoriously poor, underlining that only modest improvements have been achieved in clinical settings to date. However, insights gained from human tumors and preclinical models in recent years have shed light on the heterogeneous molecular profile of SCLC. Numerous research groups have, therefore, begun to stratify SCLC into subgroups based on differential transcription factor expression, the tumor immune microenvironment, and other criteria. Since SCLC subtypes show major differences in their molecular landscape and biological behavior, they may offer unique therapeutic vulnerabilities and serve as a framework for future personalized clinical trials. Here, we summarize impactful classification attempts from the last ten years, highlighting discrepancies and connections between the nomenclature of each study, and expound upon relevant factors of SCLC biology influencing subtype composition and plasticity. This review delves into the implications of subgrouping for understanding and treating SCLC as well as potential future directions for SCLC research."
+    },
     {
       "pmid": "41397256",
       "doi": "10.7326/ANNALS-25-00464",
@@ -144,6 +164,46 @@
       "abstract": "The objective of this research is to investigate the association between occupational radon exposure and pulmonary health outcomes in male miners from Chongqing, China. Between June 2022 and December 2023, 110 miners were enrolled in this cross-sectional study. Personal radon exposure levels were measured using passive cumulative dosimeters, with pulmonary health assessed through radiologist-interpreted low-dose computed tomography (CT) scans and serum biomarker analysis (CEA, CYFRA21-1, NSE, and CA125) via ELISA. Multivariable analyses revealed strong dose-response relationships between radon exposure and both serum biomarkers and CT abnormalities. high radon exposure predicted substantial biomarker elevations including a 2.45-fold increase in CYFRA21-1 (β = 0.39, 95 % CI 0.25-0.54, p < 0.001), 1.60-fold increase in CEA (β = 0.20, 0.05-0.35, p = 0.008), and 3.58-fold increased CT abnormality risk (OR = 3.58, p = 0.023). Mediation analysis identified CYFRA21-1 as accounting for 69 % (p = 0.024) and CEA for 24.7 % (p = 0.036) of radon's effect on CT abnormalities. These findings demonstrate that occupational radon exposure contributes to pulmonary damage through both direct effects and biomarker-mediated pathways, with CYFRA21-1 and CEA emerging as potential early indicators of lung cancer in radon-exposed populations."
     },
     {
+      "pmid": "41410381",
+      "doi": "10.1080/14796694.2025.2592527",
+      "title": "Real-world treatment patterns and subsequent treatment effectiveness following frontline brigatinib in the ALTA-1L trial.",
+      "journal": "Future oncology (London, England)",
+      "pubdate": "2025-12-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41410381/",
+      "url_doi": "https://doi.org/10.1080/14796694.2025.2592527",
+      "abstract": "AIMS: This retrospective, chart-review study evaluated real-world outcomes post-frontline brigatinib in ALTA-1L.\n\nMETHODS: Patients from ALTA-1L were followed after brigatinib discontinuation. Outcomes evaluated for second-line (2L) treatment included real-world overall response rate (rwORR), time to treatment discontinuation (rwTTD), and progression-free survival (rwPFS).\n\nRESULTS: Forty of 48 patients received subsequent systemic anticancer therapies; 30 received 2L ALK tyrosine kinase inhibitors (TKIs), mostly lorlatinib (n = 16) or alectinib (n = 8), and 11 received 2L non-ALK TKI therapy (one with alectinib). rwORR was 33% with 2L ALK TKIs and 0% with 2L non-ALK TKI therapy. Median (95% confidence interval [CI]) 2L rwTTD was 34.7 months (4.6-not reached [NR]) for ALK TKIs (lorlatinib, 37.2 months [6.0-NR]; alectinib, NR [1.1-NR]; crizotinib, 2.8 months [2.0-NR]) and 4.4 months (1.4-6.0) for 2L non-ALK TKI therapy. Median (95% CI) 2L rwPFS was 16.1 months (4.4-NR) with ALK TKIs (lorlatinib, 25.6 months [3.8-NR]; alectinib, 16.1 months [1.1-NR]; crizotinib, 2.4 months [2.0-NR]) and 6.1 months (1.7-NR) with 2L non-ALK TKI therapy.\n\nCONCLUSIONS: Following brigatinib discontinuation, most patients initiated a second ALK TKI. Patients treated with 2L second- or third-generation ALK TKIs post-brigatinib experienced prolonged clinical benefit.\n\nCLINICAL TRIAL REGISTRATION: clinicaltrials.gov identifier: NCT02737501."
+    },
+    {
+      "pmid": "41410198",
+      "doi": "10.1080/17501911.2025.2604020",
+      "title": "Peripheral blood-based S100P hypomethylation as a biomarker for the early-stage non-small cell lung cancer.",
+      "journal": "Epigenomics",
+      "pubdate": "2025-12-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41410198/",
+      "url_doi": "https://doi.org/10.1080/17501911.2025.2604020",
+      "abstract": "AIM: Non-small cell lung cancer (NSCLC) has caused a heavy social and economic burden worldwide. DNA methylation, as an emerging blood biomarker, has great potential for early detection of NSCLC.\n\nMETHODS: Seven CpG sites of the\n\nRESULTS: The logistic regression-based quartile analysis (Q1 lowest vs. Q4 highest) disclosed the association between hypomethylation of six CpG sites in the\n\nCONCLUSIONS: Using quantitative mass spectrometry, we investigated an association between"
+    },
+    {
       "pmid": "41406409",
       "doi": "10.1200/JCO-25-02185",
       "title": "Reply to: Blind Spots in REZILIENT-1: Does Post-platinum Zipalertinib Address Needs in Epidermal Growth Factor Receptor ex20ins+ Non-Small Cell Lung Cancer?",
@@ -184,6 +244,26 @@
       "abstract": null
     },
     {
+      "pmid": "41407631",
+      "doi": "10.1016/j.lungcan.2025.108875",
+      "title": "Corrigendum to \"Treatment and outcomes of limited stage small cell lung cancer in the Canadian small cell lung cancer database (CASCADE)\" [Lung Cancer 210 (2025) 108840].",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-12-16T00:00:00+00:00",
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41407631/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108875",
+      "abstract": null
+    },
+    {
       "pmid": "41388832",
       "doi": "10.1080/14796694.2025.2596228",
       "title": "Frontline sigvotatug vedotin plus pembrolizumab vs pembrolizumab for non-small cell lung cancer with PD-L1 tumor proportion score ≥50%: phase III study design.",
@@ -202,46 +282,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41388832/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2596228",
       "abstract": "Integrin beta-6 (IB6) is a tumor-associated membrane protein involved in many cellular processes, including wound healing and tissue remodeling. While IB6 expression is constitutively low in healthy tissues, high IB6 expression in numerous cancers, including non-small cell lung cancer (NSCLC), is associated with poor outcomes. In a phase I study, the novel IB6-directed vedotin-based antibody-drug conjugate sigvotatug vedotin (SV) showed manageable safety and encouraging efficacy as a monotherapy and in combination with pembrolizumab in patients with advanced solid tumors, including NSCLC. Based on those results, the phase III Sigvie-003 study is evaluating SV plus pembrolizumab compared with pembrolizumab monotherapy as first-line treatment in adult patients with locally advanced, unresectable, or metastatic NSCLC with high programmed cell death ligand 1 expression (tumor proportion score ≥50%). Here, we describe the design of the Sigvie-003 study, which is an open-label, randomized, controlled phase III study. Approximately 714 patients will be randomized 1:1. The dual primary endpoints are progression-free survival as assessed by blinded independent central review per Response Evaluation Criteria in Solid Tumors v1.1 and overall survival; secondary endpoints include additional efficacy, safety and tolerability, pharmacokinetics, and immunogenicity endpoints."
-    },
-    {
-      "pmid": "41387445",
-      "doi": "10.1038/s41467-025-67648-x",
-      "title": "Author Correction: Alectinib in combination with bevacizumab as first-line treatment in ALK-rearranged non-small cell lung cancer (ALEK-B): a single-arm, phase 2 trial.",
-      "journal": "Nature communications",
-      "pubdate": "2025-12-12T00:00:00+00:00",
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41467-025-67648-x.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41387445/",
-      "url_doi": "https://doi.org/10.1038/s41467-025-67648-x",
-      "abstract": null
-    },
-    {
-      "pmid": "41387456",
-      "doi": "10.1038/s41467-025-66780-y",
-      "title": "Microbiome analysis of 940 lung cancers in never-smokers reveals lack of clinically relevant associations.",
-      "journal": "Nature communications",
-      "pubdate": "2025-12-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41467-025-66780-y_reference.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41387456/",
-      "url_doi": "https://doi.org/10.1038/s41467-025-66780-y",
-      "abstract": "In spite of the growing interest in the microbiome in human cancer, there are currently only small-scale lung cancer microbiome studies conducted directly on tissue. As part of the Sherlock-Lung study, we studied the microbiomes of 940 lung cancers (4090 samples) in never smokers (LCINS) directly from lung tissue using three data types: 16S rRNA gene sequencing (16S), whole-genome sequencing (WGS) with paired blood, and RNA-seq. We observe very low biomass and few microbiome associations in LCINS using 16S and WGS tissue. Using RNA-seq, we observe more total microbial reads, and decreased relative abundance of several commensal bacteria at the genus and species levels in tumors relative to paired normal lung tissue. Among all datasets, we see no consistent associations between the lung tissue microbiome, or circulating bacterial DNA, and any available demographic and clinical features, including age, sex, genetic ancestry, second-hand tobacco smoking exposure, LCINS histology, stage, and overall survival. We also observe no microbiome associations with any human genomic alterations within the same samples. Every null result should be interpreted with caution given the possibility of future methodological breakthroughs. However, all together, using multiple data types in nearly 1000 patients, we find no substantive role for the lung cancer microbiome in treatment-naïve LCINS."
     }
   ]
 }
