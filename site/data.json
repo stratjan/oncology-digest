@@ -1,6 +1,26 @@
 {
-  "generated": "2025-12-19T05:20:29.231234Z",
+  "generated": "2025-12-20T05:18:57.184980Z",
   "items": [
+    {
+      "pmid": "41418101",
+      "doi": "10.1158/0008-5472.CAN-25-1594",
+      "title": "Distinct Tumor-Immune Ecologies in Lung Cancer Patients Predict Progression and Define a Clinical Biomarker of Therapy Response.",
+      "journal": "Cancer research",
+      "pubdate": "2025-12-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41418101/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1594",
+      "abstract": "Multiplexed imaging of tissues is an approach that holds promise for improving early detection, diagnosis, and treatment of cancer. Here, we investigated multiplexed histological images of paired pre- and on-treatment samples from nine patients with immunotherapy-refractory non-small cell lung cancer (NSCLC) treated with an oral HDAC inhibitor (vorinostat) combined with a PD-1 inhibitor (pembrolizumab). Patient responses comprised of either stable disease (SD) or progressive disease (PD). An extensive multiplexed-image analysis pipeline involving both cell segmentation and quadrats, coupled with spatial statistics, machine learning, and deep learning was built to analyze the spatial and temporal features that predict disease progression and identify potential clinical biomarkers. Distinct spatial immune ecologies existed between SD and PD patients, and tumors from PD patients were already characterized by an immune-suppressive environment prior to treatment. Finally, the learned spatial ecologies predicted disease progression better than PD-L1 status alone, suggesting these ecologies could be used as potential companion biomarkers with PD-L1 in NSCLC. These findings will be investigated in a larger-cohort study generated from an ongoing clinical trial (NCT02638090) that includes a wider range of responses including complete and partial responders. Together, this study developed a computational infrastructure for analyzing multiplex imaging to predict immunotherapy response in NSCLC, which can potentially be generalized to any type of cancer."
+    },
     {
       "pmid": "41411619",
       "doi": "10.1158/0008-5472.CAN-25-1483",
@@ -13,8 +33,8 @@
       "entity": "SCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1158/0008-5472.can-25-1483",
       "metric_name": "SJR",
       "metric_value": 3.879,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41411619/",
@@ -164,6 +184,26 @@
       "abstract": "The objective of this research is to investigate the association between occupational radon exposure and pulmonary health outcomes in male miners from Chongqing, China. Between June 2022 and December 2023, 110 miners were enrolled in this cross-sectional study. Personal radon exposure levels were measured using passive cumulative dosimeters, with pulmonary health assessed through radiologist-interpreted low-dose computed tomography (CT) scans and serum biomarker analysis (CEA, CYFRA21-1, NSE, and CA125) via ELISA. Multivariable analyses revealed strong dose-response relationships between radon exposure and both serum biomarkers and CT abnormalities. high radon exposure predicted substantial biomarker elevations including a 2.45-fold increase in CYFRA21-1 (β = 0.39, 95 % CI 0.25-0.54, p < 0.001), 1.60-fold increase in CEA (β = 0.20, 0.05-0.35, p = 0.008), and 3.58-fold increased CT abnormality risk (OR = 3.58, p = 0.023). Mediation analysis identified CYFRA21-1 as accounting for 69 % (p = 0.024) and CEA for 24.7 % (p = 0.036) of radon's effect on CT abnormalities. These findings demonstrate that occupational radon exposure contributes to pulmonary damage through both direct effects and biomarker-mediated pathways, with CYFRA21-1 and CEA emerging as potential early indicators of lung cancer in radon-exposed populations."
     },
     {
+      "pmid": "41417462",
+      "doi": "10.1158/1078-0432.CCR-25-2581",
+      "title": "Molecular and clinical characteristics of patients with non-small cell lung cancer (NSCLC) harboring KRAS G12V mutations.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2025-12-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41417462/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2581",
+      "abstract": "PURPOSE: KRAS G12V is among the most frequent KRAS mutations in non-small cell lung cancer (NSCLC), yet its clinical and molecular features remain poorly understood.\n\nEXPERIMENTAL DESIGN: In this retrospective study, we analyzed 636 patients with KRAS G12V-mutated NSCLC diagnosed between 2018 and 2023. Clinical, pathological, and molecular characteristics, including co-mutations, smoking history, PD-L1 expression, CD8+ T-cell infiltration, and treatment outcomes, were assessed.\n\nRESULTS: The majority of patients (94.2%) were current or former smokers, with a median tobacco exposure of 40 pack-years. Co-mutations were frequent, most commonly in TP53 (40.2%), STK11 (30.2%), and KEAP1 (29.3%). Heavy smokers exhibited significantly higher PD-L1 expression and more frequent TP53, KEAP1, and NTRK1-3mutations than light smokers. CD8+ T-cell infiltration showed a non-significant trend toward higher values in G12V compared to non-G12V KRAS subtypes. Among 151 patients with advanced disease, those treated with immune checkpoint blockade (ICB) alone or in combination with chemotherapy had significantly higher response rates and improved real-world progression-free (rwPFS) and overall survival (rwOS) compared to chemotherapy alone. In patients with PD-L1 TPS ≥50%, ICB-based treatment achieved a median rwOS of 30 months.\n\nCONCLUSIONS: KRAS G12V-mutated NSCLC is characterized by a strong association with tobacco use, high co-mutation rates in clinically relevant genes, and a favorable response to PD-L1-based immunotherapy. The observed mutation landscape supports the potential for dual checkpoint blockade in a significant subset."
+    },
+    {
       "pmid": "41410381",
       "doi": "10.1080/14796694.2025.2592527",
       "title": "Real-world treatment patterns and subsequent treatment effectiveness following frontline brigatinib in the ALTA-1L trial.",
@@ -262,26 +302,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41407631/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108875",
       "abstract": null
-    },
-    {
-      "pmid": "41388832",
-      "doi": "10.1080/14796694.2025.2596228",
-      "title": "Frontline sigvotatug vedotin plus pembrolizumab vs pembrolizumab for non-small cell lung cancer with PD-L1 tumor proportion score ≥50%: phase III study design.",
-      "journal": "Future oncology (London, England)",
-      "pubdate": "2025-12-13T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Phase III",
-      "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41388832/",
-      "url_doi": "https://doi.org/10.1080/14796694.2025.2596228",
-      "abstract": "Integrin beta-6 (IB6) is a tumor-associated membrane protein involved in many cellular processes, including wound healing and tissue remodeling. While IB6 expression is constitutively low in healthy tissues, high IB6 expression in numerous cancers, including non-small cell lung cancer (NSCLC), is associated with poor outcomes. In a phase I study, the novel IB6-directed vedotin-based antibody-drug conjugate sigvotatug vedotin (SV) showed manageable safety and encouraging efficacy as a monotherapy and in combination with pembrolizumab in patients with advanced solid tumors, including NSCLC. Based on those results, the phase III Sigvie-003 study is evaluating SV plus pembrolizumab compared with pembrolizumab monotherapy as first-line treatment in adult patients with locally advanced, unresectable, or metastatic NSCLC with high programmed cell death ligand 1 expression (tumor proportion score ≥50%). Here, we describe the design of the Sigvie-003 study, which is an open-label, randomized, controlled phase III study. Approximately 714 patients will be randomized 1:1. The dual primary endpoints are progression-free survival as assessed by blinded independent central review per Response Evaluation Criteria in Solid Tumors v1.1 and overall survival; secondary endpoints include additional efficacy, safety and tolerability, pharmacokinetics, and immunogenicity endpoints."
     }
   ]
 }
