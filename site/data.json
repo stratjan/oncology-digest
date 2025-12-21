@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-20T05:18:57.184980Z",
+  "generated": "2025-12-21T05:19:22.923483Z",
   "items": [
     {
       "pmid": "41418101",
@@ -62,6 +62,27 @@
       "abstract": "BACKGROUND: The U.S. Preventive Services Task Force expanded lung cancer (LC) screening eligibility in 2021 (USPSTF-2021) by decreasing the minimum number of smoking pack-years from 30 to 20. Underrepresented minorities still experience disparities in screening eligibility.\n\nOBJECTIVE: To evaluate screening eligibility and prognostic performance of alternative smoking duration-based criteria versus USPSTF-2021 (primary outcome) and risk-based screening using the recalibrated Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial 2012 (PLCOm2012\n\nDESIGN: Prospective, population-based Multiethnic Cohort linked to SEER (Surveillance, Epidemiology, and End Results) registries.\n\nSETTING: California and Hawai'i, with recruitment from 1993 to 1996.\n\nPARTICIPANTS: 105 261 adults aged 45 to 75 years with a history of smoking.\n\nMEASUREMENTS: Hypothetical eligibility and prognostic performance (sensitivity and specificity) in detecting 6-year LC.\n\nRESULTS: Under USPSTF-2021, 24.0% of the cohort would be eligible for screening; a 30-year smoking duration yielded the closest eligibility rate (27.5%). Compared with USPSTF-2021, the 30-year duration criteria would reduce eligibility gaps across all races relative to Whites, most notably in African Americans (30.4% vs. 28.8% for Whites under duration-based; 21.4% vs. 30.2% for Whites under USPSTF-2021) and Latinos (25.1% vs. 28.8% for Whites under duration-based; 15.7% vs. 30.2% for Whites under USPSTF-2021). Prognostic sensitivity to identify LC within 6 years increased across all races under the 30-year duration criteria, although specificity decreased commensurately. At matched overall eligibility (27.5%), a risk-based PLCOm2012\n\nLIMITATIONS: Cohort geography and enrollment period may limit generalizability. Overdiagnosis was not measured.\n\nCONCLUSION: Compared with USPSTF-2021, the 30-year duration-based criteria could reduce the eligibility gaps among African Americans and Latinos relative to Whites while improving 6-year LC detection sensitivity across all races.\n\nPRIMARY FUNDING SOURCE: National Institutes of Health."
     },
     {
+      "pmid": "41419100",
+      "doi": "10.1016/j.canlet.2025.218223",
+      "title": "Consensus on the Diagnosis and Treatment of Unresectable Stage III Driver Gene-Positive Non-Small Cell Lung Cancer.",
+      "journal": "Cancer letters",
+      "pubdate": "2025-12-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 2.756,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41419100/",
+      "url_doi": "https://doi.org/10.1016/j.canlet.2025.218223",
+      "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
+    },
+    {
       "pmid": "41404835",
       "doi": "10.1177/03008916251392738",
       "title": "LDCT-based lung cancer screening and small cell lung cancer: Limited but non-negligible impact on survival. A brief report.",
@@ -100,6 +121,27 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
       "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
       "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
+    },
+    {
+      "pmid": "41325571",
+      "doi": "10.1200/JCO-24-02835",
+      "title": "Amivantamab Plus Lazertinib in Atypical EGFR-Mutated Advanced Non-Small Cell Lung Cancer: Results From CHRYSALIS-2.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1200/jco-24-02835",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41325571/",
+      "url_doi": "https://doi.org/10.1200/JCO-24-02835",
+      "abstract": "PURPOSE: For patients with advanced non-small cell lung cancer (NSCLC) harboring atypical epidermal growth factor receptor (\n\nPATIENTS AND METHODS: CHRYSALIS-2 Cohort C enrolled participants with NSCLC harboring atypical\n\nRESULTS: As of January 12, 2024, 105 participants received amivantamab-lazertinib. Most common atypical mutations were G719X (56%), L861X (26%), and S768I (23%), including single and compound mutations. In the overall population (median follow-up: 16.1 months), the ORR was 52% (95% CI, 42 to 62). The median duration of response (mDoR) was 14.1 months (95% CI, 9.5 to 26.2). The median progression-free survival (mPFS) was 11.1 months (95% CI, 7.8 to 17.8); median overall survival (mOS) was not estimable (NE; 95% CI, 22.8 to NE). Adverse events were consistent with previous studies and primarily grade 1 and 2. Among treatment-naïve participants, the ORR was 57% (95% CI, 42 to 71). The mPFS was 19.5 months (95% CI, 11.2 to NE), the mDoR was 20.7 months (95% CI, 9.9 to NE), and mOS was NE (95% CI, 26.3 to NE). Solitary or compound\n\nCONCLUSION: In participants with atypical"
     },
     {
       "pmid": "41219394",
