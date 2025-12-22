@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-21T05:19:22.923483Z",
+  "generated": "2025-12-22T05:22:10.020772Z",
   "items": [
     {
       "pmid": "41418101",
@@ -226,6 +226,27 @@
       "abstract": "The objective of this research is to investigate the association between occupational radon exposure and pulmonary health outcomes in male miners from Chongqing, China. Between June 2022 and December 2023, 110 miners were enrolled in this cross-sectional study. Personal radon exposure levels were measured using passive cumulative dosimeters, with pulmonary health assessed through radiologist-interpreted low-dose computed tomography (CT) scans and serum biomarker analysis (CEA, CYFRA21-1, NSE, and CA125) via ELISA. Multivariable analyses revealed strong dose-response relationships between radon exposure and both serum biomarkers and CT abnormalities. high radon exposure predicted substantial biomarker elevations including a 2.45-fold increase in CYFRA21-1 (β = 0.39, 95 % CI 0.25-0.54, p < 0.001), 1.60-fold increase in CEA (β = 0.20, 0.05-0.35, p = 0.008), and 3.58-fold increased CT abnormality risk (OR = 3.58, p = 0.023). Mediation analysis identified CYFRA21-1 as accounting for 69 % (p = 0.024) and CEA for 24.7 % (p = 0.036) of radon's effect on CT abnormalities. These findings demonstrate that occupational radon exposure contributes to pulmonary damage through both direct effects and biomarker-mediated pathways, with CYFRA21-1 and CEA emerging as potential early indicators of lung cancer in radon-exposed populations."
     },
     {
+      "pmid": "41125209",
+      "doi": "10.1016/j.annonc.2025.09.140",
+      "title": "The evolving landscape of leptomeningeal metastases from NSCLC: an international, contemporary, multicenter cohort study.",
+      "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.annalsofoncology.org/article/S0923-7534(25)04931-2/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41125209/",
+      "url_doi": "https://doi.org/10.1016/j.annonc.2025.09.140",
+      "abstract": "BACKGROUND: Leptomeningeal metastatic disease (LMD) represents a devastating complication of non-small-cell lung cancer (NSCLC) with a poor prognosis. Our understanding of LMD is limited in the era of molecular testing and emerging therapeutic options for lung cancer.\n\nPATIENTS AND METHODS: We conducted an international, multicenter, retrospective study involving eight institutions across Asia, United States, and Europe. Patients diagnosed with LMD from advanced NSCLC were identified (2007-2024). Clinicopathological characteristics, treatment patterns, and outcomes were analyzed. The primary endpoint was overall survival from the LMD diagnosis (LMOS).\n\nRESULTS: A total of 2052 patients with NSCLC and LMD were included and analyzed by molecular subtypes: epidermal growth factor receptor (EGFR) (n = 1610), ALK (n = 141), other actionable genomic alterations (other AGA; n = 137), and non-AGA (n = 164). The cumulative prevalence of LMD by molecular subgroups was EGFR, 11.1%; ALK, 11.2%; ROS1, 16%; ERBB2, 12.3%, non-AGA, 3.6%. A higher proportion of LMD was diagnosed >3 years after initial metastatic diagnosis. By the European Association of Neuro-Oncology (EANO)-European Society for Medical Oncology (ESMO) diagnostic criteria, type I (cerebrospinal fluid cytology positive) had significantly shorter LMOS than type II (magnetic resonance imaging and/or symptom positive). Median LMOS was 10.9 months [95% confidence interval (CI) 10.0-11.8 months] in all patients. Compared with historical cohorts, patients demonstrated improved LMOS in contemporary cohorts (7.3 versus 11.5 months, P < 0.0001), across all molecular subtypes. In AGA NSCLC, tyrosine kinase inhibitors (TKIs) were associated with improved LMOS [hazard ratio (HR) 0.39, 95% CI 0.31-0.48, P < 0.0001]. Immune checkpoint inhibitors (ICIs) conferred survival benefit in non-AGA patients (HR 0.45, 95% CI 0.25-0.84, P = 0.012). For the EGFR-mutated cohort, central nervous system (CNS)-penetrant TKI usage delayed LMD onset (P < 0.0001). Continued CNS-penetrant TKIs after LMD diagnosis were associated with longer LMOS (12.4 versus 6.0 months, P < 0.0001).\n\nCONCLUSIONS: The prevalence of LMD is rising, largely due to prolonged survival in advanced NSCLC. Contemporary systemic treatments, including TKIs and ICIs, were the main contributors to delayed LMD onset and improved LMD survival."
+    },
+    {
       "pmid": "41417462",
       "doi": "10.1158/1078-0432.CCR-25-2581",
       "title": "Molecular and clinical characteristics of patients with non-small cell lung cancer (NSCLC) harboring KRAS G12V mutations.",
@@ -284,6 +305,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41410198/",
       "url_doi": "https://doi.org/10.1080/17501911.2025.2604020",
       "abstract": "AIM: Non-small cell lung cancer (NSCLC) has caused a heavy social and economic burden worldwide. DNA methylation, as an emerging blood biomarker, has great potential for early detection of NSCLC.\n\nMETHODS: Seven CpG sites of the\n\nRESULTS: The logistic regression-based quartile analysis (Q1 lowest vs. Q4 highest) disclosed the association between hypomethylation of six CpG sites in the\n\nCONCLUSIONS: Using quantitative mass spectrometry, we investigated an association between"
+    },
+    {
+      "pmid": "41421036",
+      "doi": "10.1016/j.lungcan.2025.108883",
+      "title": "Neoadjuvant immunotherapy plus chemotherapy in locally advanced stage III NSCLC patients undergoing definitive chemo-radiotherapy---a real‑world multicenter retrospective study.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-12-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41421036/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108883",
+      "abstract": "BACKGROUND: The optimal integration of immunotherapy with definitive chemoradiotherapy (CRT) for unresectable stage III non-small cell lung cancer (NSCLC) remains an area of active investigation. While consolidation immunotherapy is standard, the efficacy and safety of a neoadjuvant approach are not yet established by phase III trials. This real-world study compares outcomes between neoadjuvant immuno-chemotherapy followed by CRT (NEO) and CRT followed by adjuvant immunotherapy (ADJ, the PACIFIC regimen).\n\nMETHODS: In this multicenter retrospective analysis, we reviewed data from patients with stage III NSCLC who received radical thoracic radiotherapy and peri-radiotherapy immunotherapy between January 2020 and December 2023. Patients were classified into NEO (n = 321) or ADJ (n = 142) groups. Primary endpoints were progression-free survival (PFS) and overall survival (OS). Secondary endpoints included treatment patterns, recurrence modes, and incidence of pneumonitis. Propensity score matching (PSM) and robust statistical analyses were used to minimize confounding.\n\nRESULTS: The median PFS was significantly longer in the NEO group than in the ADJ group (25.0 months vs. 16.3 months; HR = 0.57, 95 % CI: 0.43-0.74; p < 0.001). Median OS was not reached (NR) in the NEO group compared to 41.1 months in the ADJ group (HR = 0.54, 95 % CI: 0.37-0.78; p = 0.001). The survival benefit for the NEO group remained consistent after PSM and multivariable adjustment. The objective response rate to neoadjuvant therapy was 68.4 %. Patterns of recurrence were similar between groups, with distant metastasis being the most common site of first progression. The incidence of grade ≥2 radiation pneumonitis was comparable (31.8 % NEO vs. 30.8 % ADJ, p = 0.925), though a non-significant trend towards higher grade ≥3 radiation pneumonitis was observed in the NEO group (14.0 % vs. 7.5 %, p = 0.071). Rates of checkpoint inhibitor pneumonitis were low and similar between groups.\n\nCONCLUSION: In this large real-world cohort, a treatment sequence incorporating neoadjuvant immuno-chemotherapy prior to definitive CRT was associated with significantly improved PFS and OS compared to the standard adjuvant immunotherapy approach, without a definitive increase in severe pneumonitis. These findings support the further investigation of neoadjuvant immunotherapy strategies in phase III randomized trials for stage III NSCLC."
     },
     {
       "pmid": "41406409",
