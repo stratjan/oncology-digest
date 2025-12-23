@@ -1,6 +1,26 @@
 {
-  "generated": "2025-12-22T05:22:10.020772Z",
+  "generated": "2025-12-23T05:21:58.800700Z",
   "items": [
+    {
+      "pmid": "41423267",
+      "doi": "10.1136/jitc-2025-012205",
+      "title": "Multi-omics analysis reveals differential benefits of immunotherapy±chemotherapy based on detailed smoking history in advanced non-small cell lung cancer.",
+      "journal": "Journal for immunotherapy of cancer",
+      "pubdate": "2025-12-21T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1136/jitc-2025-012205",
+      "metric_name": "SJR",
+      "metric_value": 4.22,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41423267/",
+      "url_doi": "https://doi.org/10.1136/jitc-2025-012205",
+      "abstract": "BACKGROUND: Despite immunotherapy±chemotherapy has transformed the therapeutic landscape for patients with non-small cell lung cancer (NSCLC), critical questions remain regarding how detailed smoking history affects the evolving treatment options and the underlying molecular mechanisms driving these effects.\n\nMETHODS: We analyzed 4157 patients with advanced NSCLC who were treated with immunotherapy monotherapy (IO alone) (n=2768) or chemoimmunotherapy (chemo-IO) (n=1389) at the Dana-Farber Cancer Institute and Memorial Sloan Kettering Cancer Center (2010-2023). Associations between detailed smoking history (status and cumulative pack-years) and clinical outcomes were assessed using multivariable analyses. First-line chemo-IO versus IO alone was compared in programmed death receptor ligand 1 (PD-L1) Tumor Proportion Score (TPS) of ≥50%\n\nRESULTS: In patients receiving IO alone, both smoking status and intensity showed dose-dependent associations with improved response and survival outcomes. In contrast, among patients receiving chemo-IO, smoking history did not affect initial response but patients with active (HR=0.73, 95% CI 0.57 to 0.94, p=0.01) and heavy tobacco use (HR=0.76, 95% CI 0.62 to 0.93, p=0.001) showed improved progression-free survival (PFS), and a trend toward improved overall survival (OS). Importantly, these associations remained independent of\n\nCONCLUSIONS: Detailed smoking history provides crucial insights for optimizing IO selection in advanced NSCLC through mechanistic alterations in both the tumor microenvironment and systemic plasma protein profiles."
+    },
     {
       "pmid": "41418101",
       "doi": "10.1158/0008-5472.CAN-25-1594",
@@ -42,26 +62,6 @@
       "abstract": "Small cell lung cancer (SCLC) is an aggressive thoracic disease characterized by rapid proliferation and early metastatic spread. The survival outcomes for SCLC patients remain notoriously poor, underlining that only modest improvements have been achieved in clinical settings to date. However, insights gained from human tumors and preclinical models in recent years have shed light on the heterogeneous molecular profile of SCLC. Numerous research groups have, therefore, begun to stratify SCLC into subgroups based on differential transcription factor expression, the tumor immune microenvironment, and other criteria. Since SCLC subtypes show major differences in their molecular landscape and biological behavior, they may offer unique therapeutic vulnerabilities and serve as a framework for future personalized clinical trials. Here, we summarize impactful classification attempts from the last ten years, highlighting discrepancies and connections between the nomenclature of each study, and expound upon relevant factors of SCLC biology influencing subtype composition and plasticity. This review delves into the implications of subgrouping for understanding and treating SCLC as well as potential future directions for SCLC research."
     },
     {
-      "pmid": "41397256",
-      "doi": "10.7326/ANNALS-25-00464",
-      "title": "Eligibility and Prognostic Performance of Smoking Duration-Based Versus Pack-Year-Based U.S. National Lung Cancer Screening Criteria Across Racial and Ethnic Groups.",
-      "journal": "Annals of internal medicine",
-      "pubdate": "2025-12-16T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 3.378,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41397256/",
-      "url_doi": "https://doi.org/10.7326/ANNALS-25-00464",
-      "abstract": "BACKGROUND: The U.S. Preventive Services Task Force expanded lung cancer (LC) screening eligibility in 2021 (USPSTF-2021) by decreasing the minimum number of smoking pack-years from 30 to 20. Underrepresented minorities still experience disparities in screening eligibility.\n\nOBJECTIVE: To evaluate screening eligibility and prognostic performance of alternative smoking duration-based criteria versus USPSTF-2021 (primary outcome) and risk-based screening using the recalibrated Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial 2012 (PLCOm2012\n\nDESIGN: Prospective, population-based Multiethnic Cohort linked to SEER (Surveillance, Epidemiology, and End Results) registries.\n\nSETTING: California and Hawai'i, with recruitment from 1993 to 1996.\n\nPARTICIPANTS: 105 261 adults aged 45 to 75 years with a history of smoking.\n\nMEASUREMENTS: Hypothetical eligibility and prognostic performance (sensitivity and specificity) in detecting 6-year LC.\n\nRESULTS: Under USPSTF-2021, 24.0% of the cohort would be eligible for screening; a 30-year smoking duration yielded the closest eligibility rate (27.5%). Compared with USPSTF-2021, the 30-year duration criteria would reduce eligibility gaps across all races relative to Whites, most notably in African Americans (30.4% vs. 28.8% for Whites under duration-based; 21.4% vs. 30.2% for Whites under USPSTF-2021) and Latinos (25.1% vs. 28.8% for Whites under duration-based; 15.7% vs. 30.2% for Whites under USPSTF-2021). Prognostic sensitivity to identify LC within 6 years increased across all races under the 30-year duration criteria, although specificity decreased commensurately. At matched overall eligibility (27.5%), a risk-based PLCOm2012\n\nLIMITATIONS: Cohort geography and enrollment period may limit generalizability. Overdiagnosis was not measured.\n\nCONCLUSION: Compared with USPSTF-2021, the 30-year duration-based criteria could reduce the eligibility gaps among African Americans and Latinos relative to Whites while improving 6-year LC detection sensitivity across all races.\n\nPRIMARY FUNDING SOURCE: National Institutes of Health."
-    },
-    {
       "pmid": "41419100",
       "doi": "10.1016/j.canlet.2025.218223",
       "title": "Consensus on the Diagnosis and Treatment of Unresectable Stage III Driver Gene-Positive Non-Small Cell Lung Cancer.",
@@ -81,6 +81,47 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41419100/",
       "url_doi": "https://doi.org/10.1016/j.canlet.2025.218223",
       "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
+    },
+    {
+      "pmid": "41427516",
+      "doi": "10.1002/cpt.70146",
+      "title": "Risk of Malignancies and Major Adverse Cardiovascular Events Related to JAK Inhibitors in Rheumatoid Arthritis: A Meta-Analysis.",
+      "journal": "Clinical pharmacology and therapeutics",
+      "pubdate": "2025-12-22T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 2.127,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41427516/",
+      "url_doi": "https://doi.org/10.1002/cpt.70146",
+      "abstract": "This meta-analysis evaluated the risk of malignancies and major adverse cardiovascular events (MACE) associated with the use of JAK inhibitors in patients with RA through a comprehensive meta-analysis of available clinical trials. A systematic search was conducted in PubMed, EMBASE, and Web of Science from inception to February 7, 2025, to identify relevant clinical trials. Data on malignancies and MACE incidence were extracted, and pooled risk ratios (RR) were calculated using a random-effects model. A total of 18 studies (N = 111,260) met the inclusion criteria. JAK inhibitors were associated with a significantly increased risk of malignancies excluding NMSC (RR = 1.30, 95%CI: 1.05, 1.60; P = 0.016), NMSC (RR = 1.54, 95%CI: 1.23, 1.93; P < 0.01), overall malignancies (RR = 1.53, 95%CI: 1.18, 2.00; P = 0.002), lung cancer (RR = 1.52, 95%CI: 1.11, 2.08; P = 0.009), lymphoma (RR = 3.69, 95%CI: 1.19, 11.42; P = 0.024), non-small cell lung cancer (RR = 1.70, 95%CI: 1.01, 2.86; P = 0.047), cutaneous squamous cell carcinoma (RR = 2.30, 95%CI: 1.44, 3.65; P < 0.01), and thyroid cancer (RR = 7.51, 95%CI: 1.39, 40.74; P = 0.019). In contrast, JAK inhibitors did not significantly alter the risk of MACE (RR = 0.75, 95%CI: 0.38, 1.45; P = 0.390), venous thromboembolism (VTE) (RR = 1.52, 95%CI: 0.90, 2.56; P = 0.117), or deep vein thrombosis (DVT) (RR = 1.77, 95%CI: 0.84, 3.34; P = 0.079). Trial sequential analysis (TSA) confirmed data adequacy, and meta-regression indicated that sample size, treatment duration, and patient age did not influence outcomes. JAK inhibitors are associated with an elevated risk of malignancies but do not significantly affect MACE, VTE, or DVT risk in RA patients. Further large-scale post-marketing surveillance is warranted to refine the safety profile of JAK inhibitors in RA management."
+    },
+    {
+      "pmid": "41424028",
+      "doi": "10.1097/CM9.0000000000003796",
+      "title": "First-line atezolizumab monotherapy vs. single-agent chemotherapy in patients with advanced or metastatic non-small cell lung cancer who are ineligible for platinum-based therapy: Analysis of the IPSOS Asian subpopulation.",
+      "journal": "Chinese medical journal",
+      "pubdate": "2025-12-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1097/cm9.0000000000003796",
+      "metric_name": "SJR",
+      "metric_value": 1.213,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41424028/",
+      "url_doi": "https://doi.org/10.1097/CM9.0000000000003796",
+      "abstract": "BACKGROUND: Lung cancer remains a significant medical problem in Asia, and improved treatments are needed for patients diagnosed with non-small cell lung cancer (NSCLC), who are frail with poor performance status or substantial comorbidities. This study aimed to investigate the efficacy and safety of first-line atezolizumab vs. single-agent chemotherapy in the Asian subpopulation in IPSOS trail.\n\nMETHODS: This exploratory analysis of the Asian subpopulation from the phase 3, global, open-label, randomized controlled IPSOS trial evaluated the efficacy and safety of atezolizumab (1200 mg intravenously every 3 weeks) vs. single-agent chemotherapy (investigator's choice of vinorelbine or gemcitabine) as first-line treatment in patients with locally advanced or metastatic NSCLC, who were ineligible for platinum-based chemotherapy. The primary outcome was overall survival (OS); other outcomes were progression-free survival (PFS), objective response rate (ORR), duration of response (DOR), and safety.\n\nRESULTS: Seventy patients from China and Vietnam were included. Median OS was 15.8 months in the atezolizumab group vs. 12.5 months in the chemotherapy group; unstratified hazard ratio, 0.74 (95% confidence interval 0.41, 1.35). Median PFS was 8.1 months vs. 5.4 months, ORR was 27.9% vs. 7.4%, and median DOR was 18.7 months vs. 9.3 months, in the atezolizumab group vs. in the chemotherapy group, respectively. All-grade and grade 3-4 treatment-related adverse events (AEs) were less frequent with atezolizumab compared with chemotherapy. Two patients in the atezolizumab group had grade 5 AEs, namely pneumonia and acute left ventricular failure, with the latter considered treatment-related.\n\nCONCLUSIONS: Atezolizumab showed encouraging efficacy results and was well tolerated in an Asian subpopulation of patients with NSCLC who were deemed ineligible for standard platinum-based chemotherapy. The findings of this exploratory subpopulation analysis were consistent with those for the global IPSOS population.\n\nREGISTRATION: ClinicalTrials.gov, NCT03191786."
     },
     {
       "pmid": "41404835",
@@ -247,6 +288,26 @@
       "abstract": "BACKGROUND: Leptomeningeal metastatic disease (LMD) represents a devastating complication of non-small-cell lung cancer (NSCLC) with a poor prognosis. Our understanding of LMD is limited in the era of molecular testing and emerging therapeutic options for lung cancer.\n\nPATIENTS AND METHODS: We conducted an international, multicenter, retrospective study involving eight institutions across Asia, United States, and Europe. Patients diagnosed with LMD from advanced NSCLC were identified (2007-2024). Clinicopathological characteristics, treatment patterns, and outcomes were analyzed. The primary endpoint was overall survival from the LMD diagnosis (LMOS).\n\nRESULTS: A total of 2052 patients with NSCLC and LMD were included and analyzed by molecular subtypes: epidermal growth factor receptor (EGFR) (n = 1610), ALK (n = 141), other actionable genomic alterations (other AGA; n = 137), and non-AGA (n = 164). The cumulative prevalence of LMD by molecular subgroups was EGFR, 11.1%; ALK, 11.2%; ROS1, 16%; ERBB2, 12.3%, non-AGA, 3.6%. A higher proportion of LMD was diagnosed >3 years after initial metastatic diagnosis. By the European Association of Neuro-Oncology (EANO)-European Society for Medical Oncology (ESMO) diagnostic criteria, type I (cerebrospinal fluid cytology positive) had significantly shorter LMOS than type II (magnetic resonance imaging and/or symptom positive). Median LMOS was 10.9 months [95% confidence interval (CI) 10.0-11.8 months] in all patients. Compared with historical cohorts, patients demonstrated improved LMOS in contemporary cohorts (7.3 versus 11.5 months, P < 0.0001), across all molecular subtypes. In AGA NSCLC, tyrosine kinase inhibitors (TKIs) were associated with improved LMOS [hazard ratio (HR) 0.39, 95% CI 0.31-0.48, P < 0.0001]. Immune checkpoint inhibitors (ICIs) conferred survival benefit in non-AGA patients (HR 0.45, 95% CI 0.25-0.84, P = 0.012). For the EGFR-mutated cohort, central nervous system (CNS)-penetrant TKI usage delayed LMD onset (P < 0.0001). Continued CNS-penetrant TKIs after LMD diagnosis were associated with longer LMOS (12.4 versus 6.0 months, P < 0.0001).\n\nCONCLUSIONS: The prevalence of LMD is rising, largely due to prolonged survival in advanced NSCLC. Contemporary systemic treatments, including TKIs and ICIs, were the main contributors to delayed LMD onset and improved LMD survival."
     },
     {
+      "pmid": "41428442",
+      "doi": "10.1093/ejcts/ezaf467",
+      "title": "Impact of lymph node metastasis patterns on long-term survival in upper lobe non-small cell lung cancer.",
+      "journal": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+      "pubdate": "2025-12-22T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41428442/",
+      "url_doi": "https://doi.org/10.1093/ejcts/ezaf467",
+      "abstract": "OBJECTIVES: While treatment strategies for non-small cell lung cancer (NSCLC) continue to evolve, the prognostic implications of lymph node metastasis patterns in upper lobe tumors remain inadequately defined. This study investigated whether tumour laterality and specific nodal stations involved in N2a disease correlate with long-term survival in patients undergoing surgical resection for upper lobe NSCLC.\n\nMETHODS: This retrospective single-center study included patients with stage I-IIIB upper lobe NSCLC who underwent anatomical resection with systematic lymph node dissection from January 2010 to December 2022. Patients were stratified by tumour laterality and nodal involvement, with specific analysis of N2a subgroups based on lymph node station. Propensity score matching, Kaplan-Meier survival analysis, and log-rank testing were used to compare survival outcomes.\n\nRESULTS: Of 3,313 patients considered, 2,028 met the prespecified inclusion criteria (right: n = 1,212; left: n = 816). Mean age was 65.7 ± 9.4 years; 61.7% were male. Median overall survival (OS) was similar for right- and left-sided N0 and N1 tumors. Significant differences emerged among N2a subgroups: Patients with left-sided skip metastases to LN5/6 had markedly improved OS (66.2 ± 14.9 months) versus right-sided LN2/4 (35.3 ± 8.5 months; p = 0.047). Outcomes of left-sided N2a1 LN5/6 were also more favorable than LN7-9 (37.7 ± 15.2 months; p = 0.023) and showed better OS than left-sided N1 disease (47.6 ± 4.2 months; p = 0.284).\n\nCONCLUSIONS: Positive nodal station and tumour laterality significantly impact survival in upper lobe NSCLC. Skip metastases to LN5/6 in left-sided tumors were linked to more favorable prognosis and may warrant inclusion in future TNM classification refinements."
+    },
+    {
       "pmid": "41417462",
       "doi": "10.1158/1078-0432.CCR-25-2581",
       "title": "Molecular and clinical characteristics of patients with non-small cell lung cancer (NSCLC) harboring KRAS G12V mutations.",
@@ -364,26 +425,6 @@
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41406405/",
       "url_doi": "https://doi.org/10.1200/JCO-25-01501",
-      "abstract": null
-    },
-    {
-      "pmid": "41407631",
-      "doi": "10.1016/j.lungcan.2025.108875",
-      "title": "Corrigendum to \"Treatment and outcomes of limited stage small cell lung cancer in the Canadian small cell lung cancer database (CASCADE)\" [Lung Cancer 210 (2025) 108840].",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-12-16T00:00:00+00:00",
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41407631/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108875",
       "abstract": null
     }
   ]
