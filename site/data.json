@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-23T05:21:58.800700Z",
+  "generated": "2025-12-24T05:22:51.030464Z",
   "items": [
     {
       "pmid": "41423267",
@@ -62,27 +62,6 @@
       "abstract": "Small cell lung cancer (SCLC) is an aggressive thoracic disease characterized by rapid proliferation and early metastatic spread. The survival outcomes for SCLC patients remain notoriously poor, underlining that only modest improvements have been achieved in clinical settings to date. However, insights gained from human tumors and preclinical models in recent years have shed light on the heterogeneous molecular profile of SCLC. Numerous research groups have, therefore, begun to stratify SCLC into subgroups based on differential transcription factor expression, the tumor immune microenvironment, and other criteria. Since SCLC subtypes show major differences in their molecular landscape and biological behavior, they may offer unique therapeutic vulnerabilities and serve as a framework for future personalized clinical trials. Here, we summarize impactful classification attempts from the last ten years, highlighting discrepancies and connections between the nomenclature of each study, and expound upon relevant factors of SCLC biology influencing subtype composition and plasticity. This review delves into the implications of subgrouping for understanding and treating SCLC as well as potential future directions for SCLC research."
     },
     {
-      "pmid": "41419100",
-      "doi": "10.1016/j.canlet.2025.218223",
-      "title": "Consensus on the Diagnosis and Treatment of Unresectable Stage III Driver Gene-Positive Non-Small Cell Lung Cancer.",
-      "journal": "Cancer letters",
-      "pubdate": "2025-12-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 2.756,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41419100/",
-      "url_doi": "https://doi.org/10.1016/j.canlet.2025.218223",
-      "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
-    },
-    {
       "pmid": "41427516",
       "doi": "10.1002/cpt.70146",
       "title": "Risk of Malignancies and Major Adverse Cardiovascular Events Related to JAK Inhibitors in Rheumatoid Arthritis: A Meta-Analysis.",
@@ -102,46 +81,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41427516/",
       "url_doi": "https://doi.org/10.1002/cpt.70146",
       "abstract": "This meta-analysis evaluated the risk of malignancies and major adverse cardiovascular events (MACE) associated with the use of JAK inhibitors in patients with RA through a comprehensive meta-analysis of available clinical trials. A systematic search was conducted in PubMed, EMBASE, and Web of Science from inception to February 7, 2025, to identify relevant clinical trials. Data on malignancies and MACE incidence were extracted, and pooled risk ratios (RR) were calculated using a random-effects model. A total of 18 studies (N = 111,260) met the inclusion criteria. JAK inhibitors were associated with a significantly increased risk of malignancies excluding NMSC (RR = 1.30, 95%CI: 1.05, 1.60; P = 0.016), NMSC (RR = 1.54, 95%CI: 1.23, 1.93; P < 0.01), overall malignancies (RR = 1.53, 95%CI: 1.18, 2.00; P = 0.002), lung cancer (RR = 1.52, 95%CI: 1.11, 2.08; P = 0.009), lymphoma (RR = 3.69, 95%CI: 1.19, 11.42; P = 0.024), non-small cell lung cancer (RR = 1.70, 95%CI: 1.01, 2.86; P = 0.047), cutaneous squamous cell carcinoma (RR = 2.30, 95%CI: 1.44, 3.65; P < 0.01), and thyroid cancer (RR = 7.51, 95%CI: 1.39, 40.74; P = 0.019). In contrast, JAK inhibitors did not significantly alter the risk of MACE (RR = 0.75, 95%CI: 0.38, 1.45; P = 0.390), venous thromboembolism (VTE) (RR = 1.52, 95%CI: 0.90, 2.56; P = 0.117), or deep vein thrombosis (DVT) (RR = 1.77, 95%CI: 0.84, 3.34; P = 0.079). Trial sequential analysis (TSA) confirmed data adequacy, and meta-regression indicated that sample size, treatment duration, and patient age did not influence outcomes. JAK inhibitors are associated with an elevated risk of malignancies but do not significantly affect MACE, VTE, or DVT risk in RA patients. Further large-scale post-marketing surveillance is warranted to refine the safety profile of JAK inhibitors in RA management."
-    },
-    {
-      "pmid": "41424028",
-      "doi": "10.1097/CM9.0000000000003796",
-      "title": "First-line atezolizumab monotherapy vs. single-agent chemotherapy in patients with advanced or metastatic non-small cell lung cancer who are ineligible for platinum-based therapy: Analysis of the IPSOS Asian subpopulation.",
-      "journal": "Chinese medical journal",
-      "pubdate": "2025-12-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1097/cm9.0000000000003796",
-      "metric_name": "SJR",
-      "metric_value": 1.213,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41424028/",
-      "url_doi": "https://doi.org/10.1097/CM9.0000000000003796",
-      "abstract": "BACKGROUND: Lung cancer remains a significant medical problem in Asia, and improved treatments are needed for patients diagnosed with non-small cell lung cancer (NSCLC), who are frail with poor performance status or substantial comorbidities. This study aimed to investigate the efficacy and safety of first-line atezolizumab vs. single-agent chemotherapy in the Asian subpopulation in IPSOS trail.\n\nMETHODS: This exploratory analysis of the Asian subpopulation from the phase 3, global, open-label, randomized controlled IPSOS trial evaluated the efficacy and safety of atezolizumab (1200 mg intravenously every 3 weeks) vs. single-agent chemotherapy (investigator's choice of vinorelbine or gemcitabine) as first-line treatment in patients with locally advanced or metastatic NSCLC, who were ineligible for platinum-based chemotherapy. The primary outcome was overall survival (OS); other outcomes were progression-free survival (PFS), objective response rate (ORR), duration of response (DOR), and safety.\n\nRESULTS: Seventy patients from China and Vietnam were included. Median OS was 15.8 months in the atezolizumab group vs. 12.5 months in the chemotherapy group; unstratified hazard ratio, 0.74 (95% confidence interval 0.41, 1.35). Median PFS was 8.1 months vs. 5.4 months, ORR was 27.9% vs. 7.4%, and median DOR was 18.7 months vs. 9.3 months, in the atezolizumab group vs. in the chemotherapy group, respectively. All-grade and grade 3-4 treatment-related adverse events (AEs) were less frequent with atezolizumab compared with chemotherapy. Two patients in the atezolizumab group had grade 5 AEs, namely pneumonia and acute left ventricular failure, with the latter considered treatment-related.\n\nCONCLUSIONS: Atezolizumab showed encouraging efficacy results and was well tolerated in an Asian subpopulation of patients with NSCLC who were deemed ineligible for standard platinum-based chemotherapy. The findings of this exploratory subpopulation analysis were consistent with those for the global IPSOS population.\n\nREGISTRATION: ClinicalTrials.gov, NCT03191786."
-    },
-    {
-      "pmid": "41404835",
-      "doi": "10.1177/03008916251392738",
-      "title": "LDCT-based lung cancer screening and small cell lung cancer: Limited but non-negligible impact on survival. A brief report.",
-      "journal": "Tumori",
-      "pubdate": "2025-12-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1177/03008916251392738",
-      "metric_name": "SJR",
-      "metric_value": 0.535,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41404835/",
-      "url_doi": "https://doi.org/10.1177/03008916251392738",
-      "abstract": "Low-dose computed tomography (LDCT)-based lung cancer screening (LCS) seems to have very limited impact on small cell lung cancer (SCLC) outcomes. This study aims at describing frequency and outcomes of SCLC in a large LCS population.Patients diagnosed with SCLC among the total population enrolled in three different trials (n = 7473) were selected for the present analysis. Demographic and clinical data were collected at the baseline and follow-up screening rounds, while the vital status and date of death were obtained through a dedicated national platform. Of the 396 diagnosed LCs, 28 (7.1%) were SCLCs; median survival time from the diagnosis was 1.5 years, and overall mortality was 71.4%. Screen-detected SCLCs were 20/28 (71.4%); 5/20 (25%) were prevalent cancers and 15/20 (75%) incident ones. Five-year mortality among the screen-detected and non-screen detected SCLCs was 70% and 62.5%, respectively.The frequency of SCLC was lower as compared to other trials. Although no significant differences in five-year mortality were observed between screen-detected and non-screen-detected SCLCs, the overall five-year mortality was substantially lower than that reported in non-LCS populations, suggesting that LDCT-based LCS has an impact on SCLC outcome, albeit limited."
     },
     {
       "pmid": "41192526",
@@ -288,6 +227,26 @@
       "abstract": "BACKGROUND: Leptomeningeal metastatic disease (LMD) represents a devastating complication of non-small-cell lung cancer (NSCLC) with a poor prognosis. Our understanding of LMD is limited in the era of molecular testing and emerging therapeutic options for lung cancer.\n\nPATIENTS AND METHODS: We conducted an international, multicenter, retrospective study involving eight institutions across Asia, United States, and Europe. Patients diagnosed with LMD from advanced NSCLC were identified (2007-2024). Clinicopathological characteristics, treatment patterns, and outcomes were analyzed. The primary endpoint was overall survival from the LMD diagnosis (LMOS).\n\nRESULTS: A total of 2052 patients with NSCLC and LMD were included and analyzed by molecular subtypes: epidermal growth factor receptor (EGFR) (n = 1610), ALK (n = 141), other actionable genomic alterations (other AGA; n = 137), and non-AGA (n = 164). The cumulative prevalence of LMD by molecular subgroups was EGFR, 11.1%; ALK, 11.2%; ROS1, 16%; ERBB2, 12.3%, non-AGA, 3.6%. A higher proportion of LMD was diagnosed >3 years after initial metastatic diagnosis. By the European Association of Neuro-Oncology (EANO)-European Society for Medical Oncology (ESMO) diagnostic criteria, type I (cerebrospinal fluid cytology positive) had significantly shorter LMOS than type II (magnetic resonance imaging and/or symptom positive). Median LMOS was 10.9 months [95% confidence interval (CI) 10.0-11.8 months] in all patients. Compared with historical cohorts, patients demonstrated improved LMOS in contemporary cohorts (7.3 versus 11.5 months, P < 0.0001), across all molecular subtypes. In AGA NSCLC, tyrosine kinase inhibitors (TKIs) were associated with improved LMOS [hazard ratio (HR) 0.39, 95% CI 0.31-0.48, P < 0.0001]. Immune checkpoint inhibitors (ICIs) conferred survival benefit in non-AGA patients (HR 0.45, 95% CI 0.25-0.84, P = 0.012). For the EGFR-mutated cohort, central nervous system (CNS)-penetrant TKI usage delayed LMD onset (P < 0.0001). Continued CNS-penetrant TKIs after LMD diagnosis were associated with longer LMOS (12.4 versus 6.0 months, P < 0.0001).\n\nCONCLUSIONS: The prevalence of LMD is rising, largely due to prolonged survival in advanced NSCLC. Contemporary systemic treatments, including TKIs and ICIs, were the main contributors to delayed LMD onset and improved LMD survival."
     },
     {
+      "pmid": "41433419",
+      "doi": "10.1126/scisignal.ads7662",
+      "title": "Cancer-associated fibroblasts confer ALK inhibitor resistance in EML4-ALK-driven lung cancer by concurrent integrin and MET signaling.",
+      "journal": "Science signaling",
+      "pubdate": "2025-12-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41433419/",
+      "url_doi": "https://doi.org/10.1126/scisignal.ads7662",
+      "abstract": "Cancer-associated fibroblasts (CAFs) are associated with tumor progression and drug resistance. Here, we investigated the mechanisms underlying the cross-talk between CAFs and tumor cells in non-small cell lung cancer (NSCLC). In NSCLC cell lines with"
+    },
+    {
       "pmid": "41428442",
       "doi": "10.1093/ejcts/ezaf467",
       "title": "Impact of lymph node metastasis patterns on long-term survival in upper lobe non-small cell lung cancer.",
@@ -328,26 +287,6 @@
       "abstract": "PURPOSE: KRAS G12V is among the most frequent KRAS mutations in non-small cell lung cancer (NSCLC), yet its clinical and molecular features remain poorly understood.\n\nEXPERIMENTAL DESIGN: In this retrospective study, we analyzed 636 patients with KRAS G12V-mutated NSCLC diagnosed between 2018 and 2023. Clinical, pathological, and molecular characteristics, including co-mutations, smoking history, PD-L1 expression, CD8+ T-cell infiltration, and treatment outcomes, were assessed.\n\nRESULTS: The majority of patients (94.2%) were current or former smokers, with a median tobacco exposure of 40 pack-years. Co-mutations were frequent, most commonly in TP53 (40.2%), STK11 (30.2%), and KEAP1 (29.3%). Heavy smokers exhibited significantly higher PD-L1 expression and more frequent TP53, KEAP1, and NTRK1-3mutations than light smokers. CD8+ T-cell infiltration showed a non-significant trend toward higher values in G12V compared to non-G12V KRAS subtypes. Among 151 patients with advanced disease, those treated with immune checkpoint blockade (ICB) alone or in combination with chemotherapy had significantly higher response rates and improved real-world progression-free (rwPFS) and overall survival (rwOS) compared to chemotherapy alone. In patients with PD-L1 TPS ≥50%, ICB-based treatment achieved a median rwOS of 30 months.\n\nCONCLUSIONS: KRAS G12V-mutated NSCLC is characterized by a strong association with tobacco use, high co-mutation rates in clinically relevant genes, and a favorable response to PD-L1-based immunotherapy. The observed mutation landscape supports the potential for dual checkpoint blockade in a significant subset."
     },
     {
-      "pmid": "41410381",
-      "doi": "10.1080/14796694.2025.2592527",
-      "title": "Real-world treatment patterns and subsequent treatment effectiveness following frontline brigatinib in the ALTA-1L trial.",
-      "journal": "Future oncology (London, England)",
-      "pubdate": "2025-12-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41410381/",
-      "url_doi": "https://doi.org/10.1080/14796694.2025.2592527",
-      "abstract": "AIMS: This retrospective, chart-review study evaluated real-world outcomes post-frontline brigatinib in ALTA-1L.\n\nMETHODS: Patients from ALTA-1L were followed after brigatinib discontinuation. Outcomes evaluated for second-line (2L) treatment included real-world overall response rate (rwORR), time to treatment discontinuation (rwTTD), and progression-free survival (rwPFS).\n\nRESULTS: Forty of 48 patients received subsequent systemic anticancer therapies; 30 received 2L ALK tyrosine kinase inhibitors (TKIs), mostly lorlatinib (n = 16) or alectinib (n = 8), and 11 received 2L non-ALK TKI therapy (one with alectinib). rwORR was 33% with 2L ALK TKIs and 0% with 2L non-ALK TKI therapy. Median (95% confidence interval [CI]) 2L rwTTD was 34.7 months (4.6-not reached [NR]) for ALK TKIs (lorlatinib, 37.2 months [6.0-NR]; alectinib, NR [1.1-NR]; crizotinib, 2.8 months [2.0-NR]) and 4.4 months (1.4-6.0) for 2L non-ALK TKI therapy. Median (95% CI) 2L rwPFS was 16.1 months (4.4-NR) with ALK TKIs (lorlatinib, 25.6 months [3.8-NR]; alectinib, 16.1 months [1.1-NR]; crizotinib, 2.4 months [2.0-NR]) and 6.1 months (1.7-NR) with 2L non-ALK TKI therapy.\n\nCONCLUSIONS: Following brigatinib discontinuation, most patients initiated a second ALK TKI. Patients treated with 2L second- or third-generation ALK TKIs post-brigatinib experienced prolonged clinical benefit.\n\nCLINICAL TRIAL REGISTRATION: clinicaltrials.gov identifier: NCT02737501."
-    },
-    {
       "pmid": "41410198",
       "doi": "10.1080/17501911.2025.2604020",
       "title": "Peripheral blood-based S100P hypomethylation as a biomarker for the early-stage non-small cell lung cancer.",
@@ -366,66 +305,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41410198/",
       "url_doi": "https://doi.org/10.1080/17501911.2025.2604020",
       "abstract": "AIM: Non-small cell lung cancer (NSCLC) has caused a heavy social and economic burden worldwide. DNA methylation, as an emerging blood biomarker, has great potential for early detection of NSCLC.\n\nMETHODS: Seven CpG sites of the\n\nRESULTS: The logistic regression-based quartile analysis (Q1 lowest vs. Q4 highest) disclosed the association between hypomethylation of six CpG sites in the\n\nCONCLUSIONS: Using quantitative mass spectrometry, we investigated an association between"
-    },
-    {
-      "pmid": "41421036",
-      "doi": "10.1016/j.lungcan.2025.108883",
-      "title": "Neoadjuvant immunotherapy plus chemotherapy in locally advanced stage III NSCLC patients undergoing definitive chemo-radiotherapy---a real‑world multicenter retrospective study.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-12-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41421036/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108883",
-      "abstract": "BACKGROUND: The optimal integration of immunotherapy with definitive chemoradiotherapy (CRT) for unresectable stage III non-small cell lung cancer (NSCLC) remains an area of active investigation. While consolidation immunotherapy is standard, the efficacy and safety of a neoadjuvant approach are not yet established by phase III trials. This real-world study compares outcomes between neoadjuvant immuno-chemotherapy followed by CRT (NEO) and CRT followed by adjuvant immunotherapy (ADJ, the PACIFIC regimen).\n\nMETHODS: In this multicenter retrospective analysis, we reviewed data from patients with stage III NSCLC who received radical thoracic radiotherapy and peri-radiotherapy immunotherapy between January 2020 and December 2023. Patients were classified into NEO (n = 321) or ADJ (n = 142) groups. Primary endpoints were progression-free survival (PFS) and overall survival (OS). Secondary endpoints included treatment patterns, recurrence modes, and incidence of pneumonitis. Propensity score matching (PSM) and robust statistical analyses were used to minimize confounding.\n\nRESULTS: The median PFS was significantly longer in the NEO group than in the ADJ group (25.0 months vs. 16.3 months; HR = 0.57, 95 % CI: 0.43-0.74; p < 0.001). Median OS was not reached (NR) in the NEO group compared to 41.1 months in the ADJ group (HR = 0.54, 95 % CI: 0.37-0.78; p = 0.001). The survival benefit for the NEO group remained consistent after PSM and multivariable adjustment. The objective response rate to neoadjuvant therapy was 68.4 %. Patterns of recurrence were similar between groups, with distant metastasis being the most common site of first progression. The incidence of grade ≥2 radiation pneumonitis was comparable (31.8 % NEO vs. 30.8 % ADJ, p = 0.925), though a non-significant trend towards higher grade ≥3 radiation pneumonitis was observed in the NEO group (14.0 % vs. 7.5 %, p = 0.071). Rates of checkpoint inhibitor pneumonitis were low and similar between groups.\n\nCONCLUSION: In this large real-world cohort, a treatment sequence incorporating neoadjuvant immuno-chemotherapy prior to definitive CRT was associated with significantly improved PFS and OS compared to the standard adjuvant immunotherapy approach, without a definitive increase in severe pneumonitis. These findings support the further investigation of neoadjuvant immunotherapy strategies in phase III randomized trials for stage III NSCLC."
-    },
-    {
-      "pmid": "41406409",
-      "doi": "10.1200/JCO-25-02185",
-      "title": "Reply to: Blind Spots in REZILIENT-1: Does Post-platinum Zipalertinib Address Needs in Epidermal Growth Factor Receptor ex20ins+ Non-Small Cell Lung Cancer?",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-12-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41406409/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02185",
-      "abstract": null
-    },
-    {
-      "pmid": "41406405",
-      "doi": "10.1200/JCO-25-01501",
-      "title": "Blind Spots in REZILIENT-1: Does Post-Platinum Zipalertinib Address Needs in Epidermal Growth Factor Receptor ex20ins+ Non-Small Cell Lung Cancer?",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2025-12-17T00:00:00+00:00",
-      "pubtypes": [
-        "Letter"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41406405/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01501",
-      "abstract": null
     }
   ]
 }
