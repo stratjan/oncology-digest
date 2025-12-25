@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-24T05:22:51.030464Z",
+  "generated": "2025-12-25T05:22:25.524357Z",
   "items": [
     {
       "pmid": "41423267",
@@ -42,24 +42,24 @@
       "abstract": "Multiplexed imaging of tissues is an approach that holds promise for improving early detection, diagnosis, and treatment of cancer. Here, we investigated multiplexed histological images of paired pre- and on-treatment samples from nine patients with immunotherapy-refractory non-small cell lung cancer (NSCLC) treated with an oral HDAC inhibitor (vorinostat) combined with a PD-1 inhibitor (pembrolizumab). Patient responses comprised of either stable disease (SD) or progressive disease (PD). An extensive multiplexed-image analysis pipeline involving both cell segmentation and quadrats, coupled with spatial statistics, machine learning, and deep learning was built to analyze the spatial and temporal features that predict disease progression and identify potential clinical biomarkers. Distinct spatial immune ecologies existed between SD and PD patients, and tumors from PD patients were already characterized by an immune-suppressive environment prior to treatment. Finally, the learned spatial ecologies predicted disease progression better than PD-L1 status alone, suggesting these ecologies could be used as potential companion biomarkers with PD-L1 in NSCLC. These findings will be investigated in a larger-cohort study generated from an ongoing clinical trial (NCT02638090) that includes a wider range of responses including complete and partial responders. Together, this study developed a computational infrastructure for analyzing multiplex imaging to predict immunotherapy response in NSCLC, which can potentially be generalized to any type of cancer."
     },
     {
-      "pmid": "41411619",
-      "doi": "10.1158/0008-5472.CAN-25-1483",
-      "title": "Small Cell Lung Cancer Classification: Unraveling Heterogeneity to Enable Personalized Treatments.",
-      "journal": "Cancer research",
-      "pubdate": "2025-12-18T00:00:00+00:00",
+      "pmid": "41442233",
+      "doi": "10.1002/cncr.70217",
+      "title": "Patterns of lung cancer incidence in adults diagnosed under age 50 in the United States, 2000-2021.",
+      "journal": "Cancer",
+      "pubdate": "2026-01-01T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "SCLC",
+      "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1158/0008-5472.can-25-1483",
+      "is_oa": false,
+      "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41411619/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1483",
-      "abstract": "Small cell lung cancer (SCLC) is an aggressive thoracic disease characterized by rapid proliferation and early metastatic spread. The survival outcomes for SCLC patients remain notoriously poor, underlining that only modest improvements have been achieved in clinical settings to date. However, insights gained from human tumors and preclinical models in recent years have shed light on the heterogeneous molecular profile of SCLC. Numerous research groups have, therefore, begun to stratify SCLC into subgroups based on differential transcription factor expression, the tumor immune microenvironment, and other criteria. Since SCLC subtypes show major differences in their molecular landscape and biological behavior, they may offer unique therapeutic vulnerabilities and serve as a framework for future personalized clinical trials. Here, we summarize impactful classification attempts from the last ten years, highlighting discrepancies and connections between the nomenclature of each study, and expound upon relevant factors of SCLC biology influencing subtype composition and plasticity. This review delves into the implications of subgrouping for understanding and treating SCLC as well as potential future directions for SCLC research."
+      "metric_value": 2.947,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41442233/",
+      "url_doi": "https://doi.org/10.1002/cncr.70217",
+      "abstract": "BACKGROUND: Although the incidence of several cancers diagnosed before age 50 years has increased, contemporary trends in early-onset lung cancer remain poorly defined, particularly across histologic and sociodemographic subgroups.\n\nMETHODS: A population-based cohort study was conducted via Surveillance, Epidemiology, and End Results 22 Program registries of 81,568 individuals diagnosed with lung cancer at age 20-49 years from 2000 to 2021. Age-adjusted incidence rates and annual percent change (APC) were estimated via National Cancer Institute Joinpoint regression. Overall trends were stratified by histology, sex, race/ethnicity, and state-level smoking prevalence.\n\nRESULTS: From 2000 to 2021, early-onset lung cancer incidence declined overall (average APC, -3.81%; 95% CI, -4.01% to -3.64%; p < .0001), which contrasts with rising early-onset colorectal and female breast cancers. Declines among females occurred later but were steeper for lung adenocarcinoma (LUAD; -5.14% vs. -2.82%), whereas males declined faster for non-small cell lung cancer (NSCLC) and overall. Female declines were slower relative to males in Hispanic and non-Hispanic (NH) Black individuals (2.3- and 1.08-fold difference, respectively), whereas NH White females declined 1.3-fold faster than males. Among Asian females, NSCLC incidence did not decline, and LUAD increased through 2017 (+2.45%) and remained stable in Hispanic females. In high-smoking states, male rates declined steadily (-4.32%), whereas female rates were stable until 2010, then dropped sharply, and converged with males by 2021. In low-smoking states, male rates declined 48.75% faster than female rates (-4.76% vs. -3.20%).\n\nCONCLUSIONS: Early-onset lung cancer incidence declined overall from 2000 to 2021, except for persistent or rising LUAD among Asian and Hispanic females, which implicates emerging non-tobacco risk factors and highlights the need for targeted prevention."
     },
     {
       "pmid": "41427516",
@@ -81,6 +81,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41427516/",
       "url_doi": "https://doi.org/10.1002/cpt.70146",
       "abstract": "This meta-analysis evaluated the risk of malignancies and major adverse cardiovascular events (MACE) associated with the use of JAK inhibitors in patients with RA through a comprehensive meta-analysis of available clinical trials. A systematic search was conducted in PubMed, EMBASE, and Web of Science from inception to February 7, 2025, to identify relevant clinical trials. Data on malignancies and MACE incidence were extracted, and pooled risk ratios (RR) were calculated using a random-effects model. A total of 18 studies (N = 111,260) met the inclusion criteria. JAK inhibitors were associated with a significantly increased risk of malignancies excluding NMSC (RR = 1.30, 95%CI: 1.05, 1.60; P = 0.016), NMSC (RR = 1.54, 95%CI: 1.23, 1.93; P < 0.01), overall malignancies (RR = 1.53, 95%CI: 1.18, 2.00; P = 0.002), lung cancer (RR = 1.52, 95%CI: 1.11, 2.08; P = 0.009), lymphoma (RR = 3.69, 95%CI: 1.19, 11.42; P = 0.024), non-small cell lung cancer (RR = 1.70, 95%CI: 1.01, 2.86; P = 0.047), cutaneous squamous cell carcinoma (RR = 2.30, 95%CI: 1.44, 3.65; P < 0.01), and thyroid cancer (RR = 7.51, 95%CI: 1.39, 40.74; P = 0.019). In contrast, JAK inhibitors did not significantly alter the risk of MACE (RR = 0.75, 95%CI: 0.38, 1.45; P = 0.390), venous thromboembolism (VTE) (RR = 1.52, 95%CI: 0.90, 2.56; P = 0.117), or deep vein thrombosis (DVT) (RR = 1.77, 95%CI: 0.84, 3.34; P = 0.079). Trial sequential analysis (TSA) confirmed data adequacy, and meta-regression indicated that sample size, treatment duration, and patient age did not influence outcomes. JAK inhibitors are associated with an elevated risk of malignancies but do not significantly affect MACE, VTE, or DVT risk in RA patients. Further large-scale post-marketing surveillance is warranted to refine the safety profile of JAK inhibitors in RA management."
+    },
+    {
+      "pmid": "41439364",
+      "doi": "10.1002/jbt.70657",
+      "title": "Comparative Toxicovigilance of Capmatinib and Tepotinib in NSCLC: Respiratory Signal Detection and Adverse Event Profiling via FAERS.",
+      "journal": "Journal of biochemical and molecular toxicology",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.772,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41439364/",
+      "url_doi": "https://doi.org/10.1002/jbt.70657",
+      "abstract": "Capmatinib and tepotinib are selective MET inhibitors for MET exon 14 skipping non-small cell lung cancer (NSCLC), yet comprehensive real-world safety profiles, particularly concerning respiratory and rare adverse events (AEs), remain limited. We conducted a disproportionality analysis of the FDA AE Reporting System (FAERS) database, utilizing four algorithms (ROR, PRR, BCPNN, MGPS) to identify AE signals from 1771 cases for capmatinib and 470 for tepotinib, standardized with MedDRA v26.0. Both inhibitors shared signals for systemic AEs, such as peripheral oedema and gastrointestinal disorders. However, their respiratory AE profiles diverged: capmatinib was associated with pleural effusion and pulmonary oedema, whereas tepotinib was linked to infectious complications, including interstitial lung disease and infectious pleural effusion. Importantly, we identified significant novel signals beyond current drug labels: sensory disturbances, and thrombosis for capmatinib; and fluid imbalance-related events for tepotinib. These distinct AE profiles highlight an infection-driven pulmonary risk for tepotinib requiring close monitoring, while capmatinib's association with sensory disorders warrants specific patient management considerations. Our findings underscore the need for individualized safety monitoring based on the unique AE profiles of each MET inhibitor."
     },
     {
       "pmid": "41192526",
@@ -227,6 +247,46 @@
       "abstract": "BACKGROUND: Leptomeningeal metastatic disease (LMD) represents a devastating complication of non-small-cell lung cancer (NSCLC) with a poor prognosis. Our understanding of LMD is limited in the era of molecular testing and emerging therapeutic options for lung cancer.\n\nPATIENTS AND METHODS: We conducted an international, multicenter, retrospective study involving eight institutions across Asia, United States, and Europe. Patients diagnosed with LMD from advanced NSCLC were identified (2007-2024). Clinicopathological characteristics, treatment patterns, and outcomes were analyzed. The primary endpoint was overall survival from the LMD diagnosis (LMOS).\n\nRESULTS: A total of 2052 patients with NSCLC and LMD were included and analyzed by molecular subtypes: epidermal growth factor receptor (EGFR) (n = 1610), ALK (n = 141), other actionable genomic alterations (other AGA; n = 137), and non-AGA (n = 164). The cumulative prevalence of LMD by molecular subgroups was EGFR, 11.1%; ALK, 11.2%; ROS1, 16%; ERBB2, 12.3%, non-AGA, 3.6%. A higher proportion of LMD was diagnosed >3 years after initial metastatic diagnosis. By the European Association of Neuro-Oncology (EANO)-European Society for Medical Oncology (ESMO) diagnostic criteria, type I (cerebrospinal fluid cytology positive) had significantly shorter LMOS than type II (magnetic resonance imaging and/or symptom positive). Median LMOS was 10.9 months [95% confidence interval (CI) 10.0-11.8 months] in all patients. Compared with historical cohorts, patients demonstrated improved LMOS in contemporary cohorts (7.3 versus 11.5 months, P < 0.0001), across all molecular subtypes. In AGA NSCLC, tyrosine kinase inhibitors (TKIs) were associated with improved LMOS [hazard ratio (HR) 0.39, 95% CI 0.31-0.48, P < 0.0001]. Immune checkpoint inhibitors (ICIs) conferred survival benefit in non-AGA patients (HR 0.45, 95% CI 0.25-0.84, P = 0.012). For the EGFR-mutated cohort, central nervous system (CNS)-penetrant TKI usage delayed LMD onset (P < 0.0001). Continued CNS-penetrant TKIs after LMD diagnosis were associated with longer LMOS (12.4 versus 6.0 months, P < 0.0001).\n\nCONCLUSIONS: The prevalence of LMD is rising, largely due to prolonged survival in advanced NSCLC. Contemporary systemic treatments, including TKIs and ICIs, were the main contributors to delayed LMD onset and improved LMD survival."
     },
     {
+      "pmid": "41442468",
+      "doi": "10.1093/oncolo/oyaf428",
+      "title": "Adjuvant atezolizumab in surgically resected NSCLC patients with PD-L1 expression ≥50%: real-world data from the italian ATLAS registry.",
+      "journal": "The oncologist",
+      "pubdate": "2025-12-24T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1093/oncolo/oyaf428",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41442468/",
+      "url_doi": "https://doi.org/10.1093/oncolo/oyaf428",
+      "abstract": "BACKGROUND: This study describes clinical characteristics, treatment patterns as well as safety outcomes of NSCLC patients harboring PD-L1 ≥ 50% who received adjuvant atezolizumab within the Italian real-world scenario.\n\nMETHODS: Patients with surgically resected NSCLC harboring EGFR/ALK wild type disease and PD-L1 TPS ≥ 50%, who received at least one cycle of adjuvant atezolizumab were included. Clinical-pathological and molecular data, safety and efficacy outcomes were collected from the Italian ATLAS real-world registry.\n\nRESULTS: A total of 132 patients were included across 45 Italian centers between July 2022 and August 2024. Lobectomy was performed in 81.1% of cases, with 8.3% pathological stage IIA, 40.2% stage IIB, 43.9% stage IIIA, and 7.6% stage IIIB, according to the 8th TNM staging edition. The median number of atezolizumab cycles was 12.5 (range: 1-20). Treatment related adverse events (TRAEs) during atezolizumab were reported in 44 patients (33.3%), including 11 (8.3%) who experienced multiple TRAEs. Grade ≥3 TRAEs were reported in 21 cases (15.9%), leading to treatment discontinuation in 18 (13.6%). The median time to the first onset of TRAEs was 89 days (range: 3-390 days). 15 patients experienced a disease recurrence, including 6 locoregional-only and 9 distant relapses, with a median time since surgery of 13.3 months.\n\nCONCLUSION: This study showed that the safety profile of adjuvant atezolizumab outside of a clinical trial context was comparable to the IMPower-010 study, highlighting the value of the Italian ATLAS registry as source of real-word evidence to optimize the clinical management of NSCLC patients."
+    },
+    {
+      "pmid": "41378732",
+      "doi": "10.1021/acs.nanolett.5c04269",
+      "title": "PBAE-PEG/Lipid Nanoparticle Delivery of RNA for the Creation of Genetically Engineered Lung Cancer Mouse Models.",
+      "journal": "Nano letters",
+      "pubdate": "2025-12-24T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378732/",
+      "url_doi": "https://doi.org/10.1021/acs.nanolett.5c04269",
+      "abstract": "We have recently developed polymer/lipid nanoparticles PBAE-PEG/4A3-SC8/DOPE/Cholesterol/DOTAP (hereafter, PBAE-PEG/LNP) that can deliver mRNA into lung cells. Here, using PBAE-PEG/LNP, we delivered"
+    },
+    {
       "pmid": "41433419",
       "doi": "10.1126/scisignal.ads7662",
       "title": "Cancer-associated fibroblasts confer ALK inhibitor resistance in EML4-ALK-driven lung cancer by concurrent integrin and MET signaling.",
@@ -285,26 +345,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41417462/",
       "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2581",
       "abstract": "PURPOSE: KRAS G12V is among the most frequent KRAS mutations in non-small cell lung cancer (NSCLC), yet its clinical and molecular features remain poorly understood.\n\nEXPERIMENTAL DESIGN: In this retrospective study, we analyzed 636 patients with KRAS G12V-mutated NSCLC diagnosed between 2018 and 2023. Clinical, pathological, and molecular characteristics, including co-mutations, smoking history, PD-L1 expression, CD8+ T-cell infiltration, and treatment outcomes, were assessed.\n\nRESULTS: The majority of patients (94.2%) were current or former smokers, with a median tobacco exposure of 40 pack-years. Co-mutations were frequent, most commonly in TP53 (40.2%), STK11 (30.2%), and KEAP1 (29.3%). Heavy smokers exhibited significantly higher PD-L1 expression and more frequent TP53, KEAP1, and NTRK1-3mutations than light smokers. CD8+ T-cell infiltration showed a non-significant trend toward higher values in G12V compared to non-G12V KRAS subtypes. Among 151 patients with advanced disease, those treated with immune checkpoint blockade (ICB) alone or in combination with chemotherapy had significantly higher response rates and improved real-world progression-free (rwPFS) and overall survival (rwOS) compared to chemotherapy alone. In patients with PD-L1 TPS ≥50%, ICB-based treatment achieved a median rwOS of 30 months.\n\nCONCLUSIONS: KRAS G12V-mutated NSCLC is characterized by a strong association with tobacco use, high co-mutation rates in clinically relevant genes, and a favorable response to PD-L1-based immunotherapy. The observed mutation landscape supports the potential for dual checkpoint blockade in a significant subset."
-    },
-    {
-      "pmid": "41410198",
-      "doi": "10.1080/17501911.2025.2604020",
-      "title": "Peripheral blood-based S100P hypomethylation as a biomarker for the early-stage non-small cell lung cancer.",
-      "journal": "Epigenomics",
-      "pubdate": "2025-12-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41410198/",
-      "url_doi": "https://doi.org/10.1080/17501911.2025.2604020",
-      "abstract": "AIM: Non-small cell lung cancer (NSCLC) has caused a heavy social and economic burden worldwide. DNA methylation, as an emerging blood biomarker, has great potential for early detection of NSCLC.\n\nMETHODS: Seven CpG sites of the\n\nRESULTS: The logistic regression-based quartile analysis (Q1 lowest vs. Q4 highest) disclosed the association between hypomethylation of six CpG sites in the\n\nCONCLUSIONS: Using quantitative mass spectrometry, we investigated an association between"
     }
   ]
 }
