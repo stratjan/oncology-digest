@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-25T05:22:25.524357Z",
+  "generated": "2025-12-26T05:19:38.390883Z",
   "items": [
     {
       "pmid": "41423267",
@@ -20,26 +20,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41423267/",
       "url_doi": "https://doi.org/10.1136/jitc-2025-012205",
       "abstract": "BACKGROUND: Despite immunotherapy±chemotherapy has transformed the therapeutic landscape for patients with non-small cell lung cancer (NSCLC), critical questions remain regarding how detailed smoking history affects the evolving treatment options and the underlying molecular mechanisms driving these effects.\n\nMETHODS: We analyzed 4157 patients with advanced NSCLC who were treated with immunotherapy monotherapy (IO alone) (n=2768) or chemoimmunotherapy (chemo-IO) (n=1389) at the Dana-Farber Cancer Institute and Memorial Sloan Kettering Cancer Center (2010-2023). Associations between detailed smoking history (status and cumulative pack-years) and clinical outcomes were assessed using multivariable analyses. First-line chemo-IO versus IO alone was compared in programmed death receptor ligand 1 (PD-L1) Tumor Proportion Score (TPS) of ≥50%\n\nRESULTS: In patients receiving IO alone, both smoking status and intensity showed dose-dependent associations with improved response and survival outcomes. In contrast, among patients receiving chemo-IO, smoking history did not affect initial response but patients with active (HR=0.73, 95% CI 0.57 to 0.94, p=0.01) and heavy tobacco use (HR=0.76, 95% CI 0.62 to 0.93, p=0.001) showed improved progression-free survival (PFS), and a trend toward improved overall survival (OS). Importantly, these associations remained independent of\n\nCONCLUSIONS: Detailed smoking history provides crucial insights for optimizing IO selection in advanced NSCLC through mechanistic alterations in both the tumor microenvironment and systemic plasma protein profiles."
-    },
-    {
-      "pmid": "41418101",
-      "doi": "10.1158/0008-5472.CAN-25-1594",
-      "title": "Distinct Tumor-Immune Ecologies in Lung Cancer Patients Predict Progression and Define a Clinical Biomarker of Therapy Response.",
-      "journal": "Cancer research",
-      "pubdate": "2025-12-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41418101/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1594",
-      "abstract": "Multiplexed imaging of tissues is an approach that holds promise for improving early detection, diagnosis, and treatment of cancer. Here, we investigated multiplexed histological images of paired pre- and on-treatment samples from nine patients with immunotherapy-refractory non-small cell lung cancer (NSCLC) treated with an oral HDAC inhibitor (vorinostat) combined with a PD-1 inhibitor (pembrolizumab). Patient responses comprised of either stable disease (SD) or progressive disease (PD). An extensive multiplexed-image analysis pipeline involving both cell segmentation and quadrats, coupled with spatial statistics, machine learning, and deep learning was built to analyze the spatial and temporal features that predict disease progression and identify potential clinical biomarkers. Distinct spatial immune ecologies existed between SD and PD patients, and tumors from PD patients were already characterized by an immune-suppressive environment prior to treatment. Finally, the learned spatial ecologies predicted disease progression better than PD-L1 status alone, suggesting these ecologies could be used as potential companion biomarkers with PD-L1 in NSCLC. These findings will be investigated in a larger-cohort study generated from an ongoing clinical trial (NCT02638090) that includes a wider range of responses including complete and partial responders. Together, this study developed a computational infrastructure for analyzing multiplex imaging to predict immunotherapy response in NSCLC, which can potentially be generalized to any type of cancer."
     },
     {
       "pmid": "41442233",
@@ -144,27 +124,6 @@
       "abstract": "PURPOSE: For patients with advanced non-small cell lung cancer (NSCLC) harboring atypical epidermal growth factor receptor (\n\nPATIENTS AND METHODS: CHRYSALIS-2 Cohort C enrolled participants with NSCLC harboring atypical\n\nRESULTS: As of January 12, 2024, 105 participants received amivantamab-lazertinib. Most common atypical mutations were G719X (56%), L861X (26%), and S768I (23%), including single and compound mutations. In the overall population (median follow-up: 16.1 months), the ORR was 52% (95% CI, 42 to 62). The median duration of response (mDoR) was 14.1 months (95% CI, 9.5 to 26.2). The median progression-free survival (mPFS) was 11.1 months (95% CI, 7.8 to 17.8); median overall survival (mOS) was not estimable (NE; 95% CI, 22.8 to NE). Adverse events were consistent with previous studies and primarily grade 1 and 2. Among treatment-naïve participants, the ORR was 57% (95% CI, 42 to 71). The mPFS was 19.5 months (95% CI, 11.2 to NE), the mDoR was 20.7 months (95% CI, 9.9 to NE), and mOS was NE (95% CI, 26.3 to NE). Solitary or compound\n\nCONCLUSION: In participants with atypical"
     },
     {
-      "pmid": "41219394",
-      "doi": "10.1038/s41571-025-01085-z",
-      "title": "Navigating the landscape of EGFR TKI resistance in EGFR-mutant NSCLC - mechanisms and evolving treatment approaches.",
-      "journal": "Nature reviews. Clinical oncology",
-      "pubdate": "2026-01-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41219394/",
-      "url_doi": "https://doi.org/10.1038/s41571-025-01085-z",
-      "abstract": "Resistance to EGFR tyrosine kinase inhibitors (TKIs) remains a major obstacle in the clinical management of EGFR-mutant non-small-cell lung cancer (NSCLC). Despite the transformative therapeutic activity of the multiple iterations of EGFR TKIs, spanning from first-generation reversible inhibitors such as erlotinib and gefitinib to the current standard-of-care third-generation covalent inhibitor osimertinib, primary or acquired resistance to these agents inevitably emerges via diverse mechanisms. The advent of combination therapies that incorporate chemotherapy, anti-angiogenic agents, bispecific antibodies or antibody-drug conjugates has increased clinical benefit but introduced new resistance phenotypes, underscoring the dynamic plasticity and complexity of tumour evolution under therapeutic pressure. In this Review, we provide a comprehensive synthesis of the molecular mechanisms that underlie resistance to third-generation EGFR TKIs, describe biomarker-guided and biomarker-unselected therapeutic strategies to overcome these mechanisms, and discuss emerging approaches to pre-empt resistance through early application of combination therapies. We highlight the paradigm shift from radiological to molecular monitoring of resistance to therapy and explore how advances in circulating tumour DNA analysis, artificial intelligence and multi-omics might facilitate adaptive treatment strategies. As the therapeutic landscape evolves, a more complete mechanistic understanding of resistance will be essential to guide rational treatment sequencing, inform trial design and improve long-term outcomes for patients with EGFR-mutant NSCLC."
-    },
-    {
       "pmid": "41176132",
       "doi": "10.1016/j.taap.2025.117625",
       "title": "An intestinal matrix-based human lung cancer model reflects clinical data from gefitinib on dosage-dependent efficacy.",
@@ -204,6 +163,27 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41068447/",
       "url_doi": "https://doi.org/10.1038/s41571-025-01080-4",
       "abstract": "Despite advances in immunotherapy, unresectable stage III non-small-cell lung cancer (NSCLC) remains a highly challenging disease, with only around one-third of patients remaining disease-free at 5 years. The PACIFIC trial established consolidation with the anti-PD-L1 antibody durvalumab after concurrent chemoradiotherapy as the standard-of-care approach. Furthermore, the LAURA trial has redefined the treatment of patients with stage III unresectable EGFR-mutant NSCLC, demonstrating unprecedented progression-free survival durations with osimertinib consolidation. Despite these advances, novel approaches are urgently needed. Circulating tumour DNA-based monitoring of minimal residual disease is emerging as a personalized method of tailoring treatment duration and escalation strategies. Novel radiotherapy techniques have the potential to provide synergy with immunotherapy while minimizing toxicities. Additionally, ongoing trials evaluating chemoimmunotherapy combinations adapted from the neoadjuvant setting with the potential for conversion to resectable disease might, in the near future, redefine the boundary of surgical resectability. In this Review, we describe the rapidly evolving field of unresectable stage III NSCLC, providing a state-of-the-art overview that includes challenging topics such as biomarkers, personalization of therapy and the role of immunotherapy rechallenge."
+    },
+    {
+      "pmid": "41219394",
+      "doi": "10.1038/s41571-025-01085-z",
+      "title": "Navigating the landscape of EGFR TKI resistance in EGFR-mutant NSCLC - mechanisms and evolving treatment approaches.",
+      "journal": "Nature reviews. Clinical oncology",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41219394/",
+      "url_doi": "https://doi.org/10.1038/s41571-025-01085-z",
+      "abstract": "Resistance to EGFR tyrosine kinase inhibitors (TKIs) remains a major obstacle in the clinical management of EGFR-mutant non-small-cell lung cancer (NSCLC). Despite the transformative therapeutic activity of the multiple iterations of EGFR TKIs, spanning from first-generation reversible inhibitors such as erlotinib and gefitinib to the current standard-of-care third-generation covalent inhibitor osimertinib, primary or acquired resistance to these agents inevitably emerges via diverse mechanisms. The advent of combination therapies that incorporate chemotherapy, anti-angiogenic agents, bispecific antibodies or antibody-drug conjugates has increased clinical benefit but introduced new resistance phenotypes, underscoring the dynamic plasticity and complexity of tumour evolution under therapeutic pressure. In this Review, we provide a comprehensive synthesis of the molecular mechanisms that underlie resistance to third-generation EGFR TKIs, describe biomarker-guided and biomarker-unselected therapeutic strategies to overcome these mechanisms, and discuss emerging approaches to pre-empt resistance through early application of combination therapies. We highlight the paradigm shift from radiological to molecular monitoring of resistance to therapy and explore how advances in circulating tumour DNA analysis, artificial intelligence and multi-omics might facilitate adaptive treatment strategies. As the therapeutic landscape evolves, a more complete mechanistic understanding of resistance will be essential to guide rational treatment sequencing, inform trial design and improve long-term outcomes for patients with EGFR-mutant NSCLC."
     },
     {
       "pmid": "41205892",
@@ -327,11 +307,11 @@
       "abstract": "OBJECTIVES: While treatment strategies for non-small cell lung cancer (NSCLC) continue to evolve, the prognostic implications of lymph node metastasis patterns in upper lobe tumors remain inadequately defined. This study investigated whether tumour laterality and specific nodal stations involved in N2a disease correlate with long-term survival in patients undergoing surgical resection for upper lobe NSCLC.\n\nMETHODS: This retrospective single-center study included patients with stage I-IIIB upper lobe NSCLC who underwent anatomical resection with systematic lymph node dissection from January 2010 to December 2022. Patients were stratified by tumour laterality and nodal involvement, with specific analysis of N2a subgroups based on lymph node station. Propensity score matching, Kaplan-Meier survival analysis, and log-rank testing were used to compare survival outcomes.\n\nRESULTS: Of 3,313 patients considered, 2,028 met the prespecified inclusion criteria (right: n = 1,212; left: n = 816). Mean age was 65.7 ± 9.4 years; 61.7% were male. Median overall survival (OS) was similar for right- and left-sided N0 and N1 tumors. Significant differences emerged among N2a subgroups: Patients with left-sided skip metastases to LN5/6 had markedly improved OS (66.2 ± 14.9 months) versus right-sided LN2/4 (35.3 ± 8.5 months; p = 0.047). Outcomes of left-sided N2a1 LN5/6 were also more favorable than LN7-9 (37.7 ± 15.2 months; p = 0.023) and showed better OS than left-sided N1 disease (47.6 ± 4.2 months; p = 0.284).\n\nCONCLUSIONS: Positive nodal station and tumour laterality significantly impact survival in upper lobe NSCLC. Skip metastases to LN5/6 in left-sided tumors were linked to more favorable prognosis and may warrant inclusion in future TNM classification refinements."
     },
     {
-      "pmid": "41417462",
-      "doi": "10.1158/1078-0432.CCR-25-2581",
-      "title": "Molecular and clinical characteristics of patients with non-small cell lung cancer (NSCLC) harboring KRAS G12V mutations.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "pubdate": "2025-12-19T00:00:00+00:00",
+      "pmid": "41443465",
+      "doi": "10.1016/j.jtcvs.2025.12.018",
+      "title": "Extent of Resection for STAS-positive Stage IA1-2 Non-Small Cell Lung Cancer.",
+      "journal": "The Journal of thoracic and cardiovascular surgery",
+      "pubdate": "2025-12-22T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
@@ -342,9 +322,9 @@
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41417462/",
-      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2581",
-      "abstract": "PURPOSE: KRAS G12V is among the most frequent KRAS mutations in non-small cell lung cancer (NSCLC), yet its clinical and molecular features remain poorly understood.\n\nEXPERIMENTAL DESIGN: In this retrospective study, we analyzed 636 patients with KRAS G12V-mutated NSCLC diagnosed between 2018 and 2023. Clinical, pathological, and molecular characteristics, including co-mutations, smoking history, PD-L1 expression, CD8+ T-cell infiltration, and treatment outcomes, were assessed.\n\nRESULTS: The majority of patients (94.2%) were current or former smokers, with a median tobacco exposure of 40 pack-years. Co-mutations were frequent, most commonly in TP53 (40.2%), STK11 (30.2%), and KEAP1 (29.3%). Heavy smokers exhibited significantly higher PD-L1 expression and more frequent TP53, KEAP1, and NTRK1-3mutations than light smokers. CD8+ T-cell infiltration showed a non-significant trend toward higher values in G12V compared to non-G12V KRAS subtypes. Among 151 patients with advanced disease, those treated with immune checkpoint blockade (ICB) alone or in combination with chemotherapy had significantly higher response rates and improved real-world progression-free (rwPFS) and overall survival (rwOS) compared to chemotherapy alone. In patients with PD-L1 TPS ≥50%, ICB-based treatment achieved a median rwOS of 30 months.\n\nCONCLUSIONS: KRAS G12V-mutated NSCLC is characterized by a strong association with tobacco use, high co-mutation rates in clinically relevant genes, and a favorable response to PD-L1-based immunotherapy. The observed mutation landscape supports the potential for dual checkpoint blockade in a significant subset."
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41443465/",
+      "url_doi": "https://doi.org/10.1016/j.jtcvs.2025.12.018",
+      "abstract": "OBJECTIVES: Sublobar resection has demonstrated non-inferiority to lobectomy in unselected stage IA NSCLC; but the optimal surgical approach in tumors with spread-through-airspaces (STAS) remains unclear. This study examines how extent of resection influences clinical outcomes in patients with STAS-positive stage IA1-2 NSCLC.\n\nMETHODS: Patients who underwent lung resection for primary pathologic stage IA1-2 NSCLC between February 2018 and January 2022 at a tertiary academic institution were included. In the STAS-positive cohort, multivariable competing risk models were used to assess cumulative incidence of recurrence and lung cancer-related death following lobectomy versus sublobar resection, and propensity score matched analysis was performed for overall survival and recurrence-free survival. Exploratory analysis was performed to evaluate outcomes after specific resection type (lobectomy, segmentectomy, wedge) in the STAS-positive cohort.\n\nRESULTS: A total of 445 patients met inclusion criteria, of whom 158 (35.9%) were STAS-positive. Within the STAS-positive cohort, recurrence was significantly more frequent after sublobar resection (SHR=7.60, 95% CI 1.85-31.33, p=0.005), and lung cancer-specific mortality was higher (SHR=5.12; 95% CI 1.03-25.62; p=0.047). Propensity-score matching yielded 40 well-balanced pairs. Overall survival was similar between lobectomy and sublobar resection (5-year OS: lobectomy 91.5% vs sublobar 80.3%, p=0.18). In contrast, recurrence-free survival was significantly worse after sublobar resection (5-year RFS: lobectomy 88.8% vs sublobar 66.1%, p=0.042). On exploratory analysis, inferior RFS was observed for wedge resection (p=0.024) but not for segmentectomy (p=0.324) when compared with lobectomy.\n\nCONCLUSIONS: Sublobar resection, particularly wedge resection, is associated with worse recurrence-free survival for STAS-positive stage IA1-2 NSCLC."
     }
   ]
 }
