@@ -1,6 +1,26 @@
 {
-  "generated": "2025-12-26T05:19:38.390883Z",
+  "generated": "2025-12-27T05:20:18.130956Z",
   "items": [
+    {
+      "pmid": "41452617",
+      "doi": "10.1001/jamaoncol.2025.5672",
+      "title": "Enhancement of Patient-Centered Lung Cancer Screening: The MyLungHealth Randomized Clinical Trial.",
+      "journal": "JAMA oncology",
+      "pubdate": "2025-12-26T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 8.377,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41452617/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.5672",
+      "abstract": "IMPORTANCE: Lung cancer screening (LCS) with low-dose computed tomography (CT) remains underused in the US, partly because of incomplete smoking history documentation in electronic health records (EHRs) and limited time for shared decision-making in primary care.\n\nOBJECTIVE: To determine whether a patient-facing, EHR-integrated tool combined with clinician-facing clinical decision support improves the identification of LCS-eligible patients and the ordering of low-dose CT compared with clinician-facing tools alone.\n\nDESIGN, SETTING, AND PARTICIPANTS: This pragmatic, unstratified, randomized clinical trial with parallel groups was conducted from March 29, 2024, to March 28, 2025, at primary care clinics at University of Utah Health and New York University Langone Health. Adults aged 50 to 79 years with a documented smoking history, an active patient portal account, and a primary care visit in the preceding year were included. Study 1 enrolled patients with uncertain LCS eligibility (10 to 19 pack-years, unknown pack-years, or missing quit date); study 2 enrolled patients with documented eligibility (20 or more pack-years and currently smoking or quit smoking within 15 years).\n\nINTERVENTIONS: The control included the clinician-facing Decision Precision+ tool (preventive care reminders and a shared decision-making tool). The intervention included the Decision Precision+ tool as well as the MyLungHealth tool, which collected detailed smoking history (study 1) and delivered personalized education and risk/benefit information (studies 1 and 2) via the patient portal in English and Spanish.\n\nMAIN OUTCOMES AND MEASURES: The primary outcomes were the proportion of patients newly identified as eligible for LCS (study 1) and low-dose CT ordering rates (study 2) over 12 months. Analyses used intention-to-treat mixed-effects logistic regression.\n\nRESULTS: There were 31 303 randomized participants, including 26 729 in study 1 (13 144 [49.2%] female; 13 580 [50.8%] male; median [IQR] age, 62 [55-69] years) and 4574 in study 2 (2230 [48.8%] female; 2344 [51.2%] male; median [IQR] age, 63 [56-69] years). In study 1, the MyLungHealth tool increased new LCS eligibility identification (635 of 13 412 [4.7%] vs 308 of 13 317 [2.3%]; adjusted odds ratio, 2.19; 95% CI, 1.99-2.42; P < .001). In study 2, low-dose CT ordering was higher in the intervention arm (474 of 2312 [20.5%] vs 434 of 2262 [19.2%]; adjusted odds ratio, 1.16; 95% CI, 1.04-1.30; P = .008).\n\nCONCLUSIONS AND RELEVANCE: In this randomized clinical trial, integrating a patient-centered tool into primary care EHR workflows increased the identification of patients eligible for LCS and the ordering of low-dose CTs. The relative increases in these primary outcomes were substantial, but absolute increases were more modest. Research on more intensive interventions is warranted to evaluate their ability to further improve LCS screening.\n\nTRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT06338592."
+    },
     {
       "pmid": "41423267",
       "doi": "10.1136/jitc-2025-012205",
@@ -124,6 +144,48 @@
       "abstract": "PURPOSE: For patients with advanced non-small cell lung cancer (NSCLC) harboring atypical epidermal growth factor receptor (\n\nPATIENTS AND METHODS: CHRYSALIS-2 Cohort C enrolled participants with NSCLC harboring atypical\n\nRESULTS: As of January 12, 2024, 105 participants received amivantamab-lazertinib. Most common atypical mutations were G719X (56%), L861X (26%), and S768I (23%), including single and compound mutations. In the overall population (median follow-up: 16.1 months), the ORR was 52% (95% CI, 42 to 62). The median duration of response (mDoR) was 14.1 months (95% CI, 9.5 to 26.2). The median progression-free survival (mPFS) was 11.1 months (95% CI, 7.8 to 17.8); median overall survival (mOS) was not estimable (NE; 95% CI, 22.8 to NE). Adverse events were consistent with previous studies and primarily grade 1 and 2. Among treatment-naïve participants, the ORR was 57% (95% CI, 42 to 71). The mPFS was 19.5 months (95% CI, 11.2 to NE), the mDoR was 20.7 months (95% CI, 9.9 to NE), and mOS was NE (95% CI, 26.3 to NE). Solitary or compound\n\nCONCLUSION: In participants with atypical"
     },
     {
+      "pmid": "41365311",
+      "doi": "10.1016/S1470-2045(25)00594-7",
+      "title": "Vebreltinib in MET amplification-driven advanced non-small-cell lung cancer (KUNPENG): a single-arm, multi-cohort, multicentre, phase 2 study.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41365311/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00594-7",
+      "abstract": "BACKGROUND: MET amplification is recognised as a de novo driver alteration in non-small-cell lung cancer (NSCLC) but treatment responses with existing MET inhibitors remain largely unsatisfactory. We aimed to investigate the antitumour activity and safety of vebreltinib, a potent and highly selective MET inhibitor, in patients with MET amplification-driven NSCLC.\n\nMETHODS: KUNPENG was a multicentre, multi-cohort, single-arm, phase 2 trial conducted across 17 hospitals in China, in patients with locally advanced or metastatic NSCLC with MET dysregulation. Patients were eligible if they were MET inhibitor-naive, aged 18 years or older with MET amplification-driven NSCLC (gene copy number of six or higher), and progressed after previous standard chemotherapy or were ineligible for chemotherapy (cohort 2) or refused chemotherapy (cohort 3). Patients received 200 mg vebreltinib orally twice daily until disease progression or intolerable toxicity. The primary endpoint was the objective response rate, assessed by a masked independent review committee in the full analysis set. The study was amended to merge cohorts 2 and 3 due to slow accrual and was closed to enrolment on Nov 14, 2023. This trial is registered with ClinicalTrials.gov (NCT04258033).\n\nFINDINGS: Between Jan 17, 2020, and Nov 14, 2023, 145 patients were enrolled; of these, 86 patients (30 chemotherapy-treated and 56 untreated) from cohorts 2 and 3 were included in the current analysis. The median age was 65 years (range 48-82; IQR 59-71), 77 (90%) patients were male, and nine (10%) were female. All patients were Chinese. 42 patients had partial response, resulting in an objective response rate of 48·8% (42 of 86; 95% CI 38·3-59·4) per masked independent review committee. The median follow-up was 18·6 months (IQR 15·7-37·3). The incidence of grade 3 or worse treatment-related adverse events was 31% (27 of 86), predominantly abnormal liver function terms reported by the investigators (eight [9%]). Serious adverse events related to treatment were reported by 16 (19%) patients. 11 treatment-emergent adverse events leading to death occurred, of which one patient died of abnormal liver function, which was possibly related to vebreltinib treatment.\n\nINTERPRETATION: Vebreltinib showed antitumour activity in patients with MET amplification-driven advanced NSCLC who had previously received chemotherapy or were chemotherapy-naive. Further research is needed to validate these findings.\n\nFUNDING: Beijing Pearl Biotechnology and Avistone Biotechnology."
+    },
+    {
+      "pmid": "41219394",
+      "doi": "10.1038/s41571-025-01085-z",
+      "title": "Navigating the landscape of EGFR TKI resistance in EGFR-mutant NSCLC - mechanisms and evolving treatment approaches.",
+      "journal": "Nature reviews. Clinical oncology",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41219394/",
+      "url_doi": "https://doi.org/10.1038/s41571-025-01085-z",
+      "abstract": "Resistance to EGFR tyrosine kinase inhibitors (TKIs) remains a major obstacle in the clinical management of EGFR-mutant non-small-cell lung cancer (NSCLC). Despite the transformative therapeutic activity of the multiple iterations of EGFR TKIs, spanning from first-generation reversible inhibitors such as erlotinib and gefitinib to the current standard-of-care third-generation covalent inhibitor osimertinib, primary or acquired resistance to these agents inevitably emerges via diverse mechanisms. The advent of combination therapies that incorporate chemotherapy, anti-angiogenic agents, bispecific antibodies or antibody-drug conjugates has increased clinical benefit but introduced new resistance phenotypes, underscoring the dynamic plasticity and complexity of tumour evolution under therapeutic pressure. In this Review, we provide a comprehensive synthesis of the molecular mechanisms that underlie resistance to third-generation EGFR TKIs, describe biomarker-guided and biomarker-unselected therapeutic strategies to overcome these mechanisms, and discuss emerging approaches to pre-empt resistance through early application of combination therapies. We highlight the paradigm shift from radiological to molecular monitoring of resistance to therapy and explore how advances in circulating tumour DNA analysis, artificial intelligence and multi-omics might facilitate adaptive treatment strategies. As the therapeutic landscape evolves, a more complete mechanistic understanding of resistance will be essential to guide rational treatment sequencing, inform trial design and improve long-term outcomes for patients with EGFR-mutant NSCLC."
+    },
+    {
       "pmid": "41176132",
       "doi": "10.1016/j.taap.2025.117625",
       "title": "An intestinal matrix-based human lung cancer model reflects clinical data from gefitinib on dosage-dependent efficacy.",
@@ -163,27 +225,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41068447/",
       "url_doi": "https://doi.org/10.1038/s41571-025-01080-4",
       "abstract": "Despite advances in immunotherapy, unresectable stage III non-small-cell lung cancer (NSCLC) remains a highly challenging disease, with only around one-third of patients remaining disease-free at 5 years. The PACIFIC trial established consolidation with the anti-PD-L1 antibody durvalumab after concurrent chemoradiotherapy as the standard-of-care approach. Furthermore, the LAURA trial has redefined the treatment of patients with stage III unresectable EGFR-mutant NSCLC, demonstrating unprecedented progression-free survival durations with osimertinib consolidation. Despite these advances, novel approaches are urgently needed. Circulating tumour DNA-based monitoring of minimal residual disease is emerging as a personalized method of tailoring treatment duration and escalation strategies. Novel radiotherapy techniques have the potential to provide synergy with immunotherapy while minimizing toxicities. Additionally, ongoing trials evaluating chemoimmunotherapy combinations adapted from the neoadjuvant setting with the potential for conversion to resectable disease might, in the near future, redefine the boundary of surgical resectability. In this Review, we describe the rapidly evolving field of unresectable stage III NSCLC, providing a state-of-the-art overview that includes challenging topics such as biomarkers, personalization of therapy and the role of immunotherapy rechallenge."
-    },
-    {
-      "pmid": "41219394",
-      "doi": "10.1038/s41571-025-01085-z",
-      "title": "Navigating the landscape of EGFR TKI resistance in EGFR-mutant NSCLC - mechanisms and evolving treatment approaches.",
-      "journal": "Nature reviews. Clinical oncology",
-      "pubdate": "2026-01-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41219394/",
-      "url_doi": "https://doi.org/10.1038/s41571-025-01085-z",
-      "abstract": "Resistance to EGFR tyrosine kinase inhibitors (TKIs) remains a major obstacle in the clinical management of EGFR-mutant non-small-cell lung cancer (NSCLC). Despite the transformative therapeutic activity of the multiple iterations of EGFR TKIs, spanning from first-generation reversible inhibitors such as erlotinib and gefitinib to the current standard-of-care third-generation covalent inhibitor osimertinib, primary or acquired resistance to these agents inevitably emerges via diverse mechanisms. The advent of combination therapies that incorporate chemotherapy, anti-angiogenic agents, bispecific antibodies or antibody-drug conjugates has increased clinical benefit but introduced new resistance phenotypes, underscoring the dynamic plasticity and complexity of tumour evolution under therapeutic pressure. In this Review, we provide a comprehensive synthesis of the molecular mechanisms that underlie resistance to third-generation EGFR TKIs, describe biomarker-guided and biomarker-unselected therapeutic strategies to overcome these mechanisms, and discuss emerging approaches to pre-empt resistance through early application of combination therapies. We highlight the paradigm shift from radiological to molecular monitoring of resistance to therapy and explore how advances in circulating tumour DNA analysis, artificial intelligence and multi-omics might facilitate adaptive treatment strategies. As the therapeutic landscape evolves, a more complete mechanistic understanding of resistance will be essential to guide rational treatment sequencing, inform trial design and improve long-term outcomes for patients with EGFR-mutant NSCLC."
     },
     {
       "pmid": "41205892",
@@ -267,6 +308,26 @@
       "abstract": "We have recently developed polymer/lipid nanoparticles PBAE-PEG/4A3-SC8/DOPE/Cholesterol/DOTAP (hereafter, PBAE-PEG/LNP) that can deliver mRNA into lung cells. Here, using PBAE-PEG/LNP, we delivered"
     },
     {
+      "pmid": "41448488",
+      "doi": "10.1016/j.jtho.2025.12.080",
+      "title": "Trastuzumab Deruxtecan in Patients with HER2-Overexpressing Non-Small Cell Lung Cancer: Results From Part 1 of the Open-label, Multicenter, Phase 1b DESTINY-Lung03 Trial.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-12-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.jtho.2025.12.080",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41448488/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.12.080",
+      "abstract": "INTRODUCTION: HER2-directed treatments for HER2-overexpressing (HER2-OE; immunohistochemistry [IHC] 3+/2+) non-small cell lung cancer (NSCLC) are needed.\n\nMETHODS: DESTINY-Lung03 is an open-label, multi-arm, phase 1b study. Part 1 evaluated trastuzumab deruxtecan (T-DXd, 4.4 or 5.4 mg/kg) plus durvalumab (1120 mg) and cisplatin (60 or 75 mg/m\n\nPRIMARY ENDPOINTS: dose-limiting toxicities (DLTs) and adverse events (AEs: Arms 1A and 1B). Secondary endpoints: safety (Arm 1D) and efficacy (all arms).\n\nRESULTS: At data cutoff (April 1, 2024), 11, 24, and 36 patients received treatment in Arms 1A, 1B, and 1D, respectively. DLTs reported in Arm 1A: febrile neutropenia (n=1; Grade [G] 5; 4.4 mg/kg / 1120 mg / 60 mg/m\n\nCONCLUSIONS: Data confirm activity of T-DXd monotherapy in pretreated HER2-OE NSCLC, but do not support T-DXd plus durvalumab and platinum chemotherapy use in this population."
+    },
+    {
       "pmid": "41433419",
       "doi": "10.1126/scisignal.ads7662",
       "title": "Cancer-associated fibroblasts confer ALK inhibitor resistance in EML4-ALK-driven lung cancer by concurrent integrin and MET signaling.",
@@ -285,6 +346,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41433419/",
       "url_doi": "https://doi.org/10.1126/scisignal.ads7662",
       "abstract": "Cancer-associated fibroblasts (CAFs) are associated with tumor progression and drug resistance. Here, we investigated the mechanisms underlying the cross-talk between CAFs and tumor cells in non-small cell lung cancer (NSCLC). In NSCLC cell lines with"
+    },
+    {
+      "pmid": "41448094",
+      "doi": "10.1016/j.lungcan.2025.108885",
+      "title": "Cost-effectiveness of adjuvant alectinib in the treatment of patients with resected stage IB-IIIA ALK-positive non-small lung cancer in France, based on the ALINA study.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-12-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41448094/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108885",
+      "abstract": "BACKGROUND AND OBJECTIVE: Alectinib has demonstrated significant disease-free survival (DFS) benefits as adjuvant therapy for resected stage IB-IIIA ALK-positive non-small-cell lung cancer (NSCLC) in the ALINA study. This study aimed to assess the cost-effectiveness of introducing adjuvant alectinib into routine clinical practice in France compared with standard adjuvant platinum-based chemotherapy.\n\nMETHODS: A cohort-based semi-Markov model was developed to simulate long-term health and economic outcomes for patients from the ALINA intention-to-treat population over a 40-year time horizon. Eight mutually exclusive health states were included, capturing DFS, non-metastatic recurrence, metastatic recurrence (first and second line), and death. Clinical inputs were sourced primarily from ALINA, while recurrence treatment patterns, cure assumptions, utilities, and costs reflected French clinical practice and French thoracic oncologists' opinion. Costs (2024 euros) and outcomes were discounted following French HTA guidelines. Deterministic, probabilistic, and scenario analyses were conducted.\n\nRESULTS: Adjuvant alectinib would yield 17.6 life-years (LYs) and 15.4 quality-adjusted life-years (QALYs) per patient versus 12.4 LYs and 10.4 QALYs with chemotherapy, corresponding to incremental gains of 5.2 LYs and 5.0 QALYs. Total lifetime costs were estimated at €180,561 with alectinib and €237,011 with chemotherapy, resulting in a cost saving of €56,449. Higher upfront treatment costs with alectinib were offset by substantial reductions in recurrence-related expenditures. Across all deterministic, probabilistic, and scenario analyses, alectinib remained both more effective and less costly.\n\nCONCLUSIONS: Adjuvant alectinib would provide substantial clinical benefits for patients with resected ALK-positive NSCLC and represent a dominant strategy over platinum-based chemotherapy in the French healthcare setting, improving outcomes while reducing overall costs."
+    },
+    {
+      "pmid": "41448093",
+      "doi": "10.1016/j.lungcan.2025.108887",
+      "title": "Optimizing communication for ultrafast lung cancer biomarker testing: the UTOPIA pilot study.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-12-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108887",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41448093/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108887",
+      "abstract": "BACKGROUND: Non-small cell lung carcinoma (NSCLC) is a leading example of precision oncology, with a growing number of actionable targets. However, long turnaround times (TAT) for biomarker results can delay optimal treatment decisions. We evaluated whether a streamlined workflow could deliver comprehensive molecular reports within 72 h.\n\nMETHODS: In this prospective cohort study (UTOPIA protocol), 96 patients with early-stage or advanced NSCLC at Hospital Universitario 12 de Octubre underwent molecular tumor board (MTB)-centered triage, automated NGS processing, and integrated data review. TAT was defined (in working days) from MTB triage to electronic report validation. Communication was supported by daily operational huddles and intralaboratory pre-MTB meetings using a standardized checklist.\n\nRESULTS: All 96 NGS reports met the 72-hour TAT target (100%). The NGS failure rate was 1%. Potentially actionable genomic alterations were identified in 45.8% of patients, most frequently EGFR (24%) and KRAS G12C (8.3%). Other targetable alterations included six ALK fusions (6.3%), four MET exon 14 skipping mutations (4.2%), two BRAF V600E mutations (2.1%), and one RET fusion (1%).\n\nCONCLUSION: An ultrafast biomarker testing workflow for lung cancer, enabled by MTB-driven triage and structured team communication, can reliably generate comprehensive molecular reports within 72 h. This approach may reduce TAT-related treatment delays and support timely biomarker-guided therapy for patients with NSCLC."
     },
     {
       "pmid": "41428442",
