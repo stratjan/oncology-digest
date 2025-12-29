@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-28T05:21:16.151041Z",
+  "generated": "2025-12-29T05:26:33.575395Z",
   "items": [
     {
       "pmid": "41452617",
@@ -40,27 +40,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41442233/",
       "url_doi": "https://doi.org/10.1002/cncr.70217",
       "abstract": "BACKGROUND: Although the incidence of several cancers diagnosed before age 50 years has increased, contemporary trends in early-onset lung cancer remain poorly defined, particularly across histologic and sociodemographic subgroups.\n\nMETHODS: A population-based cohort study was conducted via Surveillance, Epidemiology, and End Results 22 Program registries of 81,568 individuals diagnosed with lung cancer at age 20-49 years from 2000 to 2021. Age-adjusted incidence rates and annual percent change (APC) were estimated via National Cancer Institute Joinpoint regression. Overall trends were stratified by histology, sex, race/ethnicity, and state-level smoking prevalence.\n\nRESULTS: From 2000 to 2021, early-onset lung cancer incidence declined overall (average APC, -3.81%; 95% CI, -4.01% to -3.64%; p < .0001), which contrasts with rising early-onset colorectal and female breast cancers. Declines among females occurred later but were steeper for lung adenocarcinoma (LUAD; -5.14% vs. -2.82%), whereas males declined faster for non-small cell lung cancer (NSCLC) and overall. Female declines were slower relative to males in Hispanic and non-Hispanic (NH) Black individuals (2.3- and 1.08-fold difference, respectively), whereas NH White females declined 1.3-fold faster than males. Among Asian females, NSCLC incidence did not decline, and LUAD increased through 2017 (+2.45%) and remained stable in Hispanic females. In high-smoking states, male rates declined steadily (-4.32%), whereas female rates were stable until 2010, then dropped sharply, and converged with males by 2021. In low-smoking states, male rates declined 48.75% faster than female rates (-4.76% vs. -3.20%).\n\nCONCLUSIONS: Early-onset lung cancer incidence declined overall from 2000 to 2021, except for persistent or rising LUAD among Asian and Hispanic females, which implicates emerging non-tobacco risk factors and highlights the need for targeted prevention."
-    },
-    {
-      "pmid": "41427516",
-      "doi": "10.1002/cpt.70146",
-      "title": "Risk of Malignancies and Major Adverse Cardiovascular Events Related to JAK Inhibitors in Rheumatoid Arthritis: A Meta-Analysis.",
-      "journal": "Clinical pharmacology and therapeutics",
-      "pubdate": "2025-12-22T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "Other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 2.127,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41427516/",
-      "url_doi": "https://doi.org/10.1002/cpt.70146",
-      "abstract": "This meta-analysis evaluated the risk of malignancies and major adverse cardiovascular events (MACE) associated with the use of JAK inhibitors in patients with RA through a comprehensive meta-analysis of available clinical trials. A systematic search was conducted in PubMed, EMBASE, and Web of Science from inception to February 7, 2025, to identify relevant clinical trials. Data on malignancies and MACE incidence were extracted, and pooled risk ratios (RR) were calculated using a random-effects model. A total of 18 studies (N = 111,260) met the inclusion criteria. JAK inhibitors were associated with a significantly increased risk of malignancies excluding NMSC (RR = 1.30, 95%CI: 1.05, 1.60; P = 0.016), NMSC (RR = 1.54, 95%CI: 1.23, 1.93; P < 0.01), overall malignancies (RR = 1.53, 95%CI: 1.18, 2.00; P = 0.002), lung cancer (RR = 1.52, 95%CI: 1.11, 2.08; P = 0.009), lymphoma (RR = 3.69, 95%CI: 1.19, 11.42; P = 0.024), non-small cell lung cancer (RR = 1.70, 95%CI: 1.01, 2.86; P = 0.047), cutaneous squamous cell carcinoma (RR = 2.30, 95%CI: 1.44, 3.65; P < 0.01), and thyroid cancer (RR = 7.51, 95%CI: 1.39, 40.74; P = 0.019). In contrast, JAK inhibitors did not significantly alter the risk of MACE (RR = 0.75, 95%CI: 0.38, 1.45; P = 0.390), venous thromboembolism (VTE) (RR = 1.52, 95%CI: 0.90, 2.56; P = 0.117), or deep vein thrombosis (DVT) (RR = 1.77, 95%CI: 0.84, 3.34; P = 0.079). Trial sequential analysis (TSA) confirmed data adequacy, and meta-regression indicated that sample size, treatment duration, and patient age did not influence outcomes. JAK inhibitors are associated with an elevated risk of malignancies but do not significantly affect MACE, VTE, or DVT risk in RA patients. Further large-scale post-marketing surveillance is warranted to refine the safety profile of JAK inhibitors in RA management."
     },
     {
       "pmid": "41439364",
@@ -248,6 +227,26 @@
       "abstract": "BACKGROUND: Leptomeningeal metastatic disease (LMD) represents a devastating complication of non-small-cell lung cancer (NSCLC) with a poor prognosis. Our understanding of LMD is limited in the era of molecular testing and emerging therapeutic options for lung cancer.\n\nPATIENTS AND METHODS: We conducted an international, multicenter, retrospective study involving eight institutions across Asia, United States, and Europe. Patients diagnosed with LMD from advanced NSCLC were identified (2007-2024). Clinicopathological characteristics, treatment patterns, and outcomes were analyzed. The primary endpoint was overall survival from the LMD diagnosis (LMOS).\n\nRESULTS: A total of 2052 patients with NSCLC and LMD were included and analyzed by molecular subtypes: epidermal growth factor receptor (EGFR) (n = 1610), ALK (n = 141), other actionable genomic alterations (other AGA; n = 137), and non-AGA (n = 164). The cumulative prevalence of LMD by molecular subgroups was EGFR, 11.1%; ALK, 11.2%; ROS1, 16%; ERBB2, 12.3%, non-AGA, 3.6%. A higher proportion of LMD was diagnosed >3 years after initial metastatic diagnosis. By the European Association of Neuro-Oncology (EANO)-European Society for Medical Oncology (ESMO) diagnostic criteria, type I (cerebrospinal fluid cytology positive) had significantly shorter LMOS than type II (magnetic resonance imaging and/or symptom positive). Median LMOS was 10.9 months [95% confidence interval (CI) 10.0-11.8 months] in all patients. Compared with historical cohorts, patients demonstrated improved LMOS in contemporary cohorts (7.3 versus 11.5 months, P < 0.0001), across all molecular subtypes. In AGA NSCLC, tyrosine kinase inhibitors (TKIs) were associated with improved LMOS [hazard ratio (HR) 0.39, 95% CI 0.31-0.48, P < 0.0001]. Immune checkpoint inhibitors (ICIs) conferred survival benefit in non-AGA patients (HR 0.45, 95% CI 0.25-0.84, P = 0.012). For the EGFR-mutated cohort, central nervous system (CNS)-penetrant TKI usage delayed LMD onset (P < 0.0001). Continued CNS-penetrant TKIs after LMD diagnosis were associated with longer LMOS (12.4 versus 6.0 months, P < 0.0001).\n\nCONCLUSIONS: The prevalence of LMD is rising, largely due to prolonged survival in advanced NSCLC. Contemporary systemic treatments, including TKIs and ICIs, were the main contributors to delayed LMD onset and improved LMD survival."
     },
     {
+      "pmid": "41456708",
+      "doi": "10.1016/j.jtho.2025.12.102",
+      "title": "The impact of targeting TRAF2 and NCK-interacting protein kinase (TNIK) on anti-tumor effect and tumor immune environment in c-MYC-high small cell lung cancer.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2025-12-26T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41456708/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.12.102",
+      "abstract": "INTRODUCTION: Wnt/β-catenin signaling pathway activation contributes to tumorigenesis and chemo-resistance in small cell lung cancer (SCLC), yet clinical attempts to target this pathway have been unsuccessful. TRAF2 and NCK-interacting protein kinase (TNIK), an essential nuclear activator of Wnt/β-catenin target genes, has not yet been validated as a viable therapeutic target in SCLC. Here, we validated that TNIK inhibition is a promising approach for personalized anti-cancer therapy in SCLC.\n\nMETHODS: We correlated the IC50 values of a TNIK inhibitor, NCB-0846 with proteomic profiling (Reverse Phase Protein Array, RPPA) data across 28 SCLC cell lines. Cytokine array analysis was performed to quantify changes in 105 cytokines following TNIK inhibitor treatment.\n\nRESULTS: We identified c-MYC expression as a top candidate marker of TNIK inhibition response. In xenograft models of c-MYC\n\nCONCLUSIONS: TNIK inhibition is more effective in c-MYC"
+    },
+    {
       "pmid": "41442468",
       "doi": "10.1093/oncolo/oyaf428",
       "title": "Adjuvant atezolizumab in surgically resected NSCLC patients with PD-L1 expression ≥50%: real-world data from the italian ATLAS registry.",
@@ -366,46 +365,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41448093/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108887",
       "abstract": "BACKGROUND: Non-small cell lung carcinoma (NSCLC) is a leading example of precision oncology, with a growing number of actionable targets. However, long turnaround times (TAT) for biomarker results can delay optimal treatment decisions. We evaluated whether a streamlined workflow could deliver comprehensive molecular reports within 72 h.\n\nMETHODS: In this prospective cohort study (UTOPIA protocol), 96 patients with early-stage or advanced NSCLC at Hospital Universitario 12 de Octubre underwent molecular tumor board (MTB)-centered triage, automated NGS processing, and integrated data review. TAT was defined (in working days) from MTB triage to electronic report validation. Communication was supported by daily operational huddles and intralaboratory pre-MTB meetings using a standardized checklist.\n\nRESULTS: All 96 NGS reports met the 72-hour TAT target (100%). The NGS failure rate was 1%. Potentially actionable genomic alterations were identified in 45.8% of patients, most frequently EGFR (24%) and KRAS G12C (8.3%). Other targetable alterations included six ALK fusions (6.3%), four MET exon 14 skipping mutations (4.2%), two BRAF V600E mutations (2.1%), and one RET fusion (1%).\n\nCONCLUSION: An ultrafast biomarker testing workflow for lung cancer, enabled by MTB-driven triage and structured team communication, can reliably generate comprehensive molecular reports within 72 h. This approach may reduce TAT-related treatment delays and support timely biomarker-guided therapy for patients with NSCLC."
-    },
-    {
-      "pmid": "41428442",
-      "doi": "10.1093/ejcts/ezaf467",
-      "title": "Impact of lymph node metastasis patterns on long-term survival in upper lobe non-small cell lung cancer.",
-      "journal": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
-      "pubdate": "2025-12-22T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41428442/",
-      "url_doi": "https://doi.org/10.1093/ejcts/ezaf467",
-      "abstract": "OBJECTIVES: While treatment strategies for non-small cell lung cancer (NSCLC) continue to evolve, the prognostic implications of lymph node metastasis patterns in upper lobe tumors remain inadequately defined. This study investigated whether tumour laterality and specific nodal stations involved in N2a disease correlate with long-term survival in patients undergoing surgical resection for upper lobe NSCLC.\n\nMETHODS: This retrospective single-center study included patients with stage I-IIIB upper lobe NSCLC who underwent anatomical resection with systematic lymph node dissection from January 2010 to December 2022. Patients were stratified by tumour laterality and nodal involvement, with specific analysis of N2a subgroups based on lymph node station. Propensity score matching, Kaplan-Meier survival analysis, and log-rank testing were used to compare survival outcomes.\n\nRESULTS: Of 3,313 patients considered, 2,028 met the prespecified inclusion criteria (right: n = 1,212; left: n = 816). Mean age was 65.7 ± 9.4 years; 61.7% were male. Median overall survival (OS) was similar for right- and left-sided N0 and N1 tumors. Significant differences emerged among N2a subgroups: Patients with left-sided skip metastases to LN5/6 had markedly improved OS (66.2 ± 14.9 months) versus right-sided LN2/4 (35.3 ± 8.5 months; p = 0.047). Outcomes of left-sided N2a1 LN5/6 were also more favorable than LN7-9 (37.7 ± 15.2 months; p = 0.023) and showed better OS than left-sided N1 disease (47.6 ± 4.2 months; p = 0.284).\n\nCONCLUSIONS: Positive nodal station and tumour laterality significantly impact survival in upper lobe NSCLC. Skip metastases to LN5/6 in left-sided tumors were linked to more favorable prognosis and may warrant inclusion in future TNM classification refinements."
-    },
-    {
-      "pmid": "41443465",
-      "doi": "10.1016/j.jtcvs.2025.12.018",
-      "title": "Extent of Resection for STAS-positive Stage IA1-2 Non-Small Cell Lung Cancer.",
-      "journal": "The Journal of thoracic and cardiovascular surgery",
-      "pubdate": "2025-12-22T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41443465/",
-      "url_doi": "https://doi.org/10.1016/j.jtcvs.2025.12.018",
-      "abstract": "OBJECTIVES: Sublobar resection has demonstrated non-inferiority to lobectomy in unselected stage IA NSCLC; but the optimal surgical approach in tumors with spread-through-airspaces (STAS) remains unclear. This study examines how extent of resection influences clinical outcomes in patients with STAS-positive stage IA1-2 NSCLC.\n\nMETHODS: Patients who underwent lung resection for primary pathologic stage IA1-2 NSCLC between February 2018 and January 2022 at a tertiary academic institution were included. In the STAS-positive cohort, multivariable competing risk models were used to assess cumulative incidence of recurrence and lung cancer-related death following lobectomy versus sublobar resection, and propensity score matched analysis was performed for overall survival and recurrence-free survival. Exploratory analysis was performed to evaluate outcomes after specific resection type (lobectomy, segmentectomy, wedge) in the STAS-positive cohort.\n\nRESULTS: A total of 445 patients met inclusion criteria, of whom 158 (35.9%) were STAS-positive. Within the STAS-positive cohort, recurrence was significantly more frequent after sublobar resection (SHR=7.60, 95% CI 1.85-31.33, p=0.005), and lung cancer-specific mortality was higher (SHR=5.12; 95% CI 1.03-25.62; p=0.047). Propensity-score matching yielded 40 well-balanced pairs. Overall survival was similar between lobectomy and sublobar resection (5-year OS: lobectomy 91.5% vs sublobar 80.3%, p=0.18). In contrast, recurrence-free survival was significantly worse after sublobar resection (5-year RFS: lobectomy 88.8% vs sublobar 66.1%, p=0.042). On exploratory analysis, inferior RFS was observed for wedge resection (p=0.024) but not for segmentectomy (p=0.324) when compared with lobectomy.\n\nCONCLUSIONS: Sublobar resection, particularly wedge resection, is associated with worse recurrence-free survival for STAS-positive stage IA1-2 NSCLC."
     }
   ]
 }
