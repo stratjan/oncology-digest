@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-29T05:26:33.575395Z",
+  "generated": "2025-12-30T05:21:41.034099Z",
   "items": [
     {
       "pmid": "41452617",
@@ -13,8 +13,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12743306/",
       "metric_name": "SJR",
       "metric_value": 8.377,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41452617/",
@@ -285,86 +285,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378732/",
       "url_doi": "https://doi.org/10.1021/acs.nanolett.5c04269",
       "abstract": "We have recently developed polymer/lipid nanoparticles PBAE-PEG/4A3-SC8/DOPE/Cholesterol/DOTAP (hereafter, PBAE-PEG/LNP) that can deliver mRNA into lung cells. Here, using PBAE-PEG/LNP, we delivered"
-    },
-    {
-      "pmid": "41448488",
-      "doi": "10.1016/j.jtho.2025.12.080",
-      "title": "Trastuzumab Deruxtecan in Patients with HER2-Overexpressing Non-Small Cell Lung Cancer: Results From Part 1 of the Open-label, Multicenter, Phase 1b DESTINY-Lung03 Trial.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2025-12-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.jtho.2025.12.080",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41448488/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.12.080",
-      "abstract": "INTRODUCTION: HER2-directed treatments for HER2-overexpressing (HER2-OE; immunohistochemistry [IHC] 3+/2+) non-small cell lung cancer (NSCLC) are needed.\n\nMETHODS: DESTINY-Lung03 is an open-label, multi-arm, phase 1b study. Part 1 evaluated trastuzumab deruxtecan (T-DXd, 4.4 or 5.4 mg/kg) plus durvalumab (1120 mg) and cisplatin (60 or 75 mg/m\n\nPRIMARY ENDPOINTS: dose-limiting toxicities (DLTs) and adverse events (AEs: Arms 1A and 1B). Secondary endpoints: safety (Arm 1D) and efficacy (all arms).\n\nRESULTS: At data cutoff (April 1, 2024), 11, 24, and 36 patients received treatment in Arms 1A, 1B, and 1D, respectively. DLTs reported in Arm 1A: febrile neutropenia (n=1; Grade [G] 5; 4.4 mg/kg / 1120 mg / 60 mg/m\n\nCONCLUSIONS: Data confirm activity of T-DXd monotherapy in pretreated HER2-OE NSCLC, but do not support T-DXd plus durvalumab and platinum chemotherapy use in this population."
-    },
-    {
-      "pmid": "41433419",
-      "doi": "10.1126/scisignal.ads7662",
-      "title": "Cancer-associated fibroblasts confer ALK inhibitor resistance in EML4-ALK-driven lung cancer by concurrent integrin and MET signaling.",
-      "journal": "Science signaling",
-      "pubdate": "2025-12-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41433419/",
-      "url_doi": "https://doi.org/10.1126/scisignal.ads7662",
-      "abstract": "Cancer-associated fibroblasts (CAFs) are associated with tumor progression and drug resistance. Here, we investigated the mechanisms underlying the cross-talk between CAFs and tumor cells in non-small cell lung cancer (NSCLC). In NSCLC cell lines with"
-    },
-    {
-      "pmid": "41448094",
-      "doi": "10.1016/j.lungcan.2025.108885",
-      "title": "Cost-effectiveness of adjuvant alectinib in the treatment of patients with resected stage IB-IIIA ALK-positive non-small lung cancer in France, based on the ALINA study.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-12-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41448094/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108885",
-      "abstract": "BACKGROUND AND OBJECTIVE: Alectinib has demonstrated significant disease-free survival (DFS) benefits as adjuvant therapy for resected stage IB-IIIA ALK-positive non-small-cell lung cancer (NSCLC) in the ALINA study. This study aimed to assess the cost-effectiveness of introducing adjuvant alectinib into routine clinical practice in France compared with standard adjuvant platinum-based chemotherapy.\n\nMETHODS: A cohort-based semi-Markov model was developed to simulate long-term health and economic outcomes for patients from the ALINA intention-to-treat population over a 40-year time horizon. Eight mutually exclusive health states were included, capturing DFS, non-metastatic recurrence, metastatic recurrence (first and second line), and death. Clinical inputs were sourced primarily from ALINA, while recurrence treatment patterns, cure assumptions, utilities, and costs reflected French clinical practice and French thoracic oncologists' opinion. Costs (2024 euros) and outcomes were discounted following French HTA guidelines. Deterministic, probabilistic, and scenario analyses were conducted.\n\nRESULTS: Adjuvant alectinib would yield 17.6 life-years (LYs) and 15.4 quality-adjusted life-years (QALYs) per patient versus 12.4 LYs and 10.4 QALYs with chemotherapy, corresponding to incremental gains of 5.2 LYs and 5.0 QALYs. Total lifetime costs were estimated at €180,561 with alectinib and €237,011 with chemotherapy, resulting in a cost saving of €56,449. Higher upfront treatment costs with alectinib were offset by substantial reductions in recurrence-related expenditures. Across all deterministic, probabilistic, and scenario analyses, alectinib remained both more effective and less costly.\n\nCONCLUSIONS: Adjuvant alectinib would provide substantial clinical benefits for patients with resected ALK-positive NSCLC and represent a dominant strategy over platinum-based chemotherapy in the French healthcare setting, improving outcomes while reducing overall costs."
-    },
-    {
-      "pmid": "41448093",
-      "doi": "10.1016/j.lungcan.2025.108887",
-      "title": "Optimizing communication for ultrafast lung cancer biomarker testing: the UTOPIA pilot study.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-12-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108887",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41448093/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108887",
-      "abstract": "BACKGROUND: Non-small cell lung carcinoma (NSCLC) is a leading example of precision oncology, with a growing number of actionable targets. However, long turnaround times (TAT) for biomarker results can delay optimal treatment decisions. We evaluated whether a streamlined workflow could deliver comprehensive molecular reports within 72 h.\n\nMETHODS: In this prospective cohort study (UTOPIA protocol), 96 patients with early-stage or advanced NSCLC at Hospital Universitario 12 de Octubre underwent molecular tumor board (MTB)-centered triage, automated NGS processing, and integrated data review. TAT was defined (in working days) from MTB triage to electronic report validation. Communication was supported by daily operational huddles and intralaboratory pre-MTB meetings using a standardized checklist.\n\nRESULTS: All 96 NGS reports met the 72-hour TAT target (100%). The NGS failure rate was 1%. Potentially actionable genomic alterations were identified in 45.8% of patients, most frequently EGFR (24%) and KRAS G12C (8.3%). Other targetable alterations included six ALK fusions (6.3%), four MET exon 14 skipping mutations (4.2%), two BRAF V600E mutations (2.1%), and one RET fusion (1%).\n\nCONCLUSION: An ultrafast biomarker testing workflow for lung cancer, enabled by MTB-driven triage and structured team communication, can reliably generate comprehensive molecular reports within 72 h. This approach may reduce TAT-related treatment delays and support timely biomarker-guided therapy for patients with NSCLC."
     }
   ]
 }
