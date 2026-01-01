@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-30T05:21:41.034099Z",
+  "generated": "2026-01-01T05:24:59.334355Z",
   "items": [
     {
       "pmid": "41452617",
@@ -40,6 +40,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41442233/",
       "url_doi": "https://doi.org/10.1002/cncr.70217",
       "abstract": "BACKGROUND: Although the incidence of several cancers diagnosed before age 50 years has increased, contemporary trends in early-onset lung cancer remain poorly defined, particularly across histologic and sociodemographic subgroups.\n\nMETHODS: A population-based cohort study was conducted via Surveillance, Epidemiology, and End Results 22 Program registries of 81,568 individuals diagnosed with lung cancer at age 20-49 years from 2000 to 2021. Age-adjusted incidence rates and annual percent change (APC) were estimated via National Cancer Institute Joinpoint regression. Overall trends were stratified by histology, sex, race/ethnicity, and state-level smoking prevalence.\n\nRESULTS: From 2000 to 2021, early-onset lung cancer incidence declined overall (average APC, -3.81%; 95% CI, -4.01% to -3.64%; p < .0001), which contrasts with rising early-onset colorectal and female breast cancers. Declines among females occurred later but were steeper for lung adenocarcinoma (LUAD; -5.14% vs. -2.82%), whereas males declined faster for non-small cell lung cancer (NSCLC) and overall. Female declines were slower relative to males in Hispanic and non-Hispanic (NH) Black individuals (2.3- and 1.08-fold difference, respectively), whereas NH White females declined 1.3-fold faster than males. Among Asian females, NSCLC incidence did not decline, and LUAD increased through 2017 (+2.45%) and remained stable in Hispanic females. In high-smoking states, male rates declined steadily (-4.32%), whereas female rates were stable until 2010, then dropped sharply, and converged with males by 2021. In low-smoking states, male rates declined 48.75% faster than female rates (-4.76% vs. -3.20%).\n\nCONCLUSIONS: Early-onset lung cancer incidence declined overall from 2000 to 2021, except for persistent or rising LUAD among Asian and Hispanic females, which implicates emerging non-tobacco risk factors and highlights the need for targeted prevention."
+    },
+    {
+      "pmid": "41474069",
+      "doi": "10.1002/ijc.70265",
+      "title": "Five-year outcomes of pembrolizumab versus chemotherapy in Chinese patients with non-small-cell lung cancer and programmed cell death ligand 1 tumor proportion score ≥1%: KEYNOTE-042 China study.",
+      "journal": "International journal of cancer",
+      "pubdate": "2025-12-31T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1002/ijc.70265",
+      "metric_name": "SJR",
+      "metric_value": 2.252,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41474069/",
+      "url_doi": "https://doi.org/10.1002/ijc.70265",
+      "abstract": "In the phase 3 KEYNOTE-042 China study of participants enrolled in China in the global KEYNOTE-042 (NCT02220894) and China extension (NCT03850444) studies, pembrolizumab improved overall survival (OS) versus chemotherapy in locally advanced or metastatic non-small-cell lung cancer (NSCLC) with programmed cell death ligand 1 (PD-L1) tumor proportion score (TPS) ≥50% (hazard ratio [HR], 0.63; 95% CI, 0.43-0.94), ≥20% (0.66; 0.47-0.92), and ≥1% (0.67; 0.50-0.89). We present outcomes from this study after 5 years of follow-up. Chinese participants with previously untreated locally advanced or metastatic NSCLC with PD-L1 TPS ≥1% without EGFR or ALK alterations were eligible. Participants were randomized 1:1 to pembrolizumab 200 mg every 3 weeks for up to 35 cycles or carboplatin plus paclitaxel or pemetrexed with optional pemetrexed maintenance (nonsquamous only). Primary endpoints were OS in the PD-L1 TPS ≥50%, ≥20%, and ≥1% subgroups. Median follow-up was 63.7 (range, 56.3-72.6) months among 262 participants (pembrolizumab, n = 128; chemotherapy, n = 134) included in this study. Pembrolizumab prolonged OS versus chemotherapy in participants with PD-L1 TPS ≥50% (HR, 0.65; 95% CI, 0.45-0.93), ≥20% (0.67; 0.49-0.91), and ≥1% (0.66; 0.51-0.87). Grade 3 to 5 treatment-related AEs occurred in 19.5% and 68.8% of participants in the pembrolizumab and chemotherapy groups, respectively. In conclusion, after 5 years of follow-up, pembrolizumab continued to demonstrate improved OS versus chemotherapy with manageable safety in Chinese participants with previously untreated locally advanced or metastatic NSCLC that expressed PD-L1. These data further support pembrolizumab monotherapy as a standard of care for these patients."
     },
     {
       "pmid": "41439364",
@@ -145,47 +165,6 @@
       "abstract": "Resistance to EGFR tyrosine kinase inhibitors (TKIs) remains a major obstacle in the clinical management of EGFR-mutant non-small-cell lung cancer (NSCLC). Despite the transformative therapeutic activity of the multiple iterations of EGFR TKIs, spanning from first-generation reversible inhibitors such as erlotinib and gefitinib to the current standard-of-care third-generation covalent inhibitor osimertinib, primary or acquired resistance to these agents inevitably emerges via diverse mechanisms. The advent of combination therapies that incorporate chemotherapy, anti-angiogenic agents, bispecific antibodies or antibody-drug conjugates has increased clinical benefit but introduced new resistance phenotypes, underscoring the dynamic plasticity and complexity of tumour evolution under therapeutic pressure. In this Review, we provide a comprehensive synthesis of the molecular mechanisms that underlie resistance to third-generation EGFR TKIs, describe biomarker-guided and biomarker-unselected therapeutic strategies to overcome these mechanisms, and discuss emerging approaches to pre-empt resistance through early application of combination therapies. We highlight the paradigm shift from radiological to molecular monitoring of resistance to therapy and explore how advances in circulating tumour DNA analysis, artificial intelligence and multi-omics might facilitate adaptive treatment strategies. As the therapeutic landscape evolves, a more complete mechanistic understanding of resistance will be essential to guide rational treatment sequencing, inform trial design and improve long-term outcomes for patients with EGFR-mutant NSCLC."
     },
     {
-      "pmid": "41176132",
-      "doi": "10.1016/j.taap.2025.117625",
-      "title": "An intestinal matrix-based human lung cancer model reflects clinical data from gefitinib on dosage-dependent efficacy.",
-      "journal": "Toxicology and applied pharmacology",
-      "pubdate": "2026-01-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.taap.2025.117625",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41176132/",
-      "url_doi": "https://doi.org/10.1016/j.taap.2025.117625",
-      "abstract": "Lung cancer is the leading cause for cancer related death worldwide. One treatment option for patients with pulmonary adenocarcinoma is the targeted therapy gefitinib (Iressa®, ZD1839). As with other promising targeted therapies, desired in vivo effects of gefitinib came short to in vitro expectations, as preclinical testing is hampered by an inaccuracy of existing models and resistances develop frequently. We analysed the pharmacodynamics of gefitinib in a 3D tissue engineered human lung cancer model of HCC827 cells, as well as a resistant subpopulation of HCCres A2 cells. In 2D cell culture, a cell viability of 50 % was reached after treatment with 0.01-0.05 μM gefitinib. In the 3D model administering higher doses of gefitinib did not lead to a further reduction in viability and proliferation, or an increase in apoptosis. This shows that the pharmacodynamic effect of promising new therapies can often be overestimated in 2D versus 3D models. The results we obtained for gefitinib testing in the 3D models reflect astonishing well the efficacy of priorly published clinical data, suggesting that our 3D tumor models can display in vivo conditions more accurately, bridging the gap to living organisms. To mimic the clinical setting further, the lung cancer cells were cultivated under dynamic conditions in a bioreactor. The exploration of a resistant subpopulation confirmed an epithelial-mesenchymal transition. The described 3D lung cancer model can be used as a refined, preclinical testing platform for targeted therapies and with clinically relevant pharmacodynamic properties as shown exemplary for gefitinib."
-    },
-    {
-      "pmid": "41068447",
-      "doi": "10.1038/s41571-025-01080-4",
-      "title": "Unresectable stage III non-small-cell lung cancer: state of the art and challenges.",
-      "journal": "Nature reviews. Clinical oncology",
-      "pubdate": "2026-01-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41068447/",
-      "url_doi": "https://doi.org/10.1038/s41571-025-01080-4",
-      "abstract": "Despite advances in immunotherapy, unresectable stage III non-small-cell lung cancer (NSCLC) remains a highly challenging disease, with only around one-third of patients remaining disease-free at 5 years. The PACIFIC trial established consolidation with the anti-PD-L1 antibody durvalumab after concurrent chemoradiotherapy as the standard-of-care approach. Furthermore, the LAURA trial has redefined the treatment of patients with stage III unresectable EGFR-mutant NSCLC, demonstrating unprecedented progression-free survival durations with osimertinib consolidation. Despite these advances, novel approaches are urgently needed. Circulating tumour DNA-based monitoring of minimal residual disease is emerging as a personalized method of tailoring treatment duration and escalation strategies. Novel radiotherapy techniques have the potential to provide synergy with immunotherapy while minimizing toxicities. Additionally, ongoing trials evaluating chemoimmunotherapy combinations adapted from the neoadjuvant setting with the potential for conversion to resectable disease might, in the near future, redefine the boundary of surgical resectability. In this Review, we describe the rapidly evolving field of unresectable stage III NSCLC, providing a state-of-the-art overview that includes challenging topics such as biomarkers, personalization of therapy and the role of immunotherapy rechallenge."
-    },
-    {
       "pmid": "41205892",
       "doi": "10.1016/j.envpol.2025.127348",
       "title": "Association of radon exposure with lung cancer: serum biomarkers and computed tomography evidence from male miners.",
@@ -227,6 +206,109 @@
       "abstract": "BACKGROUND: Leptomeningeal metastatic disease (LMD) represents a devastating complication of non-small-cell lung cancer (NSCLC) with a poor prognosis. Our understanding of LMD is limited in the era of molecular testing and emerging therapeutic options for lung cancer.\n\nPATIENTS AND METHODS: We conducted an international, multicenter, retrospective study involving eight institutions across Asia, United States, and Europe. Patients diagnosed with LMD from advanced NSCLC were identified (2007-2024). Clinicopathological characteristics, treatment patterns, and outcomes were analyzed. The primary endpoint was overall survival from the LMD diagnosis (LMOS).\n\nRESULTS: A total of 2052 patients with NSCLC and LMD were included and analyzed by molecular subtypes: epidermal growth factor receptor (EGFR) (n = 1610), ALK (n = 141), other actionable genomic alterations (other AGA; n = 137), and non-AGA (n = 164). The cumulative prevalence of LMD by molecular subgroups was EGFR, 11.1%; ALK, 11.2%; ROS1, 16%; ERBB2, 12.3%, non-AGA, 3.6%. A higher proportion of LMD was diagnosed >3 years after initial metastatic diagnosis. By the European Association of Neuro-Oncology (EANO)-European Society for Medical Oncology (ESMO) diagnostic criteria, type I (cerebrospinal fluid cytology positive) had significantly shorter LMOS than type II (magnetic resonance imaging and/or symptom positive). Median LMOS was 10.9 months [95% confidence interval (CI) 10.0-11.8 months] in all patients. Compared with historical cohorts, patients demonstrated improved LMOS in contemporary cohorts (7.3 versus 11.5 months, P < 0.0001), across all molecular subtypes. In AGA NSCLC, tyrosine kinase inhibitors (TKIs) were associated with improved LMOS [hazard ratio (HR) 0.39, 95% CI 0.31-0.48, P < 0.0001]. Immune checkpoint inhibitors (ICIs) conferred survival benefit in non-AGA patients (HR 0.45, 95% CI 0.25-0.84, P = 0.012). For the EGFR-mutated cohort, central nervous system (CNS)-penetrant TKI usage delayed LMD onset (P < 0.0001). Continued CNS-penetrant TKIs after LMD diagnosis were associated with longer LMOS (12.4 versus 6.0 months, P < 0.0001).\n\nCONCLUSIONS: The prevalence of LMD is rising, largely due to prolonged survival in advanced NSCLC. Contemporary systemic treatments, including TKIs and ICIs, were the main contributors to delayed LMD onset and improved LMD survival."
     },
     {
+      "pmid": "41068447",
+      "doi": "10.1038/s41571-025-01080-4",
+      "title": "Unresectable stage III non-small-cell lung cancer: state of the art and challenges.",
+      "journal": "Nature reviews. Clinical oncology",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41068447/",
+      "url_doi": "https://doi.org/10.1038/s41571-025-01080-4",
+      "abstract": "Despite advances in immunotherapy, unresectable stage III non-small-cell lung cancer (NSCLC) remains a highly challenging disease, with only around one-third of patients remaining disease-free at 5 years. The PACIFIC trial established consolidation with the anti-PD-L1 antibody durvalumab after concurrent chemoradiotherapy as the standard-of-care approach. Furthermore, the LAURA trial has redefined the treatment of patients with stage III unresectable EGFR-mutant NSCLC, demonstrating unprecedented progression-free survival durations with osimertinib consolidation. Despite these advances, novel approaches are urgently needed. Circulating tumour DNA-based monitoring of minimal residual disease is emerging as a personalized method of tailoring treatment duration and escalation strategies. Novel radiotherapy techniques have the potential to provide synergy with immunotherapy while minimizing toxicities. Additionally, ongoing trials evaluating chemoimmunotherapy combinations adapted from the neoadjuvant setting with the potential for conversion to resectable disease might, in the near future, redefine the boundary of surgical resectability. In this Review, we describe the rapidly evolving field of unresectable stage III NSCLC, providing a state-of-the-art overview that includes challenging topics such as biomarkers, personalization of therapy and the role of immunotherapy rechallenge."
+    },
+    {
+      "pmid": "41104938",
+      "doi": "10.1056/NEJMoa2510308",
+      "title": "Survival with Osimertinib plus Chemotherapy in EGFR-Mutated Advanced NSCLC.",
+      "journal": "The New England journal of medicine",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41104938/",
+      "url_doi": "https://doi.org/10.1056/NEJMoa2510308",
+      "abstract": "BACKGROUND: The primary analysis of this trial showed that first-line treatment with osimertinib plus chemotherapy with a platinum-based agent and pemetrexed led to significantly longer progression-free survival than osimertinib monotherapy among patients with epidermal growth factor receptor (\n\nMETHODS: In this phase 3, international, open-label trial, we randomly assigned in a 1:1 ratio patients with\n\nRESULTS: A total of 557 patients were randomly assigned to the osimertinib plus platinum-pemetrexed group (279 patients) or the osimertinib monotherapy group (278 patients). The median overall survival was 47.5 months in the osimertinib plus platinum-pemetrexed group and 37.6 months in the osimertinib monotherapy group (hazard ratio for death, 0.77; 95% confidence interval, 0.61 to 0.96; P = 0.02). Grade 3 or higher adverse events of any cause were reported in 70% of the patients in the osimertinib plus platinum-pemetrexed group and in 34% of the patients in the osimertinib monotherapy group; adverse events leading to the discontinuation of osimertinib were reported in 12% and 7%, respectively.\n\nCONCLUSIONS: Among patients with"
+    },
+    {
+      "pmid": "41466596",
+      "doi": "10.1080/14796694.2025.2610171",
+      "title": "The first United Arab Emirates expert consensus recommendations for the diagnosis and management of early and advanced non-small cell lung cancer.",
+      "journal": "Future oncology (London, England)",
+      "pubdate": "2025-12-30T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41466596/",
+      "url_doi": "https://doi.org/10.1080/14796694.2025.2610171",
+      "abstract": "Lung cancer is the first cause of mortality and the third most common cancer worldwide. In the United Arab Emirates (UAE), lung cancer ranks third in terms of cancer-related mortality and sixth in terms of incidence. In order to strengthen and to improve the management of this cancer in the UAE, a panel of 15 oncologist and pathologist experts in the field of lung cancer developed the first UAE consensus recommendations for the diagnosis and management of early and advanced lung cancer. A total of thirty-three, statements were drafted, discussed, and voted on, using a modified Delphi process. This consensus meeting acts as a cornerstone for the management of cancers in the UAE and highlights the importance of optimized, evidence-based, and patient-centered practices."
+    },
+    {
+      "pmid": "41475039",
+      "doi": "10.1016/j.lungcan.2025.108892",
+      "title": "The role of APOBEC in early-stage epidermal growth factor receptor-mutant non-small cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-12-29T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41475039/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108892",
+      "abstract": "BACKGROUND: APOBEC plays a crucial role in the mutation process and immune response of non-small cell lung cancer (NSCLC). This study evaluated the role of the APOBEC mutation signature in early-stage epidermal growth factor receptor (EGFR) mutant NSCLC. This study aimed to assess the impact of APOBEC enrichment on recurrence-free survival (RFS), post-recurrence tyrosine kinase inhibitor (TKI) progression-free survival (PFS), and post-recurrence survival (PRS).\n\nMETHODS: We conducted whole-exome sequencing and whole-transcriptome sequencing in 100 patients diagnosed with pathologic stage II-IIIA non-squamous NSCLC.\n\nRESULTS: Among the 100 patients, 18 (18 %) exhibited APOBEC (≥2) enrichment, which did not show a significant association with RFS (P = 0.14). Patients with APOBEC enrichment showed a shorter post-recurrence TKI PFS compared to those without APOBEC enrichment (8.13 months vs. 24.57 months, P = 0.017). In multivariate analysis, poor post-recurrence TKI PFS was associated with the type of EGFR mutation (L858R vs. exon 19 deletion, HR = 1.91, P = 0.04), TP53 mutation (HR = 2.07, P = 0.03), and APOBEC enrichment (≥2 vs. < 2, HR = 2.23, P = 0.02). PRS was 61.10 months and 21.77 months for patients with APOBEC enrichment and patients without APOBEC enrichment, respectively (P = 0.029). In multivariate analysis, poor PRS of EGFR-TKI was associated with the type of EGFR mutation (L858R vs. exon 19 deletion, HR = 2.29, P = 0.04) and APOBEC enrichment (≥2 vs. < 2, HR = 2.71, P = 0.02).\n\nCONCLUSIONS: APOBEC enrichment may present at initial diagnosis of early-stage EGFR mutant NSCLC and is associated with poor post-recurrence TKI PFS and PRS rather than RFS."
+    },
+    {
+      "pmid": "41468825",
+      "doi": "10.1016/j.lungcan.2025.108890",
+      "title": "Inavolisib for PIK3CA-mutant non-small cell lung cancer: A case report.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2025-12-26T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41468825/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108890",
+      "abstract": "INTRODUCTION: PIK3CA mutations are oncogenic drivers in 2-4% of non-small cell lung cancers (NSCLC), often co-occurring with other drivers and conferring therapeutic resistance. This report is unique in describing the efficacy of the novel, highly selective PI3Kα inhibitor inavolisib in two heavily pre-treated patients with PIK3CA-mutant NSCLC harboring divergent co-drivers (EGFR and KRAS).\n\nCASE PRESENTATION: We present a 71-year-old male with EGFR/PIK3CA-mutant adenocarcinoma and brain metastases, and a 54-year-old female with KRAS/PIK3CA-mutant squamous cell carcinoma. Both patients reported rapid symptomatic improvement (hoarseness and shoulder pain, respectively) within two weeks of initiating inavolisib.\n\nDIAGNOSIS, INTERVENTION, AND OUTCOMES: Both patients received oral inavolisib (6 mg daily). Follow-up imaging after one month revealed significant tumor reduction. Notably, regressing intrapulmonary lesions exhibited tumor cavitation, and the male patient demonstrated a marked regression of central nervous system (CNS) metastases. The treatment was well-tolerated, with only Grade 1 oral mucositis reported.\n\nCONCLUSION: The primary take-away lesson is that selective PI3Kα inhibition with inavolisib can induce potent systemic and intracranial responses in PIK3CA-mutant NSCLC, regardless of the primary oncogenic co-driver. The observed tumor cavitation suggests a potential anti-angiogenic mechanism, warranting further investigation."
+    },
+    {
       "pmid": "41456708",
       "doi": "10.1016/j.jtho.2025.12.102",
       "title": "The impact of targeting TRAF2 and NCK-interacting protein kinase (TNIK) on anti-tumor effect and tumor immune environment in c-MYC-high small cell lung cancer.",
@@ -245,46 +327,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41456708/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.12.102",
       "abstract": "INTRODUCTION: Wnt/β-catenin signaling pathway activation contributes to tumorigenesis and chemo-resistance in small cell lung cancer (SCLC), yet clinical attempts to target this pathway have been unsuccessful. TRAF2 and NCK-interacting protein kinase (TNIK), an essential nuclear activator of Wnt/β-catenin target genes, has not yet been validated as a viable therapeutic target in SCLC. Here, we validated that TNIK inhibition is a promising approach for personalized anti-cancer therapy in SCLC.\n\nMETHODS: We correlated the IC50 values of a TNIK inhibitor, NCB-0846 with proteomic profiling (Reverse Phase Protein Array, RPPA) data across 28 SCLC cell lines. Cytokine array analysis was performed to quantify changes in 105 cytokines following TNIK inhibitor treatment.\n\nRESULTS: We identified c-MYC expression as a top candidate marker of TNIK inhibition response. In xenograft models of c-MYC\n\nCONCLUSIONS: TNIK inhibition is more effective in c-MYC"
-    },
-    {
-      "pmid": "41442468",
-      "doi": "10.1093/oncolo/oyaf428",
-      "title": "Adjuvant atezolizumab in surgically resected NSCLC patients with PD-L1 expression ≥50%: real-world data from the italian ATLAS registry.",
-      "journal": "The oncologist",
-      "pubdate": "2025-12-24T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1093/oncolo/oyaf428",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41442468/",
-      "url_doi": "https://doi.org/10.1093/oncolo/oyaf428",
-      "abstract": "BACKGROUND: This study describes clinical characteristics, treatment patterns as well as safety outcomes of NSCLC patients harboring PD-L1 ≥ 50% who received adjuvant atezolizumab within the Italian real-world scenario.\n\nMETHODS: Patients with surgically resected NSCLC harboring EGFR/ALK wild type disease and PD-L1 TPS ≥ 50%, who received at least one cycle of adjuvant atezolizumab were included. Clinical-pathological and molecular data, safety and efficacy outcomes were collected from the Italian ATLAS real-world registry.\n\nRESULTS: A total of 132 patients were included across 45 Italian centers between July 2022 and August 2024. Lobectomy was performed in 81.1% of cases, with 8.3% pathological stage IIA, 40.2% stage IIB, 43.9% stage IIIA, and 7.6% stage IIIB, according to the 8th TNM staging edition. The median number of atezolizumab cycles was 12.5 (range: 1-20). Treatment related adverse events (TRAEs) during atezolizumab were reported in 44 patients (33.3%), including 11 (8.3%) who experienced multiple TRAEs. Grade ≥3 TRAEs were reported in 21 cases (15.9%), leading to treatment discontinuation in 18 (13.6%). The median time to the first onset of TRAEs was 89 days (range: 3-390 days). 15 patients experienced a disease recurrence, including 6 locoregional-only and 9 distant relapses, with a median time since surgery of 13.3 months.\n\nCONCLUSION: This study showed that the safety profile of adjuvant atezolizumab outside of a clinical trial context was comparable to the IMPower-010 study, highlighting the value of the Italian ATLAS registry as source of real-word evidence to optimize the clinical management of NSCLC patients."
-    },
-    {
-      "pmid": "41378732",
-      "doi": "10.1021/acs.nanolett.5c04269",
-      "title": "PBAE-PEG/Lipid Nanoparticle Delivery of RNA for the Creation of Genetically Engineered Lung Cancer Mouse Models.",
-      "journal": "Nano letters",
-      "pubdate": "2025-12-24T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378732/",
-      "url_doi": "https://doi.org/10.1021/acs.nanolett.5c04269",
-      "abstract": "We have recently developed polymer/lipid nanoparticles PBAE-PEG/4A3-SC8/DOPE/Cholesterol/DOTAP (hereafter, PBAE-PEG/LNP) that can deliver mRNA into lung cells. Here, using PBAE-PEG/LNP, we delivered"
     }
   ]
 }
