@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-04T05:23:32.945915Z",
+  "generated": "2026-01-05T05:33:51.205245Z",
   "items": [
     {
       "pmid": "41482562",
@@ -100,6 +100,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
       "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
       "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
+    },
+    {
+      "pmid": "41484568",
+      "doi": "10.1007/s12094-025-04152-0",
+      "title": "Real-world adoption of off-label combinations for targeted therapy resistance in non-small cell lung cancer.",
+      "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
+      "pubdate": "2026-01-03T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41484568/",
+      "url_doi": "https://doi.org/10.1007/s12094-025-04152-0",
+      "abstract": "PURPOSE: No targeted therapy combinations have achieved regulatory approval for the treatment of biomarker-positive resistance in non-small cell lung cancer (NSCLC). Given the widespread availability of next-generation sequencing (NGS) to detect resistance, we reviewed the real-world experience of using off-label targeted therapy combinations to treat advanced NSCLC at our academic safety-net hospital.\n\nMETHODS: Pharmacy records from the Hematology/Oncology Department at Boston Medical Center during the years 2017 to 2024 were reviewed. One hundred eleven patients received oral, targeted therapy during this time. Our study focused on those patients who received an off-label combination of targeted therapies for advanced NSCLC. We reviewed their demographics, treatment history, molecular data, and published evidence to support the combination.\n\nRESULTS: Eight patients were treated with nine combination regimens. The median age was 69 years (age 29-89 years). Six patients had EGFR exon 19 deletions and two had EML4-ALK fusions. The nine combination regimens included addition of a MET inhibitor (n = 3), a RET inhibitor (n = 2), a MEK inhibitor (n = 2), an ALK inhibitor (n = 1), and an EGFR antibody (n = 1). The median duration of treatment was 7 months (range: 1-35 months), and was longest for alectinib and capmatinib (15 months ongoing and 25 months, ongoing) and gefitinib and selpercatinib (35 months, ongoing). Available supporting evidence included retrospective cohort studies (n = 5), published case reports/series (n = 2), and a prospective cohort study (n = 1).\n\nCONCLUSION: Off-label combination therapy to treat targeted therapy resistance in advanced NSCLC is feasible in routine clinical practice. Additional real-world evidence is needed to clarify best practices with this emerging approach."
     },
     {
       "pmid": "41483000",
@@ -554,6 +574,27 @@
       "abstract": "Resistance to EGFR tyrosine kinase inhibitors (TKIs) remains a major obstacle in the clinical management of EGFR-mutant non-small-cell lung cancer (NSCLC). Despite the transformative therapeutic activity of the multiple iterations of EGFR TKIs, spanning from first-generation reversible inhibitors such as erlotinib and gefitinib to the current standard-of-care third-generation covalent inhibitor osimertinib, primary or acquired resistance to these agents inevitably emerges via diverse mechanisms. The advent of combination therapies that incorporate chemotherapy, anti-angiogenic agents, bispecific antibodies or antibody-drug conjugates has increased clinical benefit but introduced new resistance phenotypes, underscoring the dynamic plasticity and complexity of tumour evolution under therapeutic pressure. In this Review, we provide a comprehensive synthesis of the molecular mechanisms that underlie resistance to third-generation EGFR TKIs, describe biomarker-guided and biomarker-unselected therapeutic strategies to overcome these mechanisms, and discuss emerging approaches to pre-empt resistance through early application of combination therapies. We highlight the paradigm shift from radiological to molecular monitoring of resistance to therapy and explore how advances in circulating tumour DNA analysis, artificial intelligence and multi-omics might facilitate adaptive treatment strategies. As the therapeutic landscape evolves, a more complete mechanistic understanding of resistance will be essential to guide rational treatment sequencing, inform trial design and improve long-term outcomes for patients with EGFR-mutant NSCLC."
     },
     {
+      "pmid": "41275528",
+      "doi": "10.1016/j.ejca.2025.116115",
+      "title": "The rechallenge benefit score: A clinical decision tool for patients progressing after immunotherapy.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.ejcancer.com/article/S0959-8049(25)01001-9/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41275528/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116115",
+      "abstract": "BACKGROUND: Most patients with advanced Non-Small-Cell Lung Cancer (NSCLC) receive an immune checkpoint inhibitor (ICI) as first-line treatment. Upon progression, therapeutic options are limited, making ICI rechallenge a relevant strategy. However, identifying patients who may benefit remains challenging. This study presents a predictive score to guide treatment decisions.\n\nMETHODS: Seventeen routine blood tests performed before the first two ICI cycles were analyzed in 80 NSCLC patients rechallenged across 16 French centers. Using a robust machine learning approach, we identified biological parameters associated with progression-free survival during rechallenge (rPFS) and developed an integrative score able to stratify patients according to rPFS. Its predictive value was assessed in relation to patients treated with chemotherapy after ICI (n = 82) and to their outcomes evaluated during first-line immunotherapy (n = 252).\n\nRESULTS: Our findings indicate that clinical characteristics alone are insufficient to reliably identify patients who are likely to respond to ICI rechallenge. We identify the Rechallenge Benefit Score (RBS), which identifies patients likely to achieve longer clinical benefit from ICI rechallenge (C-index 0.79), regardless of clinical characteristics. Median rPFS was significantly longer in patients with low versus high RBS (6.4 and 1.9 months respectively; p < 0.0001, HR=0.31, 95 % CI:0.17-0.55). Notably, the RBS is specific, as it does not predict benefit in Chemotherapy or first-line ICI cohorts.\n\nCONCLUSION: We identified and validated the RBS score to select patients likely to benefit from ICI rechallenge. Since clinical features alone are insufficient, our findings may guide treatment strategies for patients who experienced disease progression during prior ICI treatment."
+    },
+    {
       "pmid": "41176132",
       "doi": "10.1016/j.taap.2025.117625",
       "title": "An intestinal matrix-based human lung cancer model reflects clinical data from gefitinib on dosage-dependent efficacy.",
@@ -615,6 +656,47 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41068447/",
       "url_doi": "https://doi.org/10.1038/s41571-025-01080-4",
       "abstract": "Despite advances in immunotherapy, unresectable stage III non-small-cell lung cancer (NSCLC) remains a highly challenging disease, with only around one-third of patients remaining disease-free at 5 years. The PACIFIC trial established consolidation with the anti-PD-L1 antibody durvalumab after concurrent chemoradiotherapy as the standard-of-care approach. Furthermore, the LAURA trial has redefined the treatment of patients with stage III unresectable EGFR-mutant NSCLC, demonstrating unprecedented progression-free survival durations with osimertinib consolidation. Despite these advances, novel approaches are urgently needed. Circulating tumour DNA-based monitoring of minimal residual disease is emerging as a personalized method of tailoring treatment duration and escalation strategies. Novel radiotherapy techniques have the potential to provide synergy with immunotherapy while minimizing toxicities. Additionally, ongoing trials evaluating chemoimmunotherapy combinations adapted from the neoadjuvant setting with the potential for conversion to resectable disease might, in the near future, redefine the boundary of surgical resectability. In this Review, we describe the rapidly evolving field of unresectable stage III NSCLC, providing a state-of-the-art overview that includes challenging topics such as biomarkers, personalization of therapy and the role of immunotherapy rechallenge."
+    },
+    {
+      "pmid": "41330054",
+      "doi": "10.1016/j.ejca.2025.116153",
+      "title": "Garsorasib in patients with KRAS G12C-mutated non-small-cell lung cancer: A pooled analysis of phase 1/2 study.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41330054/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116153",
+      "abstract": "INTRODUCTION: Garsorasib, a KRAS G12C inhibitor, has previously demonstrated its efficacy and safety in patients with KRAS G12C-mutated non-small-cell lung cancer (NSCLC). Here, we present long-term follow-up data from a pooled analysis of the phase 1/2 study.\n\nMETHODS: This multicenter, open-label phase 1/2 study enrolled patients with KRAS G12C-mutated, locally advanced or metastatic NSCLC. The primary endpoints for phase 1 were safety and tolerability and for phase 2 objective response rate (ORR) by a blinded independent review committee per RECIST version 1.1. Data was pooled from patients who received garsorasib 600 mg twice daily.\n\nRESULTS: This pooled dataset included 189 patients (N = 66 in phase 1 and N = 123 in phase 2). The median pooled follow-up time was 13.0 months (IQR: 6.7-17.5). The objective response rate was 48.1 % (95 %CI: 40.8-55.5), and disease control rate was 87.8 % (95 %CI: 82.3-92.1). The median duration of response was 12.45 months (95 % CI: 8.31, 14.49), the median progression-free survival was 9.07 months (95 %CI: 7.39-9.76), and the median overall survival was 14.19 months (95 %CI: 13.08-17.54). Treatment-related adverse events of any grade occurred in 96.3 % of patients, with grade ≥ 3 in 49.2 % of patients. No new safety findings were observed, and most of the adverse events were controllable.\n\nCONCLUSION: This pooled analysis confirmed the robust efficacy and manageable safety of garsorasib in KRAS G12C-mutated NSCLC.\n\nGOV IDENTIFIER: NCT05383898."
+    },
+    {
+      "pmid": "41319449",
+      "doi": "10.1016/j.ejca.2025.116137",
+      "title": "AI performance for nodule volume doubling time in the follow-up of the UKLS lung cancer screening study compared to expert consensus and histological validation.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.ejcancer.com/article/S0959-8049(25)01023-8/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41319449/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116137",
+      "abstract": "AIM: To validate an artificial intelligence (AI) software for automated assessment of nodule growth by volume doubling time measurement (VDT) on protocol-mandated follow-up low-dose CT (LDCT) scans from the UK lung cancer screening (UKLS) trial.\n\nMETHODS: This validation study included 710 UKLS participants with 939 LDCT follow-up scans (361 3-month and 578 12-month). Follow-up scans were assessed independently by both AI and human readers. A positive finding warranting referral was defined as the largest nodule with a solid component ≥ 100 mm\n\nRESULTS: Against the expert panel, AI achieved the lowest 3-month negative misclassification (NM) rate (1/11, 9.1 %), versus human readers (range: 18.2-63.6 %). AI's positive misclassification (PM) rate was initially 7.8 % (28/361) at 3 months but decreased to 0.9 % (5/578) at 12 months. Against histological outcomes of 9 screen-detected lung cancers, AI identified VDT ≤ 400 days in all 4 cancers also deemed positive by the expert panel at the earliest 3-month follow-up, while human readers missed or delayed referrals in 1-3 of these. AI also identified VDT ≤ 400 days in 3 of 5 cancers that the panel classified as negative, primarily due to their sub-threshold volume (<100mm³).\n\nCONCLUSIONS: The automated AI system showed strong VDT assessment performance in follow-up screening, outperforming human readers in the early identification of rapid growth in histologically-confirmed cancers, thus supporting its potential to enhance risk stratification and facilitate earlier lung cancer detection."
     },
     {
       "pmid": "41205892",
@@ -696,26 +778,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41466596/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2610171",
       "abstract": "Lung cancer is the first cause of mortality and the third most common cancer worldwide. In the United Arab Emirates (UAE), lung cancer ranks third in terms of cancer-related mortality and sixth in terms of incidence. In order to strengthen and to improve the management of this cancer in the UAE, a panel of 15 oncologist and pathologist experts in the field of lung cancer developed the first UAE consensus recommendations for the diagnosis and management of early and advanced lung cancer. A total of thirty-three, statements were drafted, discussed, and voted on, using a modified Delphi process. This consensus meeting acts as a cornerstone for the management of cancers in the UAE and highlights the importance of optimized, evidence-based, and patient-centered practices."
-    },
-    {
-      "pmid": "41475039",
-      "doi": "10.1016/j.lungcan.2025.108892",
-      "title": "The role of APOBEC in early-stage epidermal growth factor receptor-mutant non-small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2025-12-29T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41475039/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108892",
-      "abstract": "BACKGROUND: APOBEC plays a crucial role in the mutation process and immune response of non-small cell lung cancer (NSCLC). This study evaluated the role of the APOBEC mutation signature in early-stage epidermal growth factor receptor (EGFR) mutant NSCLC. This study aimed to assess the impact of APOBEC enrichment on recurrence-free survival (RFS), post-recurrence tyrosine kinase inhibitor (TKI) progression-free survival (PFS), and post-recurrence survival (PRS).\n\nMETHODS: We conducted whole-exome sequencing and whole-transcriptome sequencing in 100 patients diagnosed with pathologic stage II-IIIA non-squamous NSCLC.\n\nRESULTS: Among the 100 patients, 18 (18 %) exhibited APOBEC (≥2) enrichment, which did not show a significant association with RFS (P = 0.14). Patients with APOBEC enrichment showed a shorter post-recurrence TKI PFS compared to those without APOBEC enrichment (8.13 months vs. 24.57 months, P = 0.017). In multivariate analysis, poor post-recurrence TKI PFS was associated with the type of EGFR mutation (L858R vs. exon 19 deletion, HR = 1.91, P = 0.04), TP53 mutation (HR = 2.07, P = 0.03), and APOBEC enrichment (≥2 vs. < 2, HR = 2.23, P = 0.02). PRS was 61.10 months and 21.77 months for patients with APOBEC enrichment and patients without APOBEC enrichment, respectively (P = 0.029). In multivariate analysis, poor PRS of EGFR-TKI was associated with the type of EGFR mutation (L858R vs. exon 19 deletion, HR = 2.29, P = 0.04) and APOBEC enrichment (≥2 vs. < 2, HR = 2.71, P = 0.02).\n\nCONCLUSIONS: APOBEC enrichment may present at initial diagnosis of early-stage EGFR mutant NSCLC and is associated with poor post-recurrence TKI PFS and PRS rather than RFS."
     }
   ]
 }
