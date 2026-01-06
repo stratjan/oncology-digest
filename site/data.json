@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-05T05:33:51.205245Z",
+  "generated": "2026-01-06T05:23:40.238856Z",
   "items": [
     {
       "pmid": "41482562",
@@ -60,6 +60,27 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41474069/",
       "url_doi": "https://doi.org/10.1002/ijc.70265",
       "abstract": "In the phase 3 KEYNOTE-042 China study of participants enrolled in China in the global KEYNOTE-042 (NCT02220894) and China extension (NCT03850444) studies, pembrolizumab improved overall survival (OS) versus chemotherapy in locally advanced or metastatic non-small-cell lung cancer (NSCLC) with programmed cell death ligand 1 (PD-L1) tumor proportion score (TPS) ≥50% (hazard ratio [HR], 0.63; 95% CI, 0.43-0.94), ≥20% (0.66; 0.47-0.92), and ≥1% (0.67; 0.50-0.89). We present outcomes from this study after 5 years of follow-up. Chinese participants with previously untreated locally advanced or metastatic NSCLC with PD-L1 TPS ≥1% without EGFR or ALK alterations were eligible. Participants were randomized 1:1 to pembrolizumab 200 mg every 3 weeks for up to 35 cycles or carboplatin plus paclitaxel or pemetrexed with optional pemetrexed maintenance (nonsquamous only). Primary endpoints were OS in the PD-L1 TPS ≥50%, ≥20%, and ≥1% subgroups. Median follow-up was 63.7 (range, 56.3-72.6) months among 262 participants (pembrolizumab, n = 128; chemotherapy, n = 134) included in this study. Pembrolizumab prolonged OS versus chemotherapy in participants with PD-L1 TPS ≥50% (HR, 0.65; 95% CI, 0.45-0.93), ≥20% (0.67; 0.49-0.91), and ≥1% (0.66; 0.51-0.87). Grade 3 to 5 treatment-related AEs occurred in 19.5% and 68.8% of participants in the pembrolizumab and chemotherapy groups, respectively. In conclusion, after 5 years of follow-up, pembrolizumab continued to demonstrate improved OS versus chemotherapy with manageable safety in Chinese participants with previously untreated locally advanced or metastatic NSCLC that expressed PD-L1. These data further support pembrolizumab monotherapy as a standard of care for these patients."
+    },
+    {
+      "pmid": "41288932",
+      "doi": "10.1007/s10147-025-02929-5",
+      "title": "Association of fat-free mass index and survival in patients with lung cancer: a multicenter cohort study.",
+      "journal": "International journal of clinical oncology",
+      "pubdate": "2026-01-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.936,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41288932/",
+      "url_doi": "https://doi.org/10.1007/s10147-025-02929-5",
+      "abstract": "BACKGROUND: Fat-free mass index (FFMI) is a prognostic influence in cancer patients. However, for the prognosis of Chinese lung cancer (LC) patients, the threshold and impact of FFMI are not known. The aim of the present study was to examine the association between FFMI and the prognosis of Chinese patients with LC.\n\nMETHODS: Totally 1,881 adult patients with LC were enrolled. During a median follow-up of 41.0 months (range 23.8-64.3), we reported 938 deaths. The optimal stratification method was used to determine the gender-specific optimal threshold for FFMI. Cox regression model and Kaplan-Meier curve were used to evaluate the relationship between FFMI and prognosis. Mediation analysis was used to determine the mediating effect of inflammation.\n\nRESULTS: The optimal cutoff points for low FFMI in males and females were 17.27 kg/m\n\nCONCLUSION: In this prospective study, low FFMI, as determined by cutoff values, was an independent prognostic factor for patients with LC in both males and females. The association between FFMI and LC prognosis was significantly mediated by NLR."
     },
     {
       "pmid": "41439364",
@@ -141,6 +162,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41483000/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.11.020",
       "abstract": "In the last 20 years, major changes have occurred in the diagnosis and management of thoracic oncologic pathology. Furthermore, thoracic surgery has undergone considerable changes since the inception of the Journal of Thoracic Oncology in 2006. Regarding staging of lung cancer, pleural mesothelioma, and thymic epithelial tumors, several revisions were implemented in the TNM classification. The recently published ninth edition represents a tremendous effort of the Staging and Prognostic Factors Group of the International Association for the Study of Lung Cancer to analyze worldwide survival data and to validate the proposed changes in newly designed categories. Complete resection of a lung cancer remains an underestimated but important prognostic factor, and current attention is directed to technical resectability within multimodality therapy for locoregional advanced lung cancer. Integration of surgery within protocols of neoadjuvant, adjuvant, and perioperative therapies is further evaluated to determine the optimal therapeutic strategy. For smaller lesions less than or equal to 2 cm, sublobar resection, comprising segmentectomy and wide wedge excision, has been proven to be an alternative to lobectomy in specific subgroups. In the last 20 years, minimally invasive techniques have been introduced to provide new approaches to the thoracic cavity, especially for early stage lung cancer. Interventions performed by video- or robotic-assisted thoracic surgery are associated with a clear clinical benefit without compromising oncologic outcome. The role of thoracic surgery for resectable lung cancer cases has been firmly established, and surgery has become an integral part of multimodality therapy, but undoubtedly, further refinements will be made in the forthcoming 20 years!"
+    },
+    {
+      "pmid": "41487977",
+      "doi": "10.1002/ccr3.71811",
+      "title": "Case Report of Acute Central Airway Obstruction Induced by Anti-PD-1 Sintilimab: Clinical Presentation and Review.",
+      "journal": "Clinical case reports",
+      "pubdate": "2026-01-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ccr3.71811",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41487977/",
+      "url_doi": "https://doi.org/10.1002/ccr3.71811",
+      "abstract": "Immune checkpoint inhibitors (ICIs), such as sintilimab, have revolutionized non-small cell lung cancer (NSCLC) treatment but can trigger immune-related adverse events (irAEs). While pneumonitis is well documented, central airway obstruction (CAO) due to immune-mediated necrosis is an extremely rare and life-threatening phenotype that poses significant diagnostic challenges. A patient with recurrent squamous cell carcinoma of the lung achieved partial remission after two cycles of sintilimab combined with chemotherapy. However, 48 h after the third cycle, the patient developed acute, severe dyspnea and hypoxemia. Emergency bronchoscopy revealed extensive necrotic material occluding the right main bronchus and carina. Pathological analysis indicated lymphocytic infiltration with necrosis, while microbiological tests were negative for pathogens. Given the temporal relationship, exclusion of alternative etiologies, and response to corticosteroids, the event was considered"
     },
     {
       "pmid": "41380462",
@@ -758,26 +799,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/40976544/",
       "url_doi": "https://doi.org/10.1016/j.jtcvs.2025.09.017",
       "abstract": "BACKGROUND: Five-year disease recurrence rates for patients with stage I non-small cell lung cancer (NSCLC) postsurgery are variable (15%-40%). There is an urgent need for novel biomarker strategies to identify high-risk patients who may benefit from adjuvant treatment. High-risk pathologic features, including high-grade histology and lymphovascular or visceral pleural invasion, serve as independent risk factors for worse outcomes. Preoperative circulating tumor DNA (ctDNA) detection is also correlated with poorer outcomes in stage I NSCLC. Datopotamab deruxtecan (Dato-DXd), an antibody-drug conjugate composed of a humanized anti-TROP2 antibody conjugated to a potent topoisomerase I inhibitor via a plasma-stable linker, and rilvegostomig, an Fc-reduced monovalent bispecific humanized IgG1 antibody targeting both PD-1 and TIGIT receptors, have shown promise in NSCLC studies. Combining Dato-DXd with rilvegostomig may improve treatment outcomes in selected patients with stage I NSCLC.\n\nMETHODS: TROPION-Lung12 (NCT06564844) is a phase 3 randomized study enrolling approximately 660 patients with stage I adenocarcinoma without actionable genomic alterations who have undergone complete surgical resection. Eligible patients must have preoperative ctDNA-positive status or 1 or more high-risk pathologic features. Patients will be randomized 2:1:2 to receive Dato-DXd (6 mg/kg intravenously [IV] every 3 weeks) plus rilvegostomig (750 mg IV every 3 weeks) for 4 cycles, followed by rilvegostomig (up to 12 months/18 cycles total), rilvegostomig alone (up to 12 months/18 cycles total), or standard of care (SoC) for up to 12 months. The primary endpoint is disease-free survival, assessed using blinded independent central review according to RECIST v1.1, with key secondary endpoints including overall survival, for the Dato-DXd plus rilvegostomig arm versus the SoC arm."
-    },
-    {
-      "pmid": "41466596",
-      "doi": "10.1080/14796694.2025.2610171",
-      "title": "The first United Arab Emirates expert consensus recommendations for the diagnosis and management of early and advanced non-small cell lung cancer.",
-      "journal": "Future oncology (London, England)",
-      "pubdate": "2025-12-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41466596/",
-      "url_doi": "https://doi.org/10.1080/14796694.2025.2610171",
-      "abstract": "Lung cancer is the first cause of mortality and the third most common cancer worldwide. In the United Arab Emirates (UAE), lung cancer ranks third in terms of cancer-related mortality and sixth in terms of incidence. In order to strengthen and to improve the management of this cancer in the UAE, a panel of 15 oncologist and pathologist experts in the field of lung cancer developed the first UAE consensus recommendations for the diagnosis and management of early and advanced lung cancer. A total of thirty-three, statements were drafted, discussed, and voted on, using a modified Delphi process. This consensus meeting acts as a cornerstone for the management of cancers in the UAE and highlights the importance of optimized, evidence-based, and patient-centered practices."
     }
   ]
 }
