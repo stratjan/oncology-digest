@@ -1,6 +1,26 @@
 {
-  "generated": "2026-01-06T05:23:40.238856Z",
+  "generated": "2026-01-07T05:23:13.586764Z",
   "items": [
+    {
+      "pmid": "41491099",
+      "doi": "10.1038/s41591-025-04060-4",
+      "title": "AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer.",
+      "journal": "Nature medicine",
+      "pubdate": "2026-01-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41591-025-04060-4",
+      "metric_name": "SJR",
+      "metric_value": 18.333,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41491099/",
+      "url_doi": "https://doi.org/10.1038/s41591-025-04060-4",
+      "abstract": "Spatial proteomics enables high-resolution mapping of protein expression and can transform our understanding of biology and disease. However, major challenges remain for clinical translation, including cost, complexity and scalability. Here we present H&E to protein expression (HEX), an AI model designed to computationally generate spatial proteomics profiles from standard histopathology slides. Trained and validated on 819,000 histopathology image tiles with matched protein expression from 382 tumor samples, HEX accurately predicts the expression of 40 biomarkers encompassing immune, structural and functional programs. HEX demonstrates substantial performance gains over alternative methods for protein expression prediction from H&E images. We develop a multimodal data integration approach that combines the original H&E image and AI-derived virtual spatial proteomics to enhance outcome prediction. Applied to six independent non-small-cell lung cancer cohorts totaling 2,298 patients, HEX-enabled multimodal integration improved prognostic accuracy by 22% and immunotherapy response prediction by 24-39% compared with conventional clinicopathological and molecular biomarkers. Biological interpretation revealed spatially organized tumor-immune niches predictive of therapeutic response, including the co-localization of T helper cells and cytotoxic T cells in responders, and immunosuppressive tumor-associated macrophage and neutrophil aggregates in non-responders. HEX provides a low-cost and scalable approach to study spatial biology and enables the discovery and clinical translation of interpretable biomarkers for precision medicine."
+    },
     {
       "pmid": "41482562",
       "doi": "10.1038/s41591-025-04042-6",
@@ -42,24 +62,24 @@
       "abstract": "BACKGROUND: Although the incidence of several cancers diagnosed before age 50 years has increased, contemporary trends in early-onset lung cancer remain poorly defined, particularly across histologic and sociodemographic subgroups.\n\nMETHODS: A population-based cohort study was conducted via Surveillance, Epidemiology, and End Results 22 Program registries of 81,568 individuals diagnosed with lung cancer at age 20-49 years from 2000 to 2021. Age-adjusted incidence rates and annual percent change (APC) were estimated via National Cancer Institute Joinpoint regression. Overall trends were stratified by histology, sex, race/ethnicity, and state-level smoking prevalence.\n\nRESULTS: From 2000 to 2021, early-onset lung cancer incidence declined overall (average APC, -3.81%; 95% CI, -4.01% to -3.64%; p < .0001), which contrasts with rising early-onset colorectal and female breast cancers. Declines among females occurred later but were steeper for lung adenocarcinoma (LUAD; -5.14% vs. -2.82%), whereas males declined faster for non-small cell lung cancer (NSCLC) and overall. Female declines were slower relative to males in Hispanic and non-Hispanic (NH) Black individuals (2.3- and 1.08-fold difference, respectively), whereas NH White females declined 1.3-fold faster than males. Among Asian females, NSCLC incidence did not decline, and LUAD increased through 2017 (+2.45%) and remained stable in Hispanic females. In high-smoking states, male rates declined steadily (-4.32%), whereas female rates were stable until 2010, then dropped sharply, and converged with males by 2021. In low-smoking states, male rates declined 48.75% faster than female rates (-4.76% vs. -3.20%).\n\nCONCLUSIONS: Early-onset lung cancer incidence declined overall from 2000 to 2021, except for persistent or rising LUAD among Asian and Hispanic females, which implicates emerging non-tobacco risk factors and highlights the need for targeted prevention."
     },
     {
-      "pmid": "41474069",
-      "doi": "10.1002/ijc.70265",
-      "title": "Five-year outcomes of pembrolizumab versus chemotherapy in Chinese patients with non-small-cell lung cancer and programmed cell death ligand 1 tumor proportion score ≥1%: KEYNOTE-042 China study.",
-      "journal": "International journal of cancer",
-      "pubdate": "2025-12-31T00:00:00+00:00",
+      "pmid": "41491679",
+      "doi": "10.1186/s12885-025-15509-7",
+      "title": "Patient preference for first-line treatments of ALK-positive metastatic non-small cell lung cancer: a discrete choice experiment.",
+      "journal": "BMC cancer",
+      "pubdate": "2026-01-05T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "Thoracic-other",
+      "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.70265",
+      "oa_url": "https://doi.org/10.1186/s12885-025-15509-7",
       "metric_name": "SJR",
-      "metric_value": 2.252,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41474069/",
-      "url_doi": "https://doi.org/10.1002/ijc.70265",
-      "abstract": "In the phase 3 KEYNOTE-042 China study of participants enrolled in China in the global KEYNOTE-042 (NCT02220894) and China extension (NCT03850444) studies, pembrolizumab improved overall survival (OS) versus chemotherapy in locally advanced or metastatic non-small-cell lung cancer (NSCLC) with programmed cell death ligand 1 (PD-L1) tumor proportion score (TPS) ≥50% (hazard ratio [HR], 0.63; 95% CI, 0.43-0.94), ≥20% (0.66; 0.47-0.92), and ≥1% (0.67; 0.50-0.89). We present outcomes from this study after 5 years of follow-up. Chinese participants with previously untreated locally advanced or metastatic NSCLC with PD-L1 TPS ≥1% without EGFR or ALK alterations were eligible. Participants were randomized 1:1 to pembrolizumab 200 mg every 3 weeks for up to 35 cycles or carboplatin plus paclitaxel or pemetrexed with optional pemetrexed maintenance (nonsquamous only). Primary endpoints were OS in the PD-L1 TPS ≥50%, ≥20%, and ≥1% subgroups. Median follow-up was 63.7 (range, 56.3-72.6) months among 262 participants (pembrolizumab, n = 128; chemotherapy, n = 134) included in this study. Pembrolizumab prolonged OS versus chemotherapy in participants with PD-L1 TPS ≥50% (HR, 0.65; 95% CI, 0.45-0.93), ≥20% (0.67; 0.49-0.91), and ≥1% (0.66; 0.51-0.87). Grade 3 to 5 treatment-related AEs occurred in 19.5% and 68.8% of participants in the pembrolizumab and chemotherapy groups, respectively. In conclusion, after 5 years of follow-up, pembrolizumab continued to demonstrate improved OS versus chemotherapy with manageable safety in Chinese participants with previously untreated locally advanced or metastatic NSCLC that expressed PD-L1. These data further support pembrolizumab monotherapy as a standard of care for these patients."
+      "metric_value": 1.178,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41491679/",
+      "url_doi": "https://doi.org/10.1186/s12885-025-15509-7",
+      "abstract": null
     },
     {
       "pmid": "41288932",
