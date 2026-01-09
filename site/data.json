@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-08T05:23:23.081392Z",
+  "generated": "2026-01-09T05:24:01.858282Z",
   "items": [
     {
       "pmid": "41491099",
@@ -22,24 +22,44 @@
       "abstract": "Spatial proteomics enables high-resolution mapping of protein expression and can transform our understanding of biology and disease. However, major challenges remain for clinical translation, including cost, complexity and scalability. Here we present H&E to protein expression (HEX), an AI model designed to computationally generate spatial proteomics profiles from standard histopathology slides. Trained and validated on 819,000 histopathology image tiles with matched protein expression from 382 tumor samples, HEX accurately predicts the expression of 40 biomarkers encompassing immune, structural and functional programs. HEX demonstrates substantial performance gains over alternative methods for protein expression prediction from H&E images. We develop a multimodal data integration approach that combines the original H&E image and AI-derived virtual spatial proteomics to enhance outcome prediction. Applied to six independent non-small-cell lung cancer cohorts totaling 2,298 patients, HEX-enabled multimodal integration improved prognostic accuracy by 22% and immunotherapy response prediction by 24-39% compared with conventional clinicopathological and molecular biomarkers. Biological interpretation revealed spatially organized tumor-immune niches predictive of therapeutic response, including the co-localization of T helper cells and cytotoxic T cells in responders, and immunosuppressive tumor-associated macrophage and neutrophil aggregates in non-responders. HEX provides a low-cost and scalable approach to study spatial biology and enables the discovery and clinical translation of interpretable biomarkers for precision medicine."
     },
     {
-      "pmid": "41482562",
-      "doi": "10.1038/s41591-025-04042-6",
-      "title": "Generative AI-based low-dose digital subtraction angiography for intra-operative radiation dose reduction: a randomized controlled trial.",
-      "journal": "Nature medicine",
-      "pubdate": "2026-01-02T00:00:00+00:00",
+      "pmid": "41507539",
+      "doi": "10.1038/s43018-025-01104-z",
+      "title": "Clinical outcomes with perioperative nivolumab by nodal status in patients with stage III resectable NSCLC: phase 3 CheckMate 77T exploratory analysis.",
+      "journal": "Nature cancer",
+      "pubdate": "2026-01-08T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "Other",
+      "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Preclinical",
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 18.333,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41482562/",
-      "url_doi": "https://doi.org/10.1038/s41591-025-04042-6",
-      "abstract": "Digital subtraction angiography (DSA) devices guide procedures across numerous diseases, performed on more than 100,000 patients daily worldwide. However, these procedures expose patients and healthcare providers to radiation, increasing the risk of health issues. Despite many low-dose DSA imaging methods proposed, none have been prospectively clinically validated. In this study, 46,829 patients (over 5 million DSA images) from 70 centers were used to iterate our previously developed generative artificial intelligence system (named GenDSA-V2). A total of 1,068 patients (533 in intervention arm and 535 in control arm), with suspected cerebral aneurysms (n = 435), lung cancer (n = 417) or advanced liver cancer (n = 216), meeting surgical criteria, were enrolled to validate the GenDSA-V2. The primary outcome was radiation dose, while secondary outcomes included efficiency, operation time and intraoperative complications. Group assignments were blinded to patients, surgeons and investigators, while technicians were aware but not involved in data collection or analysis. The GenDSA-V2 group showed substantially reduced radiation exposure, with an air kerma (AK) of 151.3 ± 125.1 mGy compared to 457.4 ± 407.4 mGy in the standard clinical protocols (SCP) group (mean difference = -306.1 mGy, 95% confidence interval (CI) = -342.3 to -269.9, P < 0.001 for superiority) and a dose-area product (DAP) of 4009.7 ± 2767.9 μGy m"
+      "metric_value": 11.941,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41507539/",
+      "url_doi": "https://doi.org/10.1038/s43018-025-01104-z",
+      "abstract": "Individuals with non-small-cell lung cancer (NSCLC) with metastases to the ipsilateral mediastinum or subcarinal lymph nodes (N2 disease) have poor long-term survival. This exploratory analysis from the randomized phase 3 CheckMate 77T study assessed clinical outcomes by nodal status in individuals with stage III NSCLC who received neoadjuvant nivolumab plus chemotherapy followed by surgery and adjuvant nivolumab (nivolumab) versus neoadjuvant chemotherapy followed by surgery and adjuvant placebo (placebo). Here we show that among patients with N2 disease, nivolumab versus placebo improved event-free survival (1-year rate, 70% versus 45%; hazard ratio, 0.46 (95% confidence interval, 0.30-0.70)) and pathological complete response rate (22.0% versus 5.6%); 77% versus 73% had definitive surgery, of whom 84% versus 74% received a simple lobectomy. Furthermore, nivolumab improved outcomes versus placebo in patients with multistation N2 NSCLC (1-year event-free survival rate: 71% versus 46%; hazard ratio, 0.43 (0.21-0.88); pathological complete response rate, 29.0% versus 2.7%). In the N2 subgroup with definitive surgery, 67% and 59% of patients had nodal downstaging after surgery (57% versus 44% downstaged to node-negative disease). Median EFS in randomized patients with stage III non-N2 NSCLC was not reached with nivolumab and 17.0 months with placebo (1-year EFS rate, 74% versus 62%; hazard ratio, 0.60 (0.33-1.08)). No new safety signals were identified. These findings support perioperative nivolumab plus neoadjuvant chemotherapy as an efficacious treatment for stage III N2 disease and suggest that N2 status may not predict poor prognosis in resectable NSCLC treated with perioperative immunotherapy. ClinicalTrials.gov identifier: NCT04025879 ."
+    },
+    {
+      "pmid": "41506440",
+      "doi": "10.1016/j.canlet.2025.218229",
+      "title": "Automated CT-derived Body Composition Predicts Pathologic Response to Neoadjuvant Immunotherapy in Non-Small Cell Lung Cancer.",
+      "journal": "Cancer letters",
+      "pubdate": "2026-01-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 2.756,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41506440/",
+      "url_doi": "https://doi.org/10.1016/j.canlet.2025.218229",
+      "abstract": "Tumor-intrinsic biomarkers alone insufficiently predict pathological complete response (pCR) to neoadjuvant immunochemotherapy (NICT) in non-small cell lung cancer (NSCLC). Artificial intelligence (AI)-based three-dimensional CT-derived body composition may provide complementary predictive value. We evaluated its association with pCR following NICT in NSCLC. This multicenter retrospective study of NSCLC patients treated with NICT in China between July 2019 and July 2024. Pre- and post-treatment CT scans were used for automated T1-T12 localization and volumetric body composition segmentation. Metrics included skeletal muscle, intermuscular, visceral, and subcutaneous adipose volume index (SAVI), and their percentage changes between scans. Among 657 patients (mean age, 61.3 years; 87.4% men), pCR rates were 39.7% (training), 38.4% (internal validation), and 34.9% (external validation). In multivariable analysis, high baseline skeletal muscle volume index (SMVI) was independently associated with pCR (OR= 2.22). During NICT, each 1% relative increase in SMVI was associated with a 16% higher likelihood of pCR (OR= 1.16), whereas every 10% relative increase in SAVI improved pCR probability (OR= 1.56). A machine learning model integrating clinical variables, baseline SMVI, %ΔSMVI, and %ΔSAVI demonstrated significantly better discrimination than models using clinical variables alone (p <0.05) in all cohorts. The performance was observed in the internal and external validation cohorts, with sensitivities of 62.1% and 52.8%, and specificities of 66.7% and 74.7%, respectively. AI-based CT-derived body composition quantification, particularly baseline SMVI and dynamic changes in SMVI and SAVI during NICT, are independently associated with pCR in NSCLC. Incorporating these modifiable biomarkers into predictive models improves performance beyond clinical variables alone."
     },
     {
       "pmid": "41491679",
@@ -60,6 +80,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41491679/",
       "url_doi": "https://doi.org/10.1186/s12885-025-15509-7",
       "abstract": null
+    },
+    {
+      "pmid": "41506892",
+      "doi": "10.1093/icvts/ivag012",
+      "title": "Patient Advocacy in transforming Surgical Lung Cancer Care in Europe.",
+      "journal": "Interdisciplinary cardiovascular and thoracic surgery",
+      "pubdate": "2026-01-08T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.482,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41506892/",
+      "url_doi": "https://doi.org/10.1093/icvts/ivag012",
+      "abstract": "OBJECTIVES: To provide a European-focused overview of the role of patient advocacy groups in shaping surgical lung cancer care, highlighting their contributions to multidisciplinary care, equitable access, psycho-social support, and patient-centred research.\n\nMETHODS: We conducted a narrative review of the major European and national lung cancer advocacy organisations, integrating perspectives from patient leaders and thoracic surgeons. The analysis focused on initiatives directly impacting thoracic surgery and perioperative care, with attention to education, prevention, survivorship, and research advocacy.\n\nRESULTS: Multiple advocacy organisations have significantly influenced lung cancer care with relevance to surgery. Oncogene Cancer Research (UK) promotes transparent information and shared decision-making around surgical options across all disease stages. Women Against Lung Cancer in Europe (WALCE) delivers large-scale initiatives such as EPROPA, expanding molecular testing and psycho-social support across several European countries. The Israeli Lung Cancer Foundation secured national low-dose CT screening and mandatory multidisciplinary team review for early-stage patients. In Greece, FairLife launched the BREATH program, providing structured psycho-social support integrated with surgical pathways. Longkanker Nederland advances shared decision-making through national decision aids, patient-reported outcomes, and guideline development. ALK Positive UK develops tailored education for patients and clinicians, addressing the impact of biomarker status on surgical pathways. At the European level, Lung Cancer Europe (LuCE) drives large-scale surveys, awareness campaigns, and collaborations with ESTS to embed patient perspectives into surgical discussions.\n\nCONCLUSIONS: Patient advocacy is increasingly shaping thoracic surgery in Europe, bridging gaps in communication, equity, and research. By collaborating with advocacy organisations, surgeons can deliver more integrated, communicative, and patient-centred care, ensuring that surgical innovation aligns with the lived experiences and priorities of patients."
     },
     {
       "pmid": "41192526",
@@ -123,6 +163,27 @@
       "abstract": "BACKGROUND: Unless greater awareness inspires action, lung cancer will become the next global public health emergency. Despite improvements in screening, diagnosis, and treatments, more must be done because global incidence continues to increase. Concerted action must address the burden both between and within countries. Inequalities result from the uneven distribution of resources while inequities result from differences in prevention, screening, diagnosis, and treatment.\n\nMETHOD: Participants in the 9th International Lung Cancer Network conference (Athens, June 2023) received an advanced draft of the declaration with a confidentiality notice by email upon completion of online registration. They were invited to provide comments and suggestions up to seven days before the meeting. All contributions were reviewed by the authors and incorporated into the final version circulated the day before the meeting began. Although not a formal Delphi-style process, this approach prioritized inclusivity, transparency, and broad endorsement. Outreach extended beyond onsite attendees, ensuring diverse perspectives and representation. This process complements methodological consensus approaches by uniting stakeholders around shared policy goals.\n\nRESULTS: At the 9th International Lung Cancer Network conference, participants were invited to sign the final declaration, and 785 did so. Since then, 20 organizations worldwide have formally endorsed the Consensus Statement, and support continues to grow. The inclusive design has fostered broad and sustained backing, underscoring the value of the Statement as a unifying policy declaration advancing shared principles.\n\nCONCLUSION: The Consensus Statement, Bridging the Gap in the Diagnosis and Management of Lung Cancer, reinforces five unifying principles: improve and expand prevention; focus on early detection; ensure equitable and sustainable access to treatment; build partnerships and promote investment; and, combat stigma, recognizing it as a social determinant of public health."
     },
     {
+      "pmid": "41501152",
+      "doi": "10.1038/s41571-025-01112-z",
+      "title": "A guide to cancer screening.",
+      "journal": "Nature reviews. Clinical oncology",
+      "pubdate": "2026-01-07T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41501152/",
+      "url_doi": "https://doi.org/10.1038/s41571-025-01112-z",
+      "abstract": "The aim of cancer screening is to identify pre-malignant conditions, which can be removed or treated, or earlier-stage disease, for which treatment is more likely to be curative, in non-symptomatic individuals. Currently, screening programmes are being consolidated for five cancer types (breast, prostate, cervical, colorectal and lung) and several other cancer types are the focus of specific initiatives. Cancer screening is at a point of potential major transformation owing to technological advances in detection. In this Review, we first recapitulate the general principles of cancer screening. We then provide a timely overview of the current screening practices for breast, cervical, colorectal, prostate and lung cancer, addressing major challenges and potential future changes in practice. We also discuss other malignancies for which screening initiatives might be worth considering. Finally, we highlight technological developments in cancer detection that might hold promise for screening an increasing number of cancers in the future, notably some that reflect unmet needs."
+    },
+    {
       "pmid": "41499719",
       "doi": "10.1200/JCO-25-03012",
       "title": "Erratum: Simultaneous Durvalumab and Platinum-Based Chemoradiotherapy in Unresectable Stage III Non-Small Cell Lung Cancer: The Phase III PACIFIC-2 Study.",
@@ -142,6 +203,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41499719/",
       "url_doi": "https://doi.org/10.1200/JCO-25-03012",
       "abstract": null
+    },
+    {
+      "pmid": "41428442",
+      "doi": "10.1093/ejcts/ezaf467",
+      "title": "Impact of Lymph Node Metastasis Patterns on Long-Term Survival in Upper Lobe Non-Small Cell Lung Cancer.",
+      "journal": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+      "pubdate": "2026-01-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41428442/",
+      "url_doi": "https://doi.org/10.1093/ejcts/ezaf467",
+      "abstract": "OBJECTIVES: While treatment strategies for non-small cell lung cancer (NSCLC) continue to evolve, the prognostic implications of lymph node metastasis patterns in upper lobe tumours remain inadequately defined. This study investigated whether tumour laterality and specific nodal stations involved in N2a disease correlate with long-term survival in patients undergoing surgical resection for upper lobe NSCLC.\n\nMETHODS: This retrospective single-centre study included patients with stage I-IIIB upper lobe NSCLC who underwent anatomical resection with systematic lymph node dissection from January 2010 to December 2022. Patients were stratified by tumour laterality and nodal involvement, with specific analysis of N2a subgroups based on lymph node station. Propensity score matching, Kaplan-Meier survival analysis, and log-rank testing were used to compare survival outcomes.\n\nRESULTS: Of 3313 patients considered, 2028 met the prespecified inclusion criteria (right: n = 1212; left: n = 816). Mean age was 65.7 ± 9.4 years; 61.7% were male. Median overall survival (OS) was similar for right- and left-sided N0 and N1 tumours. Significant differences emerged among N2a subgroups: Patients with left-sided skip metastases to LN5/6 had markedly improved OS (66.2 ± 14.9 months) versus right-sided LN2/4 (35.3 ± 8.5 months; P = .047). Outcomes of left-sided N2a1 LN5/6 were also more favourable than LN7-9 (37.7 ± 15.2 months; P = .023) and showed better OS than left-sided N1 disease (47.6 ± 4.2 months; P = .284).\n\nCONCLUSIONS: Positive nodal station and tumour laterality significantly impact survival in upper lobe NSCLC. Skip metastases to LN5/6 in left-sided tumours were linked to more favourable prognosis and may warrant inclusion in future TNM classification refinements."
     },
     {
       "pmid": "41494984",
@@ -182,26 +263,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41484568/",
       "url_doi": "https://doi.org/10.1007/s12094-025-04152-0",
       "abstract": "PURPOSE: No targeted therapy combinations have achieved regulatory approval for the treatment of biomarker-positive resistance in non-small cell lung cancer (NSCLC). Given the widespread availability of next-generation sequencing (NGS) to detect resistance, we reviewed the real-world experience of using off-label targeted therapy combinations to treat advanced NSCLC at our academic safety-net hospital.\n\nMETHODS: Pharmacy records from the Hematology/Oncology Department at Boston Medical Center during the years 2017 to 2024 were reviewed. One hundred eleven patients received oral, targeted therapy during this time. Our study focused on those patients who received an off-label combination of targeted therapies for advanced NSCLC. We reviewed their demographics, treatment history, molecular data, and published evidence to support the combination.\n\nRESULTS: Eight patients were treated with nine combination regimens. The median age was 69 years (age 29-89 years). Six patients had EGFR exon 19 deletions and two had EML4-ALK fusions. The nine combination regimens included addition of a MET inhibitor (n = 3), a RET inhibitor (n = 2), a MEK inhibitor (n = 2), an ALK inhibitor (n = 1), and an EGFR antibody (n = 1). The median duration of treatment was 7 months (range: 1-35 months), and was longest for alectinib and capmatinib (15 months ongoing and 25 months, ongoing) and gefitinib and selpercatinib (35 months, ongoing). Available supporting evidence included retrospective cohort studies (n = 5), published case reports/series (n = 2), and a prospective cohort study (n = 1).\n\nCONCLUSION: Off-label combination therapy to treat targeted therapy resistance in advanced NSCLC is feasible in routine clinical practice. Additional real-world evidence is needed to clarify best practices with this emerging approach."
-    },
-    {
-      "pmid": "41487977",
-      "doi": "10.1002/ccr3.71811",
-      "title": "Case Report of Acute Central Airway Obstruction Induced by Anti-PD-1 Sintilimab: Clinical Presentation and Review.",
-      "journal": "Clinical case reports",
-      "pubdate": "2026-01-02T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ccr3.71811",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41487977/",
-      "url_doi": "https://doi.org/10.1002/ccr3.71811",
-      "abstract": "Immune checkpoint inhibitors (ICIs), such as sintilimab, have revolutionized non-small cell lung cancer (NSCLC) treatment but can trigger immune-related adverse events (irAEs). While pneumonitis is well documented, central airway obstruction (CAO) due to immune-mediated necrosis is an extremely rare and life-threatening phenotype that poses significant diagnostic challenges. A patient with recurrent squamous cell carcinoma of the lung achieved partial remission after two cycles of sintilimab combined with chemotherapy. However, 48 h after the third cycle, the patient developed acute, severe dyspnea and hypoxemia. Emergency bronchoscopy revealed extensive necrotic material occluding the right main bronchus and carina. Pathological analysis indicated lymphocytic infiltration with necrosis, while microbiological tests were negative for pathogens. Given the temporal relationship, exclusion of alternative etiologies, and response to corticosteroids, the event was considered"
     }
   ]
 }
