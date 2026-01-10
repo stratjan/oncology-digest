@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-09T05:24:01.858282Z",
+  "generated": "2026-01-10T05:19:26.985049Z",
   "items": [
     {
       "pmid": "41491099",
@@ -82,67 +82,6 @@
       "abstract": null
     },
     {
-      "pmid": "41506892",
-      "doi": "10.1093/icvts/ivag012",
-      "title": "Patient Advocacy in transforming Surgical Lung Cancer Care in Europe.",
-      "journal": "Interdisciplinary cardiovascular and thoracic surgery",
-      "pubdate": "2026-01-08T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 0.482,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41506892/",
-      "url_doi": "https://doi.org/10.1093/icvts/ivag012",
-      "abstract": "OBJECTIVES: To provide a European-focused overview of the role of patient advocacy groups in shaping surgical lung cancer care, highlighting their contributions to multidisciplinary care, equitable access, psycho-social support, and patient-centred research.\n\nMETHODS: We conducted a narrative review of the major European and national lung cancer advocacy organisations, integrating perspectives from patient leaders and thoracic surgeons. The analysis focused on initiatives directly impacting thoracic surgery and perioperative care, with attention to education, prevention, survivorship, and research advocacy.\n\nRESULTS: Multiple advocacy organisations have significantly influenced lung cancer care with relevance to surgery. Oncogene Cancer Research (UK) promotes transparent information and shared decision-making around surgical options across all disease stages. Women Against Lung Cancer in Europe (WALCE) delivers large-scale initiatives such as EPROPA, expanding molecular testing and psycho-social support across several European countries. The Israeli Lung Cancer Foundation secured national low-dose CT screening and mandatory multidisciplinary team review for early-stage patients. In Greece, FairLife launched the BREATH program, providing structured psycho-social support integrated with surgical pathways. Longkanker Nederland advances shared decision-making through national decision aids, patient-reported outcomes, and guideline development. ALK Positive UK develops tailored education for patients and clinicians, addressing the impact of biomarker status on surgical pathways. At the European level, Lung Cancer Europe (LuCE) drives large-scale surveys, awareness campaigns, and collaborations with ESTS to embed patient perspectives into surgical discussions.\n\nCONCLUSIONS: Patient advocacy is increasingly shaping thoracic surgery in Europe, bridging gaps in communication, equity, and research. By collaborating with advocacy organisations, surgeons can deliver more integrated, communicative, and patient-centred care, ensuring that surgical innovation aligns with the lived experiences and priorities of patients."
-    },
-    {
-      "pmid": "41192526",
-      "doi": "10.1016/j.cellsig.2025.112211",
-      "title": "RIPK2/STAT3 signaling axis drives lung cancer metastasis through SNAIL activation: Molecular mechanisms and clinical implications.",
-      "journal": "Cellular signalling",
-      "pubdate": "2026-02-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
-      "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
-      "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
-    },
-    {
-      "pmid": "41389771",
-      "doi": "10.1016/j.ejca.2025.116165",
-      "title": "Long-term outcomes of preoperative nivolumab with or without relatlimab in patients with resectable non-small-cell lung cancer (NEOpredict-Lung).",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2026-01-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "RCT",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://www.ejcancer.com/article/S0959-8049(25)01051-2/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41389771/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116165",
-      "abstract": "BACKGROUND: Preoperative immunotherapy targeting PD-1/-L1 with chemotherapy induces histopathological responses and improves survival in patients with resectable non-small cell lung cancer (NSCLC). NEOpredict-Lung (NCT04205552) established the feasibility of dual blockade of PD-1 and LAG-3 immune checkpoints prior to curatively intended resection. Here we report extended follow-up, postoperative treatments and patterns of response and recurrence.\n\nPATIENTS AND METHODS: Patients with resectable NSCLC (stages IB-IIIA) were randomized to receive two doses nivolumab (240 mg, arm A) with or without relatlimab (80 mg, arm B) every 2 weeks. Overall and disease-free survival (OS, DFS) rates, response and recurrence patterns and subsequent therapies were evaluated.\n\nRESULTS: 60 patients were enrolled from March 2020 to July 2022. The present analysis was conducted per December 2024 with a median follow-up of 37.4 months. 45 patients were alive without disease recurrence,15 patients recurred (4 locoregional and 11 metastatic), and 7 patients died. The 3-year OS and DFS rates were 88.4 % and 73.3 % in arm A and 88.9 % and 60.3 % in arm B. Patients achieving major pathological response (≤10 % viable tumor cells in resected NSCLC) trended towards better DFS (HR 0.35; 95 % CI, 0.1-1.19). Downstaging was confirmed in 53.3 % of patients in arm A and in 66.7 % of patients in arm B. Nodal downstaging occurred in 28.6 % of patients with nodal disease in arm A and in 66.7 % of patients in arm B.\n\nCONCLUSIONS: Short course preoperative nivolumab with or without relatlimab showed encouraging efficacy and survival outcomes, which compare favorably with chemo-immunotherapy-based perioperative treatment regimens."
-    },
-    {
       "pmid": "41421886",
       "doi": "10.1016/j.ejca.2025.116069",
       "title": "Bridging the gap in lung cancer: A comprehensive global strategy for change.",
@@ -205,26 +144,6 @@
       "abstract": null
     },
     {
-      "pmid": "41428442",
-      "doi": "10.1093/ejcts/ezaf467",
-      "title": "Impact of Lymph Node Metastasis Patterns on Long-Term Survival in Upper Lobe Non-Small Cell Lung Cancer.",
-      "journal": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
-      "pubdate": "2026-01-06T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41428442/",
-      "url_doi": "https://doi.org/10.1093/ejcts/ezaf467",
-      "abstract": "OBJECTIVES: While treatment strategies for non-small cell lung cancer (NSCLC) continue to evolve, the prognostic implications of lymph node metastasis patterns in upper lobe tumours remain inadequately defined. This study investigated whether tumour laterality and specific nodal stations involved in N2a disease correlate with long-term survival in patients undergoing surgical resection for upper lobe NSCLC.\n\nMETHODS: This retrospective single-centre study included patients with stage I-IIIB upper lobe NSCLC who underwent anatomical resection with systematic lymph node dissection from January 2010 to December 2022. Patients were stratified by tumour laterality and nodal involvement, with specific analysis of N2a subgroups based on lymph node station. Propensity score matching, Kaplan-Meier survival analysis, and log-rank testing were used to compare survival outcomes.\n\nRESULTS: Of 3313 patients considered, 2028 met the prespecified inclusion criteria (right: n = 1212; left: n = 816). Mean age was 65.7 ± 9.4 years; 61.7% were male. Median overall survival (OS) was similar for right- and left-sided N0 and N1 tumours. Significant differences emerged among N2a subgroups: Patients with left-sided skip metastases to LN5/6 had markedly improved OS (66.2 ± 14.9 months) versus right-sided LN2/4 (35.3 ± 8.5 months; P = .047). Outcomes of left-sided N2a1 LN5/6 were also more favourable than LN7-9 (37.7 ± 15.2 months; P = .023) and showed better OS than left-sided N1 disease (47.6 ± 4.2 months; P = .284).\n\nCONCLUSIONS: Positive nodal station and tumour laterality significantly impact survival in upper lobe NSCLC. Skip metastases to LN5/6 in left-sided tumours were linked to more favourable prognosis and may warrant inclusion in future TNM classification refinements."
-    },
-    {
       "pmid": "41494984",
       "doi": "10.1093/ejcts/ezag008",
       "title": "Financial burden of postoperative adverse events following lobectomy: Cost analysis from 10 high volume Canadian hospitals.",
@@ -243,26 +162,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41494984/",
       "url_doi": "https://doi.org/10.1093/ejcts/ezag008",
       "abstract": "OBJECTIVES: Lobectomy remains a cornerstone of curative intent treatment for lung cancer; however, postoperative adverse events remain common, harmful and costly. To support value-based quality improvement programs, we sought to estimate the in-hospital costs of adverse events following lobectomy and identify which complications are the primary cost drivers.\n\nMETHODS: Lobectomy data from 10 Canadian hospitals were included (2017-2022). Annual lobectomy volume, demographics, length of stay, incidence and severity of adverse events were obtained from a prospectively collected national database. Using literature-derived index hospitalization costs of adverse events, supported by Canadian Institution of Health Information database, estimates of annual AE costs were obtained (2025 CDN$).\n\nRESULTS: Mean annual lobectomy volume 1150 (SD = 165): 44% male, aged 67 years (SD = 10.9), median length of stay of 4 days (IQR = 4), with minimally invasive surgery performed in 86%. Prolonged Air Leak contributed 51% of total adverse events occurrences, followed by atrial arrhythmia (13%), pneumonia (7.9%), reoperation (5.2%), atelectasis (3.9%), delirium (3.4%), transfusion (2.8%), respiratory failure (2.8%), empyema (2.2%), acute kidney injury (1.7%), and pulmonary embolism (1.2%), adding over $7.31 million (M) to hospital-level costs. Prolonged Air Leak, mean annual incidence of 17%, was the strongest driver of costs. Extrapolated nationally, lobectomy-related adverse events are estimated to contribute over $48 million in excess annual costs.\n\nCONCLUSIONS: Postoperative adverse events following lobectomy impose substantial financial burdens, with Prolonged Air Leak alone accounting for more than half of total costs. These findings underscore the need for value-based quality improvement initiatives targeting high-impact adverse events, requiring coordinated action among surgeons, hospital leadership, and policymakers."
-    },
-    {
-      "pmid": "41484568",
-      "doi": "10.1007/s12094-025-04152-0",
-      "title": "Real-world adoption of off-label combinations for targeted therapy resistance in non-small cell lung cancer.",
-      "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
-      "pubdate": "2026-01-03T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41484568/",
-      "url_doi": "https://doi.org/10.1007/s12094-025-04152-0",
-      "abstract": "PURPOSE: No targeted therapy combinations have achieved regulatory approval for the treatment of biomarker-positive resistance in non-small cell lung cancer (NSCLC). Given the widespread availability of next-generation sequencing (NGS) to detect resistance, we reviewed the real-world experience of using off-label targeted therapy combinations to treat advanced NSCLC at our academic safety-net hospital.\n\nMETHODS: Pharmacy records from the Hematology/Oncology Department at Boston Medical Center during the years 2017 to 2024 were reviewed. One hundred eleven patients received oral, targeted therapy during this time. Our study focused on those patients who received an off-label combination of targeted therapies for advanced NSCLC. We reviewed their demographics, treatment history, molecular data, and published evidence to support the combination.\n\nRESULTS: Eight patients were treated with nine combination regimens. The median age was 69 years (age 29-89 years). Six patients had EGFR exon 19 deletions and two had EML4-ALK fusions. The nine combination regimens included addition of a MET inhibitor (n = 3), a RET inhibitor (n = 2), a MEK inhibitor (n = 2), an ALK inhibitor (n = 1), and an EGFR antibody (n = 1). The median duration of treatment was 7 months (range: 1-35 months), and was longest for alectinib and capmatinib (15 months ongoing and 25 months, ongoing) and gefitinib and selpercatinib (35 months, ongoing). Available supporting evidence included retrospective cohort studies (n = 5), published case reports/series (n = 2), and a prospective cohort study (n = 1).\n\nCONCLUSION: Off-label combination therapy to treat targeted therapy resistance in advanced NSCLC is feasible in routine clinical practice. Additional real-world evidence is needed to clarify best practices with this emerging approach."
     }
   ]
 }
