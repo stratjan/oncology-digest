@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-10T05:19:26.985049Z",
+  "generated": "2026-01-11T05:22:49.495587Z",
   "items": [
     {
       "pmid": "41491099",
@@ -33,13 +33,33 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s43018-025-01104-z.pdf",
       "metric_name": "SJR",
       "metric_value": 11.941,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41507539/",
       "url_doi": "https://doi.org/10.1038/s43018-025-01104-z",
       "abstract": "Individuals with non-small-cell lung cancer (NSCLC) with metastases to the ipsilateral mediastinum or subcarinal lymph nodes (N2 disease) have poor long-term survival. This exploratory analysis from the randomized phase 3 CheckMate 77T study assessed clinical outcomes by nodal status in individuals with stage III NSCLC who received neoadjuvant nivolumab plus chemotherapy followed by surgery and adjuvant nivolumab (nivolumab) versus neoadjuvant chemotherapy followed by surgery and adjuvant placebo (placebo). Here we show that among patients with N2 disease, nivolumab versus placebo improved event-free survival (1-year rate, 70% versus 45%; hazard ratio, 0.46 (95% confidence interval, 0.30-0.70)) and pathological complete response rate (22.0% versus 5.6%); 77% versus 73% had definitive surgery, of whom 84% versus 74% received a simple lobectomy. Furthermore, nivolumab improved outcomes versus placebo in patients with multistation N2 NSCLC (1-year event-free survival rate: 71% versus 46%; hazard ratio, 0.43 (0.21-0.88); pathological complete response rate, 29.0% versus 2.7%). In the N2 subgroup with definitive surgery, 67% and 59% of patients had nodal downstaging after surgery (57% versus 44% downstaged to node-negative disease). Median EFS in randomized patients with stage III non-N2 NSCLC was not reached with nivolumab and 17.0 months with placebo (1-year EFS rate, 74% versus 62%; hazard ratio, 0.60 (0.33-1.08)). No new safety signals were identified. These findings support perioperative nivolumab plus neoadjuvant chemotherapy as an efficacious treatment for stage III N2 disease and suggest that N2 status may not predict poor prognosis in resectable NSCLC treated with perioperative immunotherapy. ClinicalTrials.gov identifier: NCT04025879 ."
+    },
+    {
+      "pmid": "41512290",
+      "doi": "10.1093/jnci/djag008",
+      "title": "Targeting common EGFR mutations in NSCLC-review of global phase III trials of third-generation inhibitors.",
+      "journal": "Journal of the National Cancer Institute",
+      "pubdate": "2026-01-09T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Phase III",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 5.703,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41512290/",
+      "url_doi": "https://doi.org/10.1093/jnci/djag008",
+      "abstract": "Mutations of the epidermal growth factor receptor (EGFR) are frequent oncogenic drivers in non-small cell lung cancer (NSCLC). Third-generation EGFR-tyrosine kinase inhibitors (EGFR-TKIs), which target common EGFR mutations and the acquired T790M resistance mutation, offer improved inhibitory potency and selectivity. Our review critically assesses the evolving role of these agents for management of NSCLC harboring common EGFR mutations. Multiple global phase III trials have recently evaluated third-generation EGFR-TKIs in NSCLC patients with common EGFR mutations. The addition of osimertinib to curative-intent strategies have demonstrated improvements in disease-free survival and overall survival (OS) as adjuvant therapy in resected stage IB-IIIa patients, major pathological responses compared to chemotherapy when used as neoadjuvant therapy, and progression-free survival (PFS) compared to placebo when used as consolidation therapy in unresectable stage III patients. Furthermore, third-generation EGFR-TKI monotherapy improved PFS compared to first-generation EGFR-TKIs in the first-line treatment of advanced disease. Intensification strategies, such as the addition of chemotherapy or a bi-specific antibody have further enhanced both PFS and OS outcomes. Several new therapeutic options are emerging for patients previously treated with third-generation EGFR-TKIs. Currently, subsequent treatment recommendations include chemotherapy or datopotamab deruxtecan following progression on a third-generation EGFR-TKI combination and amivantamab plus platinum-based chemotherapy following progression on monotherapy. The treatment landscape for NSCLC with common EGFR mutations is rapidly evolving and third-generation EGFR-TKIs play an integral role in both the curative-intent and palliative settings."
     },
     {
       "pmid": "41506440",
@@ -80,6 +100,67 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41491679/",
       "url_doi": "https://doi.org/10.1186/s12885-025-15509-7",
       "abstract": null
+    },
+    {
+      "pmid": "41506892",
+      "doi": "10.1093/icvts/ivag012",
+      "title": "Patient Advocacy in transforming Surgical Lung Cancer Care in Europe.",
+      "journal": "Interdisciplinary cardiovascular and thoracic surgery",
+      "pubdate": "2026-01-08T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1093/icvts/ivag012",
+      "metric_name": "SJR",
+      "metric_value": 0.482,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41506892/",
+      "url_doi": "https://doi.org/10.1093/icvts/ivag012",
+      "abstract": "OBJECTIVES: To provide a European-focused overview of the role of patient advocacy groups in shaping surgical lung cancer care, highlighting their contributions to multidisciplinary care, equitable access, psycho-social support, and patient-centred research.\n\nMETHODS: We conducted a narrative review of the major European and national lung cancer advocacy organisations, integrating perspectives from patient leaders and thoracic surgeons. The analysis focused on initiatives directly impacting thoracic surgery and perioperative care, with attention to education, prevention, survivorship, and research advocacy.\n\nRESULTS: Multiple advocacy organisations have significantly influenced lung cancer care with relevance to surgery. Oncogene Cancer Research (UK) promotes transparent information and shared decision-making around surgical options across all disease stages. Women Against Lung Cancer in Europe (WALCE) delivers large-scale initiatives such as EPROPA, expanding molecular testing and psycho-social support across several European countries. The Israeli Lung Cancer Foundation secured national low-dose CT screening and mandatory multidisciplinary team review for early-stage patients. In Greece, FairLife launched the BREATH program, providing structured psycho-social support integrated with surgical pathways. Longkanker Nederland advances shared decision-making through national decision aids, patient-reported outcomes, and guideline development. ALK Positive UK develops tailored education for patients and clinicians, addressing the impact of biomarker status on surgical pathways. At the European level, Lung Cancer Europe (LuCE) drives large-scale surveys, awareness campaigns, and collaborations with ESTS to embed patient perspectives into surgical discussions.\n\nCONCLUSIONS: Patient advocacy is increasingly shaping thoracic surgery in Europe, bridging gaps in communication, equity, and research. By collaborating with advocacy organisations, surgeons can deliver more integrated, communicative, and patient-centred care, ensuring that surgical innovation aligns with the lived experiences and priorities of patients."
+    },
+    {
+      "pmid": "41192526",
+      "doi": "10.1016/j.cellsig.2025.112211",
+      "title": "RIPK2/STAT3 signaling axis drives lung cancer metastasis through SNAIL activation: Molecular mechanisms and clinical implications.",
+      "journal": "Cellular signalling",
+      "pubdate": "2026-02-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
+      "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
+      "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
+    },
+    {
+      "pmid": "41389771",
+      "doi": "10.1016/j.ejca.2025.116165",
+      "title": "Long-term outcomes of preoperative nivolumab with or without relatlimab in patients with resectable non-small-cell lung cancer (NEOpredict-Lung).",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2026-01-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://www.ejcancer.com/article/S0959-8049(25)01051-2/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41389771/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116165",
+      "abstract": "BACKGROUND: Preoperative immunotherapy targeting PD-1/-L1 with chemotherapy induces histopathological responses and improves survival in patients with resectable non-small cell lung cancer (NSCLC). NEOpredict-Lung (NCT04205552) established the feasibility of dual blockade of PD-1 and LAG-3 immune checkpoints prior to curatively intended resection. Here we report extended follow-up, postoperative treatments and patterns of response and recurrence.\n\nPATIENTS AND METHODS: Patients with resectable NSCLC (stages IB-IIIA) were randomized to receive two doses nivolumab (240 mg, arm A) with or without relatlimab (80 mg, arm B) every 2 weeks. Overall and disease-free survival (OS, DFS) rates, response and recurrence patterns and subsequent therapies were evaluated.\n\nRESULTS: 60 patients were enrolled from March 2020 to July 2022. The present analysis was conducted per December 2024 with a median follow-up of 37.4 months. 45 patients were alive without disease recurrence,15 patients recurred (4 locoregional and 11 metastatic), and 7 patients died. The 3-year OS and DFS rates were 88.4 % and 73.3 % in arm A and 88.9 % and 60.3 % in arm B. Patients achieving major pathological response (≤10 % viable tumor cells in resected NSCLC) trended towards better DFS (HR 0.35; 95 % CI, 0.1-1.19). Downstaging was confirmed in 53.3 % of patients in arm A and in 66.7 % of patients in arm B. Nodal downstaging occurred in 28.6 % of patients with nodal disease in arm A and in 66.7 % of patients in arm B.\n\nCONCLUSIONS: Short course preoperative nivolumab with or without relatlimab showed encouraging efficacy and survival outcomes, which compare favorably with chemo-immunotherapy-based perioperative treatment regimens."
     },
     {
       "pmid": "41421886",
@@ -144,6 +225,46 @@
       "abstract": null
     },
     {
+      "pmid": "41512381",
+      "doi": "10.1016/j.lungcan.2026.108908",
+      "title": "Survival outcomes of patients with uncommon EGFR mutations in surgically resected lung adenocarcinoma: A multi-institutional real-world database study (CReGYT-01 EGFR study).",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-01-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41512381/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108908",
+      "abstract": "INTRODUCTION: Uncommon epidermal growth factor receptor (EGFR) mutations (UCM) account for approximately 10% of EGFR-mutant lung adenocarcinoma (LUAD) cases; however, their prognostic impact remains unclear. This study aimed to evaluate postoperative outcomes in patients with UCM compared to those with common mutations (CM) using a large multicenter database.\n\nMATERIALS AND METHODS: This retrospective study included 1,636 patients with EGFR-mutant LUAD who underwent complete resection between 2015 and 2018 at 21 Japanese institutions. Patients were classified into the CM and UCM groups. Recurrence-free survival (RFS), overall survival (OS), lung cancer-specific survival (LCSS), and survival after recurrence (SAR) were analyzed using univariable and multivariable analyses and the inverse probability of treatment weighting (IPTW) method.\n\nRESULTS: Among the patients, 1,441 (88.1%) had CM and 195 (11.9%) had UCM. RFS was comparable between the groups. However, patients with UCM showed significantly shorter OS and LCSS than those with CM (OS: multivariable hazard ratio [HR] 1.538, 95% confidence interval [CI] 1.003-2.359; LCSS: multivariable HR 1.803, 95% CI 1.064-3.056). This trend was consistently validated using IPTW methods. SAR was also significantly shorter in patients with UCM. Subtype-specific analyses revealed that patients with exon 20 insertions (Ex20ins) had a significantly worse prognosis than those with other UCMs.\n\nCONCLUSION: Patients with UCM had significantly worse OS, LCSS, and SAR than those with CM despite similar RFS. These survival disadvantages in UCM were strongly associated with the Ex20ins subtype. These findings highlight the urgent need for novel perioperative treatments for patients with UCM, especially Ex20ins."
+    },
+    {
+      "pmid": "41428442",
+      "doi": "10.1093/ejcts/ezaf467",
+      "title": "Impact of Lymph Node Metastasis Patterns on Long-Term Survival in Upper Lobe Non-Small Cell Lung Cancer.",
+      "journal": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+      "pubdate": "2026-01-06T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41428442/",
+      "url_doi": "https://doi.org/10.1093/ejcts/ezaf467",
+      "abstract": "OBJECTIVES: While treatment strategies for non-small cell lung cancer (NSCLC) continue to evolve, the prognostic implications of lymph node metastasis patterns in upper lobe tumours remain inadequately defined. This study investigated whether tumour laterality and specific nodal stations involved in N2a disease correlate with long-term survival in patients undergoing surgical resection for upper lobe NSCLC.\n\nMETHODS: This retrospective single-centre study included patients with stage I-IIIB upper lobe NSCLC who underwent anatomical resection with systematic lymph node dissection from January 2010 to December 2022. Patients were stratified by tumour laterality and nodal involvement, with specific analysis of N2a subgroups based on lymph node station. Propensity score matching, Kaplan-Meier survival analysis, and log-rank testing were used to compare survival outcomes.\n\nRESULTS: Of 3313 patients considered, 2028 met the prespecified inclusion criteria (right: n = 1212; left: n = 816). Mean age was 65.7 ± 9.4 years; 61.7% were male. Median overall survival (OS) was similar for right- and left-sided N0 and N1 tumours. Significant differences emerged among N2a subgroups: Patients with left-sided skip metastases to LN5/6 had markedly improved OS (66.2 ± 14.9 months) versus right-sided LN2/4 (35.3 ± 8.5 months; P = .047). Outcomes of left-sided N2a1 LN5/6 were also more favourable than LN7-9 (37.7 ± 15.2 months; P = .023) and showed better OS than left-sided N1 disease (47.6 ± 4.2 months; P = .284).\n\nCONCLUSIONS: Positive nodal station and tumour laterality significantly impact survival in upper lobe NSCLC. Skip metastases to LN5/6 in left-sided tumours were linked to more favourable prognosis and may warrant inclusion in future TNM classification refinements."
+    },
+    {
       "pmid": "41494984",
       "doi": "10.1093/ejcts/ezag008",
       "title": "Financial burden of postoperative adverse events following lobectomy: Cost analysis from 10 high volume Canadian hospitals.",
@@ -155,8 +276,8 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/ejcts/advance-article-pdf/doi/10.1093/ejcts/ezag008/66285291/ezag008.pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41494984/",
