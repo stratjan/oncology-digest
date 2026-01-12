@@ -1,26 +1,6 @@
 {
-  "generated": "2026-01-11T05:22:49.495587Z",
+  "generated": "2026-01-12T05:28:51.503078Z",
   "items": [
-    {
-      "pmid": "41491099",
-      "doi": "10.1038/s41591-025-04060-4",
-      "title": "AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer.",
-      "journal": "Nature medicine",
-      "pubdate": "2026-01-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41591-025-04060-4",
-      "metric_name": "SJR",
-      "metric_value": 18.333,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41491099/",
-      "url_doi": "https://doi.org/10.1038/s41591-025-04060-4",
-      "abstract": "Spatial proteomics enables high-resolution mapping of protein expression and can transform our understanding of biology and disease. However, major challenges remain for clinical translation, including cost, complexity and scalability. Here we present H&E to protein expression (HEX), an AI model designed to computationally generate spatial proteomics profiles from standard histopathology slides. Trained and validated on 819,000 histopathology image tiles with matched protein expression from 382 tumor samples, HEX accurately predicts the expression of 40 biomarkers encompassing immune, structural and functional programs. HEX demonstrates substantial performance gains over alternative methods for protein expression prediction from H&E images. We develop a multimodal data integration approach that combines the original H&E image and AI-derived virtual spatial proteomics to enhance outcome prediction. Applied to six independent non-small-cell lung cancer cohorts totaling 2,298 patients, HEX-enabled multimodal integration improved prognostic accuracy by 22% and immunotherapy response prediction by 24-39% compared with conventional clinicopathological and molecular biomarkers. Biological interpretation revealed spatially organized tumor-immune niches predictive of therapeutic response, including the co-localization of T helper cells and cytotoxic T cells in responders, and immunosuppressive tumor-associated macrophage and neutrophil aggregates in non-responders. HEX provides a low-cost and scalable approach to study spatial biology and enables the discovery and clinical translation of interpretable biomarkers for precision medicine."
-    },
     {
       "pmid": "41507539",
       "doi": "10.1038/s43018-025-01104-z",
@@ -80,26 +60,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41506440/",
       "url_doi": "https://doi.org/10.1016/j.canlet.2025.218229",
       "abstract": "Tumor-intrinsic biomarkers alone insufficiently predict pathological complete response (pCR) to neoadjuvant immunochemotherapy (NICT) in non-small cell lung cancer (NSCLC). Artificial intelligence (AI)-based three-dimensional CT-derived body composition may provide complementary predictive value. We evaluated its association with pCR following NICT in NSCLC. This multicenter retrospective study of NSCLC patients treated with NICT in China between July 2019 and July 2024. Pre- and post-treatment CT scans were used for automated T1-T12 localization and volumetric body composition segmentation. Metrics included skeletal muscle, intermuscular, visceral, and subcutaneous adipose volume index (SAVI), and their percentage changes between scans. Among 657 patients (mean age, 61.3 years; 87.4% men), pCR rates were 39.7% (training), 38.4% (internal validation), and 34.9% (external validation). In multivariable analysis, high baseline skeletal muscle volume index (SMVI) was independently associated with pCR (OR= 2.22). During NICT, each 1% relative increase in SMVI was associated with a 16% higher likelihood of pCR (OR= 1.16), whereas every 10% relative increase in SAVI improved pCR probability (OR= 1.56). A machine learning model integrating clinical variables, baseline SMVI, %ΔSMVI, and %ΔSAVI demonstrated significantly better discrimination than models using clinical variables alone (p <0.05) in all cohorts. The performance was observed in the internal and external validation cohorts, with sensitivities of 62.1% and 52.8%, and specificities of 66.7% and 74.7%, respectively. AI-based CT-derived body composition quantification, particularly baseline SMVI and dynamic changes in SMVI and SAVI during NICT, are independently associated with pCR in NSCLC. Incorporating these modifiable biomarkers into predictive models improves performance beyond clinical variables alone."
-    },
-    {
-      "pmid": "41491679",
-      "doi": "10.1186/s12885-025-15509-7",
-      "title": "Patient preference for first-line treatments of ALK-positive metastatic non-small cell lung cancer: a discrete choice experiment.",
-      "journal": "BMC cancer",
-      "pubdate": "2026-01-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1186/s12885-025-15509-7",
-      "metric_name": "SJR",
-      "metric_value": 1.178,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41491679/",
-      "url_doi": "https://doi.org/10.1186/s12885-025-15509-7",
-      "abstract": null
     },
     {
       "pmid": "41506892",
