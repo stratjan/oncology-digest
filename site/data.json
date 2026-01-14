@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-13T05:23:56.750803Z",
+  "generated": "2026-01-14T05:21:51.841649Z",
   "items": [
     {
       "pmid": "41507539",
@@ -33,8 +33,8 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1158/2159-8290.cd-25-1222",
       "metric_name": "SJR",
       "metric_value": 7.283,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41525686/",
@@ -113,8 +113,8 @@
       "entity": "NSCLC",
       "trial_type": "Phase III",
       "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1136/bmjopen-2025-108080",
       "metric_name": "SJR",
       "metric_value": 1.016,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41526018/",
@@ -203,6 +203,46 @@
       "abstract": "BACKGROUND: Unless greater awareness inspires action, lung cancer will become the next global public health emergency. Despite improvements in screening, diagnosis, and treatments, more must be done because global incidence continues to increase. Concerted action must address the burden both between and within countries. Inequalities result from the uneven distribution of resources while inequities result from differences in prevention, screening, diagnosis, and treatment.\n\nMETHOD: Participants in the 9th International Lung Cancer Network conference (Athens, June 2023) received an advanced draft of the declaration with a confidentiality notice by email upon completion of online registration. They were invited to provide comments and suggestions up to seven days before the meeting. All contributions were reviewed by the authors and incorporated into the final version circulated the day before the meeting began. Although not a formal Delphi-style process, this approach prioritized inclusivity, transparency, and broad endorsement. Outreach extended beyond onsite attendees, ensuring diverse perspectives and representation. This process complements methodological consensus approaches by uniting stakeholders around shared policy goals.\n\nRESULTS: At the 9th International Lung Cancer Network conference, participants were invited to sign the final declaration, and 785 did so. Since then, 20 organizations worldwide have formally endorsed the Consensus Statement, and support continues to grow. The inclusive design has fostered broad and sustained backing, underscoring the value of the Statement as a unifying policy declaration advancing shared principles.\n\nCONCLUSION: The Consensus Statement, Bridging the Gap in the Diagnosis and Management of Lung Cancer, reinforces five unifying principles: improve and expand prevention; focus on early detection; ensure equitable and sustainable access to treatment; build partnerships and promote investment; and, combat stigma, recognizing it as a social determinant of public health."
     },
     {
+      "pmid": "41529222",
+      "doi": "10.1200/JCO-25-01828",
+      "title": "Adjuvant Durvalumab in Completely Resected Early-Stage Non-Small Cell Lung Cancer.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-01-13T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41529222/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01828",
+      "abstract": "PURPOSE: Adjuvant immunotherapy improved patient outcomes in two trials in completely resected non-small cell lung cancer (NSCLC), but with conflicting primary end point results. The Canadian Cancer Trials Group BR.31 trial evaluated adjuvant durvalumab in completely resected early-stage NSCLC.\n\nMETHODS: Following resection of stage IB (≥4 cm) to IIIA NSCLC (American Joint Committee on Cancer 7th Edition) and optional adjuvant chemotherapy, patients were randomly assigned 2:1 to durvalumab 20 mg/kg or placebo 20 mg/kg once every 4 weeks for 12 cycles. Random assignment was stratified by stage, extent of nodal dissection, tumor cell (TC) PD-L1 expression, adjuvant chemotherapy use, and center. The primary end point was investigator-assessed disease-free survival (DFS). Secondary outcomes included overall survival (OS), adverse events, and quality of life. The primary analysis was in the subgroup with cancers that had a PD-L1 TC expression ≥25%, no common activating\n\nRESULTS: Of 1,415 patients randomly assigned, 1,219 (86%) had\n\nCONCLUSION: Adjuvant durvalumab following complete resection was not associated with improvement in DFS compared with placebo in"
+    },
+    {
+      "pmid": "41529214",
+      "doi": "10.1200/JCO-25-01569",
+      "title": "Chemoradiation ± Atezolizumab in Limited-Stage Small Cell Lung Cancer: Results of NRG Oncology/Alliance LU005.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-01-13T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41529214/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01569",
+      "abstract": "PURPOSE: NRG Oncology/Alliance LU005 (ClinicalTrials.gov identifier: NCT03811002) tested the addition of atezolizumab to concurrent chemoradiation (CRT) in this open-label, phase III international trial.\n\nMETHODS: Patients with limited-stage small cell lung cancer (LS-SCLC), stage Tx-IV, N0-3, and M0 with Eastern Cooperative Group performance status (PS) 0-2 received one cycle of chemotherapy (platinum/etoposide) before study registration and were randomly assigned to CRT alone versus CRT plus concurrent and adjuvant atezolizumab, 1,200 mg once daily, every 3 weeks until investigator-assessed progression or intolerable side effects for a maximum of 17 cycles. Patients were stratified by choice of chemotherapy (cisplatin\n\nRESULTS: patients were randomly assigned from May 2019 to December 2023. The median OS was 36.1 months (95% CI, 28.1 to 42.5) for the CRT-alone arm and 31.1 months (95% CI, 28.5 to 44.7) for the CRT + atezolizumab arm, respectively (hazard ratio [HR], 1.03 [95% CI, 0.80 to 1.32]). The median PFS was 11.4 months (95% CI, 10.3 to 13.2) for the CRT-alone arm and 12.1 months (95% CI, 10.9 to 15.2) for the CRT + atezolizumab arm, respectively (HR, 0.98 [95% CI, 0.79 to 1.22]). The median DMFS was 13.0 months (95% CI, 11.3 to 18.2) for the CRT-alone arm and 16.8 months (95% CI, 12.1 to 21.6) for the CRT + atezolizumab arm (HR, 0.96 [95% CI, 0.76 to 1.21]). No unexpected safety signals with concurrent atezolizumab were observed.\n\nCONCLUSION: Concurrent and adjuvant atezolizumab with chemoradiation did not improve survival in patients with LS-SCLC."
+    },
+    {
       "pmid": "41526205",
       "doi": "10.1016/j.lungcan.2026.108909",
       "title": "Corrigendum to \"Global trends in lung cancer incidence and mortality by age, gender and morphology and forecast: A bootstrap-based analysis\". [Lung Cancer 205 (2025) 108626].",
@@ -214,8 +254,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(26)00004-8/pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41526205/",
@@ -241,48 +281,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41520595/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108914",
       "abstract": "BACKGROUND: Despite the availability of several validated therapies, the optimal second-line regimen for EGFR-mutant non-small cell lung cancer (NSCLC) after tyrosine kinase inhibitor (TKI) failure remains uncertain.\n\nMETHODS: The protocol was registered in PROSPERO (CRD420251157131). We systematically searched MEDLINE, Embase, CENTRAL, and conference proceedings (to Oct 20, 2025) for phase III randomized controlled trials (RCTs). A Bayesian network meta-analysis was performed. The primary outcome was progression-free survival (PFS). Secondary outcomes included overall survival (OS) and the incidence of grade ≥3 treatment-related adverse events (TRAEs).\n\nRESULTS: Eleven RCTs (3,650 patients, seven regimens) were included. Compared to chemotherapy, sacituzumab tirumotecan (SacTMT), amivantamab plus chemotherapy (Chemo-Ami), and chemo-immunotherapy plus anti-angiogenic agent (Chemo-IO-anti-VEGF) demonstrated superior PFS (HR 0.49, 0.48, 0.53, respectively) and OS (HR 0.60, 0.73, 0.83, respectively). SacTMT also significantly improved OS over chemo-immunotherapy (HR 0.68, 95 % CrI 0.48 to 0.95). Regarding safety, Chemo-Ami carried higher grade ≥3 TRAEs risk (OR 2.83, 95 % CrI 1.01 to 7.90) versus chemotherapy, while SacTMT and Chemo-IO-anti-VEGF demonstrated toxicity comparable to chemotherapy.\n\nCONCLUSIONS: SacTMT, Chemo-Ami, and Chemo-IO-anti-VEGF offer superior efficacy over chemotherapy for EGFR-mutant NSCLC after TKI progression. SacTMT and Chemo-IO-anti-VEGF may have more favorable safety profiles than Chemo-Ami. This comparative evidence helps to inform clinical decision-making."
-    },
-    {
-      "pmid": "41501152",
-      "doi": "10.1038/s41571-025-01112-z",
-      "title": "A guide to cancer screening.",
-      "journal": "Nature reviews. Clinical oncology",
-      "pubdate": "2026-01-07T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "Other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41501152/",
-      "url_doi": "https://doi.org/10.1038/s41571-025-01112-z",
-      "abstract": "The aim of cancer screening is to identify pre-malignant conditions, which can be removed or treated, or earlier-stage disease, for which treatment is more likely to be curative, in non-symptomatic individuals. Currently, screening programmes are being consolidated for five cancer types (breast, prostate, cervical, colorectal and lung) and several other cancer types are the focus of specific initiatives. Cancer screening is at a point of potential major transformation owing to technological advances in detection. In this Review, we first recapitulate the general principles of cancer screening. We then provide a timely overview of the current screening practices for breast, cervical, colorectal, prostate and lung cancer, addressing major challenges and potential future changes in practice. We also discuss other malignancies for which screening initiatives might be worth considering. Finally, we highlight technological developments in cancer detection that might hold promise for screening an increasing number of cancers in the future, notably some that reflect unmet needs."
-    },
-    {
-      "pmid": "41499719",
-      "doi": "10.1200/JCO-25-03012",
-      "title": "Erratum: Simultaneous Durvalumab and Platinum-Based Chemoradiotherapy in Unresectable Stage III Non-Small Cell Lung Cancer: The Phase III PACIFIC-2 Study.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-07T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Published Erratum"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Phase III",
-      "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41499719/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-03012",
-      "abstract": null
     }
   ]
 }
