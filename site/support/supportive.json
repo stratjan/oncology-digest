@@ -447,6 +447,22 @@
       "aliases": [
         "Vinorelbin (Monotherapie)"
       ]
+    },
+    {
+      "id": "basismedikation",
+      "name": "Basismedikation (supportive Standards)",
+      "group": "Basismedikation",
+      "aliases": [
+        "Basismedikation (supportive Standards)"
+      ]
+    },
+    {
+      "id": "krascendo02-studie",
+      "name": "KRASCENDO_02 Studienprophylaxe",
+      "group": "Studienmedikation",
+      "aliases": [
+        "KRASCENDO_02 Studienprophylaxe"
+      ]
     }
   ],
   "items": [
@@ -463,7 +479,10 @@
       "regimen_category": "Antiemetika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "basismedikation",
+        "krascendo02-studie"
+      ]
     },
     {
       "id": "sup-fosa",
@@ -508,7 +527,10 @@
       "regimen_category": "Antiemetika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "basismedikation",
+        "krascendo02-studie"
+      ]
     },
     {
       "id": "sup-grani",
@@ -568,7 +590,9 @@
       "regimen_category": "Antiemetika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "basismedikation"
+      ]
     },
     {
       "id": "sup-lora",
@@ -613,9 +637,7 @@
       "regimen_category": "Antiemetika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": [
-        "amivantamab"
-      ]
+      "regimens": []
     },
     {
       "id": "sup-diph",
@@ -856,7 +878,8 @@
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
       "regimens": [
-        "amivantamab"
+        "basismedikation",
+        "krascendo02-studie"
       ]
     },
     {
@@ -962,7 +985,9 @@
       "regimen_category": "Magen-/Säurehemmung",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "basismedikation"
+      ]
     },
     {
       "id": "sup-omepr",
@@ -1097,9 +1122,7 @@
       "regimen_category": "Antibiotika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": [
-        "amivantamab"
-      ]
+      "regimens": []
     },
     {
       "id": "sup-mino",
@@ -1175,7 +1198,8 @@
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
       "regimens": [
-        "amivantamab"
+        "basismedikation",
+        "krascendo02-studie"
       ]
     },
     {
@@ -1191,9 +1215,7 @@
       "regimen_category": "Analgetika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": [
-        "amivantamab"
-      ]
+      "regimens": []
     },
     {
       "id": "sup-meta",
@@ -1208,7 +1230,10 @@
       "regimen_category": "Analgetika",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": []
+      "regimens": [
+        "basismedikation",
+        "krascendo02-studie"
+      ]
     },
     {
       "id": "sup-ibup",
@@ -1449,7 +1474,8 @@
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
       "regimens": [
-        "amivantamab"
+        "basismedikation",
+        "krascendo02-studie"
       ]
     },
     {
@@ -1525,9 +1551,7 @@
       "regimen_category": "Supportiv sonstiges",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": [
-        "amivantamab"
-      ]
+      "regimens": []
     },
     {
       "id": "sup-lido",
@@ -1557,9 +1581,7 @@
       "regimen_category": "Supportiv sonstiges",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
-      "regimens": [
-        "amivantamab"
-      ]
+      "regimens": []
     },
     {
       "id": "sup-vedo",
@@ -1752,6 +1774,138 @@
       "side_effects": "Übelkeit, Mundtrockenheit, Schwindel, Schlafstörungen.",
       "warnings": "Blutdruck regelmäßig kontrollieren, Vorsicht bei Lebererkrankungen.",
       "regimen_category": "Koanalgetika",
+      "specialty": "Onkologie",
+      "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
+      "regimens": []
+    },
+    {
+      "id": "sup-bude-1",
+      "name": "Budesonid",
+      "substance": "Budesonid",
+      "class": "topisches Glukokortikoid",
+      "indication": "Lokale antientzündliche Therapie, z. B. bei immuntherapieassoziierter Kolitis (mild), chronisch-entzündlichen Darmerkrankungen oder Strahlenproktitis.",
+      "dosing": "9 mg oral 1-0-0 (retardiert), ggf. Dosisreduktion im Verlauf.",
+      "max_daily": "9 mg/Tag.",
+      "side_effects": "Häufig: Dyspepsie, Kopfschmerzen. Selten: systemische Steroidnebenwirkungen (Cushing-Syndrom, Hyperglykämie, Osteoporose) bei Langzeitgebrauch.",
+      "warnings": "Geringe systemische Bioverfügbarkeit, dennoch Vorsicht bei Langzeittherapie; nicht geeignet bei moderater bis schwerer immunvermittelter Kolitis (hier systemische Steroide erforderlich).",
+      "regimen_category": "Supportivtherapie",
+      "specialty": "Onkologie",
+      "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
+      "regimens": []
+    },
+    {
+      "id": "sup-movi",
+      "name": "Movicol",
+      "substance": "Macrogol + Elektrolyte",
+      "class": "osmotisches Laxans",
+      "indication": "Behandlung und Prophylaxe von Obstipation, insbesondere unter Opioid-, Antiemetika- oder Chemotherapie.",
+      "dosing": "1–3 Beutel täglich, jeweils in Wasser gelöst; Dosistitration nach Stuhlfrequenz.",
+      "max_daily": "3 Beutel/Tag (bei chronischer Anwendung üblich).",
+      "side_effects": "Häufig: Blähungen, Völlegefühl, Diarrhö. Selten: Elektrolytverschiebungen.",
+      "warnings": "Auf ausreichende Flüssigkeitszufuhr achten; bei anhaltender Diarrhö Dosis reduzieren oder pausieren.",
+      "regimen_category": "Supportivtherapie",
+      "specialty": "Onkologie",
+      "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
+      "regimens": [
+        "basismedikation",
+        "krascendo02-studie"
+      ]
+    },
+    {
+      "id": "sup-laxa",
+      "name": "Laxanstropfen",
+      "substance": "Natriumpicosulfat",
+      "class": "stimulierendes Laxans",
+      "indication": "Kurzfristige Behandlung therapieassoziierter Obstipation (z. B. unter Opioiden, Antiemetika, Chemo-/Immuntherapie).",
+      "dosing": "5–10 Tropfen abends, ggf. langsame Steigerung nach Wirkung.",
+      "max_daily": "10–15 Tropfen/Tag.",
+      "side_effects": "Häufig: Bauchkrämpfe, Diarrhö. Selten: Elektrolytstörungen bei Übergebrauch.",
+      "warnings": "Nicht zur Dauertherapie geeignet; bei längerem Bedarf Kombination mit osmotischem Laxans bevorzugen.",
+      "regimen_category": "Supportivtherapie",
+      "specialty": "Onkologie",
+      "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
+      "regimens": []
+    },
+    {
+      "id": "sup-move",
+      "name": "Moventig",
+      "substance": "Naloxegol",
+      "class": "peripherer μ-Opioidrezeptor-Antagonist (PAMORA)",
+      "indication": "Behandlung der opioidinduzierten Obstipation (OIC) bei Patient:innen unter chronischer Opioidtherapie, wenn herkömmliche Laxanzien unzureichend wirksam sind.",
+      "dosing": "25 mg oral 1x täglich morgens nüchtern; bei Unverträglichkeit Reduktion auf 12,5 mg/d.",
+      "max_daily": "25 mg/Tag.",
+      "side_effects": "Häufig: Bauchschmerzen, Diarrhö, Übelkeit, Flatulenz. Gelegentlich: Kopfschmerzen, Schwitzen. Selten: Symptome eines Opioidentzugs.",
+      "warnings": "Nicht bei mechanischem Ileus oder hohem GI-Perforationsrisiko anwenden; Vorsicht bei gleichzeitiger Einnahme starker CYP3A4-Inhibitoren (z. B. Clarithromycin, Azole); Grapefruit vermeiden.",
+      "regimen_category": "Supportivtherapie",
+      "specialty": "Onkologie",
+      "disease": "NSCLC, SCLC, Mesotheliom, Thymustumore",
+      "regimens": []
+    },
+    {
+      "id": "sup-mixa1",
+      "name": "Mixa Panthenol Comfort",
+      "substance": "Mixa Panthenol reparierende Körpercreme",
+      "class": "medizinische Basispflege / Emolliens",
+      "indication": "Basispflege bei trockener, irritierter oder therapieassoziiert empfindlicher Haut (z. B. unter TKI, Immuntherapie, Chemotherapie).",
+      "dosing": "1–2x täglich dünn auf betroffene Hautareale auftragen.",
+      "max_daily": "keine relevante Maximaldosis.",
+      "side_effects": "Sehr gut verträglich; selten lokale Unverträglichkeitsreaktionen (Rötung, Brennen).",
+      "warnings": "Parfümfrei; nicht auf nässende oder infizierte Hautareale auftragen.",
+      "regimen_category": "Supportivtherapie",
+      "specialty": "Onkologie",
+      "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
+      "regimens": [
+        "basismedikation",
+        "basismedikation"
+      ]
+    },
+    {
+      "id": "sup-mixa2",
+      "name": "Mixa Urea Cica Repair",
+      "substance": "Mixa Urea 10% + Panthenol",
+      "class": "Harnstoffhaltige Pflegecreme",
+      "indication": "Intensive Pflege bei ausgeprägter Xerosis cutis, Hyperkeratosen und therapieassoziierter Hauttrockenheit (z. B. EGFR-TKI).",
+      "dosing": "1–2x täglich auf trockene Hautpartien auftragen.",
+      "max_daily": "keine relevante Maximaldosis.",
+      "side_effects": "Häufig: kurzzeitiges Brennen auf sehr trockener Haut. Selten: lokale Reizreaktionen.",
+      "warnings": "Nicht auf entzündete, verletzte oder stark fissurierte Haut auftragen; bei Gesichtsanwendung vorsichtig.",
+      "regimen_category": "Supportivtherapie",
+      "specialty": "Onkologie",
+      "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
+      "regimens": [
+        "basismedikation",
+        "basismedikation"
+      ]
+    },
+    {
+      "id": "sup-mixa3",
+      "name": "Mixa Anti-Dryness Waschgel",
+      "substance": "Mixa Mildes Dusch- und Waschgel",
+      "class": "milde Hautreinigung",
+      "indication": "Schonende Reinigung bei empfindlicher, trockener Haut unter Systemtherapie.",
+      "dosing": "1x täglich zur Körperreinigung, anschließend rückfettende Pflege.",
+      "max_daily": "—",
+      "side_effects": "Sehr gut verträglich; selten Trockenheitsgefühl bei sehr häufiger Anwendung.",
+      "warnings": "Heißes Wasser vermeiden; keine aggressiven Zusatzprodukte verwenden.",
+      "regimen_category": "Supportivtherapie",
+      "specialty": "Onkologie",
+      "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
+      "regimens": [
+        "basismedikation",
+        "basismedikation"
+      ]
+    },
+    {
+      "id": "sup-mixa4",
+      "name": "Mixa Ceramide Protect",
+      "substance": "Mixa Ceramide Barrier Repair",
+      "class": "barriereaufbauende Pflege",
+      "indication": "Unterstützung der Hautbarriere bei therapieassoziierten Hautreaktionen (z. B. Exanthem unter EGFR-/ALK-TKI, Immuntherapie).",
+      "dosing": "1–2x täglich regelmäßig anwenden.",
+      "max_daily": "—",
+      "side_effects": "Sehr gut verträglich; selten lokale Irritationen.",
+      "warnings": "Konsequente, regelmäßige Anwendung notwendig; Kombination mit UV-Schutz empfohlen.",
+      "regimen_category": "Supportivtherapie",
       "specialty": "Onkologie",
       "disease": "NSCLC, SCLC, Mesotheliom, Thymustumoren, Lungen-NET",
       "regimens": []
