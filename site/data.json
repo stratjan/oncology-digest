@@ -1,6 +1,26 @@
 {
-  "generated": "2026-01-16T05:23:10.351322Z",
+  "generated": "2026-01-17T05:18:49.250056Z",
   "items": [
+    {
+      "pmid": "41538156",
+      "doi": "10.1001/jamaoncol.2025.5924",
+      "title": "Lymph Node Dissection Guideline Adherence and Survival in Patients With T1N0M0 Lung Adenocarcinoma.",
+      "journal": "JAMA oncology",
+      "pubdate": "2026-01-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 8.377,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41538156/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.5924",
+      "abstract": "IMPORTANCE: Lymph node dissection for early-stage lung adenocarcinoma is controversial. Histologic pattern subtyping reveals heterogeneity of lung adenocarcinoma, yet its association with lymph node involvement and dissection is understudied.\n\nOBJECTIVE: To assess the association between guideline-adherent lymph node dissection, histologic pattern subtyping, and overall survival in patients with clinical T1N0M0 lung adenocarcinoma.\n\nDESIGN, SETTING, AND PARTICIPANTS: This multicenter cohort study used data from the National Cancer Center LungReal database, a multicenter, electronic health records-based database for patients undergoing surgery for lung cancer, from January 2014 to December 2021, with the last follow-up in December 2022. Patients were categorized based on histologic pattern of adenocarcinoma into 2 groups: lepidic without high-grade pattern, and high-grade or no lepidic pattern. The data analysis was performed from April to November 2025.\n\nEXPOSURE: Lymph node dissection adherence or nonadherence with the 3 + 1 standard (3 N2 plus 1 N1 station) and the 6-station standard (the subcarinal plus 2 other N2 stations and 3 N1 stations).\n\nMAIN OUTCOME AND MEASURE: Overall survival.\n\nRESULTS: Of 35 265 patients screened, 27 191 participants (mean [SD] age, 58.3 [11.7] years; 16 280 female [59.9%] and 10 911 male [40.1%] individuals) from 19 centers were included; among them, 15 593 (57.3%) received lymph node dissection adherent with the 3 + 1 standard and 4023 (14.8%) with the 6-station standard. Among the group of 13 369 patients (49.2%) with adenocarcinoma of lepidic without high-grade pattern, no association was observed between survival and adherence with the 3 + 1 standard (hazard ratio [HR], 0.81; 95% CI, 0.57-1.15) or the 6-station standard (HR, 0.54; 95% CI, 0.26-1.13). Whereas, among the group of 13 822 patients (50.8%) with adenocarcinoma of high-grade or no lepidic pattern, adherence with the 3 + 1 standard (HR, 0.81; 95% CI, 0.69-0.95; absolute risk difference at 3-year, 1.2%; 95% CI, 0.2%-2.2%; E-value, 1.78) or the 6-station standard (HR, 0.61; 95% CI, 0.45-0.83; absolute risk difference at 3 years, 1.0%; 95% CI, 0.1%-1.9%; E-value, 2.67) was associated with a significant but small absolute survival benefit.\n\nCONCLUSION AND RELEVANCE: In this cohort study, guideline-adherent nodal dissection was associated with small absolute survival benefit for patients with adenocarcinoma of high-grade or no lepidic pattern, but not for those with lepidic without high-grade pattern. These observational findings warrant prospective validation and should not be interpreted as causal."
+    },
     {
       "pmid": "41532856",
       "doi": "10.1158/2159-8290.CD-25-1483",
@@ -184,6 +204,66 @@
       "abstract": "BACKGROUND: Unless greater awareness inspires action, lung cancer will become the next global public health emergency. Despite improvements in screening, diagnosis, and treatments, more must be done because global incidence continues to increase. Concerted action must address the burden both between and within countries. Inequalities result from the uneven distribution of resources while inequities result from differences in prevention, screening, diagnosis, and treatment.\n\nMETHOD: Participants in the 9th International Lung Cancer Network conference (Athens, June 2023) received an advanced draft of the declaration with a confidentiality notice by email upon completion of online registration. They were invited to provide comments and suggestions up to seven days before the meeting. All contributions were reviewed by the authors and incorporated into the final version circulated the day before the meeting began. Although not a formal Delphi-style process, this approach prioritized inclusivity, transparency, and broad endorsement. Outreach extended beyond onsite attendees, ensuring diverse perspectives and representation. This process complements methodological consensus approaches by uniting stakeholders around shared policy goals.\n\nRESULTS: At the 9th International Lung Cancer Network conference, participants were invited to sign the final declaration, and 785 did so. Since then, 20 organizations worldwide have formally endorsed the Consensus Statement, and support continues to grow. The inclusive design has fostered broad and sustained backing, underscoring the value of the Statement as a unifying policy declaration advancing shared principles.\n\nCONCLUSION: The Consensus Statement, Bridging the Gap in the Diagnosis and Management of Lung Cancer, reinforces five unifying principles: improve and expand prevention; focus on early detection; ensure equitable and sustainable access to treatment; build partnerships and promote investment; and, combat stigma, recognizing it as a social determinant of public health."
     },
     {
+      "pmid": "41543339",
+      "doi": "10.1158/1078-0432.CCR-25-2734",
+      "title": "RRAS and RRAS2 mutations are recurrent oncogenic drivers in lung cancer and are sensitive to the pan-RAS inhibitor RMC-6236.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2026-01-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41543339/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2734",
+      "abstract": "INTRODUCTION: RRAS and RRAS2 encode a subfamily of RAS-like small GTPases that share considerable structural and functional similarities with KRAS, HRAS, and NRAS. Whether homologous RRAS/RRAS2 mutations are oncogenic and actionable drivers in lung cancer remains underexplored.\n\nMETHODS: An institutional cohort of 8,488 non-small cell lung carcinomas (NSCLC) sequenced by comprehensive targeted DNA sequencing (MSK-IMPACT) between 2016-2024 was evaluated for RRAS/RRAS2 mutations. RRASQ87L or RRAS2Q72L were modeled in murine IL3-dependent Ba/F3 cells and immortalized human bronchiolar epithelial cells (HBECs). The oncogenic potential, signaling characteristics, and sensitivity to PI3K and MAPK pathway inhibitors, including the novel pan-RAS inhibitor RMC-6236, were evaluated in vitro and in vivo.\n\nRESULTS: RRASQ87L or RRAS2Q72L, homologous to KRAS-codon Q61 substitutions, were found in ~0.45% of NSCLCs (38/8,488), with all but two lacking other MAPK pathway oncogenic drivers. RRASQ87L and RRAS2Q72L mutations transformed Ba/F3 and HBEC cells and robustly activated MAPK and PI3K-mTOR pathway signaling. RMC-6236 suppressed proliferation of RRASQ87L and RRAS2Q72L mutant cell lines, reduced ERK phosphorylation, induced apoptosis, and impeded cell-cycle progression. In vivo, RMC-6236 significantly inhibited growth of RRASQ87L/RRAS2Q72L-mutant HBEC-derived xenografts.\n\nCONCLUSIONS: RRASQ87L and RRAS2Q72L are recurrent, oncogenic, and potentially actionable drivers in NSCLC. Our study supports the inclusion of RRAS/RRAS2 into routine molecular diagnostic panels for precision oncology and provides preclinical rationale for investigating the potential therapeutic utility of pan-RAS inhibitors for patients with RRASQ87L/RRAS2Q72L-mutant lung cancers."
+    },
+    {
+      "pmid": "41537704",
+      "doi": "10.1158/1078-0432.CCR-25-4382",
+      "title": "Landscape of Genomic Mechanisms of Resistance to Selective RET Inhibitors in RET-Altered Solid Tumors: Analysis of the RETgistry Global Consortium.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2026-01-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41537704/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-4382",
+      "abstract": "PURPOSE: Rearranged during transfection (RET) alterations are oncogenic drivers across solid tumors. Selective RET inhibitors (SRIs) selpercatinib and pralsetinib have transformed outcomes for patients with RET-altered malignancies. Limited knowledge exists on genomic mechanisms of resistance to SRIs.\n\nEXPERIMENTAL DESIGN: We established 'RETgistry,' a global consortium of patients with advanced RET-altered solid tumors who received SRIs and underwent post-progression tissue or plasma biopsies assessed by next-generation sequencing. Frequencies of secondary RET resistance mutations and acquired non-RET gene alterations were determined. Progression-free survival (PFS) and time to treatment discontinuation (TTD) on first SRI were estimated with Kaplan-Meier method.\n\nRESULTS: RETgistry included 109 patients with RET-altered advanced solid tumors (lung: n=94; thyroid: n=15) who underwent 143 post-SRI progression biopsies (tissue: 91; plasma: 52). Median PFS and TTD were 13.9 months (95% confidence interval [CI] 10.1-16.6) and 17.3 months (95% CI 14.0-20.2), respectively. Secondary RET mutations were detected in 20 (14.0%) biopsies (lung cancer: 15 [12.4%], thyroid carcinoma: 5 [22.7%]). Common acquired off-target alterations involved MET (18.2%; amplification: 15.0%), TP53 (8.2%), APC (7.6%), KRAS (7.1%), KEAP1 (5.9%), and CDKN2A/B (5.3%). MET alterations were enriched in post-SRI versus pre-SRI specimens (full cohort: 17.6% vs 2.0%, p=0.022; lung cancer: 19.1% vs 2.1%, p=0.022).\n\nCONCLUSIONS: Prevalence of secondary RET mutations after SRIs was low, underscoring greater role for off-target resistance. Recurrent acquired alterations involving tumor suppressor genes or upstream regulators of MAPK and PI3K pathways were identified, most commonly MET amplification. Continued efforts to characterize SRI resistance biology are critical to guide development of novel therapeutic strategies."
+    },
+    {
+      "pmid": "41537692",
+      "doi": "10.1158/1078-0432.CCR-25-2958",
+      "title": "Minimal Residual Disease Enhances Prognostic Stratification Beyond Pathological Response in Resectable Non-Small Cell Lung Cancer.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2026-01-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41537692/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2958",
+      "abstract": "PURPOSE: Perioperative chemoimmunotherapy is the standard of care for resectable, locally advanced non-small cell lung cancer (NSCLC). While pathological complete response (pCR) correlates with excellent survival outcomes, some patients without pCR still exhibit long-term survival. Here we evaluate the added value of minimal residual disease (MRD).\n\nEXPERIMENTAL DESIGN: MRD was assessed in 60 patients from the NADIM II trial (NCT03838159) using Guardant Reveal assay. In NADIM II, NSCLC patients without EGFR or ALK alterations were randomized to receive neoadjuvant nivolumab plus chemotherapy (experimental arm) or chemotherapy alone, followed by surgery. Patients in the experimental arm with R0 resection received adjuvant nivolumab.\n\nRESULTS: MRD detection rate was 9.6%. MRD after surgery or during adjuvant treatment was associated with inferior EFS and OS (HR: 10.2; 95%CI: 3.7-28.3 and HR: 10.0; 95%CI: 2.0-49.9, respectively). All patients with MRD-negative plasma samples in at least two time points were alive (HR: not estimable [NE], p < 0.001), with only one relapse (HR: 41.6; 95%CI: 5.0-348.8), corresponding to a patient relapsing with a single brain metastasis. MRD enhanced the prognostic value of pCR for both EFS (p<0.001) and OS (p=0.015). Among non-pCR patients, MRD remained a significant prognostic marker (HR: 6.2; 95%CI: 2.2-17.1 and HR: 6.5; 95%CI: 1.3-32.5, for EFS and OS respectively). All non-pCR patients with MRD-negative results in at least two time points were alive (HR: NE, p=0.025), with one relapse (HR: 19.9; 95%CI: 2.4-165.6), corresponding to the aforementioned case.\n\nCONCLUSIONS: MRD may refine prognostic evaluation beyond pCR in resectable NSCLC undergoing perioperative chemoimmunotherapy."
+    },
+    {
       "pmid": "41538410",
       "doi": "10.1126/science.adz9353",
       "title": "A genetically encoded device for transcriptome storage in mammalian cells.",
@@ -284,6 +364,26 @@
       "abstract": "PURPOSE: NRG Oncology/Alliance LU005 (ClinicalTrials.gov identifier: NCT03811002) tested the addition of atezolizumab to concurrent chemoradiation (CRT) in this open-label, phase III international trial.\n\nMETHODS: Patients with limited-stage small cell lung cancer (LS-SCLC), stage Tx-IV, N0-3, and M0 with Eastern Cooperative Group performance status (PS) 0-2 received one cycle of chemotherapy (platinum/etoposide) before study registration and were randomly assigned to CRT alone versus CRT plus concurrent and adjuvant atezolizumab, 1,200 mg once daily, every 3 weeks until investigator-assessed progression or intolerable side effects for a maximum of 17 cycles. Patients were stratified by choice of chemotherapy (cisplatin\n\nRESULTS: patients were randomly assigned from May 2019 to December 2023. The median OS was 36.1 months (95% CI, 28.1 to 42.5) for the CRT-alone arm and 31.1 months (95% CI, 28.5 to 44.7) for the CRT + atezolizumab arm, respectively (hazard ratio [HR], 1.03 [95% CI, 0.80 to 1.32]). The median PFS was 11.4 months (95% CI, 10.3 to 13.2) for the CRT-alone arm and 12.1 months (95% CI, 10.9 to 15.2) for the CRT + atezolizumab arm, respectively (HR, 0.98 [95% CI, 0.79 to 1.22]). The median DMFS was 13.0 months (95% CI, 11.3 to 18.2) for the CRT-alone arm and 16.8 months (95% CI, 12.1 to 21.6) for the CRT + atezolizumab arm (HR, 0.96 [95% CI, 0.76 to 1.21]). No unexpected safety signals with concurrent atezolizumab were observed.\n\nCONCLUSION: Concurrent and adjuvant atezolizumab with chemoradiation did not improve survival in patients with LS-SCLC."
     },
     {
+      "pmid": "41539318",
+      "doi": "10.1016/S1470-2045(25)00643-6",
+      "title": "Aumolertinib as adjuvant therapy in resected EGFR-mutated non-small-cell lung cancer (ARTS): a double-blind, multicentre, randomised, controlled, phase 3 trial.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2026-01-12T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41539318/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(25)00643-6",
+      "abstract": "BACKGROUND: Patients with resectable non-small-cell lung cancer (NSCLC), particularly those with EGFR mutations, face a high risk of recurrence and mortality post-surgery. Aumolertinib, a third-generation EGFR tyrosine-kinase inhibitor, is approved in China for adjuvant treatment in patients with NSCLC harbouring EGFR with an exon 19 deletion (ex19del) or exon 21 substitution (Leu858Arg) mutation. The ARTS study aimed to evaluate the efficacy and safety of adjuvant therapy with aumolertinib in patients with stage II-IIIB EGFR-mutated NSCLC.\n\nMETHODS: This double-blind, multicentre, randomised, controlled, phase 3 trial enrolled patients from 48 hospitals in mainland China. Eligible patients were 18 years or older with stage II-IIIB NSCLC, had undergone a complete resection followed by standard adjuvant therapy, and had an EGFR ex19del or Leu858Arg mutation and an Eastern Cooperative Oncology Group performance status score of 0 or 1. Patients were stratified by EGFR mutation status and tumour stage and were randomly assigned (1:1) to receive aumolertinib 110 mg or placebo orally, once daily for 3 years or until disease recurrence or other discontinuation criteria were met. Patients were randomly allocated to groups using an interactive web response system; the double‑dummy technique masked patients, investigators, and assessors. The primary endpoint was disease-free survival in the modified intention-to treat (mITT) population (ie, all patients with stage II-IIIB NSCLC harbouring EGFR mutations who had undergone complete tumour resection and standard adjuvant therapy), assessed by blinded independent central review (BICR). Safety was assessed in all patients who received at least one dose of study treatment. Although the study is ongoing, with some patients remaining in follow-up, this analysis represents the protocol-specified primary analysis. This study is registered with ClinicalTrials.gov (NCT04687241).\n\nFINDINGS: Between April 30, 2021, and May 17, 2022, 399 individuals were screened for study eligibility; of these, 214 patients were randomly assigned to receive aumolertinib or placebo (107 in each group). 120 (56%) patients were female, 94 (44%) were male, median age was 59 years (IQR 54-66), and all patients were Chinese. 204 (95%) of 214 patients had received prior adjuvant chemotherapy. One patient in the aumolertinib group and three patients in the placebo group had stage I disease; therefore, 106 patients in the aumolertinib group and 104 in the placebo group were included in the mITT (primary analysis) population. As of the data cutoff date (April 15, 2024), the median duration of follow-up was 27·56 months (IQR 22·18-27·70) in the aumolertinib group and 27·63 months (22·18-27·79) in the placebo group. The BICR-assessed disease-free survival was significantly improved in the aumolertinib group compared with the placebo group, with an HR of 0·17 (95% CI 0·09-0·29, p<0·0001). The median disease-free survival per BICR in the aumolertinib group was not reached (95% CI 29·14 to not applicable), whereas it was 19·42 months (11·24-26·22) in the placebo group. The most common grade 3-4 adverse events in the aumolertinib group versus the placebo group were increased blood creatine phosphokinase (seven [7%] vs none), prolonged electrocardiogram QT interval (three [3%] vs three [3%]), hypertension (one [1%] vs five [5%]), and pneumonia (two [2%] vs three [3%]). Treatment-related serious adverse events occurred in one (1%) patient receiving aumolertinib and three (3%) patients receiving placebo. No treatment-related deaths occurred and no new safety signals were identified for aumolertinib.\n\nINTERPRETATION: Aumolertinib showed substantial clinical benefits as adjuvant therapy in Chinese patients with stage II-IIIB EGFR-mutated NSCLC. The manageable safety profile of aumolertinib supports its suitability in the adjuvant setting.\n\nFUNDING: Hansoh Pharmaceutical Group.\n\nTRANSLATION: For the Chinese translation of the abstract see Supplementary Materials section."
+    },
+    {
       "pmid": "41534788",
       "doi": "10.1016/j.jtho.2026.01.001",
       "title": "Osimertinib and stereotactic radiosurgery for brain metastases in EGFR mutated lung cancer - The STARLET joint analysis of OUTRUN and LUOSICNS randomised trials.",
@@ -342,26 +442,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41526205/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108909",
       "abstract": null
-    },
-    {
-      "pmid": "41534317",
-      "doi": "10.1016/j.lungcan.2026.108913",
-      "title": "SEZ6 expression and lineage plasticity in small cell lung cancer and transformed non-small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-01-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41534317/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108913",
-      "abstract": "INTRODUCTION: Small cell lung cancer (SCLC) and extrapulmonary neuroendocrine (NE) tumors are aggressive malignancies with limited treatment options. Seizure-related homolog 6 (SEZ6) is a potential therapeutic target, but its expression in these tumors remains poorly understood. Lineage plasticity contributes to resistance in non-small cell lung cancer (NSCLC), where some cases can undergo SCLC-transformation after targeted therapy. We aimed to characterize SEZ6 expression across NE tumors and presumed NSCLC-to-SCLC transformations.\n\nMETHODS: DNA and RNA sequencing were performed for SCLC, NSCLC, and NE samples. Samples were stratified by SEZ6 RNA expression quartiles and classified into subtypes based on ASCL1, NEUROD1, and POU2F3 expression. Significance was tested using the Mann-Whitney U test. Real-world overall survival was obtained from insurance claims data, with p-values calculated using the log-rank test. Paired samples for NSCLC-to-SCLC transformation were identified by sequential biopsies classified as NSCLC followed by SCLC.\n\nRESULTS: RNA sequencing was performed on 1318 SCLC and 2218 NE samples. Median SEZ6expression was higher in SCLC (39.7 transcripts per million (TPM)) than in NE tumors (20.8 TPM, p<0.0001) and NSCLC (1.34 TPM, p<0.001). Among NE tumors, median SEZ6 expression was highest in prostate (52.0 TPM, p=0.0016 vs SCLC) and lowest in adrenal gland tumors (1.2 TPM, p<0.0001 vs SCLC). In SCLC,SEZ6expression was positively correlated with ASCL1(p=0.44, p<0.0001) andNEUROD1(p=0.16, p<0.0001) expression but notPOU2F3(p=-0.04, p=0.1253). Median survival was longest in SEZ6-Q2 for both SCLC and NE (13.0 mos. and 33.7 mos., respectively). NSCLC-to-SCLC transformation samples showed numerically higher SEZ6 expression post-transformation (median: 86.2 vs 2.4 TPM).\n\nCONCLUSIONS: SEZ6expression is higher in SCLC than in NE tumors, with notable heterogeneity by subtype, warranting consideration of expanded use of SEZ6-directed therapy. Translational Relevance Statement: This study establishes SEZ6 as a promising therapeutic target in small cell lung cancer (SCLC) and transformed non-small cell lung cancer (NSCLC), demonstrating its significantly elevated expression compared to neuroendocrine (NE) tumors and NSCLC. The positive correlation of SEZ6 expression with NE lineage markers, particularly in ASCL1 and NEUROD1 subtypes, highlights its role as a lineage-specific marker, guiding the development of SEZ6-targeted antibody-drug conjugates (ADCs). Additionally, the increased SEZ6 expression following NSCLC-to-SCLC transformation suggests that SEZ6-targeted therapies could address resistance mechanisms in transformed tumors. Importantly, the association between high SEZ6 expression and shorter survival indicates that integrating SEZ6 status into diagnostic workflows could help stratify patients by risk and guide therapeutic decision-making. The findings from this study will inform future clinical trials, aiming to implement SEZ6-targeted treatments as part of precision oncology strategies for aggressive NE malignancies."
     }
   ]
 }
