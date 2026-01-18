@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-17T05:18:49.250056Z",
+  "generated": "2026-01-18T05:22:45.418203Z",
   "items": [
     {
       "pmid": "41538156",
@@ -143,6 +143,28 @@
       "abstract": "Patients diagnosed with fibrosing interstitial lung disease are at risk of several complications, some of which may be life-threatening. Computed tomography imaging plays an important role in diagnosing these overlapping conditions. This article summarizes the computed tomography imaging features of the most common conditions associated with fibrosing interstitial lung diseases, categorized by involvement of the lung parenchyma or extra-pulmonary compartments. Some steps may help to recognize such complications, such as having knowledge of the underlying fibrotic lung disease, being aware of potentially immunosuppressive treatments in use, noting new relevant symptoms, checking previous imaging examinations to detect subtle changes, and considering the exam technique, for example, to avoid false perception of ground-glass opacities in exams with insufficient inspiration. Unenhanced computed tomography may be enough to diagnose most situations, but in specific cases, for example, in the clinical suspicion of pulmonary embolism, dedicated computed tomography angiography may be warranted. Careful comparison with previous exams is advised, especially to detect subtle opacities suspicious for lung cancer, underscoring that its detection may be difficult owing to the baseline morphological lung changes. Radiologists must be aware of such possible complications to perform early diagnosis and ensure proper management."
     },
     {
+      "pmid": "41203001",
+      "doi": "10.1016/j.athoracsur.2025.10.016",
+      "title": "Clinical Characteristics and Surgical Outcomes of Patients Receiving Perioperative Pembrolizumab in KEYNOTE-671.",
+      "journal": "The Annals of thoracic surgery",
+      "pubdate": "2026-02-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "entity": "Other",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41203001/",
+      "url_doi": "https://doi.org/10.1016/j.athoracsur.2025.10.016",
+      "abstract": "BACKGROUND: The phase 3 KEYNOTE-671 study (NCT03425643) demonstrated significantly improved event-free survival (EFS) and overall survival with neoadjuvant pembrolizumab plus chemotherapy followed by surgery and adjuvant pembrolizumab vs neoadjuvant chemotherapy and surgery for early-stage non-small cell lung cancer (NSCLC). We describe participant characteristics, surgical outcomes, and EFS in surgically relevant subgroups.\n\nMETHODS: Participants with untreated, resectable, stage II-IIIB (N2) NSCLC were randomized 1:1 to neoadjuvant pembrolizumab 200 mg or placebo plus cisplatin-based chemotherapy every 3 weeks for 4 cycles, then surgery and adjuvant pembrolizumab or placebo for 13 cycles. Surgery was performed ≤20 weeks after first neoadjuvant dose (if 4 cycles of neoadjuvant therapy) or 4-8 weeks after last neoadjuvant dose (1-3 cycles); surgery beyond this was considered surgical delay. Adjuvant therapy began 4-12 weeks after surgery. EFS was assessed in the surgical population.\n\nRESULTS: Of 397 participants randomized to pembrolizumab and 400 to placebo, 325 (82.1%) and 317 (79.4%), respectively, underwent surgery. At data cutoff (July 10, 2023), 4.9% (pembrolizumab) and 7.6% (placebo) of participants experienced surgical delay; 38.9% and 28.4%, respectively, experienced nodal downstaging; 78.8% and 75.1% underwent lobectomy; and 92.0% and 84.2% had R0 resections. Pembrolizumab improved EFS irrespective of disease stage, nodal status, and type of surgery vs chemotherapy. Eight participants (pembrolizumab, n = 6; placebo, n = 2) died ≤30 days after surgery from surgery-related adverse events.\n\nCONCLUSIONS: Neoadjuvant pembrolizumab did not adversely affect surgical outcomes, was associated with numerically higher R0 resections, and improved EFS vs neoadjuvant chemotherapy in surgically relevant subgroups in early-stage NSCLC."
+    },
+    {
       "pmid": "41192526",
       "doi": "10.1016/j.cellsig.2025.112211",
       "title": "RIPK2/STAT3 signaling axis drives lung cancer metastasis through SNAIL activation: Molecular mechanisms and clinical implications.",
@@ -224,6 +246,26 @@
       "abstract": "INTRODUCTION: RRAS and RRAS2 encode a subfamily of RAS-like small GTPases that share considerable structural and functional similarities with KRAS, HRAS, and NRAS. Whether homologous RRAS/RRAS2 mutations are oncogenic and actionable drivers in lung cancer remains underexplored.\n\nMETHODS: An institutional cohort of 8,488 non-small cell lung carcinomas (NSCLC) sequenced by comprehensive targeted DNA sequencing (MSK-IMPACT) between 2016-2024 was evaluated for RRAS/RRAS2 mutations. RRASQ87L or RRAS2Q72L were modeled in murine IL3-dependent Ba/F3 cells and immortalized human bronchiolar epithelial cells (HBECs). The oncogenic potential, signaling characteristics, and sensitivity to PI3K and MAPK pathway inhibitors, including the novel pan-RAS inhibitor RMC-6236, were evaluated in vitro and in vivo.\n\nRESULTS: RRASQ87L or RRAS2Q72L, homologous to KRAS-codon Q61 substitutions, were found in ~0.45% of NSCLCs (38/8,488), with all but two lacking other MAPK pathway oncogenic drivers. RRASQ87L and RRAS2Q72L mutations transformed Ba/F3 and HBEC cells and robustly activated MAPK and PI3K-mTOR pathway signaling. RMC-6236 suppressed proliferation of RRASQ87L and RRAS2Q72L mutant cell lines, reduced ERK phosphorylation, induced apoptosis, and impeded cell-cycle progression. In vivo, RMC-6236 significantly inhibited growth of RRASQ87L/RRAS2Q72L-mutant HBEC-derived xenografts.\n\nCONCLUSIONS: RRASQ87L and RRAS2Q72L are recurrent, oncogenic, and potentially actionable drivers in NSCLC. Our study supports the inclusion of RRAS/RRAS2 into routine molecular diagnostic panels for precision oncology and provides preclinical rationale for investigating the potential therapeutic utility of pan-RAS inhibitors for patients with RRASQ87L/RRAS2Q72L-mutant lung cancers."
     },
     {
+      "pmid": "41545766",
+      "doi": "10.1038/s44321-025-00354-9",
+      "title": "NOTCH1 intracellular domain stabilization by MDM2 plays a major role in NSCLC response to platinum.",
+      "journal": "EMBO molecular medicine",
+      "pubdate": "2026-01-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s44321-025-00354-9",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41545766/",
+      "url_doi": "https://doi.org/10.1038/s44321-025-00354-9",
+      "abstract": "Despite major advances in the clinical management of non-small cell lung carcinoma (NSCLC), most patients treated with first-line platinum-based chemotherapy combined with immune checkpoint inhibitors will relapse, which constitutes an unmet medical need. Here, we found that various DNA damage inducers increase the levels of Notch Intracellular Domain (NICD), the active form of NOTCH1. Mechanistically, we revealed that, upon platinum treatment, the expression levels of both MDM2 and NICD were increased and that MDM2 stabilised NICD through ubiquitination. Using NSCLC patient-derived xenografts displaying intrinsic carboplatin resistance, we demonstrated that combining carboplatin with a γ-secretase inhibitor, which hinders NICD generation, significantly improves survival and reduces tumour growth compared with carboplatin monotherapy. Furthermore, in patients with NSCLC who received platinum-based chemotherapy, the level of MDM2 expression in the tumour correlated with poor progression-free survival, which further validates the key role of MDM2 in response to platinum compounds. Our findings present a new therapeutic opportunity for patients with NSCLC, the most common form of lung cancer."
+    },
+    {
       "pmid": "41537704",
       "doi": "10.1158/1078-0432.CCR-25-4382",
       "title": "Landscape of Genomic Mechanisms of Resistance to Selective RET Inhibitors in RET-Altered Solid Tumors: Analysis of the RETgistry Global Consortium.",
@@ -255,8 +297,8 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-25-2958/3724125/ccr-25-2958.pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41537692/",
@@ -324,6 +366,26 @@
       "abstract": null
     },
     {
+      "pmid": "41544643",
+      "doi": "10.1016/S0140-6736(25)01811-2",
+      "title": "Savolitinib plus osimertinib versus chemotherapy for advanced, EGFR mutation-positive, MET-amplified non-small-cell lung cancer in China (SACHI): interim analysis of a multicentre, open-label, phase 3 randomised controlled trial.",
+      "journal": "Lancet (London, England)",
+      "pubdate": "2026-01-13T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41544643/",
+      "url_doi": "https://doi.org/10.1016/S0140-6736(25)01811-2",
+      "abstract": "BACKGROUND: Savolitinib combined with osimertinib is a potential novel therapy for patients with EGFR mutation-positive non-small-cell lung cancer (NSCLC) harbouring MET amplification after progression on EGFR tyrosine kinase inhibitor (TKI) therapy. We aimed to evaluate the efficacy and safety of savolitinib-osimertinib versus standard of care platinum-based doublet chemotherapy in this patient population.\n\nMETHODS: SACHI was a multicentre, randomised, active-controlled, open-label, phase 3 trial conducted across 68 Chinese hospitals. Eligible adults with locally advanced or metastatic EGFR mutation-positive NSCLC and MET amplification after EGFR TKI failure were randomly assigned (1:1) to once daily oral savolitinib-osimertinib or intravenous chemotherapy (pemetrexed plus either cisplatin or carboplatin), both in 21-day cycles. Central randomisation was implemented through an interactive web-response system with stratification based on the presence of brain metastases, previous exposure to third-generation EGFR TKIs, and EGFR mutation subtype, using a mixed block-size methodology. The primary endpoint, investigator-assessed progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumours version 1.1, was tested using a hierarchical procedure: first in the third-generation EGFR TKI-naive population, and if positive, the intention-to-treat (ITT) population. Safety analysis was performed in all patients who received at least one dose of the study treatment. Interim analysis data cutoff was Aug 30, 2024. This study is registered with ClinicalTrials.gov (NCT05015608) and is complete.\n\nFINDINGS: Between Oct 15, 2021, and Aug 30, 2024, 211 patients were enrolled, 106 were randomly assigned to savolitinib-osimertinib and 105 were randomly assigned to chemotherapy, including 137 (65%) of 211 who were third-generation EGFR TKI-naive (69 in the savolitinib-osimertinib group; 68 in the chemotherapy group). In 106 patients in the savolitinib-osimertinib group, the median age was 59·4 years (IQR 54·3-65·8), 62 (58%) were female, and 44 (42%) were male. In 105 patients in the chemotherapy group, the median age was 61·9 years (IQR 56·3-69·1), 55 (52%) were female, and 50 (48%) were male. All participants were Asian. Median PFS was significantly prolonged with savolitinib-osimertinib versus chemotherapy in the third-generation EGFR TKI-naive (9·8 months [95% CI 6·9-12·5] vs 5·4 months [4·2-6·0]; hazard ratio 0·34 [0·21-0·56]; p<0·0001) and ITT populations (8·2 months [6·9-11·2] vs 4·5 months [3·0-5·4]; 0·34 [0·23-0·49]; p<0·0001). Grade 3 or worse treatment-emergent adverse events occurred in the same proportion of patients in both groups who received the study drugs (60 [57%] of 106 patients in the savolitinib-osimertinib group and 55 [57%] of 96 patients in the chemotherapy group).\n\nINTERPRETATION: The savolitinib-osimertinib combination improved PFS versus chemotherapy in patients with EGFR mutation-positive, MET-amplified NSCLC that had progressed on EGFR TKI therapy, while maintaining a favourable tolerability profile. This regimen offers a potential oral treatment option for this biomarker-selected population.\n\nFUNDING: HUTCHMED and AstraZeneca."
+    },
+    {
       "pmid": "41529222",
       "doi": "10.1200/JCO-25-01828",
       "title": "Adjuvant Durvalumab in Completely Resected Early-Stage Non-Small Cell Lung Cancer.",
@@ -384,6 +446,46 @@
       "abstract": "BACKGROUND: Patients with resectable non-small-cell lung cancer (NSCLC), particularly those with EGFR mutations, face a high risk of recurrence and mortality post-surgery. Aumolertinib, a third-generation EGFR tyrosine-kinase inhibitor, is approved in China for adjuvant treatment in patients with NSCLC harbouring EGFR with an exon 19 deletion (ex19del) or exon 21 substitution (Leu858Arg) mutation. The ARTS study aimed to evaluate the efficacy and safety of adjuvant therapy with aumolertinib in patients with stage II-IIIB EGFR-mutated NSCLC.\n\nMETHODS: This double-blind, multicentre, randomised, controlled, phase 3 trial enrolled patients from 48 hospitals in mainland China. Eligible patients were 18 years or older with stage II-IIIB NSCLC, had undergone a complete resection followed by standard adjuvant therapy, and had an EGFR ex19del or Leu858Arg mutation and an Eastern Cooperative Oncology Group performance status score of 0 or 1. Patients were stratified by EGFR mutation status and tumour stage and were randomly assigned (1:1) to receive aumolertinib 110 mg or placebo orally, once daily for 3 years or until disease recurrence or other discontinuation criteria were met. Patients were randomly allocated to groups using an interactive web response system; the double‑dummy technique masked patients, investigators, and assessors. The primary endpoint was disease-free survival in the modified intention-to treat (mITT) population (ie, all patients with stage II-IIIB NSCLC harbouring EGFR mutations who had undergone complete tumour resection and standard adjuvant therapy), assessed by blinded independent central review (BICR). Safety was assessed in all patients who received at least one dose of study treatment. Although the study is ongoing, with some patients remaining in follow-up, this analysis represents the protocol-specified primary analysis. This study is registered with ClinicalTrials.gov (NCT04687241).\n\nFINDINGS: Between April 30, 2021, and May 17, 2022, 399 individuals were screened for study eligibility; of these, 214 patients were randomly assigned to receive aumolertinib or placebo (107 in each group). 120 (56%) patients were female, 94 (44%) were male, median age was 59 years (IQR 54-66), and all patients were Chinese. 204 (95%) of 214 patients had received prior adjuvant chemotherapy. One patient in the aumolertinib group and three patients in the placebo group had stage I disease; therefore, 106 patients in the aumolertinib group and 104 in the placebo group were included in the mITT (primary analysis) population. As of the data cutoff date (April 15, 2024), the median duration of follow-up was 27·56 months (IQR 22·18-27·70) in the aumolertinib group and 27·63 months (22·18-27·79) in the placebo group. The BICR-assessed disease-free survival was significantly improved in the aumolertinib group compared with the placebo group, with an HR of 0·17 (95% CI 0·09-0·29, p<0·0001). The median disease-free survival per BICR in the aumolertinib group was not reached (95% CI 29·14 to not applicable), whereas it was 19·42 months (11·24-26·22) in the placebo group. The most common grade 3-4 adverse events in the aumolertinib group versus the placebo group were increased blood creatine phosphokinase (seven [7%] vs none), prolonged electrocardiogram QT interval (three [3%] vs three [3%]), hypertension (one [1%] vs five [5%]), and pneumonia (two [2%] vs three [3%]). Treatment-related serious adverse events occurred in one (1%) patient receiving aumolertinib and three (3%) patients receiving placebo. No treatment-related deaths occurred and no new safety signals were identified for aumolertinib.\n\nINTERPRETATION: Aumolertinib showed substantial clinical benefits as adjuvant therapy in Chinese patients with stage II-IIIB EGFR-mutated NSCLC. The manageable safety profile of aumolertinib supports its suitability in the adjuvant setting.\n\nFUNDING: Hansoh Pharmaceutical Group.\n\nTRANSLATION: For the Chinese translation of the abstract see Supplementary Materials section."
     },
     {
+      "pmid": "41546894",
+      "doi": "10.1016/j.lungcan.2026.108918",
+      "title": "Combined intrathecal therapy via Ommaya reservoir and whole-brain radiotherapy improves survival in EGFR-mutant NSCLC patients with leptomeningeal metastases: a real-world cohort study.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-01-12T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41546894/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108918",
+      "abstract": "OBJECTIVE: This study aimed to evaluate the survival benefit of combined intrathecal treatment (IT) via Ommaya reservoir and whole-brain radiotherapy (WBRT) in EGFR-mutant non-small cell lung cancer (NSCLC) patients with leptomeningeal metastases (LM).\n\nMETHODS: We retrospectively analyzed EGFR-mutant NSCLC patients with LM diagnosed between January 2019 and September 2024. Patients were included if they had cytologically or radiologically confirmed LM and prior EGFR-TKI exposure. Clinical data, cerebrospinal fluid (CSF) profiles (cytology, biochemistry, molecular features), and treatment details were collected. Local therapies included WBRT (30-37.5 Gy in 10-15 fractions) and IT pemetrexed via Ommaya reservoir (10-20 mg weekly for 4 weeks, then bi-weekly for 2 months, followed by monthly maintenance). Overall survival (OS) was analyzed using Kaplan-Meier method and Cox regression. A prognostic nomogram was developed and validated.\n\nRESULTS: Among 200 included patients, the median OS was 12.3 months (95% CI: 10.8-13.8). Patients receiving local therapy (n = 149) had longer OS than those without (n = 51) (13.1 vs. 8.8 months; HR = 0.78, p = 0.001). The combination of IT and WBRT was associated with the best survival outcome (median OS 18.5 months). In CSF analysis, the initial cytology positivity rate was 74.4% (128/172), and normal lactate dehydrogenase (LDH) and chloride levels were associated with longer OS (p < 0.05). Multivariate analysis identified ECOG score, prior third-generation TKI, third-generation TKI plus anti-angiogenic therapy, and local therapy as independent prognostic factors.\n\nCONCLUSION: The combination of IT via Ommaya reservoir and WBRT may result in better survival in EGFR-mutant NSCLC patients with LM and represents a promising treatment strategy for this patient population."
+    },
+    {
+      "pmid": "41544598",
+      "doi": "10.1016/j.lungcan.2026.108930",
+      "title": "KRAS-mutant advanced NSCLC: efficacy and clinical outcomes from network meta-analysis and real-world evidence.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-01-12T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41544598/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108930",
+      "abstract": "BACKGROUND: KRAS is a common driver gene in non-small cell lung cancer (NSCLC). Owing to the absence of universally effective targeted agents and marked heterogeneity, optimal treatment selection for KRAS-mutant NSCLC remains uncertain. This study combined network meta-analysis (NMA) with real-world evidence to inform precision treatment strategies.\n\nMETHODS: Thirteen randomized controlled trials were included in a Bayesian NMA to compare efficacy outcomes across regimens in KRAS-mutant and KRAS G12C-mutant NSCLC. In parallel, real-world data from advanced KRAS-mutant NSCLC patients treated at our center were analyzed.\n\nRESULTS: Across KRAS and G12C NMAs, immunotherapy-based regimens generally outperformed chemotherapy-based regimens. PD-(L)1 inhibitors monotherapy ranked highest for overall survival (OS), while chemotherapy plus PD-(L)1 inhibitors and anti-angiogenic therapy (anti-VEGF) ranked highest for progression-free survival (PFS). Chemotherapy plus dual immune checkpoint blockade (PD-(L)1 and CTLA-4) yielded a greater improvement in OS than in PFS. In our real-world cohort, first-line PD-(L)1 monotherapy achieved the best outcomes (objective response rate: 88.9%; median PFS: 22.2 months), followed by chemotherapy plus PD-(L)1 ± anti-VEGF. On multivariable analysis, ECOG performance status 0-1, PD-L1 TPS ≥ 50%, TMB ≥ 10 mut/Mb, and chemotherapy plus PD-(L)1 ± anti-VEGF were independently associated with longer first-line PFS. In subsequent lines, G12C inhibitors significantly improved outcomes versus other therapies, whereas non-G12C disease derived limited benefit from available strategies.\n\nCONCLUSIONS: Immunotherapy constitutes the cornerstone of first-line therapy for KRAS-mutant NSCLC. Within this framework, PD-(L)1 monotherapy may be appropriate for carefully selected patients with high PD-L1 expression, whereas chemoimmunotherapy can extend benefit to broader subgroups; escalation with anti-VEGF or anti-CTLA-4 agents appears clinically promising and merits biomarker-driven prospective evaluation. KRAS G12C inhibitors are effective in later lines, while treatment options for non-G12C disease remain limited."
+    },
+    {
       "pmid": "41534788",
       "doi": "10.1016/j.jtho.2026.01.001",
       "title": "Osimertinib and stereotactic radiosurgery for brain metastases in EGFR mutated lung cancer - The STARLET joint analysis of OUTRUN and LUOSICNS randomised trials.",
@@ -422,26 +524,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41534787/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2026.01.002",
       "abstract": "INTRODUCTION: The cardiovascular toxicity of radiation therapy (RT) remains incompletely understood in patients with non-small cell lung cancer (NSCLC). Our objective was to define changes in echocardiographic parameters of structure and function with RT and their associations with cardiac dose-volume metrics.\n\nMETHODS: This multi-center, longitudinal prospective cohort study included participants with NSCLC who received standard, curative-intent thoracic RT. Dose-volume metrics were extracted from centrally contoured cardiac substructures. Echocardiograms at baseline, end of RT, six months post-RT, and 12 months post-RT were core lab-quantified. Repeated-measures multivariable linear regression via generalized estimating equations estimated changes in echocardiographic measures and associations with dose-volume metrics.\n\nRESULTS: Across 125 participants, there was a modest worsening in left ventricular ejection fraction (LVEF) (p=0.019), global longitudinal strain (p<0.001), circumferential strain (p<0.001), and Ea/Ees (p=0.011) post-RT that largely recovered by 12 months. Cardiac dysfunction, defined as LVEF declines of ≥10% to <50%, occurred in 7.2% of participants at a median of 1.7 months after RT initiation. Mean heart dose (MHD) was associated with LVEF declines (-1.1%, 95% confidence interval (CI) [-2.2,0.0] per interquartile range (IQR) increase, p=0.044), as was whole heart V30 (-1.4%, 95%CI[-2.5,-0.3] per IQR increase, p=0.015); with multiple comparisons adjustment, whole heart V30 remained significant (p=0.030).\n\nCONCLUSIONS: On average, there were modest changes in cardiac function immediately after RT in patients with NSCLC, with a subset experiencing clinically relevant cardiac dysfunction. While whole heart V30 was associated with LVEF declines, suggesting its relevance in RT planning, there is also a need for newer dose-volume measures."
-    },
-    {
-      "pmid": "41526205",
-      "doi": "10.1016/j.lungcan.2026.108909",
-      "title": "Corrigendum to \"Global trends in lung cancer incidence and mortality by age, gender and morphology and forecast: A bootstrap-based analysis\". [Lung Cancer 205 (2025) 108626].",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-01-11T00:00:00+00:00",
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(26)00004-8/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41526205/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108909",
-      "abstract": null
     }
   ]
 }
