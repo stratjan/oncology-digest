@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-19T05:29:41.651100Z",
+  "generated": "2026-01-20T05:27:56.022885Z",
   "items": [
     {
       "pmid": "41538156",
@@ -13,8 +13,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12809417/",
       "metric_name": "SJR",
       "metric_value": 8.377,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41538156/",
@@ -40,26 +40,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41532856/",
       "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-1483",
       "abstract": "The bispecific antibody tarlatamab recruits T cells to cancers expressing the neuroendocrine epitope DLL3. Tarlatamab is effective in small cell lung cancer (SCLC), but clinical outcomes vary, and no biomarkers enable patient selection. Single-cell RNA sequencing of SCLC biopsies identifies heterogeneity in DLL3 expression, and analysis of circulating tumor cells (CTCs) distinguishes individual patients as predominantly DLL3Pos or DLL3Low. In a prospective cohort of 20 patients, pretreatment DLL3 expression on CTCs predicts tarlatamab clinical benefit (85% sensitivity, 100% specificity). Necrotic CTC clusters in blood accompany treatment-induced tumor lysis. Acquired resistance to tarlatamab is associated in some cases with loss of DLL3 expression, but persistence of other targetable neuro-endocrine epitopes; in other patients, DLL3 is retained on CTCs, but accompanied by systemic markers of T cell dysfunction. Quantitation of DLL3-positive CTCs identifies patients likely to benefit from tarlatamab, and longitudinal monitoring may guide therapeutic decision-making at the time of acquired resistance."
-    },
-    {
-      "pmid": "41525686",
-      "doi": "10.1158/2159-8290.CD-25-1222",
-      "title": "PD1 blockade-induced DKK1 expression by CD8+ T cells promotes blood-brain barrier permeabilization.",
-      "journal": "Cancer discovery",
-      "pubdate": "2026-01-13T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1158/2159-8290.cd-25-1222",
-      "metric_name": "SJR",
-      "metric_value": 7.283,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41525686/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-1222",
-      "abstract": "Anti-PD1 therapy benefits a subset of brain metastasis (BrM) patients; however, heterogeneous responses imply an incomplete understanding of the brain-immune ecosystem. To elucidate host-driven determinants of this variability, we performed single-cell RNA sequencing to characterize the brain microenvironment. While anti-PD1 induced robust anti-tumor immune activation, it uniquely, among all ICIs tested, compromised blood-brain barrier (BBB) integrity. This permeabilization was mediated by DKK1-expressing activated CD8⁺ T cells through the induction of β-catenin/TCF and FOXM1 pathways, contributing to endothelial cell destabilization. Depleting plasma-DKK1 restored BBB integrity and reduced experimental BrM formation. Clinically, lung cancer patients receiving anti-PD1 exhibited increased MRI contrast enhancement in the brain, suggestive of BBB perturbations, and increasing plasma DKK1 levels correlated with higher BrM incidence in non-responders. Sequencing anti-PD1 followed by cisplatin improved intracranial cisplatin delivery and therapeutic efficacy in ICI-resistant BrM. These findings identify anti-PD1-induced BBB modulation as a tractable vulnerability in BrM management."
     },
     {
       "pmid": "41203001",
@@ -102,6 +82,27 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
       "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
       "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
+    },
+    {
+      "pmid": "41553307",
+      "doi": "10.1016/j.jtho.2025.12.001",
+      "title": "Biology and Clinical Management of Non-V600 BRAF Alterations in NSCLC.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2026-01-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41553307/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2025.12.001",
+      "abstract": "BRAF mutations are detected in approximately 3% to 8% of patients with NSCLC. In contrast to melanoma, in which most BRAF mutations occur at the V600 codon, only approximately 35% of BRAF-mutant NSCLC tumors harbor V600 mutations. Among the remaining cases, 60% to 70% present non-V600 mutations, primarily in exons 11 and 15. BRAF mutations are classified into three classes according to their kinase activity and their dependence on RAS activation. Compared with class I (V600), patients with class II and class III mutations are associated with poorer clinical outcomes partly due to the lack of effective targeted therapeutic strategies. Indeed, although dual BRAF and MEK inhibition has demonstrated clinical benefit in BRAF V600-mutant NSCLC, there is currently no consensus on treatment strategies for patients with class II and class III mutations. Beyond point mutations, other BRAF alterations (e.g., gene fusions, deletions, and amplifications) have been identified in treatment-naive tumors and in the context of acquired resistance to targeted therapies in other oncogene-driven NSCLC subtypes. However, the biology and clinical implications of these alterations remain poorly characterized. In this review, we provide a comprehensive overview on the biology, epidemiology, and therapeutic strategies of class II/III BRAF mutations, fusions, deletions, and amplifications in NSCLC. We highlight current challenges in the clinical management of BRAF-mutant NSCLC, emerging inhibitors, and combinatorial therapeutic strategies developed to treat non-V600E BRAF-driven cancers. Finally, we briefly discuss BRAF alterations in the context of resistance to targeted therapies in other oncogene-driven NSCLC."
     },
     {
       "pmid": "41389771",
@@ -177,7 +178,7 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s44321-025-00354-9",
+      "oa_url": "https://link.springer.com/content/pdf/10.1038/s44321-025-00354-9.pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41545766/",
@@ -283,66 +284,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41534001/",
       "url_doi": "https://doi.org/10.1200/JCO-25-02726",
       "abstract": null
-    },
-    {
-      "pmid": "41544643",
-      "doi": "10.1016/S0140-6736(25)01811-2",
-      "title": "Savolitinib plus osimertinib versus chemotherapy for advanced, EGFR mutation-positive, MET-amplified non-small-cell lung cancer in China (SACHI): interim analysis of a multicentre, open-label, phase 3 randomised controlled trial.",
-      "journal": "Lancet (London, England)",
-      "pubdate": "2026-01-13T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41544643/",
-      "url_doi": "https://doi.org/10.1016/S0140-6736(25)01811-2",
-      "abstract": "BACKGROUND: Savolitinib combined with osimertinib is a potential novel therapy for patients with EGFR mutation-positive non-small-cell lung cancer (NSCLC) harbouring MET amplification after progression on EGFR tyrosine kinase inhibitor (TKI) therapy. We aimed to evaluate the efficacy and safety of savolitinib-osimertinib versus standard of care platinum-based doublet chemotherapy in this patient population.\n\nMETHODS: SACHI was a multicentre, randomised, active-controlled, open-label, phase 3 trial conducted across 68 Chinese hospitals. Eligible adults with locally advanced or metastatic EGFR mutation-positive NSCLC and MET amplification after EGFR TKI failure were randomly assigned (1:1) to once daily oral savolitinib-osimertinib or intravenous chemotherapy (pemetrexed plus either cisplatin or carboplatin), both in 21-day cycles. Central randomisation was implemented through an interactive web-response system with stratification based on the presence of brain metastases, previous exposure to third-generation EGFR TKIs, and EGFR mutation subtype, using a mixed block-size methodology. The primary endpoint, investigator-assessed progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumours version 1.1, was tested using a hierarchical procedure: first in the third-generation EGFR TKI-naive population, and if positive, the intention-to-treat (ITT) population. Safety analysis was performed in all patients who received at least one dose of the study treatment. Interim analysis data cutoff was Aug 30, 2024. This study is registered with ClinicalTrials.gov (NCT05015608) and is complete.\n\nFINDINGS: Between Oct 15, 2021, and Aug 30, 2024, 211 patients were enrolled, 106 were randomly assigned to savolitinib-osimertinib and 105 were randomly assigned to chemotherapy, including 137 (65%) of 211 who were third-generation EGFR TKI-naive (69 in the savolitinib-osimertinib group; 68 in the chemotherapy group). In 106 patients in the savolitinib-osimertinib group, the median age was 59·4 years (IQR 54·3-65·8), 62 (58%) were female, and 44 (42%) were male. In 105 patients in the chemotherapy group, the median age was 61·9 years (IQR 56·3-69·1), 55 (52%) were female, and 50 (48%) were male. All participants were Asian. Median PFS was significantly prolonged with savolitinib-osimertinib versus chemotherapy in the third-generation EGFR TKI-naive (9·8 months [95% CI 6·9-12·5] vs 5·4 months [4·2-6·0]; hazard ratio 0·34 [0·21-0·56]; p<0·0001) and ITT populations (8·2 months [6·9-11·2] vs 4·5 months [3·0-5·4]; 0·34 [0·23-0·49]; p<0·0001). Grade 3 or worse treatment-emergent adverse events occurred in the same proportion of patients in both groups who received the study drugs (60 [57%] of 106 patients in the savolitinib-osimertinib group and 55 [57%] of 96 patients in the chemotherapy group).\n\nINTERPRETATION: The savolitinib-osimertinib combination improved PFS versus chemotherapy in patients with EGFR mutation-positive, MET-amplified NSCLC that had progressed on EGFR TKI therapy, while maintaining a favourable tolerability profile. This regimen offers a potential oral treatment option for this biomarker-selected population.\n\nFUNDING: HUTCHMED and AstraZeneca."
-    },
-    {
-      "pmid": "41529222",
-      "doi": "10.1200/JCO-25-01828",
-      "title": "Adjuvant Durvalumab in Completely Resected Early-Stage Non-Small Cell Lung Cancer.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-13T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41529222/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01828",
-      "abstract": "PURPOSE: Adjuvant immunotherapy improved patient outcomes in two trials in completely resected non-small cell lung cancer (NSCLC), but with conflicting primary end point results. The Canadian Cancer Trials Group BR.31 trial evaluated adjuvant durvalumab in completely resected early-stage NSCLC.\n\nMETHODS: Following resection of stage IB (≥4 cm) to IIIA NSCLC (American Joint Committee on Cancer 7th Edition) and optional adjuvant chemotherapy, patients were randomly assigned 2:1 to durvalumab 20 mg/kg or placebo 20 mg/kg once every 4 weeks for 12 cycles. Random assignment was stratified by stage, extent of nodal dissection, tumor cell (TC) PD-L1 expression, adjuvant chemotherapy use, and center. The primary end point was investigator-assessed disease-free survival (DFS). Secondary outcomes included overall survival (OS), adverse events, and quality of life. The primary analysis was in the subgroup with cancers that had a PD-L1 TC expression ≥25%, no common activating\n\nRESULTS: Of 1,415 patients randomly assigned, 1,219 (86%) had\n\nCONCLUSION: Adjuvant durvalumab following complete resection was not associated with improvement in DFS compared with placebo in"
-    },
-    {
-      "pmid": "41529214",
-      "doi": "10.1200/JCO-25-01569",
-      "title": "Chemoradiation ± Atezolizumab in Limited-Stage Small Cell Lung Cancer: Results of NRG Oncology/Alliance LU005.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-13T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41529214/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01569",
-      "abstract": "PURPOSE: NRG Oncology/Alliance LU005 (ClinicalTrials.gov identifier: NCT03811002) tested the addition of atezolizumab to concurrent chemoradiation (CRT) in this open-label, phase III international trial.\n\nMETHODS: Patients with limited-stage small cell lung cancer (LS-SCLC), stage Tx-IV, N0-3, and M0 with Eastern Cooperative Group performance status (PS) 0-2 received one cycle of chemotherapy (platinum/etoposide) before study registration and were randomly assigned to CRT alone versus CRT plus concurrent and adjuvant atezolizumab, 1,200 mg once daily, every 3 weeks until investigator-assessed progression or intolerable side effects for a maximum of 17 cycles. Patients were stratified by choice of chemotherapy (cisplatin\n\nRESULTS: patients were randomly assigned from May 2019 to December 2023. The median OS was 36.1 months (95% CI, 28.1 to 42.5) for the CRT-alone arm and 31.1 months (95% CI, 28.5 to 44.7) for the CRT + atezolizumab arm, respectively (hazard ratio [HR], 1.03 [95% CI, 0.80 to 1.32]). The median PFS was 11.4 months (95% CI, 10.3 to 13.2) for the CRT-alone arm and 12.1 months (95% CI, 10.9 to 15.2) for the CRT + atezolizumab arm, respectively (HR, 0.98 [95% CI, 0.79 to 1.22]). The median DMFS was 13.0 months (95% CI, 11.3 to 18.2) for the CRT-alone arm and 16.8 months (95% CI, 12.1 to 21.6) for the CRT + atezolizumab arm (HR, 0.96 [95% CI, 0.76 to 1.21]). No unexpected safety signals with concurrent atezolizumab were observed.\n\nCONCLUSION: Concurrent and adjuvant atezolizumab with chemoradiation did not improve survival in patients with LS-SCLC."
     }
   ]
 }
