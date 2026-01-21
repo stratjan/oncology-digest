@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-20T05:27:56.022885Z",
+  "generated": "2026-01-21T05:26:57.611566Z",
   "items": [
     {
       "pmid": "41538156",
@@ -22,24 +22,64 @@
       "abstract": "IMPORTANCE: Lymph node dissection for early-stage lung adenocarcinoma is controversial. Histologic pattern subtyping reveals heterogeneity of lung adenocarcinoma, yet its association with lymph node involvement and dissection is understudied.\n\nOBJECTIVE: To assess the association between guideline-adherent lymph node dissection, histologic pattern subtyping, and overall survival in patients with clinical T1N0M0 lung adenocarcinoma.\n\nDESIGN, SETTING, AND PARTICIPANTS: This multicenter cohort study used data from the National Cancer Center LungReal database, a multicenter, electronic health records-based database for patients undergoing surgery for lung cancer, from January 2014 to December 2021, with the last follow-up in December 2022. Patients were categorized based on histologic pattern of adenocarcinoma into 2 groups: lepidic without high-grade pattern, and high-grade or no lepidic pattern. The data analysis was performed from April to November 2025.\n\nEXPOSURE: Lymph node dissection adherence or nonadherence with the 3 + 1 standard (3 N2 plus 1 N1 station) and the 6-station standard (the subcarinal plus 2 other N2 stations and 3 N1 stations).\n\nMAIN OUTCOME AND MEASURE: Overall survival.\n\nRESULTS: Of 35 265 patients screened, 27 191 participants (mean [SD] age, 58.3 [11.7] years; 16 280 female [59.9%] and 10 911 male [40.1%] individuals) from 19 centers were included; among them, 15 593 (57.3%) received lymph node dissection adherent with the 3 + 1 standard and 4023 (14.8%) with the 6-station standard. Among the group of 13 369 patients (49.2%) with adenocarcinoma of lepidic without high-grade pattern, no association was observed between survival and adherence with the 3 + 1 standard (hazard ratio [HR], 0.81; 95% CI, 0.57-1.15) or the 6-station standard (HR, 0.54; 95% CI, 0.26-1.13). Whereas, among the group of 13 822 patients (50.8%) with adenocarcinoma of high-grade or no lepidic pattern, adherence with the 3 + 1 standard (HR, 0.81; 95% CI, 0.69-0.95; absolute risk difference at 3-year, 1.2%; 95% CI, 0.2%-2.2%; E-value, 1.78) or the 6-station standard (HR, 0.61; 95% CI, 0.45-0.83; absolute risk difference at 3 years, 1.0%; 95% CI, 0.1%-1.9%; E-value, 2.67) was associated with a significant but small absolute survival benefit.\n\nCONCLUSION AND RELEVANCE: In this cohort study, guideline-adherent nodal dissection was associated with small absolute survival benefit for patients with adenocarcinoma of high-grade or no lepidic pattern, but not for those with lepidic without high-grade pattern. These observational findings warrant prospective validation and should not be interpreted as causal."
     },
     {
-      "pmid": "41532856",
-      "doi": "10.1158/2159-8290.CD-25-1483",
-      "title": "Circulating Tumor Cells Predict Response to the DLL3-targeting Bispecific Antibody Tarlatamab.",
+      "pmid": "41557983",
+      "doi": "10.1158/2159-8290.CD-25-1346",
+      "title": "Preclinical Characterization and Clinical Activity of RNK08954, a Highly Selective and Orally Bioavailable KRAS G12D Inhibitor.",
       "journal": "Cancer discovery",
-      "pubdate": "2026-01-14T00:00:00+00:00",
+      "pubdate": "2026-01-21T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
       "entity": "Other",
       "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1158/2159-8290.cd-25-1483",
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
       "metric_name": "SJR",
       "metric_value": 7.283,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41532856/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-1483",
-      "abstract": "The bispecific antibody tarlatamab recruits T cells to cancers expressing the neuroendocrine epitope DLL3. Tarlatamab is effective in small cell lung cancer (SCLC), but clinical outcomes vary, and no biomarkers enable patient selection. Single-cell RNA sequencing of SCLC biopsies identifies heterogeneity in DLL3 expression, and analysis of circulating tumor cells (CTCs) distinguishes individual patients as predominantly DLL3Pos or DLL3Low. In a prospective cohort of 20 patients, pretreatment DLL3 expression on CTCs predicts tarlatamab clinical benefit (85% sensitivity, 100% specificity). Necrotic CTC clusters in blood accompany treatment-induced tumor lysis. Acquired resistance to tarlatamab is associated in some cases with loss of DLL3 expression, but persistence of other targetable neuro-endocrine epitopes; in other patients, DLL3 is retained on CTCs, but accompanied by systemic markers of T cell dysfunction. Quantitation of DLL3-positive CTCs identifies patients likely to benefit from tarlatamab, and longitudinal monitoring may guide therapeutic decision-making at the time of acquired resistance."
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557983/",
+      "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-1346",
+      "abstract": "KRAS G12D is the most prevalent subtype of KRAS mutation across solid tumors, but no drug is available in the clinic. RNK08954 is a potent and selective KRAS G12D inhibitor that inhibits proliferation of KRAS G12D-mutant cells and demonstrates significant tumor regressions in mouse xenograft models while inhibiting KRAS-mediated signaling. The in vivo effects of RNK08954 are explained by its unique pharmacokinetic (PK) profile and significantly prolonged retention time in tumor tissues. RNK08954 shows synergy with immune check blockade (ICB). In a Phase 1a study, the median follow-up was 4.85 months for 36 evaluable patients. In patients with non-small cell lung cancer (NSCLC), the objective response rate (ORR, unconfirmed) is 58.33%, and in patients with pancreatic ductal adenocarcinoma (PDAC) the ORR (unconfirmed) was 33.33% in the 1000-1200mg cohort. This study supports the clinical potential of RNK08954 in patients with KRAS G12D mutation either as a single agent or in combination."
+    },
+    {
+      "pmid": "41554849",
+      "doi": "10.1038/s41698-025-01267-z",
+      "title": "Validation of histopathology-based deep learning algorithms for detection of actionable non-small cell lung cancer biomarkers.",
+      "journal": "NPJ precision oncology",
+      "pubdate": "2026-01-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.37,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41554849/",
+      "url_doi": "https://doi.org/10.1038/s41698-025-01267-z",
+      "abstract": "Non-small cell lung cancer (NSCLC) patient management relies on molecular analysis to determine eligibility for targeted therapy. Furthermore, neoadjuvant immunotherapy is primarily suitable in the absence of specific genomic alterations. However, significant challenges remain, including suboptimal molecular testing and patients being assigned to non-optimal treatment strategies. Here, we present AI classifiers for the identification of EGFR, ALK, BRAF and MET alterations directly from hematoxylin and eosin (H&E)-stained tissue using CanvOI 1.1, a digital pathology foundation model. Their performance was evaluated on an independent validation dataset of 968 NSCLC samples. The classifiers achieved AUCs of 0.87 for EGFR, 0.96 for ALK, 0.88 for BRAF and 0.83 for MET. Moreover, they demonstrated high accuracy in identifying cases lacking alterations. Our results highlight the potential of deep-learning tools for the detection of NSCLC biomarkers and specifically the identification of tumors without EGFR or ALK driver alterations, supporting more informed clinical decision-making."
+    },
+    {
+      "pmid": "41555860",
+      "doi": "10.1177/17588359251414535",
+      "title": "Impact of vulnerability on concurrent chemoradiotherapy outcomes in patients with locally advanced non-small cell lung cancer using an integrated clinical trial database.",
+      "journal": "Therapeutic advances in medical oncology",
+      "pubdate": "2026-01-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1177/17588359251414535",
+      "metric_name": "SJR",
+      "metric_value": 1.549,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41555860/",
+      "url_doi": "https://doi.org/10.1177/17588359251414535",
+      "abstract": "BACKGROUND: The effect of vulnerability on the outcomes of patients with locally advanced non-small cell lung cancer (NSCLC) undergoing concurrent chemoradiotherapy (CCRT) remains unclear.\n\nOBJECTIVES: To examine the impact of vulnerability on the outcomes in patients with locally advanced NSCLC undergoing CCRT.\n\nDESIGN: We analyzed data from the Japan Lung Cancer Society Integrated Clinical Trial Database, which included 1288 patients with locally advanced NSCLC treated with CCRT.\n\nMETHODS: Vulnerability was defined as meeting one or more of the following: age ⩾75 years; history of chronic obstructive pulmonary disease (COPD) or emphysema; chronic kidney disease with at least one other comorbidity; or cancer cachexia (C-reactive protein >1.0 mg/dL and albumin <3.5 g/dL).\n\nRESULTS: Among 741 eligible patients, 283 (38.2%) were classified as vulnerable. Vulnerable patients had significantly shorter overall survival (OS; 19.7 vs 27.4 months,\n\nCONCLUSION: Clinical vulnerability was associated with poorer OS after CCRT, mediated by multiple factors, including reduced CDDP use, lower subsequent therapy rates, and cachexia. Individualized strategies that balance treatment intensity, supportive care, and access to post-CCRT are essential for improving outcomes."
     },
     {
       "pmid": "41203001",
@@ -82,6 +122,86 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
       "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
       "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
+    },
+    {
+      "pmid": "41557980",
+      "doi": "10.1200/JCO-25-01794",
+      "title": "Radiosurgery for Small Cell Lung Cancer Brain Metastases: Comparing the JLGK0901 and BWH/DFCI Trials.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-01-20T00:00:00+00:00",
+      "pubtypes": [
+        "Letter"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557980/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01794",
+      "abstract": null
+    },
+    {
+      "pmid": "41557979",
+      "doi": "10.1200/JCO-25-01867",
+      "title": "Expanding Indications for Stereotactic Radiosurgery in Small Cell Lung Cancer With Brain Metastases.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-01-20T00:00:00+00:00",
+      "pubtypes": [
+        "Letter"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557979/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01867",
+      "abstract": null
+    },
+    {
+      "pmid": "41557973",
+      "doi": "10.1200/JCO-25-01729",
+      "title": "Limitations in Study Design and Stratification in Phase II Stereotactic Radiosurgery Trial for Small Cell Lung Cancer Brain Metastases.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-01-20T00:00:00+00:00",
+      "pubtypes": [
+        "Letter"
+      ],
+      "entity": "SCLC",
+      "trial_type": "Phase II",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557973/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01729",
+      "abstract": null
+    },
+    {
+      "pmid": "41557968",
+      "doi": "10.1200/JCO-25-02528",
+      "title": "Reply to: \"Limitations in Study Design and Stratification in Phase II Stereotactic Radiosurgery Trial for Small Cell Lung Cancer Brain Metastases,\" \"Radiosurgery for Small Cell Lung Cancer Brain Metastases: Comparing the JLGK0901 and BWH/DFCI Trials,\" and \"Expanding Indications for Stereotactic Radiosurgery in Small Cell Lung Cancer With Brain Metastases\".",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-01-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": "Phase II",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557968/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-02528",
+      "abstract": null
     },
     {
       "pmid": "41553307",
@@ -244,46 +364,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41538410/",
       "url_doi": "https://doi.org/10.1126/science.adz9353",
       "abstract": "Understanding how cells make decisions over time requires the ability to link past molecular states to future phenotypic outcomes. We present TimeVault, a genetically encoded system that records and stores transcriptomes within living mammalian cells for future readout. TimeVault leverages engineered vault particles that capture mRNA through poly(A) binding protein. We demonstrate that the transcriptome stored by TimeVaults is stable in living cells for over 7 days. TimeVault enables high-fidelity transcriptome-wide recording with minimal cellular perturbation, capturing transient stress responses and revealing gene expression changes underlying drug-naive persister states in lung cancer cells that evade EGFR inhibition. By linking past and present cellular states, TimeVault provides a powerful tool for decoding how cells respond to stress, make fate decisions, and resist therapy."
-    },
-    {
-      "pmid": "41535475",
-      "doi": "10.1038/s41586-026-10104-7",
-      "title": "Retraction Note: Antibodies against endogenous retroviruses promote lung cancer immunotherapy.",
-      "journal": "Nature",
-      "pubdate": "2026-01-14T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41586-026-10104-7",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41535475/",
-      "url_doi": "https://doi.org/10.1038/s41586-026-10104-7",
-      "abstract": null
-    },
-    {
-      "pmid": "41534001",
-      "doi": "10.1200/JCO-25-02726",
-      "title": "Timing Is of the Essence: Sequencing Immune Checkpoint Blockade and Radiotherapy for Success in Lung Cancer.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-14T00:00:00+00:00",
-      "pubtypes": [
-        "Editorial"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41534001/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02726",
-      "abstract": null
     }
   ]
 }
