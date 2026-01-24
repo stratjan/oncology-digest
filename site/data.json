@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-23T05:25:14.224424Z",
+  "generated": "2026-01-24T05:19:32.868843Z",
   "items": [
     {
       "pmid": "41569596",
@@ -62,6 +62,26 @@
       "abstract": "Non-small cell lung cancer (NSCLC) patient management relies on molecular analysis to determine eligibility for targeted therapy. Furthermore, neoadjuvant immunotherapy is primarily suitable in the absence of specific genomic alterations. However, significant challenges remain, including suboptimal molecular testing and patients being assigned to non-optimal treatment strategies. Here, we present AI classifiers for the identification of EGFR, ALK, BRAF and MET alterations directly from hematoxylin and eosin (H&E)-stained tissue using CanvOI 1.1, a digital pathology foundation model. Their performance was evaluated on an independent validation dataset of 968 NSCLC samples. The classifiers achieved AUCs of 0.87 for EGFR, 0.96 for ALK, 0.88 for BRAF and 0.83 for MET. Moreover, they demonstrated high accuracy in identifying cases lacking alterations. Our results highlight the potential of deep-learning tools for the detection of NSCLC biomarkers and specifically the identification of tumors without EGFR or ALK driver alterations, supporting more informed clinical decision-making."
     },
     {
+      "pmid": "41574603",
+      "doi": "10.1172/jci.insight.197008",
+      "title": "EGFR-mutant transformed small cell lung cancer harbors intratumoral heterogeneity targetable with MEK inhibitor combination therapy.",
+      "journal": "JCI insight",
+      "pubdate": "2026-01-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1172/jci.insight.197008",
+      "metric_name": "SJR",
+      "metric_value": 2.917,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41574603/",
+      "url_doi": "https://doi.org/10.1172/jci.insight.197008",
+      "abstract": "Small cell lung cancer (SCLC) transformation is an incompletely characterized mechanism of resistance to epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) in EGFR-mutant cancers, limiting development of optimal treatment approaches. Through single-cell RNA sequencing of malignant pleural effusions from patients who underwent SCLC transformation, we identified heterogeneity and diversity, including distinct neuroendocrine (NE) and mesenchymal non-NE cancer cell subsets, which were maintained in patient-derived cell lines. We demonstrate that EZH2 regulates EGFR expression in NE cells where EGFR expression is silenced at baseline. Although neither epigenetic derepression nor exogenous overexpression of mutant EGFR sensitized the cells to EGFR inhibition, non-NE cells exhibited selective sensitivity to MEK inhibitors. Combined MEK inhibitor and chemotherapy effectively inhibited growth of both NE and non-NE cells in vitro and in vivo. Our findings demonstrate that EGFR-mutant SCLC is composed of mixed cell states with distinct therapeutic vulnerabilities and offer a therapeutic strategy to target tumor heterogeneity in highly plastic and treatment-resistant malignancies such as transformed SCLC."
+    },
+    {
       "pmid": "41419100",
       "doi": "10.1016/j.canlet.2025.218223",
       "title": "Consensus on the diagnosis and treatment of unresectable stage III driver gene-positive non-small cell lung cancer.",
@@ -81,26 +101,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41419100/",
       "url_doi": "https://doi.org/10.1016/j.canlet.2025.218223",
       "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
-    },
-    {
-      "pmid": "41555860",
-      "doi": "10.1177/17588359251414535",
-      "title": "Impact of vulnerability on concurrent chemoradiotherapy outcomes in patients with locally advanced non-small cell lung cancer using an integrated clinical trial database.",
-      "journal": "Therapeutic advances in medical oncology",
-      "pubdate": "2026-01-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1177/17588359251414535",
-      "metric_name": "SJR",
-      "metric_value": 1.549,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41555860/",
-      "url_doi": "https://doi.org/10.1177/17588359251414535",
-      "abstract": "BACKGROUND: The effect of vulnerability on the outcomes of patients with locally advanced non-small cell lung cancer (NSCLC) undergoing concurrent chemoradiotherapy (CCRT) remains unclear.\n\nOBJECTIVES: To examine the impact of vulnerability on the outcomes in patients with locally advanced NSCLC undergoing CCRT.\n\nDESIGN: We analyzed data from the Japan Lung Cancer Society Integrated Clinical Trial Database, which included 1288 patients with locally advanced NSCLC treated with CCRT.\n\nMETHODS: Vulnerability was defined as meeting one or more of the following: age ⩾75 years; history of chronic obstructive pulmonary disease (COPD) or emphysema; chronic kidney disease with at least one other comorbidity; or cancer cachexia (C-reactive protein >1.0 mg/dL and albumin <3.5 g/dL).\n\nRESULTS: Among 741 eligible patients, 283 (38.2%) were classified as vulnerable. Vulnerable patients had significantly shorter overall survival (OS; 19.7 vs 27.4 months,\n\nCONCLUSION: Clinical vulnerability was associated with poorer OS after CCRT, mediated by multiple factors, including reduced CDDP use, lower subsequent therapy rates, and cachexia. Individualized strategies that balance treatment intensity, supportive care, and access to post-CCRT are essential for improving outcomes."
     },
     {
       "pmid": "41475048",
@@ -439,13 +439,33 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41586-025-09985-x",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41565826/",
       "url_doi": "https://doi.org/10.1038/s41586-025-09985-x",
       "abstract": "Plasticity-the ability of cells to undergo phenotypic transitions-drives cancer progression and therapy resistance"
+    },
+    {
+      "pmid": "41570773",
+      "doi": "10.1016/j.lungcan.2026.108936",
+      "title": "Osimertinib dose-reduction and survival in 1L EGFR-mutated metastatic non-small cell lung cancer (mNSCLC).",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-01-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41570773/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108936",
+      "abstract": "INTRODUCTION: Osimertinib has become standard of carein 1 LEGFR-mutated(mt)mNSCLC following the FLAURA trial.However, limited data are available on the effect of osimertinib dose-reductionon outcomes compared tofull-dose.\n\nMETHODS: We performed a single-institution, retrospective analysis of pts withEGFR-mt mNSCLC treated with 1 L osimertinib from 2018 to 2023. Pts who underwent dose-reduction were compared to thosemaintained on full dose (80 mg daily). Baseline demographics, disease characteristics, treatment history, toxicity, and clinical outcomes were abstracted from the electronic medical record and compared using independent sample t-tests and chi-square analyses as appropriate. Median progression free survival (mPFS), time to discontinuation (mTTD), and overall survival (mOS) were compared via Kaplan-Meier log-rank test and Cox regression analysis with time-varying covariate.\n\nRESULTS: Of 171 pts with mNSCLC treated with 1 L osimertinib, 26 (15%) required dose-reduction. Sex (p = 0.458), race (p = 0.421), ECOG PS > 1 at diagnosis (p = 0.730) and smoking history (p = 0.485) were comparable between reduced-dose and full-dose pts. 44% vs 34% of reduced dose and full dose pts, respectively, had CNS metastases at diagnosis (p = 0.192). All dose-reduced pts experienced adverse events (AEs), compared to 48% of full-dose pts (p < 0.001). Dose-reduced pts had shorter mPFS compared to full-dose pts (17.0 vs 24.6 mos; p = 0.043). Median PFS with dose-reduction was shorter compared to full-dose in pts with (p = 0.041) or without CNS metastases (p = 0.048). On time-variate, multivariable analysis, dose-reduction was associated with inferior PFS (p = 0.047) regardless of baseline characteristics. TTD was comparable in pts with and without dose-reduction (21.3 vs 25.2 mos; p = 0.521) OS was comparable in pts with and without dose-reduction (36.7vs 39.2 mos; p = 0.749). 14 pts (8%) discontinued osimertinib due to AEs, of whom 9 (64%) were previously dose-reduced. mPFS was comparable (p = 0.334) between pts who discontinued and those who did not, as was mOS (p = 0.910).\n\nCONCLUSION: Dose-reduction of osimertinib was relatively uncommon and associated with shorter PFS (primarilyCNS progression), but similar TTD and OS in 1 L patients withEGFR-mutated mNSCLC."
     },
     {
       "pmid": "41557980",
@@ -547,47 +567,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41553307/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2025.12.001",
       "abstract": "BRAF mutations are detected in approximately 3% to 8% of patients with NSCLC. In contrast to melanoma, in which most BRAF mutations occur at the V600 codon, only approximately 35% of BRAF-mutant NSCLC tumors harbor V600 mutations. Among the remaining cases, 60% to 70% present non-V600 mutations, primarily in exons 11 and 15. BRAF mutations are classified into three classes according to their kinase activity and their dependence on RAS activation. Compared with class I (V600), patients with class II and class III mutations are associated with poorer clinical outcomes partly due to the lack of effective targeted therapeutic strategies. Indeed, although dual BRAF and MEK inhibition has demonstrated clinical benefit in BRAF V600-mutant NSCLC, there is currently no consensus on treatment strategies for patients with class II and class III mutations. Beyond point mutations, other BRAF alterations (e.g., gene fusions, deletions, and amplifications) have been identified in treatment-naive tumors and in the context of acquired resistance to targeted therapies in other oncogene-driven NSCLC subtypes. However, the biology and clinical implications of these alterations remain poorly characterized. In this review, we provide a comprehensive overview on the biology, epidemiology, and therapeutic strategies of class II/III BRAF mutations, fusions, deletions, and amplifications in NSCLC. We highlight current challenges in the clinical management of BRAF-mutant NSCLC, emerging inhibitors, and combinatorial therapeutic strategies developed to treat non-V600E BRAF-driven cancers. Finally, we briefly discuss BRAF alterations in the context of resistance to targeted therapies in other oncogene-driven NSCLC."
-    },
-    {
-      "pmid": "41389771",
-      "doi": "10.1016/j.ejca.2025.116165",
-      "title": "Long-term outcomes of preoperative nivolumab with or without relatlimab in patients with resectable non-small-cell lung cancer (NEOpredict-Lung).",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2026-01-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "RCT",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://www.ejcancer.com/article/S0959-8049(25)01051-2/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41389771/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116165",
-      "abstract": "BACKGROUND: Preoperative immunotherapy targeting PD-1/-L1 with chemotherapy induces histopathological responses and improves survival in patients with resectable non-small cell lung cancer (NSCLC). NEOpredict-Lung (NCT04205552) established the feasibility of dual blockade of PD-1 and LAG-3 immune checkpoints prior to curatively intended resection. Here we report extended follow-up, postoperative treatments and patterns of response and recurrence.\n\nPATIENTS AND METHODS: Patients with resectable NSCLC (stages IB-IIIA) were randomized to receive two doses nivolumab (240 mg, arm A) with or without relatlimab (80 mg, arm B) every 2 weeks. Overall and disease-free survival (OS, DFS) rates, response and recurrence patterns and subsequent therapies were evaluated.\n\nRESULTS: 60 patients were enrolled from March 2020 to July 2022. The present analysis was conducted per December 2024 with a median follow-up of 37.4 months. 45 patients were alive without disease recurrence,15 patients recurred (4 locoregional and 11 metastatic), and 7 patients died. The 3-year OS and DFS rates were 88.4 % and 73.3 % in arm A and 88.9 % and 60.3 % in arm B. Patients achieving major pathological response (≤10 % viable tumor cells in resected NSCLC) trended towards better DFS (HR 0.35; 95 % CI, 0.1-1.19). Downstaging was confirmed in 53.3 % of patients in arm A and in 66.7 % of patients in arm B. Nodal downstaging occurred in 28.6 % of patients with nodal disease in arm A and in 66.7 % of patients in arm B.\n\nCONCLUSIONS: Short course preoperative nivolumab with or without relatlimab showed encouraging efficacy and survival outcomes, which compare favorably with chemo-immunotherapy-based perioperative treatment regimens."
-    },
-    {
-      "pmid": "41421886",
-      "doi": "10.1016/j.ejca.2025.116069",
-      "title": "Bridging the gap in lung cancer: A comprehensive global strategy for change.",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2026-01-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41421886/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116069",
-      "abstract": "BACKGROUND: Unless greater awareness inspires action, lung cancer will become the next global public health emergency. Despite improvements in screening, diagnosis, and treatments, more must be done because global incidence continues to increase. Concerted action must address the burden both between and within countries. Inequalities result from the uneven distribution of resources while inequities result from differences in prevention, screening, diagnosis, and treatment.\n\nMETHOD: Participants in the 9th International Lung Cancer Network conference (Athens, June 2023) received an advanced draft of the declaration with a confidentiality notice by email upon completion of online registration. They were invited to provide comments and suggestions up to seven days before the meeting. All contributions were reviewed by the authors and incorporated into the final version circulated the day before the meeting began. Although not a formal Delphi-style process, this approach prioritized inclusivity, transparency, and broad endorsement. Outreach extended beyond onsite attendees, ensuring diverse perspectives and representation. This process complements methodological consensus approaches by uniting stakeholders around shared policy goals.\n\nRESULTS: At the 9th International Lung Cancer Network conference, participants were invited to sign the final declaration, and 785 did so. Since then, 20 organizations worldwide have formally endorsed the Consensus Statement, and support continues to grow. The inclusive design has fostered broad and sustained backing, underscoring the value of the Statement as a unifying policy declaration advancing shared principles.\n\nCONCLUSION: The Consensus Statement, Bridging the Gap in the Diagnosis and Management of Lung Cancer, reinforces five unifying principles: improve and expand prevention; focus on early detection; ensure equitable and sustainable access to treatment; build partnerships and promote investment; and, combat stigma, recognizing it as a social determinant of public health."
     }
   ]
 }
