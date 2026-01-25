@@ -1,6 +1,26 @@
 {
-  "generated": "2026-01-24T05:19:32.868843Z",
+  "generated": "2026-01-25T05:26:08.442779Z",
   "items": [
+    {
+      "pmid": "41576929",
+      "doi": "10.1016/j.ccell.2025.12.021",
+      "title": "Armored macrophage-targeted CAR-T cells reset and reprogram the tumor microenvironment and control metastatic cancer growth.",
+      "journal": "Cancer cell",
+      "pubdate": "2026-01-22T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 19.027,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41576929/",
+      "url_doi": "https://doi.org/10.1016/j.ccell.2025.12.021",
+      "abstract": "Tumor-associated macrophages (TAMs), which commonly express FOLR2 or TREM2, are enriched in solid tumors and keep the tumor microenvironment (TME) immunosuppressed. Here, we introduce IL-12-expressing CAR-T cells targeting FOLR2 or TREM2 to deplete pro-tumor TAMs and reprogram the TME. Treatment with IL-12-armored anti-TAM CAR-T leads to significantly improved survival in metastatic ovarian and lung cancer models. The CAR-T mediates benefit at low cell dose and without lymphodepletion, and remains largely restricted to tumors with no overt toxicity. Spatial transcriptomics reveals that IL-12 anti-TAM CAR-T mediates sustained remodeling of the TME, even after CAR-T contraction, with the expansion of CXCL9+ immunostimulatory macrophages and endogenous tumor-specific cytotoxic T cells. Tumor clearance depends, in part, on FAS expression on cancer cells, revealing an IL-12-FAS axis for IL-12-armored CAR-T activity. These findings position IL-12-producing, myeloid-directed CAR-T as a broad strategy to remodel the TME and drive anti-tumor immunity for solid cancers."
+    },
     {
       "pmid": "41569596",
       "doi": "10.1001/jamaoncol.2025.6080",
@@ -42,6 +62,27 @@
       "abstract": "KRAS G12D is the most prevalent subtype of KRAS mutation across solid tumors, but no drug is available in the clinic. RNK08954 is a potent and selective KRAS G12D inhibitor that inhibits proliferation of KRAS G12D-mutant cells and demonstrates significant tumor regressions in mouse xenograft models while inhibiting KRAS-mediated signaling. The in vivo effects of RNK08954 are explained by its unique pharmacokinetic (PK) profile and significantly prolonged retention time in tumor tissues. RNK08954 shows synergy with immune check blockade (ICB). In a Phase 1a study, the median follow-up was 4.85 months for 36 evaluable patients. In patients with non-small cell lung cancer (NSCLC), the objective response rate (ORR, unconfirmed) is 58.33%, and in patients with pancreatic ductal adenocarcinoma (PDAC) the ORR (unconfirmed) was 33.33% in the 1000-1200mg cohort. This study supports the clinical potential of RNK08954 in patients with KRAS G12D mutation either as a single agent or in combination."
     },
     {
+      "pmid": "41579430",
+      "doi": "10.1016/j.esmoop.2025.106034",
+      "title": "Global advances and future directions in lung cancer care: expert consensus and strategic priorities.",
+      "journal": "ESMO open",
+      "pubdate": "2026-01-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.582,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41579430/",
+      "url_doi": "https://doi.org/10.1016/j.esmoop.2025.106034",
+      "abstract": "BACKGROUND: Over the past decade, lung cancer management has been reshaped by advances in early detection, treatment, and prevention. Prevention now extends beyond tobacco control to include recognition of non-tobacco risk factors, screening, and incidental nodule programs. Yet progress in primary prevention remains uneven, with marked regional disparities. Smoking prevalence continues to decline and measures to reduce particulate matter exposure are expanding, but the overall global impact remains inconsistent.\n\nPATIENTS AND METHODS: This article draws upon the discussions and expert recommendations presented at the New York Lung Cancer Foundation Summit 2025, integrating perspectives on prevention, screening, therapeutic innovation, and health system challenges across diverse health care settings.\n\nRESULTS: Screening programs, now active in >40 countries, achieve lower false-positive rates and earlier-stage diagnoses, although lung cancer incidence is rising among individuals who never used any tobacco products in some regions. Therapeutic innovations-including perioperative immunotherapy, targeted treatments for oncogene-driven non-small-cell lung cancer, and antibody-drug conjugates (ADCs)-have markedly improved survival outcomes. Persistent challenges include refining patient selection, sequencing multimodal therapies, managing toxicity, and understanding mechanisms of resistance. Systemic barriers such as unequal progress in tobacco and vaping prevention, limited screening uptake, delayed molecular testing, and restricted access to multidisciplinary care continue to blunt these gains. Ongoing research on novel immunotherapies, ADCs, and bispecific antibodies aims to overcome therapeutic resistance. In small-cell lung cancer, consolidation immunotherapy and delta-like ligand 3-targeted approaches have improved outcomes and are redefining treatment paradigms. Persistent disparities in access and trial participation underscore the need for more equitable study designs, stronger international collaboration, and clearer communication with the public.\n\nCONCLUSIONS: This article summarizes current advances and strategic priorities in lung cancer research and care, reflecting the discussions and recommendations of the New York Lung Cancer Foundation Summit 2025."
+    },
+    {
       "pmid": "41554849",
       "doi": "10.1038/s41698-025-01267-z",
       "title": "Validation of histopathology-based deep learning algorithms for detection of actionable non-small cell lung cancer biomarkers.",
@@ -74,7 +115,7 @@
       "trial_type": null,
       "study_class": "Preclinical",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1172/jci.insight.197008",
+      "oa_url": "http://insight.jci.org/articles/view/197008/files/pdf",
       "metric_name": "SJR",
       "metric_value": 2.917,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41574603/",
@@ -101,6 +142,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41419100/",
       "url_doi": "https://doi.org/10.1016/j.canlet.2025.218223",
       "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
+    },
+    {
+      "pmid": "41308576",
+      "doi": "10.1016/j.ejrad.2025.112561",
+      "title": "Potential for AI as first reader in lung cancer screening.",
+      "journal": "European journal of radiology",
+      "pubdate": "2026-02-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.ejradiology.com/article/S0720-048X(25)00647-3/pdf",
+      "metric_name": "SJR",
+      "metric_value": 1.003,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41308576/",
+      "url_doi": "https://doi.org/10.1016/j.ejrad.2025.112561",
+      "abstract": "PURPOSE: To retrospectively assess the agreement between human and automated AI-based readings for low-dose computed tomography (LDCT) outcomes according to LungRADS v1.1 in lung cancer screening (LCS); to test the diagnostic performance of both readings.\n\nMETHODS: We included 4104 baseline LDCTs from the BioMILD trial. Original readings were retrospectively classified into \"negative\" (LungRADSv1.1 categories 1, 2) and \"positive\" (categories 3, 4) by a radiologist and analyzed by AI software for category assignment. Diagnosis of lung cancer (LC) at 2 years served as reference standard to assess sensitivity, specificity, negative predictive value (NPV), and positive predictive value (PPV) of both human and AI. Agreement between readers was measured by the k-Cohen Index with Fleiss-Cohen weights (K\n\nRESULTS: Median age of participants was 60 years; 60.8 % were male and 79.2 % current smokers; 68/4104 (1.7 %) were diagnosed with LC; 6/68 (8.8 %) and 7/68 (10.3 %) LDCT were classified as negative by AI and human reading, respectively. The agreement between human and AI readings for negative and positive LDCTs was 83.5 % (K\n\nCONCLUSION: AI reading showed comparable sensitivity but lower specificity than human reading. High NPV of AI may support its use as a first reader in LCS."
     },
     {
       "pmid": "41475048",
@@ -366,6 +427,28 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
       "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
       "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
+    },
+    {
+      "pmid": "41544643",
+      "doi": "10.1016/S0140-6736(25)01811-2",
+      "title": "Savolitinib plus osimertinib versus chemotherapy for advanced, EGFR mutation-positive, MET-amplified non-small-cell lung cancer in China (SACHI): interim analysis of a multicentre, open-label, phase 3 randomised controlled trial.",
+      "journal": "Lancet (London, England)",
+      "pubdate": "2026-01-24T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41544643/",
+      "url_doi": "https://doi.org/10.1016/S0140-6736(25)01811-2",
+      "abstract": "BACKGROUND: Savolitinib combined with osimertinib is a potential novel therapy for patients with EGFR mutation-positive non-small-cell lung cancer (NSCLC) harbouring MET amplification after progression on EGFR tyrosine kinase inhibitor (TKI) therapy. We aimed to evaluate the efficacy and safety of savolitinib-osimertinib versus standard of care platinum-based doublet chemotherapy in this patient population.\n\nMETHODS: SACHI was a multicentre, randomised, active-controlled, open-label, phase 3 trial conducted across 68 Chinese hospitals. Eligible adults with locally advanced or metastatic EGFR mutation-positive NSCLC and MET amplification after EGFR TKI failure were randomly assigned (1:1) to once daily oral savolitinib-osimertinib or intravenous chemotherapy (pemetrexed plus either cisplatin or carboplatin), both in 21-day cycles. Central randomisation was implemented through an interactive web-response system with stratification based on the presence of brain metastases, previous exposure to third-generation EGFR TKIs, and EGFR mutation subtype, using a mixed block-size methodology. The primary endpoint, investigator-assessed progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumours version 1.1, was tested using a hierarchical procedure: first in the third-generation EGFR TKI-naive population, and if positive, the intention-to-treat (ITT) population. Safety analysis was performed in all patients who received at least one dose of the study treatment. Interim analysis data cutoff was Aug 30, 2024. This study is registered with ClinicalTrials.gov (NCT05015608) and is complete.\n\nFINDINGS: Between Oct 15, 2021, and Aug 30, 2024, 211 patients were enrolled, 106 were randomly assigned to savolitinib-osimertinib and 105 were randomly assigned to chemotherapy, including 137 (65%) of 211 who were third-generation EGFR TKI-naive (69 in the savolitinib-osimertinib group; 68 in the chemotherapy group). In 106 patients in the savolitinib-osimertinib group, the median age was 59·4 years (IQR 54·3-65·8), 62 (58%) were female, and 44 (42%) were male. In 105 patients in the chemotherapy group, the median age was 61·9 years (IQR 56·3-69·1), 55 (52%) were female, and 50 (48%) were male. All participants were Asian. Median PFS was significantly prolonged with savolitinib-osimertinib versus chemotherapy in the third-generation EGFR TKI-naive (9·8 months [95% CI 6·9-12·5] vs 5·4 months [4·2-6·0]; hazard ratio 0·34 [0·21-0·56]; p<0·0001) and ITT populations (8·2 months [6·9-11·2] vs 4·5 months [3·0-5·4]; 0·34 [0·23-0·49]; p<0·0001). Grade 3 or worse treatment-emergent adverse events occurred in the same proportion of patients in both groups who received the study drugs (60 [57%] of 106 patients in the savolitinib-osimertinib group and 55 [57%] of 96 patients in the chemotherapy group).\n\nINTERPRETATION: The savolitinib-osimertinib combination improved PFS versus chemotherapy in patients with EGFR mutation-positive, MET-amplified NSCLC that had progressed on EGFR TKI therapy, while maintaining a favourable tolerability profile. This regimen offers a potential oral treatment option for this biomarker-selected population.\n\nFUNDING: HUTCHMED and AstraZeneca."
     },
     {
       "pmid": "41570262",
