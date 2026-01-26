@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-25T05:26:08.442779Z",
+  "generated": "2026-01-26T05:33:11.676247Z",
   "items": [
     {
       "pmid": "41576929",
@@ -54,12 +54,32 @@
       "trial_type": null,
       "study_class": "Preclinical",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1158/2159-8290.cd-25-1346",
+      "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/doi/10.1158/2159-8290.CD-25-1346/3727313/cd-25-1346.pdf",
       "metric_name": "SJR",
       "metric_value": 7.283,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557983/",
       "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-1346",
       "abstract": "KRAS G12D is the most prevalent subtype of KRAS mutation across solid tumors, but no drug is available in the clinic. RNK08954 is a potent and selective KRAS G12D inhibitor that inhibits proliferation of KRAS G12D-mutant cells and demonstrates significant tumor regressions in mouse xenograft models while inhibiting KRAS-mediated signaling. The in vivo effects of RNK08954 are explained by its unique pharmacokinetic (PK) profile and significantly prolonged retention time in tumor tissues. RNK08954 shows synergy with immune check blockade (ICB). In a Phase 1a study, the median follow-up was 4.85 months for 36 evaluable patients. In patients with non-small cell lung cancer (NSCLC), the objective response rate (ORR, unconfirmed) is 58.33%, and in patients with pancreatic ductal adenocarcinoma (PDAC) the ORR (unconfirmed) was 33.33% in the 1000-1200mg cohort. This study supports the clinical potential of RNK08954 in patients with KRAS G12D mutation either as a single agent or in combination."
+    },
+    {
+      "pmid": "41581221",
+      "doi": "10.1093/jnci/djag021",
+      "title": "Identifying expression and DNA methylation biomarkers for lung adenocarcinoma risk in East Asia.",
+      "journal": "Journal of the National Cancer Institute",
+      "pubdate": "2026-01-24T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 5.703,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41581221/",
+      "url_doi": "https://doi.org/10.1093/jnci/djag021",
+      "abstract": "BACKGROUND: Lung adenocarcinoma (LUAD) is the most common type of lung cancer. A recent genome-wide association study (GWAS) of LUAD in East Asia reported 28 independent susceptibility variants across 25 loci and identified 2 genes whose genetically predicted expression levels are associated with LUAD risk, using an ancestry-matched lung tissue expression quantitative trait loci (eQTL) dataset. It is desirable to identify additional susceptibility loci and to understand their underlying biological mechanisms.\n\nMETHODS: Using an expanded GWAS of LUAD in East Asia and ancestry-matched lung tissue eQTL and DNA methylation QTL datasets, we performed transcriptome-wide association studies and DNA methylome-wide association studies simultaneously and examined the association between measured expression of genes and DNA methylation of nearby CpGs (eQTM). Genes and nearby CpGs are termed CpG-gene-LUAD trios if these three associations hold simultaneously.\n\nRESULTS: At Bonferroni-corrected P < .05, we identified a new susceptibility locus (6p21.31; lead SNP rs7772643), 10 LUAD-associated genes and 86 LUAD-associated CpGs. At false discovery rate q < 0.05, we identified 28 LUAD-associated genes, 220 LUAD-associated CpGs, and 45 CpG-gene-LUAD trios; among them, 43 were direction-matched regarding these three associations. These show that 23 of the known 28 susceptibility variants for LUAD in East Asia are near these genes or CpGs and MARCH3, ELF5, IKZF3, GSDMB, CCDC116, and DSP are putative novel susceptibility loci. Few of them was reported in LUAD in European populations.\n\nCONCLUSIONS: This study substantially advances our understanding of the etiology of LUAD in East Asia and could be useful in developing translational applications."
     },
     {
       "pmid": "41579430",
@@ -74,8 +94,8 @@
       "entity": "Thoracic-other",
       "trial_type": "Review/Meta",
       "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.esmoop.2025.106034",
       "metric_name": "SJR",
       "metric_value": 3.582,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41579430/",
@@ -121,67 +141,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41574603/",
       "url_doi": "https://doi.org/10.1172/jci.insight.197008",
       "abstract": "Small cell lung cancer (SCLC) transformation is an incompletely characterized mechanism of resistance to epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) in EGFR-mutant cancers, limiting development of optimal treatment approaches. Through single-cell RNA sequencing of malignant pleural effusions from patients who underwent SCLC transformation, we identified heterogeneity and diversity, including distinct neuroendocrine (NE) and mesenchymal non-NE cancer cell subsets, which were maintained in patient-derived cell lines. We demonstrate that EZH2 regulates EGFR expression in NE cells where EGFR expression is silenced at baseline. Although neither epigenetic derepression nor exogenous overexpression of mutant EGFR sensitized the cells to EGFR inhibition, non-NE cells exhibited selective sensitivity to MEK inhibitors. Combined MEK inhibitor and chemotherapy effectively inhibited growth of both NE and non-NE cells in vitro and in vivo. Our findings demonstrate that EGFR-mutant SCLC is composed of mixed cell states with distinct therapeutic vulnerabilities and offer a therapeutic strategy to target tumor heterogeneity in highly plastic and treatment-resistant malignancies such as transformed SCLC."
-    },
-    {
-      "pmid": "41419100",
-      "doi": "10.1016/j.canlet.2025.218223",
-      "title": "Consensus on the diagnosis and treatment of unresectable stage III driver gene-positive non-small cell lung cancer.",
-      "journal": "Cancer letters",
-      "pubdate": "2026-02-28T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 2.756,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41419100/",
-      "url_doi": "https://doi.org/10.1016/j.canlet.2025.218223",
-      "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
-    },
-    {
-      "pmid": "41308576",
-      "doi": "10.1016/j.ejrad.2025.112561",
-      "title": "Potential for AI as first reader in lung cancer screening.",
-      "journal": "European journal of radiology",
-      "pubdate": "2026-02-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.ejradiology.com/article/S0720-048X(25)00647-3/pdf",
-      "metric_name": "SJR",
-      "metric_value": 1.003,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41308576/",
-      "url_doi": "https://doi.org/10.1016/j.ejrad.2025.112561",
-      "abstract": "PURPOSE: To retrospectively assess the agreement between human and automated AI-based readings for low-dose computed tomography (LDCT) outcomes according to LungRADS v1.1 in lung cancer screening (LCS); to test the diagnostic performance of both readings.\n\nMETHODS: We included 4104 baseline LDCTs from the BioMILD trial. Original readings were retrospectively classified into \"negative\" (LungRADSv1.1 categories 1, 2) and \"positive\" (categories 3, 4) by a radiologist and analyzed by AI software for category assignment. Diagnosis of lung cancer (LC) at 2 years served as reference standard to assess sensitivity, specificity, negative predictive value (NPV), and positive predictive value (PPV) of both human and AI. Agreement between readers was measured by the k-Cohen Index with Fleiss-Cohen weights (K\n\nRESULTS: Median age of participants was 60 years; 60.8 % were male and 79.2 % current smokers; 68/4104 (1.7 %) were diagnosed with LC; 6/68 (8.8 %) and 7/68 (10.3 %) LDCT were classified as negative by AI and human reading, respectively. The agreement between human and AI readings for negative and positive LDCTs was 83.5 % (K\n\nCONCLUSION: AI reading showed comparable sensitivity but lower specificity than human reading. High NPV of AI may support its use as a first reader in LCS."
-    },
-    {
-      "pmid": "41475048",
-      "doi": "10.1016/j.ejca.2025.116191",
-      "title": "Braf-mutant metastatic non-small-cell lung cancer: Real world data from the Italian biomarker atlas database.",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2026-02-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.ejca.2025.116191",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41475048/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116191",
-      "abstract": "BACKGROUND: BRAF mutations identify a small subgroup of patients (pts) with non-small cell lung cancer (NSCLC). Dabrafenib/trametinib (D/T) combination is associated with high response rates and durable anti-tumor activity in BRAF-V600-mutants. Several open questions still remain unanswered in clinical practice, including the efficacy of treatments based on clinical and molecular characteristics, the activity in patients with brain metastases, the optimal sequence with immunotherapy-based therapies. Here we present outcomes among advanced BRAF-mutant NSCLC patients from the Italian ATLAS registry.\n\nMETHODS: Patients with metastatic BRAF-mutated NSCLC were included. Clinical-pathological features, treatment effectiveness and safety outcomes were retrospectively collected from the Italian real-world ATLAS registry.\n\nRESULTS: A total of 244 BRAF-mutated NSCLC pts were enrolled, including 70 % V600E mutations. The median PFS of first line D/T was 19.8 months (95 % CI: 10.7-29.0), with a 2-year OS rate of 65.4 % and a PFS2 of 6.6 months (95 % CI: 0-14.3). The activity of D/T differs among sex (mPFS was 13.6 mos and 25.3 mos and 2-yr OS rate were 54.9 % and 72.3 % in males and females, respectively) and smoking status (mPFS was 18.4 mos, 25.6 mos and 24 mos in never, former and current smokers, respectively). Concomitant MET amplification was associated with a shorter median PFS (mPFS was 13.6 mos vs. 44.3 mos with and without MET amplification respectively) in pts treated with D/T as 1st line.\n\nCONCLUSIONS: These data confirm the efficacy and safety of first line D/T in BRAF V600E-mutated pts in the real-world setting consistently with prior studies, suggesting a differential activity among key clinical-molecular subgroups."
     },
     {
       "pmid": "41475039",
@@ -409,26 +368,6 @@
       "abstract": "BACKGROUND: The phase 3 KEYNOTE-671 study (NCT03425643) demonstrated significantly improved event-free survival (EFS) and overall survival with neoadjuvant pembrolizumab plus chemotherapy followed by surgery and adjuvant pembrolizumab vs neoadjuvant chemotherapy and surgery for early-stage non-small cell lung cancer (NSCLC). We describe participant characteristics, surgical outcomes, and EFS in surgically relevant subgroups.\n\nMETHODS: Participants with untreated, resectable, stage II-IIIB (N2) NSCLC were randomized 1:1 to neoadjuvant pembrolizumab 200 mg or placebo plus cisplatin-based chemotherapy every 3 weeks for 4 cycles, then surgery and adjuvant pembrolizumab or placebo for 13 cycles. Surgery was performed ≤20 weeks after first neoadjuvant dose (if 4 cycles of neoadjuvant therapy) or 4-8 weeks after last neoadjuvant dose (1-3 cycles); surgery beyond this was considered surgical delay. Adjuvant therapy began 4-12 weeks after surgery. EFS was assessed in the surgical population.\n\nRESULTS: Of 397 participants randomized to pembrolizumab and 400 to placebo, 325 (82.1%) and 317 (79.4%), respectively, underwent surgery. At data cutoff (July 10, 2023), 4.9% (pembrolizumab) and 7.6% (placebo) of participants experienced surgical delay; 38.9% and 28.4%, respectively, experienced nodal downstaging; 78.8% and 75.1% underwent lobectomy; and 92.0% and 84.2% had R0 resections. Pembrolizumab improved EFS irrespective of disease stage, nodal status, and type of surgery vs chemotherapy. Eight participants (pembrolizumab, n = 6; placebo, n = 2) died ≤30 days after surgery from surgery-related adverse events.\n\nCONCLUSIONS: Neoadjuvant pembrolizumab did not adversely affect surgical outcomes, was associated with numerically higher R0 resections, and improved EFS vs neoadjuvant chemotherapy in surgically relevant subgroups in early-stage NSCLC."
     },
     {
-      "pmid": "41192526",
-      "doi": "10.1016/j.cellsig.2025.112211",
-      "title": "RIPK2/STAT3 signaling axis drives lung cancer metastasis through SNAIL activation: Molecular mechanisms and clinical implications.",
-      "journal": "Cellular signalling",
-      "pubdate": "2026-02-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
-      "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
-      "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
-    },
-    {
       "pmid": "41544643",
       "doi": "10.1016/S0140-6736(25)01811-2",
       "title": "Savolitinib plus osimertinib versus chemotherapy for advanced, EGFR mutation-positive, MET-amplified non-small-cell lung cancer in China (SACHI): interim analysis of a multicentre, open-label, phase 3 randomised controlled trial.",
@@ -511,6 +450,26 @@
       "abstract": null
     },
     {
+      "pmid": "41581311",
+      "doi": "10.1016/j.lungcan.2026.108939",
+      "title": "Targeting HGF/MET and CXCL1/CXCR2 axes bypasses resistance to KRAS(G12C) inhibitors in NSCLC.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-01-21T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41581311/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108939",
+      "abstract": "BACKGROUND: Resistance to KRAS\n\nMETHODS: We generated cell clones from KRAS\n\nRESULTS: NSCLC cell clones and PDX cell cultures with acquired and intrinsic resistance to KRAS\n\nCONCLUSIONS: CXCL1/CXCR2 and HGF/c-MET may represent compensatory pathways that sustain proliferation and survival in resistance to KRAS"
+    },
+    {
       "pmid": "41565826",
       "doi": "10.1038/s41586-025-09985-x",
       "title": "Critical role for a high-plasticity cell state in lung cancer.",
@@ -542,8 +501,8 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lungcan.2026.108936",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41570773/",
@@ -629,27 +588,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557968/",
       "url_doi": "https://doi.org/10.1200/JCO-25-02528",
       "abstract": null
-    },
-    {
-      "pmid": "41553307",
-      "doi": "10.1016/j.jtho.2025.12.001",
-      "title": "Biology and Clinical Management of Non-V600 BRAF Alterations in NSCLC.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2026-01-19T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41553307/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2025.12.001",
-      "abstract": "BRAF mutations are detected in approximately 3% to 8% of patients with NSCLC. In contrast to melanoma, in which most BRAF mutations occur at the V600 codon, only approximately 35% of BRAF-mutant NSCLC tumors harbor V600 mutations. Among the remaining cases, 60% to 70% present non-V600 mutations, primarily in exons 11 and 15. BRAF mutations are classified into three classes according to their kinase activity and their dependence on RAS activation. Compared with class I (V600), patients with class II and class III mutations are associated with poorer clinical outcomes partly due to the lack of effective targeted therapeutic strategies. Indeed, although dual BRAF and MEK inhibition has demonstrated clinical benefit in BRAF V600-mutant NSCLC, there is currently no consensus on treatment strategies for patients with class II and class III mutations. Beyond point mutations, other BRAF alterations (e.g., gene fusions, deletions, and amplifications) have been identified in treatment-naive tumors and in the context of acquired resistance to targeted therapies in other oncogene-driven NSCLC subtypes. However, the biology and clinical implications of these alterations remain poorly characterized. In this review, we provide a comprehensive overview on the biology, epidemiology, and therapeutic strategies of class II/III BRAF mutations, fusions, deletions, and amplifications in NSCLC. We highlight current challenges in the clinical management of BRAF-mutant NSCLC, emerging inhibitors, and combinatorial therapeutic strategies developed to treat non-V600E BRAF-driven cancers. Finally, we briefly discuss BRAF alterations in the context of resistance to targeted therapies in other oncogene-driven NSCLC."
     }
   ]
 }
