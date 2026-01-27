@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-26T05:33:11.676247Z",
+  "generated": "2026-01-27T05:24:32.833903Z",
   "items": [
     {
       "pmid": "41576929",
@@ -103,26 +103,6 @@
       "abstract": "BACKGROUND: Over the past decade, lung cancer management has been reshaped by advances in early detection, treatment, and prevention. Prevention now extends beyond tobacco control to include recognition of non-tobacco risk factors, screening, and incidental nodule programs. Yet progress in primary prevention remains uneven, with marked regional disparities. Smoking prevalence continues to decline and measures to reduce particulate matter exposure are expanding, but the overall global impact remains inconsistent.\n\nPATIENTS AND METHODS: This article draws upon the discussions and expert recommendations presented at the New York Lung Cancer Foundation Summit 2025, integrating perspectives on prevention, screening, therapeutic innovation, and health system challenges across diverse health care settings.\n\nRESULTS: Screening programs, now active in >40 countries, achieve lower false-positive rates and earlier-stage diagnoses, although lung cancer incidence is rising among individuals who never used any tobacco products in some regions. Therapeutic innovations-including perioperative immunotherapy, targeted treatments for oncogene-driven non-small-cell lung cancer, and antibody-drug conjugates (ADCs)-have markedly improved survival outcomes. Persistent challenges include refining patient selection, sequencing multimodal therapies, managing toxicity, and understanding mechanisms of resistance. Systemic barriers such as unequal progress in tobacco and vaping prevention, limited screening uptake, delayed molecular testing, and restricted access to multidisciplinary care continue to blunt these gains. Ongoing research on novel immunotherapies, ADCs, and bispecific antibodies aims to overcome therapeutic resistance. In small-cell lung cancer, consolidation immunotherapy and delta-like ligand 3-targeted approaches have improved outcomes and are redefining treatment paradigms. Persistent disparities in access and trial participation underscore the need for more equitable study designs, stronger international collaboration, and clearer communication with the public.\n\nCONCLUSIONS: This article summarizes current advances and strategic priorities in lung cancer research and care, reflecting the discussions and recommendations of the New York Lung Cancer Foundation Summit 2025."
     },
     {
-      "pmid": "41554849",
-      "doi": "10.1038/s41698-025-01267-z",
-      "title": "Validation of histopathology-based deep learning algorithms for detection of actionable non-small cell lung cancer biomarkers.",
-      "journal": "NPJ precision oncology",
-      "pubdate": "2026-01-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41698-025-01267-z",
-      "metric_name": "SJR",
-      "metric_value": 3.37,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41554849/",
-      "url_doi": "https://doi.org/10.1038/s41698-025-01267-z",
-      "abstract": "Non-small cell lung cancer (NSCLC) patient management relies on molecular analysis to determine eligibility for targeted therapy. Furthermore, neoadjuvant immunotherapy is primarily suitable in the absence of specific genomic alterations. However, significant challenges remain, including suboptimal molecular testing and patients being assigned to non-optimal treatment strategies. Here, we present AI classifiers for the identification of EGFR, ALK, BRAF and MET alterations directly from hematoxylin and eosin (H&E)-stained tissue using CanvOI 1.1, a digital pathology foundation model. Their performance was evaluated on an independent validation dataset of 968 NSCLC samples. The classifiers achieved AUCs of 0.87 for EGFR, 0.96 for ALK, 0.88 for BRAF and 0.83 for MET. Moreover, they demonstrated high accuracy in identifying cases lacking alterations. Our results highlight the potential of deep-learning tools for the detection of NSCLC biomarkers and specifically the identification of tumors without EGFR or ALK driver alterations, supporting more informed clinical decision-making."
-    },
-    {
       "pmid": "41574603",
       "doi": "10.1172/jci.insight.197008",
       "title": "EGFR-mutant transformed small cell lung cancer harbors intratumoral heterogeneity targetable with MEK inhibitor combination therapy.",
@@ -141,6 +121,87 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41574603/",
       "url_doi": "https://doi.org/10.1172/jci.insight.197008",
       "abstract": "Small cell lung cancer (SCLC) transformation is an incompletely characterized mechanism of resistance to epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) in EGFR-mutant cancers, limiting development of optimal treatment approaches. Through single-cell RNA sequencing of malignant pleural effusions from patients who underwent SCLC transformation, we identified heterogeneity and diversity, including distinct neuroendocrine (NE) and mesenchymal non-NE cancer cell subsets, which were maintained in patient-derived cell lines. We demonstrate that EZH2 regulates EGFR expression in NE cells where EGFR expression is silenced at baseline. Although neither epigenetic derepression nor exogenous overexpression of mutant EGFR sensitized the cells to EGFR inhibition, non-NE cells exhibited selective sensitivity to MEK inhibitors. Combined MEK inhibitor and chemotherapy effectively inhibited growth of both NE and non-NE cells in vitro and in vivo. Our findings demonstrate that EGFR-mutant SCLC is composed of mixed cell states with distinct therapeutic vulnerabilities and offer a therapeutic strategy to target tumor heterogeneity in highly plastic and treatment-resistant malignancies such as transformed SCLC."
+    },
+    {
+      "pmid": "41419100",
+      "doi": "10.1016/j.canlet.2025.218223",
+      "title": "Consensus on the diagnosis and treatment of unresectable stage III driver gene-positive non-small cell lung cancer.",
+      "journal": "Cancer letters",
+      "pubdate": "2026-02-28T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 2.756,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41419100/",
+      "url_doi": "https://doi.org/10.1016/j.canlet.2025.218223",
+      "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
+    },
+    {
+      "pmid": "41582867",
+      "doi": "10.1097/CM9.0000000000003967",
+      "title": "Chinese expert consensus on clinical practice for detecting fusion genes in non-small cell lung cancer using RNA-based next-generation sequencing.",
+      "journal": "Chinese medical journal",
+      "pubdate": "2026-01-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.213,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41582867/",
+      "url_doi": "https://doi.org/10.1097/CM9.0000000000003967",
+      "abstract": null
+    },
+    {
+      "pmid": "41308576",
+      "doi": "10.1016/j.ejrad.2025.112561",
+      "title": "Potential for AI as first reader in lung cancer screening.",
+      "journal": "European journal of radiology",
+      "pubdate": "2026-02-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.ejradiology.com/article/S0720-048X(25)00647-3/pdf",
+      "metric_name": "SJR",
+      "metric_value": 1.003,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41308576/",
+      "url_doi": "https://doi.org/10.1016/j.ejrad.2025.112561",
+      "abstract": "PURPOSE: To retrospectively assess the agreement between human and automated AI-based readings for low-dose computed tomography (LDCT) outcomes according to LungRADS v1.1 in lung cancer screening (LCS); to test the diagnostic performance of both readings.\n\nMETHODS: We included 4104 baseline LDCTs from the BioMILD trial. Original readings were retrospectively classified into \"negative\" (LungRADSv1.1 categories 1, 2) and \"positive\" (categories 3, 4) by a radiologist and analyzed by AI software for category assignment. Diagnosis of lung cancer (LC) at 2 years served as reference standard to assess sensitivity, specificity, negative predictive value (NPV), and positive predictive value (PPV) of both human and AI. Agreement between readers was measured by the k-Cohen Index with Fleiss-Cohen weights (K\n\nRESULTS: Median age of participants was 60 years; 60.8 % were male and 79.2 % current smokers; 68/4104 (1.7 %) were diagnosed with LC; 6/68 (8.8 %) and 7/68 (10.3 %) LDCT were classified as negative by AI and human reading, respectively. The agreement between human and AI readings for negative and positive LDCTs was 83.5 % (K\n\nCONCLUSION: AI reading showed comparable sensitivity but lower specificity than human reading. High NPV of AI may support its use as a first reader in LCS."
+    },
+    {
+      "pmid": "41475048",
+      "doi": "10.1016/j.ejca.2025.116191",
+      "title": "Braf-mutant metastatic non-small-cell lung cancer: Real world data from the Italian biomarker atlas database.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2026-02-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ejca.2025.116191",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41475048/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116191",
+      "abstract": "BACKGROUND: BRAF mutations identify a small subgroup of patients (pts) with non-small cell lung cancer (NSCLC). Dabrafenib/trametinib (D/T) combination is associated with high response rates and durable anti-tumor activity in BRAF-V600-mutants. Several open questions still remain unanswered in clinical practice, including the efficacy of treatments based on clinical and molecular characteristics, the activity in patients with brain metastases, the optimal sequence with immunotherapy-based therapies. Here we present outcomes among advanced BRAF-mutant NSCLC patients from the Italian ATLAS registry.\n\nMETHODS: Patients with metastatic BRAF-mutated NSCLC were included. Clinical-pathological features, treatment effectiveness and safety outcomes were retrospectively collected from the Italian real-world ATLAS registry.\n\nRESULTS: A total of 244 BRAF-mutated NSCLC pts were enrolled, including 70 % V600E mutations. The median PFS of first line D/T was 19.8 months (95 % CI: 10.7-29.0), with a 2-year OS rate of 65.4 % and a PFS2 of 6.6 months (95 % CI: 0-14.3). The activity of D/T differs among sex (mPFS was 13.6 mos and 25.3 mos and 2-yr OS rate were 54.9 % and 72.3 % in males and females, respectively) and smoking status (mPFS was 18.4 mos, 25.6 mos and 24 mos in never, former and current smokers, respectively). Concomitant MET amplification was associated with a shorter median PFS (mPFS was 13.6 mos vs. 44.3 mos with and without MET amplification respectively) in pts treated with D/T as 1st line.\n\nCONCLUSIONS: These data confirm the efficacy and safety of first line D/T in BRAF V600E-mutated pts in the real-world setting consistently with prior studies, suggesting a differential activity among key clinical-molecular subgroups."
     },
     {
       "pmid": "41475039",
@@ -189,12 +250,11 @@
       "journal": "Lung cancer (Amsterdam, Netherlands)",
       "pubdate": "2026-02-01T00:00:00+00:00",
       "pubtypes": [
-        "Journal Article",
-        "Meta-Analysis"
+        "Journal Article"
       ],
       "entity": "Thoracic-other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
+      "trial_type": null,
+      "study_class": "Preclinical",
       "is_oa": true,
       "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(26)00009-7/pdf",
       "metric_name": null,
@@ -368,6 +428,46 @@
       "abstract": "BACKGROUND: The phase 3 KEYNOTE-671 study (NCT03425643) demonstrated significantly improved event-free survival (EFS) and overall survival with neoadjuvant pembrolizumab plus chemotherapy followed by surgery and adjuvant pembrolizumab vs neoadjuvant chemotherapy and surgery for early-stage non-small cell lung cancer (NSCLC). We describe participant characteristics, surgical outcomes, and EFS in surgically relevant subgroups.\n\nMETHODS: Participants with untreated, resectable, stage II-IIIB (N2) NSCLC were randomized 1:1 to neoadjuvant pembrolizumab 200 mg or placebo plus cisplatin-based chemotherapy every 3 weeks for 4 cycles, then surgery and adjuvant pembrolizumab or placebo for 13 cycles. Surgery was performed ≤20 weeks after first neoadjuvant dose (if 4 cycles of neoadjuvant therapy) or 4-8 weeks after last neoadjuvant dose (1-3 cycles); surgery beyond this was considered surgical delay. Adjuvant therapy began 4-12 weeks after surgery. EFS was assessed in the surgical population.\n\nRESULTS: Of 397 participants randomized to pembrolizumab and 400 to placebo, 325 (82.1%) and 317 (79.4%), respectively, underwent surgery. At data cutoff (July 10, 2023), 4.9% (pembrolizumab) and 7.6% (placebo) of participants experienced surgical delay; 38.9% and 28.4%, respectively, experienced nodal downstaging; 78.8% and 75.1% underwent lobectomy; and 92.0% and 84.2% had R0 resections. Pembrolizumab improved EFS irrespective of disease stage, nodal status, and type of surgery vs chemotherapy. Eight participants (pembrolizumab, n = 6; placebo, n = 2) died ≤30 days after surgery from surgery-related adverse events.\n\nCONCLUSIONS: Neoadjuvant pembrolizumab did not adversely affect surgical outcomes, was associated with numerically higher R0 resections, and improved EFS vs neoadjuvant chemotherapy in surgically relevant subgroups in early-stage NSCLC."
     },
     {
+      "pmid": "41192526",
+      "doi": "10.1016/j.cellsig.2025.112211",
+      "title": "RIPK2/STAT3 signaling axis drives lung cancer metastasis through SNAIL activation: Molecular mechanisms and clinical implications.",
+      "journal": "Cellular signalling",
+      "pubdate": "2026-02-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
+      "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
+      "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
+    },
+    {
+      "pmid": "41587109",
+      "doi": "10.1158/1078-0432.CCR-25-2287",
+      "title": "FDA Approval Summary: Tarlatamab for the Treatment of Extensive Stage Small Cell Lung Cancer.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2026-01-26T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41587109/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2287",
+      "abstract": "On May 16, 2024, the Food and Drug Administration granted accelerated approval to tarlatamab-dlle (hereafter referred to as tarlatamab) for the treatment of adult patients with extensive stage small cell lung cancer (ES-SCLC) with disease progression on or after platinum-based chemotherapy. The approval was based on data from DeLLphi-301 (NCT05060016), an open-label, multicenter, multi-cohort trial in patients with relapsed/refractory SCLC with disease progression after platinum-based chemotherapy and at least one other line of systemic therapy. Among 99 patients, the overall response rate (ORR) was 40% (95% CI 31%, 51%), with a median duration of response (DoR) of 9.7 months (range 2.7 to 20.7+ months). The most common adverse reactions (≥20%) were cytokine release syndrome (CRS), fatigue, pyrexia, dysgeusia, decreased appetite, musculoskeletal pain, constipation, anemia and nausea. Product labeling includes a Boxed Warning for serious or life-threatening CRS and neurologic toxicity, including immune effector cell-associated neurotoxicity syndrome (ICANS)."
+    },
+    {
       "pmid": "41544643",
       "doi": "10.1016/S0140-6736(25)01811-2",
       "title": "Savolitinib plus osimertinib versus chemotherapy for advanced, EGFR mutation-positive, MET-amplified non-small-cell lung cancer in China (SACHI): interim analysis of a multicentre, open-label, phase 3 randomised controlled trial.",
@@ -450,6 +550,26 @@
       "abstract": null
     },
     {
+      "pmid": "41584396",
+      "doi": "10.1002/ccr3.71434",
+      "title": "Non-Operable Squamous Cell Carcinoma of the Infraorbital Region Treated With Electrochemotherapy: A Case Report.",
+      "journal": "Clinical case reports",
+      "pubdate": "2026-01-22T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ccr3.71434",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41584396/",
+      "url_doi": "https://doi.org/10.1002/ccr3.71434",
+      "abstract": "Cutaneous squamous cell carcinoma (cSCC) is a malignant epithelial tumor of the skin, classified as a nonmelanoma skin cancer. It may develop from precancerous conditions such as chronic inflammatory dermatoses, actinic keratosis, or actinic cheilitis, but can also arise de novo. The aim of this case report is to describe the clinical management and therapeutic outcome of a patient with infraorbital squamous cell carcinoma who was deemed inoperable due to poor general health conditions, and was therefore treated with electrochemotherapy (ECT) as an alternative local therapy. A 73-year-old male patient with a complex medical history, including untreated chronic kidney disease, untreated diabetes mellitus, left leg lymphedema, right leg thrombosis, previous lobectomy for lung cancer, and amputation of the left big toe due to squamous cell carcinoma (SCC), presented with a new lesion diagnosed as SCC located in the infraorbital region. Electrochemotherapy is a minimally invasive oncologic treatment that combines electroporation with the administration of chemotherapeutic agents to enhance their cytotoxic efficacy. Bleomycin, 15 μ/m"
+    },
+    {
       "pmid": "41581311",
       "doi": "10.1016/j.lungcan.2026.108939",
       "title": "Targeting HGF/MET and CXCL1/CXCR2 axes bypasses resistance to KRAS(G12C) inhibitors in NSCLC.",
@@ -488,106 +608,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41565826/",
       "url_doi": "https://doi.org/10.1038/s41586-025-09985-x",
       "abstract": "Plasticity-the ability of cells to undergo phenotypic transitions-drives cancer progression and therapy resistance"
-    },
-    {
-      "pmid": "41570773",
-      "doi": "10.1016/j.lungcan.2026.108936",
-      "title": "Osimertinib dose-reduction and survival in 1L EGFR-mutated metastatic non-small cell lung cancer (mNSCLC).",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-01-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2026.108936",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41570773/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108936",
-      "abstract": "INTRODUCTION: Osimertinib has become standard of carein 1 LEGFR-mutated(mt)mNSCLC following the FLAURA trial.However, limited data are available on the effect of osimertinib dose-reductionon outcomes compared tofull-dose.\n\nMETHODS: We performed a single-institution, retrospective analysis of pts withEGFR-mt mNSCLC treated with 1 L osimertinib from 2018 to 2023. Pts who underwent dose-reduction were compared to thosemaintained on full dose (80 mg daily). Baseline demographics, disease characteristics, treatment history, toxicity, and clinical outcomes were abstracted from the electronic medical record and compared using independent sample t-tests and chi-square analyses as appropriate. Median progression free survival (mPFS), time to discontinuation (mTTD), and overall survival (mOS) were compared via Kaplan-Meier log-rank test and Cox regression analysis with time-varying covariate.\n\nRESULTS: Of 171 pts with mNSCLC treated with 1 L osimertinib, 26 (15%) required dose-reduction. Sex (p = 0.458), race (p = 0.421), ECOG PS > 1 at diagnosis (p = 0.730) and smoking history (p = 0.485) were comparable between reduced-dose and full-dose pts. 44% vs 34% of reduced dose and full dose pts, respectively, had CNS metastases at diagnosis (p = 0.192). All dose-reduced pts experienced adverse events (AEs), compared to 48% of full-dose pts (p < 0.001). Dose-reduced pts had shorter mPFS compared to full-dose pts (17.0 vs 24.6 mos; p = 0.043). Median PFS with dose-reduction was shorter compared to full-dose in pts with (p = 0.041) or without CNS metastases (p = 0.048). On time-variate, multivariable analysis, dose-reduction was associated with inferior PFS (p = 0.047) regardless of baseline characteristics. TTD was comparable in pts with and without dose-reduction (21.3 vs 25.2 mos; p = 0.521) OS was comparable in pts with and without dose-reduction (36.7vs 39.2 mos; p = 0.749). 14 pts (8%) discontinued osimertinib due to AEs, of whom 9 (64%) were previously dose-reduced. mPFS was comparable (p = 0.334) between pts who discontinued and those who did not, as was mOS (p = 0.910).\n\nCONCLUSION: Dose-reduction of osimertinib was relatively uncommon and associated with shorter PFS (primarilyCNS progression), but similar TTD and OS in 1 L patients withEGFR-mutated mNSCLC."
-    },
-    {
-      "pmid": "41557980",
-      "doi": "10.1200/JCO-25-01794",
-      "title": "Radiosurgery for Small Cell Lung Cancer Brain Metastases: Comparing the JLGK0901 and BWH/DFCI Trials.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-20T00:00:00+00:00",
-      "pubtypes": [
-        "Letter"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557980/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01794",
-      "abstract": null
-    },
-    {
-      "pmid": "41557979",
-      "doi": "10.1200/JCO-25-01867",
-      "title": "Expanding Indications for Stereotactic Radiosurgery in Small Cell Lung Cancer With Brain Metastases.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-20T00:00:00+00:00",
-      "pubtypes": [
-        "Letter"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557979/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01867",
-      "abstract": null
-    },
-    {
-      "pmid": "41557973",
-      "doi": "10.1200/JCO-25-01729",
-      "title": "Limitations in Study Design and Stratification in Phase II Stereotactic Radiosurgery Trial for Small Cell Lung Cancer Brain Metastases.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-20T00:00:00+00:00",
-      "pubtypes": [
-        "Letter"
-      ],
-      "entity": "SCLC",
-      "trial_type": "Phase II",
-      "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557973/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01729",
-      "abstract": null
-    },
-    {
-      "pmid": "41557968",
-      "doi": "10.1200/JCO-25-02528",
-      "title": "Reply to: \"Limitations in Study Design and Stratification in Phase II Stereotactic Radiosurgery Trial for Small Cell Lung Cancer Brain Metastases,\" \"Radiosurgery for Small Cell Lung Cancer Brain Metastases: Comparing the JLGK0901 and BWH/DFCI Trials,\" and \"Expanding Indications for Stereotactic Radiosurgery in Small Cell Lung Cancer With Brain Metastases\".",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": "Phase II",
-      "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557968/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02528",
-      "abstract": null
     }
   ]
 }
