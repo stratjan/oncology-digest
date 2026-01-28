@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-27T05:24:32.833903Z",
+  "generated": "2026-01-28T05:26:50.063643Z",
   "items": [
     {
       "pmid": "41576929",
@@ -42,26 +42,6 @@
       "abstract": "IMPORTANCE: Adjuvant immunotherapy is increasingly integrated into cancer care to reduce recurrence and improve survival. However, its high cost raises critical concerns regarding affordability and economic value across diverse health system contexts.\n\nOBJECTIVE: To synthesize published economic evaluations of adjuvant immunotherapy and assess cost-effectiveness outcomes, quality-adjusted life-year (QALY)/life-year (LY) gains, and methodologic approaches.\n\nEVIDENCE REVIEW: A systematic search was conducted of PubMed, Scopus, Embase, and Web of Science for full economic evaluations published between January 1, 2015, and January 31, 2025. Eligible studies included cost-effectiveness or cost-utility analyses of adjuvant immunotherapy across any cancer type. Data were extracted on cancer type, treatment strategy (single vs combination therapy), treatment line, model structure, health utility instruments, funding sources, and cost-effectiveness outcomes. Methodologic quality was appraised using the Criteria for Health Economic Quality Evaluation 2023. Due to heterogeneity of health systems, findings were narratively synthesized.\n\nFINDINGS: The analysis included 69 studies covering a range of cancer types, most frequently non-small cell lung cancer and melanoma. Of these, 46 (67%) evaluated first-line therapy with single-agent checkpoint inhibitors. Higher QALY/LY gains were consistently reported among the adjuvant immunotherapy group (63 [91%]), particularly for non-small cell lung cancer, industry-funded studies, and combination regimens. More than half of the evaluations (40 [58%]) concluded that adjuvant immunotherapy was cost-effective, although results varied by cancer type, model assumptions, drug pricing, funding organizations, and country-specific thresholds. Markov modeling was the dominant analytic approach (46 [67%]) and EuroQol 5 Dimensions was the most commonly used health utility instrument (56 [81%]).\n\nCONCLUSIONS AND RELEVANCE: This systematic review found that adjuvant immunotherapy was frequently associated with meaningful QALY/LY improvements and was often considered cost-effective in high-risk or first-line settings. However, economic value remains context-specific, shaped by treatment strategy, drug costs, and modeling assumptions. These findings support the selective, value-based adoption of adjuvant immunotherapy and underscore the need for transparent, standardized economic evaluations to guide reimbursement and policy decisions."
     },
     {
-      "pmid": "41557983",
-      "doi": "10.1158/2159-8290.CD-25-1346",
-      "title": "Preclinical Characterization and Clinical Activity of RNK08954, a Highly Selective and Orally Bioavailable KRAS G12D Inhibitor.",
-      "journal": "Cancer discovery",
-      "pubdate": "2026-01-21T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/doi/10.1158/2159-8290.CD-25-1346/3727313/cd-25-1346.pdf",
-      "metric_name": "SJR",
-      "metric_value": 7.283,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41557983/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-1346",
-      "abstract": "KRAS G12D is the most prevalent subtype of KRAS mutation across solid tumors, but no drug is available in the clinic. RNK08954 is a potent and selective KRAS G12D inhibitor that inhibits proliferation of KRAS G12D-mutant cells and demonstrates significant tumor regressions in mouse xenograft models while inhibiting KRAS-mediated signaling. The in vivo effects of RNK08954 are explained by its unique pharmacokinetic (PK) profile and significantly prolonged retention time in tumor tissues. RNK08954 shows synergy with immune check blockade (ICB). In a Phase 1a study, the median follow-up was 4.85 months for 36 evaluable patients. In patients with non-small cell lung cancer (NSCLC), the objective response rate (ORR, unconfirmed) is 58.33%, and in patients with pancreatic ductal adenocarcinoma (PDAC) the ORR (unconfirmed) was 33.33% in the 1000-1200mg cohort. This study supports the clinical potential of RNK08954 in patients with KRAS G12D mutation either as a single agent or in combination."
-    },
-    {
       "pmid": "41581221",
       "doi": "10.1093/jnci/djag021",
       "title": "Identifying expression and DNA methylation biomarkers for lung adenocarcinoma risk in East Asia.",
@@ -80,6 +60,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41581221/",
       "url_doi": "https://doi.org/10.1093/jnci/djag021",
       "abstract": "BACKGROUND: Lung adenocarcinoma (LUAD) is the most common type of lung cancer. A recent genome-wide association study (GWAS) of LUAD in East Asia reported 28 independent susceptibility variants across 25 loci and identified 2 genes whose genetically predicted expression levels are associated with LUAD risk, using an ancestry-matched lung tissue expression quantitative trait loci (eQTL) dataset. It is desirable to identify additional susceptibility loci and to understand their underlying biological mechanisms.\n\nMETHODS: Using an expanded GWAS of LUAD in East Asia and ancestry-matched lung tissue eQTL and DNA methylation QTL datasets, we performed transcriptome-wide association studies and DNA methylome-wide association studies simultaneously and examined the association between measured expression of genes and DNA methylation of nearby CpGs (eQTM). Genes and nearby CpGs are termed CpG-gene-LUAD trios if these three associations hold simultaneously.\n\nRESULTS: At Bonferroni-corrected P < .05, we identified a new susceptibility locus (6p21.31; lead SNP rs7772643), 10 LUAD-associated genes and 86 LUAD-associated CpGs. At false discovery rate q < 0.05, we identified 28 LUAD-associated genes, 220 LUAD-associated CpGs, and 45 CpG-gene-LUAD trios; among them, 43 were direction-matched regarding these three associations. These show that 23 of the known 28 susceptibility variants for LUAD in East Asia are near these genes or CpGs and MARCH3, ELF5, IKZF3, GSDMB, CCDC116, and DSP are putative novel susceptibility loci. Few of them was reported in LUAD in European populations.\n\nCONCLUSIONS: This study substantially advances our understanding of the etiology of LUAD in East Asia and could be useful in developing translational applications."
+    },
+    {
+      "pmid": "41591362",
+      "doi": "10.1158/0008-5472.CAN-25-2871",
+      "title": "Targeting LRRC15 in Cancer-Associated Fibroblasts Modifies the Extracellular Matrix and Enhances Tumor Immune Responses to Suppress Lung Cancer Progression.",
+      "journal": "Cancer research",
+      "pubdate": "2026-01-27T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41591362/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-2871",
+      "abstract": "Cancer-associated fibroblasts (CAFs) play a crucial role in shaping the tumor microenvironment (TME) and driving tumor progression. While single-cell transcriptomics has revealed the phenotypic and functional heterogeneity of CAFs, effective therapeutic strategies targeting CAFs remain urgently needed. Here, we identified LRRC15+ CAFs as a tumor-specific CAF subset in lung cancer and proposed LRRC15 as a potential therapeutic target. LRRC15 deficiency suppressed lung cancer progression in mice by modulating macrophage polarization and enhancing CD8+ T cell activation. Mechanistically, LRRC15 deficiency inhibited CD206+ macrophage polarization by reducing extracellular matrix (ECM) production in CAFs, leading to increased CD8+ T cell cytotoxicity. Finally, development of a bispecific antibody targeting LRRC15 and TGF-β enabled effective downregulation of LRRC15 expression in CAFs and limited tumor progression in mice. This study highlights LRRC15 as a promising therapeutic target and provides insights into CAF-directed cancer treatment strategies."
     },
     {
       "pmid": "41579430",
@@ -448,6 +448,26 @@
       "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
     },
     {
+      "pmid": "41591979",
+      "doi": "10.1158/1078-0432.CCR-25-3384",
+      "title": "Epigenetic Instability Based Metrics in Cell-Free DNA for Early Cancer Detection.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2026-01-27T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41591979/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-3384",
+      "abstract": "PURPOSE: Cancers present significant DNA methylation changes, which arise in a stochastic manner, marked by extensive epigenetic variation, indicative of high epigenetic instability. We aimed to evaluate the utility of epigenetic instability for cell-free DNA (cfDNA)-based cancer detection.\n\nEXPERIMENTAL DESIGN: Through analysis of cancer DNA methylation datasets (n=2,084), we identified a set of 269 CGI regions that robustly captures this instability in a cancer-specific manner. We developed metrics to measure this epigenetic instability, termed the Epigenetic Instability Index (EII), for cancer screening via cfDNA methylation.\n\nRESULTS: Machine learning classifiers employing the EII of these 269 regions efficiently identified breast and lung cancer from cfDNA, differentiating even stage IA LUAD with ~81% sensitivity and early-stage breast cancer with ~68% sensitivity, both at 95% specificity.\n\nCONCLUSION: Our studies demonstrate that quantifying epigenetic instability is a novel, capable approach to distinguishing cancer from normal cases using cfDNA, performing better than standard approaches using absolute methylation changes. The epigenetic instability-based approaches for cancer detection developed here, along with their validation in independent datasets, support further development and the potential for future clinical application of these strategies in cancer screening."
+    },
+    {
       "pmid": "41587109",
       "doi": "10.1158/1078-0432.CCR-25-2287",
       "title": "FDA Approval Summary: Tarlatamab for the Treatment of Extensive Stage Small Cell Lung Cancer.",
@@ -568,46 +588,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41584396/",
       "url_doi": "https://doi.org/10.1002/ccr3.71434",
       "abstract": "Cutaneous squamous cell carcinoma (cSCC) is a malignant epithelial tumor of the skin, classified as a nonmelanoma skin cancer. It may develop from precancerous conditions such as chronic inflammatory dermatoses, actinic keratosis, or actinic cheilitis, but can also arise de novo. The aim of this case report is to describe the clinical management and therapeutic outcome of a patient with infraorbital squamous cell carcinoma who was deemed inoperable due to poor general health conditions, and was therefore treated with electrochemotherapy (ECT) as an alternative local therapy. A 73-year-old male patient with a complex medical history, including untreated chronic kidney disease, untreated diabetes mellitus, left leg lymphedema, right leg thrombosis, previous lobectomy for lung cancer, and amputation of the left big toe due to squamous cell carcinoma (SCC), presented with a new lesion diagnosed as SCC located in the infraorbital region. Electrochemotherapy is a minimally invasive oncologic treatment that combines electroporation with the administration of chemotherapeutic agents to enhance their cytotoxic efficacy. Bleomycin, 15 μ/m"
-    },
-    {
-      "pmid": "41581311",
-      "doi": "10.1016/j.lungcan.2026.108939",
-      "title": "Targeting HGF/MET and CXCL1/CXCR2 axes bypasses resistance to KRAS(G12C) inhibitors in NSCLC.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-01-21T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41581311/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108939",
-      "abstract": "BACKGROUND: Resistance to KRAS\n\nMETHODS: We generated cell clones from KRAS\n\nRESULTS: NSCLC cell clones and PDX cell cultures with acquired and intrinsic resistance to KRAS\n\nCONCLUSIONS: CXCL1/CXCR2 and HGF/c-MET may represent compensatory pathways that sustain proliferation and survival in resistance to KRAS"
-    },
-    {
-      "pmid": "41565826",
-      "doi": "10.1038/s41586-025-09985-x",
-      "title": "Critical role for a high-plasticity cell state in lung cancer.",
-      "journal": "Nature",
-      "pubdate": "2026-01-21T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41586-025-09985-x",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41565826/",
-      "url_doi": "https://doi.org/10.1038/s41586-025-09985-x",
-      "abstract": "Plasticity-the ability of cells to undergo phenotypic transitions-drives cancer progression and therapy resistance"
     }
   ]
 }
