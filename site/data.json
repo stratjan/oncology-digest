@@ -1,12 +1,12 @@
 {
-  "generated": "2026-01-28T05:26:50.063643Z",
+  "generated": "2026-01-29T05:42:18.517586Z",
   "items": [
     {
-      "pmid": "41576929",
-      "doi": "10.1016/j.ccell.2025.12.021",
-      "title": "Armored macrophage-targeted CAR-T cells reset and reprogram the tumor microenvironment and control metastatic cancer growth.",
-      "journal": "Cancer cell",
-      "pubdate": "2026-01-22T00:00:00+00:00",
+      "pmid": "41604461",
+      "doi": "10.1126/scitranslmed.adx6873",
+      "title": "SREBP-1 increases glucose uptake to promote tumor resistance to lysosome inhibition.",
+      "journal": "Science translational medicine",
+      "pubdate": "2026-01-28T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
@@ -16,30 +16,10 @@
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 19.027,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41576929/",
-      "url_doi": "https://doi.org/10.1016/j.ccell.2025.12.021",
-      "abstract": "Tumor-associated macrophages (TAMs), which commonly express FOLR2 or TREM2, are enriched in solid tumors and keep the tumor microenvironment (TME) immunosuppressed. Here, we introduce IL-12-expressing CAR-T cells targeting FOLR2 or TREM2 to deplete pro-tumor TAMs and reprogram the TME. Treatment with IL-12-armored anti-TAM CAR-T leads to significantly improved survival in metastatic ovarian and lung cancer models. The CAR-T mediates benefit at low cell dose and without lymphodepletion, and remains largely restricted to tumors with no overt toxicity. Spatial transcriptomics reveals that IL-12 anti-TAM CAR-T mediates sustained remodeling of the TME, even after CAR-T contraction, with the expansion of CXCL9+ immunostimulatory macrophages and endogenous tumor-specific cytotoxic T cells. Tumor clearance depends, in part, on FAS expression on cancer cells, revealing an IL-12-FAS axis for IL-12-armored CAR-T activity. These findings position IL-12-producing, myeloid-directed CAR-T as a broad strategy to remodel the TME and drive anti-tumor immunity for solid cancers."
-    },
-    {
-      "pmid": "41569596",
-      "doi": "10.1001/jamaoncol.2025.6080",
-      "title": "Cost-Effectiveness of Adjuvant Immunotherapy in Cancer Treatments: A Systematic Review.",
-      "journal": "JAMA oncology",
-      "pubdate": "2026-01-22T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 8.377,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41569596/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.6080",
-      "abstract": "IMPORTANCE: Adjuvant immunotherapy is increasingly integrated into cancer care to reduce recurrence and improve survival. However, its high cost raises critical concerns regarding affordability and economic value across diverse health system contexts.\n\nOBJECTIVE: To synthesize published economic evaluations of adjuvant immunotherapy and assess cost-effectiveness outcomes, quality-adjusted life-year (QALY)/life-year (LY) gains, and methodologic approaches.\n\nEVIDENCE REVIEW: A systematic search was conducted of PubMed, Scopus, Embase, and Web of Science for full economic evaluations published between January 1, 2015, and January 31, 2025. Eligible studies included cost-effectiveness or cost-utility analyses of adjuvant immunotherapy across any cancer type. Data were extracted on cancer type, treatment strategy (single vs combination therapy), treatment line, model structure, health utility instruments, funding sources, and cost-effectiveness outcomes. Methodologic quality was appraised using the Criteria for Health Economic Quality Evaluation 2023. Due to heterogeneity of health systems, findings were narratively synthesized.\n\nFINDINGS: The analysis included 69 studies covering a range of cancer types, most frequently non-small cell lung cancer and melanoma. Of these, 46 (67%) evaluated first-line therapy with single-agent checkpoint inhibitors. Higher QALY/LY gains were consistently reported among the adjuvant immunotherapy group (63 [91%]), particularly for non-small cell lung cancer, industry-funded studies, and combination regimens. More than half of the evaluations (40 [58%]) concluded that adjuvant immunotherapy was cost-effective, although results varied by cancer type, model assumptions, drug pricing, funding organizations, and country-specific thresholds. Markov modeling was the dominant analytic approach (46 [67%]) and EuroQol 5 Dimensions was the most commonly used health utility instrument (56 [81%]).\n\nCONCLUSIONS AND RELEVANCE: This systematic review found that adjuvant immunotherapy was frequently associated with meaningful QALY/LY improvements and was often considered cost-effective in high-risk or first-line settings. However, economic value remains context-specific, shaped by treatment strategy, drug costs, and modeling assumptions. These findings support the selective, value-based adoption of adjuvant immunotherapy and underscore the need for transparent, standardized economic evaluations to guide reimbursement and policy decisions."
+      "metric_value": 6.722,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41604461/",
+      "url_doi": "https://doi.org/10.1126/scitranslmed.adx6873",
+      "abstract": "Lysosomes are critical for maintaining cellular homeostasis and nutrient availability, yet how tumor cells survive under lysosomal inhibition remains unclear. Here, we revealed that inhibiting lysosome function with chloroquine unexpectedly stimulated glucose uptake across various cancer cells. This effect was driven by sterol regulatory element-binding protein 1 (SREBP-1), a key lipogenic transcription factor, which specifically increased the expression of glucose transporters GLUT3 and GLUT6, enhancing glucose uptake and macromolecule synthesis. Elevated glucose, induced by chloroquine, stabilized SREBP cleavage-activating protein (SCAP), the activator of SREBP-1, further amplifying its activity and contributing to tumor resistance to lysosome inhibition. Disrupting this SREBP-1-glucose uptake feedforward loop by combining chloroquine with inhibitors of glucose transporters, SREBP-1, or lipogenic enzymes induced a synergistic antitumor effect in squamous cell and adenocarcinoma lung cancer patient-derived organoids and xenografts. This combination impaired mitochondrial structure and function, inducing apoptotic tumor cell death. Our study uncovers a role for SREBP-1 in regulating glucose metabolism and provides a promising therapeutic strategy that combines lysosome inhibition with glucose transporter or lipogenic enzyme inhibition for effective cancer treatment."
     },
     {
       "pmid": "41581221",
@@ -73,8 +53,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1158/0008-5472.can-25-2871",
       "metric_name": "SJR",
       "metric_value": 3.879,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41591362/",
@@ -155,13 +135,33 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1097/cm9.0000000000003967",
       "metric_name": "SJR",
       "metric_value": 1.213,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41582867/",
       "url_doi": "https://doi.org/10.1097/CM9.0000000000003967",
       "abstract": null
+    },
+    {
+      "pmid": "41593906",
+      "doi": "10.1080/07853890.2026.2620201",
+      "title": "Clinicopathological characteristics and therapeutic outcomes in patients with non-small cell lung cancer harboring SMARCA4 mutations.",
+      "journal": "Annals of medicine",
+      "pubdate": "2026-12-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.204,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41593906/",
+      "url_doi": "https://doi.org/10.1080/07853890.2026.2620201",
+      "abstract": "OBJECTIVE: To investigate the clinical characteristics and impact of\n\nMETHODS: A total of 2,821 patients with NSCLC who underwent next-generation sequencing were retrospectively included. The frequency and types of"
     },
     {
       "pmid": "41308576",
@@ -406,6 +406,46 @@
       "abstract": "INTRODUCTION: PIK3CA mutations are oncogenic drivers in 2-4% of non-small cell lung cancers (NSCLC), often co-occurring with other drivers and conferring therapeutic resistance. This report is unique in describing the efficacy of the novel, highly selective PI3Kα inhibitor inavolisib in two heavily pre-treated patients with PIK3CA-mutant NSCLC harboring divergent co-drivers (EGFR and KRAS).\n\nCASE PRESENTATION: We present a 71-year-old male with EGFR/PIK3CA-mutant adenocarcinoma and brain metastases, and a 54-year-old female with KRAS/PIK3CA-mutant squamous cell carcinoma. Both patients reported rapid symptomatic improvement (hoarseness and shoulder pain, respectively) within two weeks of initiating inavolisib.\n\nDIAGNOSIS, INTERVENTION, AND OUTCOMES: Both patients received oral inavolisib (6 mg daily). Follow-up imaging after one month revealed significant tumor reduction. Notably, regressing intrapulmonary lesions exhibited tumor cavitation, and the male patient demonstrated a marked regression of central nervous system (CNS) metastases. The treatment was well-tolerated, with only Grade 1 oral mucositis reported.\n\nCONCLUSION: The primary take-away lesson is that selective PI3Kα inhibition with inavolisib can induce potent systemic and intracranial responses in PIK3CA-mutant NSCLC, regardless of the primary oncogenic co-driver. The observed tumor cavitation suggests a potential anti-angiogenic mechanism, warranting further investigation."
     },
     {
+      "pmid": "41370740",
+      "doi": "10.1200/JCO-25-02102",
+      "title": "Reply to: \"Improving the Reporting of Long-Term Effects in the IMpower010 Trial\" and \"Adjuvant Atezolizumab in Early-Stage Non-Small Cell Lung Cancer: Signals, Silences, and the Need for Methodological Clarity\".",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-02-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41370740/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-02102",
+      "abstract": null
+    },
+    {
+      "pmid": "41370734",
+      "doi": "10.1200/JCO-25-01540",
+      "title": "Adjuvant Atezolizumab in Early-Stage Non-Small Cell Lung Cancer: Signals, Silences, and the Need for Methodological Clarity.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-02-01T00:00:00+00:00",
+      "pubtypes": [
+        "Letter"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41370734/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01540",
+      "abstract": null
+    },
+    {
       "pmid": "41203001",
       "doi": "10.1016/j.athoracsur.2025.10.016",
       "title": "Clinical Characteristics and Surgical Outcomes of Patients Receiving Perioperative Pembrolizumab in KEYNOTE-671.",
@@ -459,8 +499,8 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1158/1078-0432.ccr-25-3384",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41591979/",
@@ -508,86 +548,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41544643/",
       "url_doi": "https://doi.org/10.1016/S0140-6736(25)01811-2",
       "abstract": "BACKGROUND: Savolitinib combined with osimertinib is a potential novel therapy for patients with EGFR mutation-positive non-small-cell lung cancer (NSCLC) harbouring MET amplification after progression on EGFR tyrosine kinase inhibitor (TKI) therapy. We aimed to evaluate the efficacy and safety of savolitinib-osimertinib versus standard of care platinum-based doublet chemotherapy in this patient population.\n\nMETHODS: SACHI was a multicentre, randomised, active-controlled, open-label, phase 3 trial conducted across 68 Chinese hospitals. Eligible adults with locally advanced or metastatic EGFR mutation-positive NSCLC and MET amplification after EGFR TKI failure were randomly assigned (1:1) to once daily oral savolitinib-osimertinib or intravenous chemotherapy (pemetrexed plus either cisplatin or carboplatin), both in 21-day cycles. Central randomisation was implemented through an interactive web-response system with stratification based on the presence of brain metastases, previous exposure to third-generation EGFR TKIs, and EGFR mutation subtype, using a mixed block-size methodology. The primary endpoint, investigator-assessed progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumours version 1.1, was tested using a hierarchical procedure: first in the third-generation EGFR TKI-naive population, and if positive, the intention-to-treat (ITT) population. Safety analysis was performed in all patients who received at least one dose of the study treatment. Interim analysis data cutoff was Aug 30, 2024. This study is registered with ClinicalTrials.gov (NCT05015608) and is complete.\n\nFINDINGS: Between Oct 15, 2021, and Aug 30, 2024, 211 patients were enrolled, 106 were randomly assigned to savolitinib-osimertinib and 105 were randomly assigned to chemotherapy, including 137 (65%) of 211 who were third-generation EGFR TKI-naive (69 in the savolitinib-osimertinib group; 68 in the chemotherapy group). In 106 patients in the savolitinib-osimertinib group, the median age was 59·4 years (IQR 54·3-65·8), 62 (58%) were female, and 44 (42%) were male. In 105 patients in the chemotherapy group, the median age was 61·9 years (IQR 56·3-69·1), 55 (52%) were female, and 50 (48%) were male. All participants were Asian. Median PFS was significantly prolonged with savolitinib-osimertinib versus chemotherapy in the third-generation EGFR TKI-naive (9·8 months [95% CI 6·9-12·5] vs 5·4 months [4·2-6·0]; hazard ratio 0·34 [0·21-0·56]; p<0·0001) and ITT populations (8·2 months [6·9-11·2] vs 4·5 months [3·0-5·4]; 0·34 [0·23-0·49]; p<0·0001). Grade 3 or worse treatment-emergent adverse events occurred in the same proportion of patients in both groups who received the study drugs (60 [57%] of 106 patients in the savolitinib-osimertinib group and 55 [57%] of 96 patients in the chemotherapy group).\n\nINTERPRETATION: The savolitinib-osimertinib combination improved PFS versus chemotherapy in patients with EGFR mutation-positive, MET-amplified NSCLC that had progressed on EGFR TKI therapy, while maintaining a favourable tolerability profile. This regimen offers a potential oral treatment option for this biomarker-selected population.\n\nFUNDING: HUTCHMED and AstraZeneca."
-    },
-    {
-      "pmid": "41570262",
-      "doi": "10.1200/JCO-25-02654",
-      "title": "Reply to: Delta-Like Ligand 3 Expression Across Lung Neuroendocrine Subtypes: Interpreting Response in Small Cell Lung Cancer and Beyond.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-22T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41570262/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02654",
-      "abstract": null
-    },
-    {
-      "pmid": "41570261",
-      "doi": "10.1200/JCO-25-01894",
-      "title": "Delta-Like Ligand 3 Expression Across Lung Neuroendocrine Subtypes: Interpreting Response in Small Cell Lung Cancer and Beyond.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-22T00:00:00+00:00",
-      "pubtypes": [
-        "Letter"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41570261/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01894",
-      "abstract": null
-    },
-    {
-      "pmid": "41570254",
-      "doi": "10.1200/JCO-25-02696",
-      "title": "BR.31 Trial: Adjuvant Durvalumab as the Third Contender in Resected Non-Small Cell Lung Cancer.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-01-22T00:00:00+00:00",
-      "pubtypes": [
-        "Editorial"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41570254/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02696",
-      "abstract": null
-    },
-    {
-      "pmid": "41584396",
-      "doi": "10.1002/ccr3.71434",
-      "title": "Non-Operable Squamous Cell Carcinoma of the Infraorbital Region Treated With Electrochemotherapy: A Case Report.",
-      "journal": "Clinical case reports",
-      "pubdate": "2026-01-22T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ccr3.71434",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41584396/",
-      "url_doi": "https://doi.org/10.1002/ccr3.71434",
-      "abstract": "Cutaneous squamous cell carcinoma (cSCC) is a malignant epithelial tumor of the skin, classified as a nonmelanoma skin cancer. It may develop from precancerous conditions such as chronic inflammatory dermatoses, actinic keratosis, or actinic cheilitis, but can also arise de novo. The aim of this case report is to describe the clinical management and therapeutic outcome of a patient with infraorbital squamous cell carcinoma who was deemed inoperable due to poor general health conditions, and was therefore treated with electrochemotherapy (ECT) as an alternative local therapy. A 73-year-old male patient with a complex medical history, including untreated chronic kidney disease, untreated diabetes mellitus, left leg lymphedema, right leg thrombosis, previous lobectomy for lung cancer, and amputation of the left big toe due to squamous cell carcinoma (SCC), presented with a new lesion diagnosed as SCC located in the infraorbital region. Electrochemotherapy is a minimally invasive oncologic treatment that combines electroporation with the administration of chemotherapeutic agents to enhance their cytotoxic efficacy. Bleomycin, 15 μ/m"
     }
   ]
 }
