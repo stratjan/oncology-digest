@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-31T05:38:08.395796Z",
+  "generated": "2026-02-01T05:58:45.934399Z",
   "items": [
     {
       "pmid": "41616774",
@@ -81,6 +81,27 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41591362/",
       "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-2871",
       "abstract": "Cancer-associated fibroblasts (CAFs) play a crucial role in shaping the tumor microenvironment (TME) and driving tumor progression. While single-cell transcriptomics has revealed the phenotypic and functional heterogeneity of CAFs, effective therapeutic strategies targeting CAFs remain urgently needed. Here, we identified LRRC15+ CAFs as a tumor-specific CAF subset in lung cancer and proposed LRRC15 as a potential therapeutic target. LRRC15 deficiency suppressed lung cancer progression in mice by modulating macrophage polarization and enhancing CD8+ T cell activation. Mechanistically, LRRC15 deficiency inhibited CD206+ macrophage polarization by reducing extracellular matrix (ECM) production in CAFs, leading to increased CD8+ T cell cytotoxicity. Finally, development of a bispecific antibody targeting LRRC15 and TGF-β enabled effective downregulation of LRRC15 expression in CAFs and limited tumor progression in mice. This study highlights LRRC15 as a promising therapeutic target and provides insights into CAF-directed cancer treatment strategies."
+    },
+    {
+      "pmid": "41619151",
+      "doi": "10.1007/s40265-025-02276-9",
+      "title": "First Line and Treatment Sequencing in EGFR-Mutated Metastatic NSCLC: What is Right for Which Patient?",
+      "journal": "Drugs",
+      "pubdate": "2026-01-31T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.362,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41619151/",
+      "url_doi": "https://doi.org/10.1007/s40265-025-02276-9",
+      "abstract": "The therapeutic landscape for non-small-cell lung cancer (NSCLC) harbouring epidermal growth factor (EGFR) gene mutations is undergoing significant transformation. For classical EGFR mutations such as exon 19 deletion and exon 21 L858R mutation, combination strategies in the first-line setting, based on the results of the MARIPOSA (lazertinib and amivantamab) and FLAURA 2 (platinum-based doublet chemotherapy and osimertinib) trials, provide promising outcomes. Compared to osimertinib monotherapy, they potentially delay both the onset of molecular resistance to treatment and the intracranial progression of the disease. Selecting the best first-line option should take into consideration patient and genome-related factors as well as the burden of the disease including the presence of central nervous system metastases. Beyond first-line therapy, novel agents-including antibody-drug conjugates, bispecific antibodies, and T-cell engagers-have emerged as innovative options for pretreated patients with EGFR-mutated disease. Optimising the treatment sequence in advanced EGFR-mutated NSCLC is crucial to ensure the best survival outcomes along with the best treatment tolerance and quality of life. Predictive biomarkers are strongly needed as well as biomarker-based escalation and de-escalation clinical trials."
     },
     {
       "pmid": "41419100",
@@ -527,6 +548,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41370740/",
       "url_doi": "https://doi.org/10.1200/JCO-25-02102",
       "abstract": null
+    },
+    {
+      "pmid": "41619904",
+      "doi": "10.1016/j.jtho.2026.103565",
+      "title": "Impact of KRAS Mutations and Co-Alterations on Outcomes in Stage III Non-Squamous Non-Small Cell Lung Cancer Treated with Chemoradiation and Immunotherapy.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2026-01-29T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41619904/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103565",
+      "abstract": "BACKGROUND: Outcomes in unresected locally advanced non-small cell lung cancer (LA-NSCLC) are poor despite improvement with immunotherapy following concurrent chemoradiation (cCRT). Although KRAS is the most common mutated oncogene in NSCLC, its impact on outcomes in LA-NSCLC treated with cCRT and durvalumab remains underexplored.\n\nMETHODS: We conducted a multicenter retrospective analysis of patients with stage III non-squamous non-small cell lung cancer (non-sq NSCLC) treated with definitive cCRT followed by durvalumab. Progression-free survival (PFS) and incidence of distant metastasis and locoregional recurrence were compared by KRAS status. Of patients who underwent next generation sequencing (NGS), we assessed the impact of co-alterations on PFS.\n\nRESULTS: Among 208 consecutive patients, 117 were KRAS wild type (WT) and 91 were KRAS mutant. Median PFS was shorter for KRAS mutant disease compared to KRAS WT (16 vs. 28 months, p = 0.024). KRAS mutations were associated with worse PFS on univariable and multivariable analyses. There was an increased incidence of distant metastasis for KRAS mutant compared to KRAS WT disease (2-year 44% vs. 34%, p = 0.042), including increased brain metastasis incidence (p = 0.007). Among KRAS-mutant tumors, co-alterations with CDKN2A and/or STK11 were associated with worse PFS compared to KRAS WT, whereas KRAS mutations without CDKN2A or STK11 co-alterations were not.\n\nCONCLUSIONS: KRAS mutant non-sq LA-NSCLC is associated with inferior outcomes, largely driven by increased distant and brain metastases. Tumors with concurrent CDKN2A and/or STK11 alterations had the poorest outcomes. These findings support the evaluation of KRAS inhibitors in this high-risk stage III population."
     },
     {
       "pmid": "41617618",
