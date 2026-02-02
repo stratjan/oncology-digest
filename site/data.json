@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-01T05:58:45.934399Z",
+  "generated": "2026-02-02T06:02:40.905179Z",
   "items": [
     {
       "pmid": "41616774",
@@ -83,27 +83,6 @@
       "abstract": "Cancer-associated fibroblasts (CAFs) play a crucial role in shaping the tumor microenvironment (TME) and driving tumor progression. While single-cell transcriptomics has revealed the phenotypic and functional heterogeneity of CAFs, effective therapeutic strategies targeting CAFs remain urgently needed. Here, we identified LRRC15+ CAFs as a tumor-specific CAF subset in lung cancer and proposed LRRC15 as a potential therapeutic target. LRRC15 deficiency suppressed lung cancer progression in mice by modulating macrophage polarization and enhancing CD8+ T cell activation. Mechanistically, LRRC15 deficiency inhibited CD206+ macrophage polarization by reducing extracellular matrix (ECM) production in CAFs, leading to increased CD8+ T cell cytotoxicity. Finally, development of a bispecific antibody targeting LRRC15 and TGF-β enabled effective downregulation of LRRC15 expression in CAFs and limited tumor progression in mice. This study highlights LRRC15 as a promising therapeutic target and provides insights into CAF-directed cancer treatment strategies."
     },
     {
-      "pmid": "41619151",
-      "doi": "10.1007/s40265-025-02276-9",
-      "title": "First Line and Treatment Sequencing in EGFR-Mutated Metastatic NSCLC: What is Right for Which Patient?",
-      "journal": "Drugs",
-      "pubdate": "2026-01-31T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 3.362,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41619151/",
-      "url_doi": "https://doi.org/10.1007/s40265-025-02276-9",
-      "abstract": "The therapeutic landscape for non-small-cell lung cancer (NSCLC) harbouring epidermal growth factor (EGFR) gene mutations is undergoing significant transformation. For classical EGFR mutations such as exon 19 deletion and exon 21 L858R mutation, combination strategies in the first-line setting, based on the results of the MARIPOSA (lazertinib and amivantamab) and FLAURA 2 (platinum-based doublet chemotherapy and osimertinib) trials, provide promising outcomes. Compared to osimertinib monotherapy, they potentially delay both the onset of molecular resistance to treatment and the intracranial progression of the disease. Selecting the best first-line option should take into consideration patient and genome-related factors as well as the burden of the disease including the presence of central nervous system metastases. Beyond first-line therapy, novel agents-including antibody-drug conjugates, bispecific antibodies, and T-cell engagers-have emerged as innovative options for pretreated patients with EGFR-mutated disease. Optimising the treatment sequence in advanced EGFR-mutated NSCLC is crucial to ensure the best survival outcomes along with the best treatment tolerance and quality of life. Predictive biomarkers are strongly needed as well as biomarker-based escalation and de-escalation clinical trials."
-    },
-    {
       "pmid": "41419100",
       "doi": "10.1016/j.canlet.2025.218223",
       "title": "Consensus on the diagnosis and treatment of unresectable stage III driver gene-positive non-small cell lung cancer.",
@@ -125,6 +104,26 @@
       "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
     },
     {
+      "pmid": "41622242",
+      "doi": "10.1186/s12967-026-07766-2",
+      "title": "Multiomics analysis reveals that senescent CXCL16(+) macrophages promote lung adenocarcinoma progression through TGF-β signalling.",
+      "journal": "Journal of translational medicine",
+      "pubdate": "2026-02-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.997,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41622242/",
+      "url_doi": "https://doi.org/10.1186/s12967-026-07766-2",
+      "abstract": "BACKGROUND: Lung adenocarcinoma (LUAD) is the most common histological subtype of lung cancer and remains a leading cause of cancer-related mortality worldwide. Although, immunotherapy has become a cornerstone of first-line treatment, only 20-30% of patients achieve a durable clinical benefit, largely because of the complexity and heterogeneity of the tumour immune microenvironment. Emerging evidence indicates that cellular senescence, particularly within immune cells, contributes to tumour progression by impairing antitumour immunity; however, its mechanistic role in LUAD remains incompletely understood.\n\nMETHODS: We performed an integrative multiomics analysis incorporating genome-wide association studies (GWASs), bulk RNA sequencing, single-cell RNA sequencing, and spatial transcriptomics to characterize immune heterogeneity in LUAD. Cellular senescence was validated by performing staining for senescence-associated β-galactosidase and the canonical markers p16 and p21. SHAP analysis was applied to evaluate the contribution of CXCL16\n\nRESULTS: A summary data-based on Mendelian randomization analysis integrating GWAS and TCGA data identified CXCL16 as a senescence-associated gene that is causally linked to the LUAD risk. Single-cell RNA sequencing revealed that CXCL16 is predominantly expressed in macrophages, and the pseudotime analysis together with β-galactosidase staining confirmed its association with macrophage senescence. Spatial transcriptomics and immunofluorescence staining showed the marked enrichment of CXCL16\n\nCONCLUSIONS: CXCL16 promotes macrophage senescence, and senescent CXCL16"
+    },
+    {
       "pmid": "41611341",
       "doi": "10.1111/cas.70330",
       "title": "Four-Year Outcomes for Nivolumab With Chemotherapy and Bevacizumab in Patients With Nonsquamous NSCLC in the TASUKI-52.",
@@ -137,33 +136,12 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1111/cas.70330",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.70330",
       "metric_name": "SJR",
       "metric_value": 1.661,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41611341/",
       "url_doi": "https://doi.org/10.1111/cas.70330",
       "abstract": "In the Phase III TASUKI-52 trial, nivolumab with carboplatin, paclitaxel (CP), plus bevacizumab significantly prolonged progression-free survival (PFS), and resulted in longer overall survival (OS) in patients with advanced nonsquamous non-small cell lung cancer (NSCLC). This final analysis evaluated 4-year treatment outcomes in terms of OS, PFS and duration of response (DOR) by investigator assessment and safety, as well as the background characteristics and treatment courses associated with 4-year survivors. Patients were randomized 1:1 to receive nivolumab (n = 275) or placebo (n = 275) in addition to CP plus bevacizumab. With a minimum follow-up of 53.1 months, nivolumab with CP plus bevacizumab continued to show improvement in OS (hazard ratio [HR], 0.71; 95% confidence interval [CI], 0.58-0.88) and PFS (HR: 0.61; 95% CI: 0.50-0.74) compared to placebo with CP plus bevacizumab. The 4-year OS rate was 34.7% in the nivolumab arm versus 22.1% in the placebo arm, and the 4-year PFS rate was 13.7% in the nivolumab arm versus 3.3% in the placebo arm. Among 4-year survivors, the median DOR was numerically longer in the nivolumab arm than in the placebo arm (34.7 vs. 13.5 months). No new safety signals were observed. Four-year survival in the nivolumab arm was associated with the absence of bone metastases and age < 65, but not with PD-L1 status and tumor size. In conclusion, treatment with nivolumab demonstrated long-term survival benefit and durable response, which supports nivolumab with CP plus bevacizumab as a first-line treatment option for advanced nonsquamous NSCLC. Trial Registration: ClinicalTrials.gov identifier: NCT03117049."
-    },
-    {
-      "pmid": "41609978",
-      "doi": "10.1007/s11523-025-01196-8",
-      "title": "Current and Emerging Treatment Landscape of Common EGFR-Mutated Advanced Non-small Cell Lung Cancer.",
-      "journal": "Targeted oncology",
-      "pubdate": "2026-01-29T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 1.645,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41609978/",
-      "url_doi": "https://doi.org/10.1007/s11523-025-01196-8",
-      "abstract": "Osimertinib, a third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor, has been standard of care as monotherapy for EGFR-mutated advanced non-small cell lung cancer since reporting of the FLAURA phase III clinical trial, which demonstrated superiority over first-generation EGFR tyrosine kinase inhibitors. Efforts to improve efficacy have led to combination therapies with chemotherapy or co-inhibition of EGFR and MET, which have become additional standards. Choosing between these strategies requires careful understanding of disease biology and disease burden, and joint decision making with patients. Despite increasing understanding of acquired resistance mechanisms in later-line therapies, advances in the first-line options have made second-line treatment decision making increasingly nuanced. Physicians require an in-depth understanding of the genomics of the disease, and ideally an ability to reassess the tumour genomic/expression profile to guide next-line therapy at each timepoint of progression. Targeting on-target resistance (e.g. C797X mutations) with fourth-generation EGFR tyrosine kinase inhibitors has been disappointing, and in addition to biological challenges, there are regulatory challenges with approaches combining tyrosine kinase inhibitors targeting EGFR and off-target oncogenic resistance kinases. There are multiple broader approaches to improve second"
     },
     {
       "pmid": "41616709",
@@ -530,24 +508,24 @@
       "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
     },
     {
-      "pmid": "41370740",
-      "doi": "10.1200/JCO-25-02102",
-      "title": "Reply to: \"Improving the Reporting of Long-Term Effects in the IMpower010 Trial\" and \"Adjuvant Atezolizumab in Early-Stage Non-Small Cell Lung Cancer: Signals, Silences, and the Need for Methodological Clarity\".",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-02-01T00:00:00+00:00",
+      "pmid": "41621752",
+      "doi": "10.1016/j.jtho.2026.103564",
+      "title": "Patient-Reported Outcomes with Consolidation Durvalumab Versus Placebo Following Concurrent Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer: Results from the Phase 3 ADRIATIC Trial.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2026-01-30T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "NSCLC",
+      "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41370740/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02102",
-      "abstract": null
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41621752/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103564",
+      "abstract": "INTRODUCTION: In the first interim analysis of the phase 3 ADRIATIC trial, consolidation durvalumab significantly improved overall survival and progression-free survival (primary endpoints) versus placebo in patients with limited-stage small-cell lung cancer (LS-SCLC) without disease progression after concurrent chemoradiotherapy (cCRT). We report the patient-reported outcomes.\n\nMETHODS: Patients received durvalumab, durvalumab-tremelimumab, or placebo every 4 weeks for up to 24 months. Patient-reported global health status/quality of life (GHS/QoL), functioning, and symptoms, assessed using the European Organisation for Research and Treatment of Cancer QoL Questionnaire-Core 30/Questionnaire-Lung Cancer 13 (secondary endpoints), are reported for durvalumab and placebo only; the durvalumab-tremelimumab arm remained blinded at this analysis. Change from baseline (for prespecified key scales), time to deterioration (TTD), and improvement rates (all scales) were examined. A score change of ≥10 from baseline was considered a clinically meaningful deterioration/improvement. Analyses were not alpha-controlled.\n\nRESULTS: In both arms (durvalumab, n=264; placebo, n=266), mean score changes in prespecified key scales from baseline up to 24 months were small and not clinically meaningful. There were no between-arm differences in TTD except for arm/shoulder pain (longer with durvalumab versus placebo [median TTD: 25.7 versus 9.1 months; HR: 0.70 (95% CI: 0.51-0.94)]) and similar improvement rates between arms for most scales; a higher improvement rate for chest pain was observed with durvalumab versus placebo (odds ratio: 2.28 [95% CI: 1.08-4.95]).\n\nCONCLUSIONS: Consolidation durvalumab following cCRT did not compromise patients' GHS/QoL, functioning, or symptoms versus placebo, further supporting this treatment regimen as the new standard of care for LS-SCLC."
     },
     {
       "pmid": "41619904",
@@ -581,8 +559,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lungcan.2026.108942",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41617618/",
@@ -608,26 +586,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41591979/",
       "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-3384",
       "abstract": "PURPOSE: Cancers present significant DNA methylation changes, which arise in a stochastic manner, marked by extensive epigenetic variation, indicative of high epigenetic instability. We aimed to evaluate the utility of epigenetic instability for cell-free DNA (cfDNA)-based cancer detection.\n\nEXPERIMENTAL DESIGN: Through analysis of cancer DNA methylation datasets (n=2,084), we identified a set of 269 CGI regions that robustly captures this instability in a cancer-specific manner. We developed metrics to measure this epigenetic instability, termed the Epigenetic Instability Index (EII), for cancer screening via cfDNA methylation.\n\nRESULTS: Machine learning classifiers employing the EII of these 269 regions efficiently identified breast and lung cancer from cfDNA, differentiating even stage IA LUAD with ~81% sensitivity and early-stage breast cancer with ~68% sensitivity, both at 95% specificity.\n\nCONCLUSION: Our studies demonstrate that quantifying epigenetic instability is a novel, capable approach to distinguishing cancer from normal cases using cfDNA, performing better than standard approaches using absolute methylation changes. The epigenetic instability-based approaches for cancer detection developed here, along with their validation in independent datasets, support further development and the potential for future clinical application of these strategies in cancer screening."
-    },
-    {
-      "pmid": "41587109",
-      "doi": "10.1158/1078-0432.CCR-25-2287",
-      "title": "FDA Approval Summary: Tarlatamab for the Treatment of Extensive Stage Small Cell Lung Cancer.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "pubdate": "2026-01-26T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41587109/",
-      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2287",
-      "abstract": "On May 16, 2024, the Food and Drug Administration granted accelerated approval to tarlatamab-dlle (hereafter referred to as tarlatamab) for the treatment of adult patients with extensive stage small cell lung cancer (ES-SCLC) with disease progression on or after platinum-based chemotherapy. The approval was based on data from DeLLphi-301 (NCT05060016), an open-label, multicenter, multi-cohort trial in patients with relapsed/refractory SCLC with disease progression after platinum-based chemotherapy and at least one other line of systemic therapy. Among 99 patients, the overall response rate (ORR) was 40% (95% CI 31%, 51%), with a median duration of response (DoR) of 9.7 months (range 2.7 to 20.7+ months). The most common adverse reactions (≥20%) were cytokine release syndrome (CRS), fatigue, pyrexia, dysgeusia, decreased appetite, musculoskeletal pain, constipation, anemia and nausea. Product labeling includes a Boxed Warning for serious or life-threatening CRS and neurologic toxicity, including immune effector cell-associated neurotoxicity syndrome (ICANS)."
     }
   ]
 }
