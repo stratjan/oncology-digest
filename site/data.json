@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-02T06:02:40.905179Z",
+  "generated": "2026-02-03T05:49:25.055286Z",
   "items": [
     {
       "pmid": "41616774",
@@ -21,6 +21,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41616774/",
       "url_doi": "https://doi.org/10.1016/j.ccell.2026.01.001",
       "abstract": "Alterations in KRAS, NRAS, and HRAS occur in roughly 20% of patients with cancer, making RAS one of the most intensively studied oncogenic targets. The discovery of mutant-selective KRAS"
+    },
+    {
+      "pmid": "41629425",
+      "doi": "10.1038/s41591-025-04181-w",
+      "title": "Time-of-day immunochemotherapy in nonsmall cell lung cancer: a randomized phase 3 trial.",
+      "journal": "Nature medicine",
+      "pubdate": "2026-02-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 18.333,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41629425/",
+      "url_doi": "https://doi.org/10.1038/s41591-025-04181-w",
+      "abstract": "Retrospective studies suggest that early time-of-day (ToD) infusions of immunochemotherapy may improve efficacy. However, prospective randomized controlled trials are needed to validate it. In this randomized phase 3 LungTIME-C01 trial, 210 patients with treatment naive stage IIIC-IV nonsmall cell lung cancer (NSCLC) lacking driver mutations were randomly assigned in a 1:1 ratio to either an early or late ToD group, defined by the administration of the first four cycles of an anti-PD-1 agent before or after 15:00 h. The primary endpoint was progression-free survival (PFS), while secondary endpoints included overall survival (OS) and objective response rate (ORR). After a median follow-up of 28.7 months, the median PFS was 11.3 months (95% confidence interval (CI) = 9.2-13.4) in the early ToD group and 5.7 months (95% CI = 5.2-6.2) in the late ToD group, corresponding to a hazard ratio (HR) for earlier disease progression of 0.40 (95% CI = 0.29-0.55; P < 0.001). The median OS was 28.0 months (95% CI = not estimable (NE)-NE) in the early ToD group and 16.8 months (95% CI = 13.7-19.9) in the late ToD group, corresponding to an HR of an earlier death of 0.42 (95% CI = 0.29-0.60; P < 0.001). Treatment-related adverse events were consistent with the established safety profile, with no new safety signals observed. No significant differences in immune-related adverse events were observed between the two groups. Over the first four cycles, morning circulating CD8"
     },
     {
       "pmid": "41606121",
@@ -63,24 +83,25 @@
       "abstract": "Lysosomes are critical for maintaining cellular homeostasis and nutrient availability, yet how tumor cells survive under lysosomal inhibition remains unclear. Here, we revealed that inhibiting lysosome function with chloroquine unexpectedly stimulated glucose uptake across various cancer cells. This effect was driven by sterol regulatory element-binding protein 1 (SREBP-1), a key lipogenic transcription factor, which specifically increased the expression of glucose transporters GLUT3 and GLUT6, enhancing glucose uptake and macromolecule synthesis. Elevated glucose, induced by chloroquine, stabilized SREBP cleavage-activating protein (SCAP), the activator of SREBP-1, further amplifying its activity and contributing to tumor resistance to lysosome inhibition. Disrupting this SREBP-1-glucose uptake feedforward loop by combining chloroquine with inhibitors of glucose transporters, SREBP-1, or lipogenic enzymes induced a synergistic antitumor effect in squamous cell and adenocarcinoma lung cancer patient-derived organoids and xenografts. This combination impaired mitochondrial structure and function, inducing apoptotic tumor cell death. Our study uncovers a role for SREBP-1 in regulating glucose metabolism and provides a promising therapeutic strategy that combines lysosome inhibition with glucose transporter or lipogenic enzyme inhibition for effective cancer treatment."
     },
     {
-      "pmid": "41591362",
-      "doi": "10.1158/0008-5472.CAN-25-2871",
-      "title": "Targeting LRRC15 in Cancer-Associated Fibroblasts Modifies the Extracellular Matrix and Enhances Tumor Immune Responses to Suppress Lung Cancer Progression.",
-      "journal": "Cancer research",
-      "pubdate": "2026-01-27T00:00:00+00:00",
+      "pmid": "41619151",
+      "doi": "10.1007/s40265-025-02276-9",
+      "title": "First Line and Treatment Sequencing in EGFR-Mutated Metastatic NSCLC: What is Right for Which Patient?",
+      "journal": "Drugs",
+      "pubdate": "2026-01-31T00:00:00+00:00",
       "pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1158/0008-5472.can-25-2871",
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 3.879,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41591362/",
-      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-2871",
-      "abstract": "Cancer-associated fibroblasts (CAFs) play a crucial role in shaping the tumor microenvironment (TME) and driving tumor progression. While single-cell transcriptomics has revealed the phenotypic and functional heterogeneity of CAFs, effective therapeutic strategies targeting CAFs remain urgently needed. Here, we identified LRRC15+ CAFs as a tumor-specific CAF subset in lung cancer and proposed LRRC15 as a potential therapeutic target. LRRC15 deficiency suppressed lung cancer progression in mice by modulating macrophage polarization and enhancing CD8+ T cell activation. Mechanistically, LRRC15 deficiency inhibited CD206+ macrophage polarization by reducing extracellular matrix (ECM) production in CAFs, leading to increased CD8+ T cell cytotoxicity. Finally, development of a bispecific antibody targeting LRRC15 and TGF-β enabled effective downregulation of LRRC15 expression in CAFs and limited tumor progression in mice. This study highlights LRRC15 as a promising therapeutic target and provides insights into CAF-directed cancer treatment strategies."
+      "metric_value": 3.362,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41619151/",
+      "url_doi": "https://doi.org/10.1007/s40265-025-02276-9",
+      "abstract": "The therapeutic landscape for non-small-cell lung cancer (NSCLC) harbouring epidermal growth factor (EGFR) gene mutations is undergoing significant transformation. For classical EGFR mutations such as exon 19 deletion and exon 21 L858R mutation, combination strategies in the first-line setting, based on the results of the MARIPOSA (lazertinib and amivantamab) and FLAURA 2 (platinum-based doublet chemotherapy and osimertinib) trials, provide promising outcomes. Compared to osimertinib monotherapy, they potentially delay both the onset of molecular resistance to treatment and the intracranial progression of the disease. Selecting the best first-line option should take into consideration patient and genome-related factors as well as the burden of the disease including the presence of central nervous system metastases. Beyond first-line therapy, novel agents-including antibody-drug conjugates, bispecific antibodies, and T-cell engagers-have emerged as innovative options for pretreated patients with EGFR-mutated disease. Optimising the treatment sequence in advanced EGFR-mutated NSCLC is crucial to ensure the best survival outcomes along with the best treatment tolerance and quality of life. Predictive biomarkers are strongly needed as well as biomarker-based escalation and de-escalation clinical trials."
     },
     {
       "pmid": "41419100",
@@ -124,6 +145,26 @@
       "abstract": "BACKGROUND: Lung adenocarcinoma (LUAD) is the most common histological subtype of lung cancer and remains a leading cause of cancer-related mortality worldwide. Although, immunotherapy has become a cornerstone of first-line treatment, only 20-30% of patients achieve a durable clinical benefit, largely because of the complexity and heterogeneity of the tumour immune microenvironment. Emerging evidence indicates that cellular senescence, particularly within immune cells, contributes to tumour progression by impairing antitumour immunity; however, its mechanistic role in LUAD remains incompletely understood.\n\nMETHODS: We performed an integrative multiomics analysis incorporating genome-wide association studies (GWASs), bulk RNA sequencing, single-cell RNA sequencing, and spatial transcriptomics to characterize immune heterogeneity in LUAD. Cellular senescence was validated by performing staining for senescence-associated β-galactosidase and the canonical markers p16 and p21. SHAP analysis was applied to evaluate the contribution of CXCL16\n\nRESULTS: A summary data-based on Mendelian randomization analysis integrating GWAS and TCGA data identified CXCL16 as a senescence-associated gene that is causally linked to the LUAD risk. Single-cell RNA sequencing revealed that CXCL16 is predominantly expressed in macrophages, and the pseudotime analysis together with β-galactosidase staining confirmed its association with macrophage senescence. Spatial transcriptomics and immunofluorescence staining showed the marked enrichment of CXCL16\n\nCONCLUSIONS: CXCL16 promotes macrophage senescence, and senescent CXCL16"
     },
     {
+      "pmid": "41627979",
+      "doi": "10.1111/cas.70310",
+      "title": "Analysis of Peripheral T Cell Profiling and Plasma Proteomics in Advanced NSCLC Patients Treated With Atezolizumab.",
+      "journal": "Cancer science",
+      "pubdate": "2026-02-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.661,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41627979/",
+      "url_doi": "https://doi.org/10.1111/cas.70310",
+      "abstract": "We investigated immunologic biomarkers that predict outcomes of patients with previously treated metastatic non-small cell lung cancer who were enrolled in the J-TAIL study, a prospective, observational study of atezolizumab monotherapy. Of 262 patients participating in the J-TAIL exploratory study, peripheral blood mononuclear cells were obtained from 51 patients and analyzed by T-cell fractionation analysis using Helios mass cytometry and serum proteomics analysis. Following treatment with atezolizumab, an increase in programmed cell death-1 (PD-1)-expressing CD8 and CD4 T-cell populations was observed. A more pronounced increase in PD-1 expression was seen in T cells from patients whose progression-free survival (PFS) was 100 days or longer compared with those with shorter PFS. The proximity extension assay, which is highly sensitive multiplex analysis technology that combines antibody-based affinity assays with next-generation sequencing, showed a significant increase in FOXO1, possibly in response to precursor-exhausted T-cell population activation. Immune-related adverse events were associated with a high percentage of PD-1-positive cells on effector memory CD8 T cells, which was thought to be accompanied by extremely high CD8 T-cell activation. Further analysis distinguished poor prognosis populations with significant differences in CD62L"
+    },
+    {
       "pmid": "41611341",
       "doi": "10.1111/cas.70330",
       "title": "Four-Year Outcomes for Nivolumab With Chemotherapy and Bevacizumab in Patients With Nonsquamous NSCLC in the TASUKI-52.",
@@ -142,6 +183,27 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41611341/",
       "url_doi": "https://doi.org/10.1111/cas.70330",
       "abstract": "In the Phase III TASUKI-52 trial, nivolumab with carboplatin, paclitaxel (CP), plus bevacizumab significantly prolonged progression-free survival (PFS), and resulted in longer overall survival (OS) in patients with advanced nonsquamous non-small cell lung cancer (NSCLC). This final analysis evaluated 4-year treatment outcomes in terms of OS, PFS and duration of response (DOR) by investigator assessment and safety, as well as the background characteristics and treatment courses associated with 4-year survivors. Patients were randomized 1:1 to receive nivolumab (n = 275) or placebo (n = 275) in addition to CP plus bevacizumab. With a minimum follow-up of 53.1 months, nivolumab with CP plus bevacizumab continued to show improvement in OS (hazard ratio [HR], 0.71; 95% confidence interval [CI], 0.58-0.88) and PFS (HR: 0.61; 95% CI: 0.50-0.74) compared to placebo with CP plus bevacizumab. The 4-year OS rate was 34.7% in the nivolumab arm versus 22.1% in the placebo arm, and the 4-year PFS rate was 13.7% in the nivolumab arm versus 3.3% in the placebo arm. Among 4-year survivors, the median DOR was numerically longer in the nivolumab arm than in the placebo arm (34.7 vs. 13.5 months). No new safety signals were observed. Four-year survival in the nivolumab arm was associated with the absence of bone metastases and age < 65, but not with PD-L1 status and tumor size. In conclusion, treatment with nivolumab demonstrated long-term survival benefit and durable response, which supports nivolumab with CP plus bevacizumab as a first-line treatment option for advanced nonsquamous NSCLC. Trial Registration: ClinicalTrials.gov identifier: NCT03117049."
+    },
+    {
+      "pmid": "41609978",
+      "doi": "10.1007/s11523-025-01196-8",
+      "title": "Current and Emerging Treatment Landscape of Common EGFR-Mutated Advanced Non-small Cell Lung Cancer.",
+      "journal": "Targeted oncology",
+      "pubdate": "2026-01-29T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.645,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41609978/",
+      "url_doi": "https://doi.org/10.1007/s11523-025-01196-8",
+      "abstract": "Osimertinib, a third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor, has been standard of care as monotherapy for EGFR-mutated advanced non-small cell lung cancer since reporting of the FLAURA phase III clinical trial, which demonstrated superiority over first-generation EGFR tyrosine kinase inhibitors. Efforts to improve efficacy have led to combination therapies with chemotherapy or co-inhibition of EGFR and MET, which have become additional standards. Choosing between these strategies requires careful understanding of disease biology and disease burden, and joint decision making with patients. Despite increasing understanding of acquired resistance mechanisms in later-line therapies, advances in the first-line options have made second-line treatment decision making increasingly nuanced. Physicians require an in-depth understanding of the genomics of the disease, and ideally an ability to reassess the tumour genomic/expression profile to guide next-line therapy at each timepoint of progression. Targeting on-target resistance (e.g. C797X mutations) with fourth-generation EGFR tyrosine kinase inhibitors has been disappointing, and in addition to biological challenges, there are regulatory challenges with approaches combining tyrosine kinase inhibitors targeting EGFR and off-target oncogenic resistance kinases. There are multiple broader approaches to improve second"
     },
     {
       "pmid": "41616709",
@@ -164,26 +226,6 @@
       "abstract": "This study investigates the variability of radiomic features in longitudinal CT scans from a multi-institutional NSCLC cohort and introduces a harmonization pipeline to improve predictive modeling of immunotherapy response. Baseline and follow-up CT scans from NSCLC patients treated with anti-PD-1/PD-L1 agents were analyzed, with two institutions combined for model training and internal testing, and a third institution serving as an external test set. To address variability from imaging parameters-such as scanner manufacturer, slice thickness, and noise-we applied image harmonization followed by feature harmonization using NestedComBat. This approach substantially reduced feature dependence on acquisition confounders (from 78.8% to 12.8%) and improved feature robustness across institutions. We further assessed the temporal consistency of radiomic features across longitudinal scans using the intraclass correlation coefficient (ICC). Image harmonization yielded the largest gains in stability (mean ΔICC = +0.021, p < 0.001), while the combined approach also enhanced longitudinal reliability (ΔICC = +0.014, p < 0.001). Finally, harmonization improved predictive performance for 6-month immunotherapy response, increasing the AUC from 0.695 to 0.768 in the internal test and from 0.692 to 0.802 in the external test. These results demonstrate that combining image- and feature-level harmonization enhances the robustness and temporal consistency of radiomic features, potentially supporting more reliable and generalizable predictive modeling across diverse datasets and clinical settings."
     },
     {
-      "pmid": "41593906",
-      "doi": "10.1080/07853890.2026.2620201",
-      "title": "Clinicopathological characteristics and therapeutic outcomes in patients with non-small cell lung cancer harboring SMARCA4 mutations.",
-      "journal": "Annals of medicine",
-      "pubdate": "2026-12-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1080/07853890.2026.2620201",
-      "metric_name": "SJR",
-      "metric_value": 1.204,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41593906/",
-      "url_doi": "https://doi.org/10.1080/07853890.2026.2620201",
-      "abstract": "OBJECTIVE: To investigate the clinical characteristics and impact of\n\nMETHODS: A total of 2,821 patients with NSCLC who underwent next-generation sequencing were retrospectively included. The frequency and types of"
-    },
-    {
       "pmid": "41308576",
       "doi": "10.1016/j.ejrad.2025.112561",
       "title": "Potential for AI as first reader in lung cancer screening.",
@@ -202,26 +244,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41308576/",
       "url_doi": "https://doi.org/10.1016/j.ejrad.2025.112561",
       "abstract": "PURPOSE: To retrospectively assess the agreement between human and automated AI-based readings for low-dose computed tomography (LDCT) outcomes according to LungRADS v1.1 in lung cancer screening (LCS); to test the diagnostic performance of both readings.\n\nMETHODS: We included 4104 baseline LDCTs from the BioMILD trial. Original readings were retrospectively classified into \"negative\" (LungRADSv1.1 categories 1, 2) and \"positive\" (categories 3, 4) by a radiologist and analyzed by AI software for category assignment. Diagnosis of lung cancer (LC) at 2 years served as reference standard to assess sensitivity, specificity, negative predictive value (NPV), and positive predictive value (PPV) of both human and AI. Agreement between readers was measured by the k-Cohen Index with Fleiss-Cohen weights (K\n\nRESULTS: Median age of participants was 60 years; 60.8 % were male and 79.2 % current smokers; 68/4104 (1.7 %) were diagnosed with LC; 6/68 (8.8 %) and 7/68 (10.3 %) LDCT were classified as negative by AI and human reading, respectively. The agreement between human and AI readings for negative and positive LDCTs was 83.5 % (K\n\nCONCLUSION: AI reading showed comparable sensitivity but lower specificity than human reading. High NPV of AI may support its use as a first reader in LCS."
-    },
-    {
-      "pmid": "41614649",
-      "doi": "10.1080/03007995.2026.2620691",
-      "title": "Tislelizumab plus platinum and etoposide versus placebo plus platinum and etoposide as first-line treatment for extensive-stage small-cell lung cancer: patient-reported outcomes in the RATIONALE-312 trial.",
-      "journal": "Current medical research and opinion",
-      "pubdate": "2026-01-30T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 0.786,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41614649/",
-      "url_doi": "https://doi.org/10.1080/03007995.2026.2620691",
-      "abstract": "OBJECTIVE: In the phase 3 RATIONALE-312 trial (ClinicalTrials.gov Identifier: NCT04005716), the addition of tislelizumab to chemotherapy as first-line treatment significantly improved overall survival and progression-free survival compared to placebo plus chemotherapy in patients with extensive-stage small-cell lung cancer (ES-SCLC), with an acceptable safety profile. This analysis reports the patient-reported outcomes (PROs) from RATIONALE-312.\n\nMETHODS: Overall, 457 adults with ES-SCLC were randomized (1:1) to tislelizumab plus chemotherapy (\n\nRESULTS: At Cycle 4, the tislelizumab arm demonstrated clinically meaningful improvement in coughing, hemoptysis, and chest pain. Clinically meaningful improvement was observed in the tislelizumab arm, but not in the placebo arm, for global health status (GHS)/QoL, dyspnea, and arm or shoulder pain. By Cycle 6, the tislelizumab arm achieved clinically meaningful improvement in GHS/QoL, with a statistically significant between-group difference favoring the tislelizumab arm. Clinically meaningful improvements in dyspnea, coughing, hemoptysis, and chest pain were maintained in the tislelizumab arm through Cycle 6. No between-group differences were observed in the TTD analysis.\n\nCONCLUSIONS: Tislelizumab plus chemotherapy maintained or improved HRQoL and patient-reported symptoms compared to placebo plus chemotherapy. Along with prior efficacy and safety data, these data support tislelizumab plus chemotherapy as first-line treatment in patients with advanced ES-SCLC."
     },
     {
       "pmid": "41617462",
@@ -262,26 +284,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41475048/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.116191",
       "abstract": "BACKGROUND: BRAF mutations identify a small subgroup of patients (pts) with non-small cell lung cancer (NSCLC). Dabrafenib/trametinib (D/T) combination is associated with high response rates and durable anti-tumor activity in BRAF-V600-mutants. Several open questions still remain unanswered in clinical practice, including the efficacy of treatments based on clinical and molecular characteristics, the activity in patients with brain metastases, the optimal sequence with immunotherapy-based therapies. Here we present outcomes among advanced BRAF-mutant NSCLC patients from the Italian ATLAS registry.\n\nMETHODS: Patients with metastatic BRAF-mutated NSCLC were included. Clinical-pathological features, treatment effectiveness and safety outcomes were retrospectively collected from the Italian real-world ATLAS registry.\n\nRESULTS: A total of 244 BRAF-mutated NSCLC pts were enrolled, including 70 % V600E mutations. The median PFS of first line D/T was 19.8 months (95 % CI: 10.7-29.0), with a 2-year OS rate of 65.4 % and a PFS2 of 6.6 months (95 % CI: 0-14.3). The activity of D/T differs among sex (mPFS was 13.6 mos and 25.3 mos and 2-yr OS rate were 54.9 % and 72.3 % in males and females, respectively) and smoking status (mPFS was 18.4 mos, 25.6 mos and 24 mos in never, former and current smokers, respectively). Concomitant MET amplification was associated with a shorter median PFS (mPFS was 13.6 mos vs. 44.3 mos with and without MET amplification respectively) in pts treated with D/T as 1st line.\n\nCONCLUSIONS: These data confirm the efficacy and safety of first line D/T in BRAF V600E-mutated pts in the real-world setting consistently with prior studies, suggesting a differential activity among key clinical-molecular subgroups."
-    },
-    {
-      "pmid": "41475039",
-      "doi": "10.1016/j.lungcan.2025.108892",
-      "title": "The role of APOBEC in early-stage epidermal growth factor receptor-mutant non-small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108892",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41475039/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108892",
-      "abstract": "BACKGROUND: APOBEC plays a crucial role in the mutation process and immune response of non-small cell lung cancer (NSCLC). This study evaluated the role of the APOBEC mutation signature in early-stage epidermal growth factor receptor (EGFR) mutant NSCLC. This study aimed to assess the impact of APOBEC enrichment on recurrence-free survival (RFS), post-recurrence tyrosine kinase inhibitor (TKI) progression-free survival (PFS), and post-recurrence survival (PRS).\n\nMETHODS: We conducted whole-exome sequencing and whole-transcriptome sequencing in 100 patients diagnosed with pathologic stage II-IIIA non-squamous NSCLC.\n\nRESULTS: Among the 100 patients, 18 (18 %) exhibited APOBEC (≥2) enrichment, which did not show a significant association with RFS (P = 0.14). Patients with APOBEC enrichment showed a shorter post-recurrence TKI PFS compared to those without APOBEC enrichment (8.13 months vs. 24.57 months, P = 0.017). In multivariate analysis, poor post-recurrence TKI PFS was associated with the type of EGFR mutation (L858R vs. exon 19 deletion, HR = 1.91, P = 0.04), TP53 mutation (HR = 2.07, P = 0.03), and APOBEC enrichment (≥2 vs. < 2, HR = 2.23, P = 0.02). PRS was 61.10 months and 21.77 months for patients with APOBEC enrichment and patients without APOBEC enrichment, respectively (P = 0.029). In multivariate analysis, poor PRS of EGFR-TKI was associated with the type of EGFR mutation (L858R vs. exon 19 deletion, HR = 2.29, P = 0.04) and APOBEC enrichment (≥2 vs. < 2, HR = 2.71, P = 0.02).\n\nCONCLUSIONS: APOBEC enrichment may present at initial diagnosis of early-stage EGFR mutant NSCLC and is associated with poor post-recurrence TKI PFS and PRS rather than RFS."
     },
     {
       "pmid": "41526205",
@@ -426,6 +428,26 @@
       "abstract": "OBJECTIVES: We aimed to evaluate the oncologic outcomes of sublobar resection (SLR) compared with lobectomy in patients with radiologically pure-solid stage IA non-small cell lung cancer (NSCLC).\n\nMETHODS: We retrospectively reviewed 363 patients with clinical stage IA pure-solid NSCLC who underwent curative-intent resection between 2018 and 2020. Patients were divided into SLR (n = 60) and lobectomy (n = 303) groups. Kaplan-Meier analysis was used to estimate overall survival (OS) and recurrence-free survival (RFS), and Cox regression identified prognostic factors. Subgroup analyses were performed for stage IA2 and IA3 patients.\n\nRESULTS: In the overall cohort, the SLR group had significantly worse 5-year OS (75.5 % vs. 93.3 %, p < 0.01) and RFS (58.3 % vs. 77.4 %, p < 0.01) compared with lobectomy. In stage IA2, OS was comparable (87.2 % vs. 91.7 %, p = 0.1), but RFS was inferior after SLR (65.9 % vs. 81.2 %, p = 0.02). In stage IA3, both OS (54.3 % vs. 94.4 %, p < 0.01) and RFS (40.6 % vs. 74.9 %, p < 0.01) were markedly worse after SLR. Segmentectomy showed outcomes similar to lobectomy in IA2 but was inferior in IA3, whereas wedge resection was consistently associated with poor survival.\n\nCONCLUSIONS: Lobectomy remains the standard surgical procedure for pure-solid stage IA NSCLC, particularly IA3 disease. Segmentectomy may be considered in carefully selected IA2 patients, while it is advisable to avoid wedge resection. These findings emphasize the importance of selecting the most appropriate patients for SLR and support the need for prospective validation."
     },
     {
+      "pmid": "41475039",
+      "doi": "10.1016/j.lungcan.2025.108892",
+      "title": "The role of APOBEC in early-stage epidermal growth factor receptor-mutant non-small cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108892",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41475039/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108892",
+      "abstract": "BACKGROUND: APOBEC plays a crucial role in the mutation process and immune response of non-small cell lung cancer (NSCLC). This study evaluated the role of the APOBEC mutation signature in early-stage epidermal growth factor receptor (EGFR) mutant NSCLC. This study aimed to assess the impact of APOBEC enrichment on recurrence-free survival (RFS), post-recurrence tyrosine kinase inhibitor (TKI) progression-free survival (PFS), and post-recurrence survival (PRS).\n\nMETHODS: We conducted whole-exome sequencing and whole-transcriptome sequencing in 100 patients diagnosed with pathologic stage II-IIIA non-squamous NSCLC.\n\nRESULTS: Among the 100 patients, 18 (18 %) exhibited APOBEC (≥2) enrichment, which did not show a significant association with RFS (P = 0.14). Patients with APOBEC enrichment showed a shorter post-recurrence TKI PFS compared to those without APOBEC enrichment (8.13 months vs. 24.57 months, P = 0.017). In multivariate analysis, poor post-recurrence TKI PFS was associated with the type of EGFR mutation (L858R vs. exon 19 deletion, HR = 1.91, P = 0.04), TP53 mutation (HR = 2.07, P = 0.03), and APOBEC enrichment (≥2 vs. < 2, HR = 2.23, P = 0.02). PRS was 61.10 months and 21.77 months for patients with APOBEC enrichment and patients without APOBEC enrichment, respectively (P = 0.029). In multivariate analysis, poor PRS of EGFR-TKI was associated with the type of EGFR mutation (L858R vs. exon 19 deletion, HR = 2.29, P = 0.04) and APOBEC enrichment (≥2 vs. < 2, HR = 2.71, P = 0.02).\n\nCONCLUSIONS: APOBEC enrichment may present at initial diagnosis of early-stage EGFR mutant NSCLC and is associated with poor post-recurrence TKI PFS and PRS rather than RFS."
+    },
+    {
       "pmid": "41475038",
       "doi": "10.1016/j.lungcan.2025.108889",
       "title": "Effect of treatment sequencing on outcome of patients with non-small cell lung cancer with a synchronous solitary extrathoracic metastasis.",
@@ -488,26 +510,6 @@
       "abstract": "BACKGROUND: The phase 3 KEYNOTE-671 study (NCT03425643) demonstrated significantly improved event-free survival (EFS) and overall survival with neoadjuvant pembrolizumab plus chemotherapy followed by surgery and adjuvant pembrolizumab vs neoadjuvant chemotherapy and surgery for early-stage non-small cell lung cancer (NSCLC). We describe participant characteristics, surgical outcomes, and EFS in surgically relevant subgroups.\n\nMETHODS: Participants with untreated, resectable, stage II-IIIB (N2) NSCLC were randomized 1:1 to neoadjuvant pembrolizumab 200 mg or placebo plus cisplatin-based chemotherapy every 3 weeks for 4 cycles, then surgery and adjuvant pembrolizumab or placebo for 13 cycles. Surgery was performed ≤20 weeks after first neoadjuvant dose (if 4 cycles of neoadjuvant therapy) or 4-8 weeks after last neoadjuvant dose (1-3 cycles); surgery beyond this was considered surgical delay. Adjuvant therapy began 4-12 weeks after surgery. EFS was assessed in the surgical population.\n\nRESULTS: Of 397 participants randomized to pembrolizumab and 400 to placebo, 325 (82.1%) and 317 (79.4%), respectively, underwent surgery. At data cutoff (July 10, 2023), 4.9% (pembrolizumab) and 7.6% (placebo) of participants experienced surgical delay; 38.9% and 28.4%, respectively, experienced nodal downstaging; 78.8% and 75.1% underwent lobectomy; and 92.0% and 84.2% had R0 resections. Pembrolizumab improved EFS irrespective of disease stage, nodal status, and type of surgery vs chemotherapy. Eight participants (pembrolizumab, n = 6; placebo, n = 2) died ≤30 days after surgery from surgery-related adverse events.\n\nCONCLUSIONS: Neoadjuvant pembrolizumab did not adversely affect surgical outcomes, was associated with numerically higher R0 resections, and improved EFS vs neoadjuvant chemotherapy in surgically relevant subgroups in early-stage NSCLC."
     },
     {
-      "pmid": "41192526",
-      "doi": "10.1016/j.cellsig.2025.112211",
-      "title": "RIPK2/STAT3 signaling axis drives lung cancer metastasis through SNAIL activation: Molecular mechanisms and clinical implications.",
-      "journal": "Cellular signalling",
-      "pubdate": "2026-02-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41192526/",
-      "url_doi": "https://doi.org/10.1016/j.cellsig.2025.112211",
-      "abstract": "BACKGROUND: Lung adenocarcinoma is the most common histological subtype of lung cancer with high metastatic propensity. Epithelial-mesenchymal transition (EMT) plays a crucial role in tumor metastasis, but the molecular mechanisms remain incompletely elucidated. This study investigates the role of RIPK2 in EMT and metastasis of lung adenocarcinoma.\n\nMETHODS: TCGA database analysis determined RIPK2 expression and clinical significance. RNA interference, overexpression, qRT-PCR, Western blot, co-immunoprecipitation, and immunofluorescence were employed in A549 and PC-9 cell lines. Transwell, EdU, colony formation assays, and cytoskeletal staining assessed cell invasion, proliferation, and EMT changes. Nuclear localization signal (NLS) and nuclear export signal (NES) fusion proteins investigated subcellular localization effects. Tail vein injection in nude mice validated in vivo effects.\n\nRESULTS: RIPK2 was highly expressed in lung adenocarcinoma tissues and associated with poor prognosis. RIPK2 knockdown inhibited while overexpression promoted EMT, invasion, and metastasis. Co-immunoprecipitation and immunofluorescence confirmed direct RIPK2-STAT3 interaction. RIPK2 specifically upregulated EMT transcription factor SNAIL expression. Co-expression of RIPK2 and SNAIL correlated with shorter patient survival. STAT3 or SNAIL knockdown inhibited RIPK2-induced EMT and metastasis. Nuclear-localized RIPK2 completely restored cellular EMT, invasion, and metastatic capabilities while enhancing cisplatin resistance.\n\nCONCLUSION: RIPK2 translocates to the nucleus, interacts with STAT3, and synergistically upregulates SNAIL expression, promoting EMT, invasion, metastasis, and chemotherapy resistance in lung adenocarcinoma. The RIPK2-STAT3-SNAIL signaling axis represents a potential therapeutic target."
-    },
-    {
       "pmid": "41621752",
       "doi": "10.1016/j.jtho.2026.103564",
       "title": "Patient-Reported Outcomes with Consolidation Durvalumab Versus Placebo Following Concurrent Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer: Results from the Phase 3 ADRIATIC Trial.",
@@ -566,26 +568,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41617618/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108942",
       "abstract": null
-    },
-    {
-      "pmid": "41591979",
-      "doi": "10.1158/1078-0432.CCR-25-3384",
-      "title": "Epigenetic Instability Based Metrics in Cell-Free DNA for Early Cancer Detection.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "pubdate": "2026-01-27T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-25-3384/3729843/ccr-25-3384.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41591979/",
-      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-3384",
-      "abstract": "PURPOSE: Cancers present significant DNA methylation changes, which arise in a stochastic manner, marked by extensive epigenetic variation, indicative of high epigenetic instability. We aimed to evaluate the utility of epigenetic instability for cell-free DNA (cfDNA)-based cancer detection.\n\nEXPERIMENTAL DESIGN: Through analysis of cancer DNA methylation datasets (n=2,084), we identified a set of 269 CGI regions that robustly captures this instability in a cancer-specific manner. We developed metrics to measure this epigenetic instability, termed the Epigenetic Instability Index (EII), for cancer screening via cfDNA methylation.\n\nRESULTS: Machine learning classifiers employing the EII of these 269 regions efficiently identified breast and lung cancer from cfDNA, differentiating even stage IA LUAD with ~81% sensitivity and early-stage breast cancer with ~68% sensitivity, both at 95% specificity.\n\nCONCLUSION: Our studies demonstrate that quantifying epigenetic instability is a novel, capable approach to distinguishing cancer from normal cases using cfDNA, performing better than standard approaches using absolute methylation changes. The epigenetic instability-based approaches for cancer detection developed here, along with their validation in independent datasets, support further development and the potential for future clinical application of these strategies in cancer screening."
     }
   ]
 }
