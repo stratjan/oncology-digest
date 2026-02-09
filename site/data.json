@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-08T05:58:44.794071Z",
+  "generated": "2026-02-09T06:05:58.313610Z",
   "items": [
     {
       "pmid": "41650973",
@@ -20,26 +20,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41650973/",
       "url_doi": "https://doi.org/10.1016/j.ccell.2026.01.005",
       "abstract": "Molecular mechanisms underlying sex-specific differences in cancer incidence and therapy responses are under intense investigation. Here, we report sex-biased functions of Yap1 in multiple cancer types in human and mouse. Through integrated multi-omics analyses, we demonstrate that Yap1 deletion significantly extends survival in male but not female Sonic Hedgehog (SHH) medulloblastomas (MB) models. While Yap1 is required to maintain stem-like cells in both sexes, Yap1 plays a more critical role in immune evasion in males. Mechanistically, YAP1 is essential for activating Cd276/B7-H3 expression to mediate CD8"
-    },
-    {
-      "pmid": "41629425",
-      "doi": "10.1038/s41591-025-04181-w",
-      "title": "Time-of-day immunochemotherapy in non-small cell lung cancer: a randomized phase 3 trial.",
-      "journal": "Nature medicine",
-      "pubdate": "2026-02-02T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 18.333,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41629425/",
-      "url_doi": "https://doi.org/10.1038/s41591-025-04181-w",
-      "abstract": "Retrospective studies suggest that early time-of-day (ToD) infusions of immunochemotherapy may improve efficacy. However, prospective randomized controlled trials are needed to validate it. In this randomized phase 3 LungTIME-C01 trial, 210 patients with treatment naive stage IIIC-IV non-small cell lung cancer (NSCLC) lacking driver mutations were randomly assigned in a 1:1 ratio to either an early or late ToD group, defined by the administration of the first four cycles of an anti-PD-1 agent before or after 15:00 h. The primary endpoint was progression-free survival (PFS), while secondary endpoints included overall survival (OS) and objective response rate (ORR). After a median follow-up of 28.7 months, the median PFS was 11.3 months (95% confidence interval (CI) = 9.2-13.4) in the early ToD group and 5.7 months (95% CI = 5.2-6.2) in the late ToD group, corresponding to a hazard ratio (HR) for earlier disease progression of 0.40 (95% CI = 0.29-0.55; P < 0.001). The median OS was 28.0 months (95% CI = not estimable (NE)-NE) in the early ToD group and 16.8 months (95% CI = 13.7-19.9) in the late ToD group, corresponding to an HR of an earlier death of 0.42 (95% CI = 0.29-0.60; P < 0.001). Treatment-related adverse events were consistent with the established safety profile, with no new safety signals observed. No significant differences in immune-related adverse events were observed between the two groups. Over the first four cycles, morning circulating CD8"
     },
     {
       "pmid": "41645709",
@@ -100,26 +80,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41637136/",
       "url_doi": "https://doi.org/10.1158/2159-8290.CD-RW2026-018",
       "abstract": null
-    },
-    {
-      "pmid": "41632563",
-      "doi": "10.1158/2159-8290.CD-NW2026-0010",
-      "title": "Randomized Trial Links Time of Day to Immunotherapy Success.",
-      "journal": "Cancer discovery",
-      "pubdate": "2026-02-02T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 7.283,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41632563/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-NW2026-0010",
-      "abstract": "Morning administration of checkpoint inhibitors significantly extended survival in patients with advanced non-small cell lung cancer, in the first randomized trial of immunotherapy timing. The results provide prospective support for aligning treatment with circadian biology as a simple way to improve cancer outcomes."
     },
     {
       "pmid": "41637523",
@@ -203,46 +163,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41654892/",
       "url_doi": "https://doi.org/10.1186/s12967-026-07778-y",
       "abstract": null
-    },
-    {
-      "pmid": "41622242",
-      "doi": "10.1186/s12967-026-07766-2",
-      "title": "Multiomics analysis reveals that senescent CXCL16(+) macrophages promote lung adenocarcinoma progression through TGF-β signalling.",
-      "journal": "Journal of translational medicine",
-      "pubdate": "2026-02-02T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1186/s12967-026-07766-2",
-      "metric_name": "SJR",
-      "metric_value": 1.997,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41622242/",
-      "url_doi": "https://doi.org/10.1186/s12967-026-07766-2",
-      "abstract": "BACKGROUND: Lung adenocarcinoma (LUAD) is the most common histological subtype of lung cancer and remains a leading cause of cancer-related mortality worldwide. Although, immunotherapy has become a cornerstone of first-line treatment, only 20-30% of patients achieve a durable clinical benefit, largely because of the complexity and heterogeneity of the tumour immune microenvironment. Emerging evidence indicates that cellular senescence, particularly within immune cells, contributes to tumour progression by impairing antitumour immunity; however, its mechanistic role in LUAD remains incompletely understood.\n\nMETHODS: We performed an integrative multiomics analysis incorporating genome-wide association studies (GWASs), bulk RNA sequencing, single-cell RNA sequencing, and spatial transcriptomics to characterize immune heterogeneity in LUAD. Cellular senescence was validated by performing staining for senescence-associated β-galactosidase and the canonical markers p16 and p21. SHAP analysis was applied to evaluate the contribution of CXCL16\n\nRESULTS: A summary data-based on Mendelian randomization analysis integrating GWAS and TCGA data identified CXCL16 as a senescence-associated gene that is causally linked to the LUAD risk. Single-cell RNA sequencing revealed that CXCL16 is predominantly expressed in macrophages, and the pseudotime analysis together with β-galactosidase staining confirmed its association with macrophage senescence. Spatial transcriptomics and immunofluorescence staining showed the marked enrichment of CXCL16\n\nCONCLUSIONS: CXCL16 promotes macrophage senescence, and senescent CXCL16"
-    },
-    {
-      "pmid": "41627979",
-      "doi": "10.1111/cas.70310",
-      "title": "Analysis of Peripheral T Cell Profiling and Plasma Proteomics in Advanced NSCLC Patients Treated With Atezolizumab.",
-      "journal": "Cancer science",
-      "pubdate": "2026-02-02T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1111/cas.70310",
-      "metric_name": "SJR",
-      "metric_value": 1.661,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41627979/",
-      "url_doi": "https://doi.org/10.1111/cas.70310",
-      "abstract": "We investigated immunologic biomarkers that predict outcomes of patients with previously treated metastatic non-small cell lung cancer who were enrolled in the J-TAIL study, a prospective, observational study of atezolizumab monotherapy. Of 262 patients participating in the J-TAIL exploratory study, peripheral blood mononuclear cells were obtained from 51 patients and analyzed by T-cell fractionation analysis using Helios mass cytometry and serum proteomics analysis. Following treatment with atezolizumab, an increase in programmed cell death-1 (PD-1)-expressing CD8 and CD4 T-cell populations was observed. A more pronounced increase in PD-1 expression was seen in T cells from patients whose progression-free survival (PFS) was 100 days or longer compared with those with shorter PFS. The proximity extension assay, which is highly sensitive multiplex analysis technology that combines antibody-based affinity assays with next-generation sequencing, showed a significant increase in FOXO1, possibly in response to precursor-exhausted T-cell population activation. Immune-related adverse events were associated with a high percentage of PD-1-positive cells on effector memory CD8 T cells, which was thought to be accompanied by extremely high CD8 T-cell activation. Further analysis distinguished poor prognosis populations with significant differences in CD62L"
     },
     {
       "pmid": "41616709",
