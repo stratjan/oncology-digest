@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-09T06:05:58.313610Z",
+  "generated": "2026-02-10T06:12:22.701088Z",
   "items": [
     {
       "pmid": "41650973",
@@ -100,6 +100,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41637523/",
       "url_doi": "https://doi.org/10.1126/scitranslmed.adq6647",
       "abstract": "The development of allele-specific KRAS inhibitors underscores the importance of understanding the distinct tumor biology associated with common"
+    },
+    {
+      "pmid": "41661652",
+      "doi": "10.1158/0008-5472.CAN-25-2764",
+      "title": "The farnesyl transferase inhibitor darlifarnib (KO-2806) re-sensitizes relapsing tumors to RAS inhibition.",
+      "journal": "Cancer research",
+      "pubdate": "2026-02-09T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41661652/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-2764",
+      "abstract": "Resistance remains a key issue limiting the clinical benefit from RAS-targeting therapeutic agents and necessitates combination approaches. Here, we identified persistent mTORC1 activity in preclinical KRAS-mutant non-small cell lung cancer (NSCLC) and colorectal cancer (CRC) models as a frequent, nongenetic driver of inherent and adaptive resistance to RAS inhibition. This vulnerability was targetable with the farnesyl transferase inhibitor darlifarnib (KO-2806), which blocks mTORC1 activation via RHEB while sparing mTORC2 to limit associated toxicities. The addition of KO-2806 to NSCLC or CRC tumors progressing on mutant-selective RAS inhibitors led to rapid and durable tumor regression. In contrast, switching from mutant-selective to pan-RAS inhibitor monotherapy resulted in only stasis of NSCLC tumors and had no effect on CRC tumor progression. Further, the addition of KO-2806 rescued sensitivity of progressing tumors to the pan-RAS inhibitor RMC-6236. These results establish mTORC1 as an important mediator of escape from RAS inhibition and highlight KO-2806 as a promising RAS companion inhibitor in patients with prior RAS inhibitor exposure."
     },
     {
       "pmid": "41419100",
@@ -367,66 +387,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41475048/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2025.116191",
       "abstract": "BACKGROUND: BRAF mutations identify a small subgroup of patients (pts) with non-small cell lung cancer (NSCLC). Dabrafenib/trametinib (D/T) combination is associated with high response rates and durable anti-tumor activity in BRAF-V600-mutants. Several open questions still remain unanswered in clinical practice, including the efficacy of treatments based on clinical and molecular characteristics, the activity in patients with brain metastases, the optimal sequence with immunotherapy-based therapies. Here we present outcomes among advanced BRAF-mutant NSCLC patients from the Italian ATLAS registry.\n\nMETHODS: Patients with metastatic BRAF-mutated NSCLC were included. Clinical-pathological features, treatment effectiveness and safety outcomes were retrospectively collected from the Italian real-world ATLAS registry.\n\nRESULTS: A total of 244 BRAF-mutated NSCLC pts were enrolled, including 70 % V600E mutations. The median PFS of first line D/T was 19.8 months (95 % CI: 10.7-29.0), with a 2-year OS rate of 65.4 % and a PFS2 of 6.6 months (95 % CI: 0-14.3). The activity of D/T differs among sex (mPFS was 13.6 mos and 25.3 mos and 2-yr OS rate were 54.9 % and 72.3 % in males and females, respectively) and smoking status (mPFS was 18.4 mos, 25.6 mos and 24 mos in never, former and current smokers, respectively). Concomitant MET amplification was associated with a shorter median PFS (mPFS was 13.6 mos vs. 44.3 mos with and without MET amplification respectively) in pts treated with D/T as 1st line.\n\nCONCLUSIONS: These data confirm the efficacy and safety of first line D/T in BRAF V600E-mutated pts in the real-world setting consistently with prior studies, suggesting a differential activity among key clinical-molecular subgroups."
-    },
-    {
-      "pmid": "41640231",
-      "doi": "10.1080/14796694.2026.2617855",
-      "title": "Plain language summary of TASUKI-52: A study looking at nivolumab plus platinum chemotherapy and bevacizumab as a combined treatment for people with advanced or recurrent nonsquamous non-small cell lung cancer (NSCLC).",
-      "journal": "Future oncology (London, England)",
-      "pubdate": "2026-02-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41640231/",
-      "url_doi": "https://doi.org/10.1080/14796694.2026.2617855",
-      "abstract": null
-    },
-    {
-      "pmid": "41632927",
-      "doi": "10.1200/JCO-25-02825",
-      "title": "Therapy for Stage IV Non-Small Cell Lung Cancer Without Driver Alterations: ASCO Living Guideline, 2026.3.0.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-02-03T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41632927/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02825",
-      "abstract": "PURPOSE: To provide evidence-based recommendations for patients with stage IV non-small cell lung cancer (NSCLC) without driver alterations.\n\nMETHODS: This ASCO living guideline offers continually updated recommendations based on an ongoing systematic review of randomized controlled trials (RCTs), with the latest time frame spanning March-October 2025. An Expert Panel of medical oncology, pulmonary, community oncology, research methodology, and advocacy experts was convened. The literature search included systematic reviews, meta-analyses, and RCTs. Outcomes of interest include efficacy and safety. Expert Panel members used available evidence and informal consensus to develop evidence-based guideline recommendations.\n\nRESULTS: This guideline consolidates all previous updates and reflects the body of evidence informing this guideline topic. Six new RCTs were identified in the latest search of the literature to date.\n\nRECOMMENDATIONS: Evidence-based recommendations were updated to address first, second, and subsequent treatment options for patients without driver alterations.Additional information is available at www.asco.org/thoracic-cancer-guidelines."
-    },
-    {
-      "pmid": "41632926",
-      "doi": "10.1200/JCO-25-02822",
-      "title": "Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, 2026.3.0.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-02-03T00:00:00+00:00",
-      "pubtypes": [
-        "Letter"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41632926/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-02822",
-      "abstract": "PURPOSE: To provide evidence-based recommendations for patients with stage IV non-small cell lung cancer with driver alterations.\n\nMETHODS: This ASCO living guideline offers continually updated recommendations based on an ongoing systematic review of randomized controlled trials (RCTs), with the latest time frame spanning March-October 2025. An Expert Panel of medical oncology, pulmonary, community oncology, research methodology, and advocacy experts was convened. The literature search included systematic reviews, meta-analyses, and RCTs. Outcomes of interest include efficacy and safety. Expert Panel members used available evidence and informal consensus to develop evidence-based guideline recommendations.\n\nRESULTS: This guideline consolidates all previous updates and reflects the body of evidence informing this guideline topic. Thirteen studies were identified in the latest search of literature to date.\n\nRECOMMENDATIONS: Evidence-based recommendations were updated to address first, second, and subsequent treatment options for patients with driver alterations.Additional information is available at www.asco.org/thoracic-cancer-guidelines."
     }
   ]
 }
