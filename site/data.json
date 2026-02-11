@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-10T06:12:22.701088Z",
+  "generated": "2026-02-11T06:08:37.208367Z",
   "items": [
     {
       "pmid": "41650973",
@@ -33,8 +33,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/16/2/190/3731636/cd-25-2046.pdf",
       "metric_name": "SJR",
       "metric_value": 7.283,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41645709/",
@@ -53,53 +53,13 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/16/2/188/3731630/cd-24-1132.pdf",
       "metric_name": "SJR",
       "metric_value": 7.283,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41645707/",
       "url_doi": "https://doi.org/10.1158/2159-8290.CD-24-1132",
       "abstract": null
-    },
-    {
-      "pmid": "41637136",
-      "doi": "10.1158/2159-8290.CD-RW2026-018",
-      "title": "High-Plasticity Cell State Drives Lung Cancer Progression and Drug Resistance.",
-      "journal": "Cancer discovery",
-      "pubdate": "2026-02-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 7.283,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41637136/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-RW2026-018",
-      "abstract": null
-    },
-    {
-      "pmid": "41637523",
-      "doi": "10.1126/scitranslmed.adq6647",
-      "title": "Kras G12C- and G12D-driven lung cancers differ in oncogenic potency, immunogenicity, and relapse after Kras inhibition in mouse models.",
-      "journal": "Science translational medicine",
-      "pubdate": "2026-02-04T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 6.722,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41637523/",
-      "url_doi": "https://doi.org/10.1126/scitranslmed.adq6647",
-      "abstract": "The development of allele-specific KRAS inhibitors underscores the importance of understanding the distinct tumor biology associated with common"
     },
     {
       "pmid": "41661652",
@@ -176,8 +136,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1186/s12967-026-07778-y",
       "metric_name": "SJR",
       "metric_value": 1.997,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41654892/",
@@ -226,25 +186,25 @@
       "abstract": "OBJECTIVE: To investigate the clinical characteristics and impact of\n\nMETHODS: A total of 2,821 patients with NSCLC who underwent next-generation sequencing were retrospectively included. The frequency and types of"
     },
     {
-      "pmid": "41640088",
-      "doi": "10.1080/14737140.2026.2623059",
-      "title": "The role of zongertinib, a highly selective tyrosine kinase inhibitor, in targeting HER2-mutant NSCLC: a bench-to-bedside review.",
-      "journal": "Expert review of anticancer therapy",
-      "pubdate": "2026-02-04T00:00:00+00:00",
+      "pmid": "41662869",
+      "doi": "10.17849/insm-53-1-1-7.2",
+      "title": "Are There Types of Early-Stage Adenocarcinomas That Are Insurable?",
+      "journal": "Journal of insurance medicine (New York, N.Y.)",
+      "pubdate": "2026-02-09T00:00:00+00:00",
       "pubtypes": [
         "Journal Article",
         "Review"
       ],
-      "entity": "NSCLC",
+      "entity": "Other",
       "trial_type": "Review/Meta",
       "study_class": "Review",
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 0.926,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41640088/",
-      "url_doi": "https://doi.org/10.1080/14737140.2026.2623059",
-      "abstract": "INTRODUCTION: HER2 is mutated in 2-4% of non-small cell lung cancers (NSCLC) and is associated with poor prognosis. Tyrosine kinase inhibitors (TKIs) targeting HER2 have historically been hampered by insufficient efficacy against exon 20 insertion mutations and lack of specificity, resulting in off-target adverse events. Zongertinib is an oral, irreversible HER2-selective TKI that spares wild-type EGFR, thereby minimizing associated toxicities. Zongertinib was recently approved in the United States (accelerated), China (conditional), and Japan for patients with previously treated advanced HER2-mutant NSCLC.\n\nAREAS COVERED: This article outlines the discovery and clinical development of zongertinib that led to these approvals. We discuss the first-in-human Beamion LUNG-1 trial (NCT04886804), in which zongertinib demonstrated encouraging and durable activity, with a manageable safety profile, in patients with HER2-mutant advanced NSCLC. Finally, we summarize ongoing clinical trials of zongertinib, including its assessment as first-line treatment for advanced HER2-mutant NSCLC.\n\nEXPERT OPINION: Zongertinib is the first oral TKI approved for HER2-mutant NSCLC and will provide patients with a convenient, tolerable and effective treatment option in an area of significant unmet need. Next steps include its potential transition to a first-line setting, identification of additional indications, and development of novel combination regimens."
+      "metric_value": 0.113,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41662869/",
+      "url_doi": "https://doi.org/10.17849/insm-53-1-1-7.2",
+      "abstract": "Lung cancer is the most common cause of cancer-related mortality worldwide. With the introduction of low-dose computed tomography (LDCT), detection of adenocarcinoma in situ (AIS) and minimally invasive adenocarcinoma (MIA) are increasingly being found in young, never-smoking females in Asia. There are survival studies suggesting that these early cancers, with resection, have no recurrence in 5 and even 10 years and therefore might be considered cured, allowing for favorable underwriting consideration for life insurance. However, other studies have shown incidences of secondary primary lung cancers (SPLCs) occurring within 10 years after surgical resections of AIS and MIA tumors, but with their clinical course and response to treatment appear to be better than original primary lung cancers, potentially still allowing for insurance with rating. The goal of this article is to review the evidence both for and against insuring these populations of lung cancer patients."
     },
     {
       "pmid": "41499719",
@@ -268,6 +228,26 @@
       "abstract": null
     },
     {
+      "pmid": "41666849",
+      "doi": "10.1016/j.lungcan.2026.109304",
+      "title": "Participation in lung cancer biospecimen studies: an analysis of the ECOG-ACRIN phase 3 E1505 and E5508 clinical trials.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-07T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41666849/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109304",
+      "abstract": "BACKGROUND: Biospecimen analyses may provide important insights into patient selection and pharmacodynamic effects. To provide generalizable findings, such studies must enroll adequate and diverse populations.\n\nMETHODS: We analyzed patient and institutional characteristics according to agreement to participate in optional, embedded biospecimen studies among patients enrolled in the E1505 and E5508 phase 3 lung cancer therapeutic trials. Differences were compared using Wilcoxon rank sum test, Pearson's Chi-squared test, and logistic regression.\n\nRESULTS: Overall, 3,017 patients were enrolled in the two trials. Mean age was 63 years, 49% were female, and 83% were non-Hispanic white. Among these individuals, 2,692 (89%) agreed to participate in at least one biospecimen study, and 2,577 (85%) agreed to studies requiring future biospecimen collection. In multivariable logistic regression, compared to non-Hispanic white patients, other patients were less likely to agree to participate: OR 0.59 (95% CI, 0.45-0.79; P < 0.001) for any biospecimen study; OR 0.62 (95% CI, 0.48-0.80; P < 0.001) for studies requiring future biospecimen collection. Women and patients treated outside main academic institutions (e.g., affiliates, community sites) were also less likely to participate.\n\nCONCLUSIONS: Among patients enrolled in lung cancer clinical trials, women, racial and ethnic minorities, and patients treated outside major academic centers are less likely to participate in optional biospecimen studies. Because some of these populations may already be under-represented in trial populations, this pattern may exacerbate disparities in translational and clinical research.\n\nTRIAL REGISTRATION: NCT00324805, NCT01107626."
+    },
+    {
       "pmid": "41654519",
       "doi": "10.1038/s41467-026-69216-3",
       "title": "Pan-RAF inhibitor exarafenib targets BRAF class II/III NSCLC and reveals ARAF-KSR1 resistance and combination strategies.",
@@ -279,8 +259,8 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41467-026-69216-3",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41654519/",
@@ -299,8 +279,8 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-25-3720/3736176/ccr-25-3720.pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41649868/",
