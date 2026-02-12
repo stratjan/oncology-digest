@@ -1,26 +1,6 @@
 {
-  "generated": "2026-02-11T06:08:37.208367Z",
+  "generated": "2026-02-12T06:02:26.528164Z",
   "items": [
-    {
-      "pmid": "41650973",
-      "doi": "10.1016/j.ccell.2026.01.005",
-      "title": "Male-biased Yap1-Cd276/B7-H3 axis for immune evasion in medulloblastoma.",
-      "journal": "Cancer cell",
-      "pubdate": "2026-02-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 19.027,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41650973/",
-      "url_doi": "https://doi.org/10.1016/j.ccell.2026.01.005",
-      "abstract": "Molecular mechanisms underlying sex-specific differences in cancer incidence and therapy responses are under intense investigation. Here, we report sex-biased functions of Yap1 in multiple cancer types in human and mouse. Through integrated multi-omics analyses, we demonstrate that Yap1 deletion significantly extends survival in male but not female Sonic Hedgehog (SHH) medulloblastomas (MB) models. While Yap1 is required to maintain stem-like cells in both sexes, Yap1 plays a more critical role in immune evasion in males. Mechanistically, YAP1 is essential for activating Cd276/B7-H3 expression to mediate CD8"
-    },
     {
       "pmid": "41645709",
       "doi": "10.1158/2159-8290.CD-25-2046",
@@ -73,8 +53,8 @@
       "entity": "Other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1158/0008-5472.can-25-2764",
       "metric_name": "SJR",
       "metric_value": 3.879,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41661652/",
@@ -101,28 +81,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41419100/",
       "url_doi": "https://doi.org/10.1016/j.canlet.2025.218223",
       "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
-    },
-    {
-      "pmid": "41427516",
-      "doi": "10.1002/cpt.70146",
-      "title": "Risk of Malignancies and Major Adverse Cardiovascular Events Related to JAK Inhibitors in Rheumatoid Arthritis: A Meta-Analysis.",
-      "journal": "Clinical pharmacology and therapeutics",
-      "pubdate": "2026-03-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Meta-Analysis",
-        "Review"
-      ],
-      "entity": "Other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 2.127,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41427516/",
-      "url_doi": "https://doi.org/10.1002/cpt.70146",
-      "abstract": "This meta-analysis evaluated the risk of malignancies and major adverse cardiovascular events (MACE) associated with the use of JAK inhibitors in patients with RA through a comprehensive meta-analysis of available clinical trials. A systematic search was conducted in PubMed, EMBASE, and Web of Science from inception to February 7, 2025, to identify relevant clinical trials. Data on malignancies and MACE incidence were extracted, and pooled risk ratios (RR) were calculated using a random-effects model. A total of 18 studies (N = 111,260) met the inclusion criteria. JAK inhibitors were associated with a significantly increased risk of malignancies excluding NMSC (RR = 1.30, 95%CI: 1.05, 1.60; P = 0.016), NMSC (RR = 1.54, 95%CI: 1.23, 1.93; P < 0.01), overall malignancies (RR = 1.53, 95%CI: 1.18, 2.00; P = 0.002), lung cancer (RR = 1.52, 95%CI: 1.11, 2.08; P = 0.009), lymphoma (RR = 3.69, 95%CI: 1.19, 11.42; P = 0.024), non-small cell lung cancer (RR = 1.70, 95%CI: 1.01, 2.86; P = 0.047), cutaneous squamous cell carcinoma (RR = 2.30, 95%CI: 1.44, 3.65; P < 0.01), and thyroid cancer (RR = 7.51, 95%CI: 1.39, 40.74; P = 0.019). In contrast, JAK inhibitors did not significantly alter the risk of MACE (RR = 0.75, 95%CI: 0.38, 1.45; P = 0.390), venous thromboembolism (VTE) (RR = 1.52, 95%CI: 0.90, 2.56; P = 0.117), or deep vein thrombosis (DVT) (RR = 1.77, 95%CI: 0.84, 3.34; P = 0.079). Trial sequential analysis (TSA) confirmed data adequacy, and meta-regression indicated that sample size, treatment duration, and patient age did not influence outcomes. JAK inhibitors are associated with an elevated risk of malignancies but do not significantly affect MACE, VTE, or DVT risk in RA patients. Further large-scale post-marketing surveillance is warranted to refine the safety profile of JAK inhibitors in RA management."
     },
     {
       "pmid": "41654892",
@@ -207,6 +165,26 @@
       "abstract": "Lung cancer is the most common cause of cancer-related mortality worldwide. With the introduction of low-dose computed tomography (LDCT), detection of adenocarcinoma in situ (AIS) and minimally invasive adenocarcinoma (MIA) are increasingly being found in young, never-smoking females in Asia. There are survival studies suggesting that these early cancers, with resection, have no recurrence in 5 and even 10 years and therefore might be considered cured, allowing for favorable underwriting consideration for life insurance. However, other studies have shown incidences of secondary primary lung cancers (SPLCs) occurring within 10 years after surgical resections of AIS and MIA tumors, but with their clinical course and response to treatment appear to be better than original primary lung cancers, potentially still allowing for insurance with rating. The goal of this article is to review the evidence both for and against insuring these populations of lung cancer patients."
     },
     {
+      "pmid": "41671081",
+      "doi": "10.1158/1078-0432.CCR-25-2173",
+      "title": "Subcutaneously Administered Tislelizumab in Locally Advanced or Metastatic Non-Small Cell Lung Cancer: Pharmacokinetics and Safety Results from the BGB-A317-103 Phase I Study.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2026-02-11T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671081/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2173",
+      "abstract": "PURPOSE: Tislelizumab, an anti-programmed cell death protein-1 monoclonal antibody, is approved for various indications intravenously. Subcutaneous delivery offers potential advantages in convenience and resource utilization. BGB-A317-103 assessed pharmacokinetics, safety, and efficacy of subcutaneous tislelizumab in treatment-naïve patients with advanced or metastatic non-small cell lung cancer.\n\nPATIENTS AND METHODS: BGB-A317-103 is an open-label, multicenter, phase I study. In Part 1 (dose/injection site exploration), patients received subcutaneous tislelizumab (abdomen or thigh injections; 300 mg) in 2 of the first 3 cycles and intravenous tislelizumab (200 mg) in the remaining cycle, followed by intravenous tislelizumab thereafter. In Part 2 (dose expansion), patients received 300 mg of subcutaneous tislelizumab in the thigh in all cycles. Both parts included chemotherapy during the first 4 to 6 cycles. Pharmacokinetics, bioavailability, efficacy, immunogenicity, and safety were assessed.\n\nRESULTS: At data cutoff (December 6, 2024), in Part 1 (N = 39), subcutaneous administration yielded higher trough concentrations than intravenous (geometric means: 23.1 μg/mL [thigh], 19.5 μg/mL [abdomen], and 14.8 μg/mL [intravenously]). Estimated bioavailability was 85.6% (thigh) and 72.4% (abdomen). In Part 2 (N = 22), subcutaneous tislelizumab in the thigh showed consistent pharmacokinetics with Part 1. Preliminary analysis showed overall response rate of 44.4%; median duration of response and median progression-free survival were not reached. Tislelizumab's safety profile was consistent with previous studies, with no new signals or injection-site reactions.\n\nCONCLUSIONS: Subcutaneous tislelizumab demonstrated high bioavailability after thigh and abdomen injections. Safety and efficacy were consistent with previous tislelizumab plus chemotherapy studies, warranting further investigation of subcutaneous tislelizumab."
+    },
+    {
       "pmid": "41499719",
       "doi": "10.1200/JCO-25-03012",
       "title": "Erratum: Simultaneous Durvalumab and Platinum-Based Chemoradiotherapy in Unresectable Stage III Non-Small Cell Lung Cancer: The Phase III PACIFIC-2 Study.",
@@ -226,6 +204,66 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41499719/",
       "url_doi": "https://doi.org/10.1200/JCO-25-03012",
       "abstract": null
+    },
+    {
+      "pmid": "41672197",
+      "doi": "10.1016/j.jtho.2026.103607",
+      "title": "BiTE (CD3×EGFR)-Based Triplet Therapy Unlocks CD40/CD40L Crosstalk to Revert Immunosuppression in third-generation EGFR-TKI-Refractory NSCLC.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2026-02-09T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41672197/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103607",
+      "abstract": "INTRODUCTION: Acquired resistance to third-generation epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) is a major challenge in non-small cell lung cancer (NSCLC), with ∼50% of cases lacking precise resistance mechanisms. This study investigates the immunosuppressive tumor microenvironment (TME) driving resistance and develops a novel triple-combination therapy to restore T-cell anti-tumor activity.\n\nMETHODS: scRNA-seq and multicolor fluorescence staining were performed on NSCLC patient samples to analyze TME changes post-EGFR-TKI resistance. A triple therapy combining BC3448 (EGFR/CD3 BiTE), Tucidinostat (HDAC inhibitor), and WBP3425 (4-1BB agonist) was tested using in vitro co-culture assays, syngeneic cell-derived xenograft (CDX) models in humanized NOG-EXL mice, and multi-omics analyses.\n\nRESULTS: scRNA-seq revealed reduced T-cell infiltration/activation and increased immunosuppressive myeloid cells in resistant NSCLC. BC3448 monotherapy activated T-cells and induced tumor cell apoptosis in vitro, but was limited in vivo due to myeloid-driven immunosuppression. The triple therapy significantly enhanced tumor regression in osimertinib-resistant models (tumor growth inhibition >70%, p<0.001), promoted CD8+ effector T-cell differentiation, and suppressed Tregs/M2 macrophages. CD40/CD40L axis activation between T cells and monocyte-derived macrophages was critical for TME remodeling, with spatial profiling showing increased CD40L+ T cell and CD40+ macrophage proximity, correlating with higher IFN-γ and reduced angiogenesis. A durable response to BC3448 monotherapy was observed in an immunotherapy-resistant NSCLC patient (>2 years of stable disease), presenting a translational potential of this approach.\n\nCONCLUSION: This study establishes a novel triple therapy that overcomes the limitations of BiTEs in cold and immunosuppressive TMEs and provides an immunomodulatory approach to addressing third-generation EGFR-TKI resistance."
+    },
+    {
+      "pmid": "41671908",
+      "doi": "10.1016/j.lungcan.2026.109312",
+      "title": "Validity and responsiveness of patient-reported outcomes common terminology criteria for adverse events (PRO-CTCAE) among Italian lung cancer patients.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-08T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671908/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109312",
+      "abstract": "BACKGROUND: Patient-reported symptom monitoring may improve the outcomes of cancer treatment. Knowledge of psychometric properties may drive the selection of optimal tools. Here we report the analysis of PRO-CTCAE in Italian lung cancer patients.\n\nMETHODS: A PRO-CTCAE list (74 items, 44 symptoms) was administered to on-treatment patients at registration (visit 1) and after 2-6 weeks (visit 2). Convergent validity with EORTC LC-13 and Hospital Anxiety and Depression Scale (HADS) was assessed by Pearson correlation. Known-group validity and responsiveness were tested with ECOG performance status (PS 0 vs 1) and Patients' Global Impression of Change (PGIC) scale as anchors, respectively.\n\nRESULTS: From September 2019 to November 2022, 186 patients filled PRO-CTCAE at visit 1 and 164 at visit 2. Median age (IQR) was 66.4 (60.9 - 73.1) years; 58.6% were male; 68.0% had PS 0. Convergent validity showed high correlation (r ≥ 0.50) of PRO-CTCAE hair loss (r = 0.78), dyspnoea (0.63), limb numbness (0.63), cough (0.58) and pain (0.51) with selected LC-13 anchors. PRO-CTCAE anxiety, depression and sadness highly correlated with HADS. For known-group validity, small to medium correlations were found for oral, cutaneous and respiratory toxicity, fatigue, appetite loss, insomnia and depression, that were worse for PS 1; limb swelling and pain were worse in PS 0. Responsiveness analysis at visit 2 found some PRO-CTCAE score changes consistently and directly correlated with impression of change measured with PGIC.\n\nCONCLUSIONS: These results support the use of selected PRO-CTCAE items for lung cancer patients as a reliable tool for detection of treatment related toxicities."
+    },
+    {
+      "pmid": "41671905",
+      "doi": "10.1016/j.lungcan.2026.109310",
+      "title": "Phase I study of amrubicin plus cisplatin and concurrent accelerated hyperfractionated thoracic radiotherapy for limited-stage small cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-08T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671905/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109310",
+      "abstract": "BACKGROUND: Etoposide plus cisplatin (EP) with concurrent accelerated hyperfractionated thoracic radiotherapy (AHTRT) remains the standard treatment for unresectable limited-stage (LS) small cell lung cancer (SCLC)) for over two decades. Our previous study demonstrated that amrubicin plus cisplatin (AP) with once-daily thoracic radiotherapy (50 Gy per 25 fractions) for LS-SCLC prolonged overall survival (OS) to 39.5 months with manageable toxicities. To enhance therapeutic efficacy, this study aimed to assess the feasibility of AP combined with AHTRT for LS-SCLC.\n\nMETHODS: Treatment-naïve patients aged 20-75 years with LS-SCLC, performance status 0-1, and adequate organ function were enrolled. Chemotherapy consisted of cisplatin 60 mg/m\n\nRESULTS: Nine patients were enrolled in this study. Dose-limiting toxicities included Grade 3 febrile neutropenia and Grade 3 hypokalemia. The recommended and maximum tolerated dose of amrubicin was 25 mg/m\n\nCONCLUSION: AP combined with AHTRT from the first chemotherapy cycle was well tolerated at the recommended amrubicin dose of 25 mg/m"
     },
     {
       "pmid": "41666849",
@@ -327,46 +365,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41637511/",
       "url_doi": "https://doi.org/10.1126/sciadv.adu0690",
       "abstract": "NK and T cells are key effectors that eliminate cancer cells, but upregulation of the inhibitory receptor NKG2A on these cells attenuates antitumor immune responses. To counteract NKG2A inhibitory signaling, we identified two specific fully human monoclonal anti-NKG2A antibodies that block HLA-E ligand binding. These antibodies activated NK cells and enhanced antibody-dependent cellular cytotoxicity of tumor-targeting IgG1s both in vitro and in vivo. Bispecific engagers (BiNKs), generated by fusing NKG2A antibodies with tumor targeting binders, promoted immune synapse formation and directed cytotoxicity of NK and CD8"
-    },
-    {
-      "pmid": "41639167",
-      "doi": "10.1038/s41598-026-36712-x",
-      "title": "Can evolutionary therapy be applied in non-small cell lung cancer?",
-      "journal": "Scientific reports",
-      "pubdate": "2026-02-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.nature.com/articles/s41598-026-36712-x_reference.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41639167/",
-      "url_doi": "https://doi.org/10.1038/s41598-026-36712-x",
-      "abstract": "Evolutionary therapy (ET) applies principles of evolutionary biology to steer tumour dynamics and forestall or delay treatment resistance, typically guided by data-driven mathematical models. Our aim is to assess whether ET protocols, and specifically Zhang et al.'s protocol proposed for metastatic castrate-resistant prostate cancer, can be theoretically effective for fast-growing metastatic cancers such as stage IV non-small-cell lung cancer (NSCLC). Using longitudinal tumour-burden data from NSCLC patients treated with erlotinib, we systematically evaluate 26 two-population differential-equation models based on classical tumour-growth dynamics, with varying assumptions about density- and frequency-dependent interactions, pharmacokinetics, and treatment-induced death. Previous work by Yin et al. on the same dataset employed an exponential model that omitted density- and frequency-dependent interactions; although it provided a good fit to tumour-burden data, its structure would theoretically lead to poorer outcomes under ET protocols. In contrast, our analysis identifies the minimal model structure required to reproduce the resistance-driven regrowth observed in NSCLC, with the Gompertzian model featuring log-kill dynamics and both density- and frequency-dependent interactions providing the best fit. In this model, Zhang et al.'s protocol prolonged median time-to-progression to 42.3 months compared with 24.8 months under maximum tolerated dose. These results indicate that ET is theoretically a viable treatment strategy for NSCLC. This study offers a practical framework for assessing ET feasibility using clinical data and supports future clinical translation of ET in NSCLC."
-    },
-    {
-      "pmid": "41475048",
-      "doi": "10.1016/j.ejca.2025.116191",
-      "title": "Braf-mutant metastatic non-small-cell lung cancer: Real world data from the Italian biomarker atlas database.",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2026-02-05T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.ejca.2025.116191",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41475048/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2025.116191",
-      "abstract": "BACKGROUND: BRAF mutations identify a small subgroup of patients (pts) with non-small cell lung cancer (NSCLC). Dabrafenib/trametinib (D/T) combination is associated with high response rates and durable anti-tumor activity in BRAF-V600-mutants. Several open questions still remain unanswered in clinical practice, including the efficacy of treatments based on clinical and molecular characteristics, the activity in patients with brain metastases, the optimal sequence with immunotherapy-based therapies. Here we present outcomes among advanced BRAF-mutant NSCLC patients from the Italian ATLAS registry.\n\nMETHODS: Patients with metastatic BRAF-mutated NSCLC were included. Clinical-pathological features, treatment effectiveness and safety outcomes were retrospectively collected from the Italian real-world ATLAS registry.\n\nRESULTS: A total of 244 BRAF-mutated NSCLC pts were enrolled, including 70 % V600E mutations. The median PFS of first line D/T was 19.8 months (95 % CI: 10.7-29.0), with a 2-year OS rate of 65.4 % and a PFS2 of 6.6 months (95 % CI: 0-14.3). The activity of D/T differs among sex (mPFS was 13.6 mos and 25.3 mos and 2-yr OS rate were 54.9 % and 72.3 % in males and females, respectively) and smoking status (mPFS was 18.4 mos, 25.6 mos and 24 mos in never, former and current smokers, respectively). Concomitant MET amplification was associated with a shorter median PFS (mPFS was 13.6 mos vs. 44.3 mos with and without MET amplification respectively) in pts treated with D/T as 1st line.\n\nCONCLUSIONS: These data confirm the efficacy and safety of first line D/T in BRAF V600E-mutated pts in the real-world setting consistently with prior studies, suggesting a differential activity among key clinical-molecular subgroups."
     }
   ]
 }
