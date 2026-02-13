@@ -1,45 +1,25 @@
 {
-  "generated": "2026-02-12T06:02:26.528164Z",
+  "generated": "2026-02-13T05:59:01.362957Z",
   "items": [
     {
-      "pmid": "41645709",
-      "doi": "10.1158/2159-8290.CD-25-2046",
-      "title": "Clinical Validation of a Cell-Free DNA Fragmentome Assay for Augmentation of Lung Cancer Early Detection-Reply.",
-      "journal": "Cancer discovery",
-      "pubdate": "2026-02-06T00:00:00+00:00",
+      "pmid": "41678173",
+      "doi": "10.1001/jamaoncol.2025.6430",
+      "title": "Ancestry-Associated Performance Variability of Open-Source AI Models for EGFR Prediction in Lung Cancer.",
+      "journal": "JAMA oncology",
+      "pubdate": "2026-02-12T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/16/2/190/3731636/cd-25-2046.pdf",
+      "is_oa": false,
+      "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 7.283,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41645709/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-25-2046",
-      "abstract": null
-    },
-    {
-      "pmid": "41645707",
-      "doi": "10.1158/2159-8290.CD-24-1132",
-      "title": "Clinical Validation of a Cell-Free DNA Fragmentome Assay for Augmentation of Lung Cancer Early Detection-Letter.",
-      "journal": "Cancer discovery",
-      "pubdate": "2026-02-06T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/16/2/188/3731630/cd-24-1132.pdf",
-      "metric_name": "SJR",
-      "metric_value": 7.283,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41645707/",
-      "url_doi": "https://doi.org/10.1158/2159-8290.CD-24-1132",
-      "abstract": null
+      "metric_value": 8.377,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41678173/",
+      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.6430",
+      "abstract": "IMPORTANCE: Artificial intelligence (AI) models are emerging as rapid, low-cost tools for predicting targetable genomic alterations directly from routine pathology slides. Although these approaches could accelerate treatment decisions in lung cancer, little is known about whether their performance is consistent across diverse patient populations and tissue contexts.\n\nOBJECTIVE: To evaluate the performance and generalizability of 2 open-source AI pathology models for predicting EGFR mutation status in lung adenocarcinoma (LUAD) across independent cohorts and ancestral subgroups.\n\nDESIGN, SETTING, AND PARTICIPANTS: This cohort study included patients with LUAD from 2 cohorts: Dana-Farber Cancer Institute (DFCI) from June 2013 to November 2023, and a European-based trial (TNM-I) from August 2016 to February 2022. All patients had paired next-generation sequencing data and hematoxylin-eosin-stained whole-slide images. In the DFCI cohort, genetic ancestry was inferred using germline genotype data. Data analyses were performed from July 2025 to September 2025.\n\nMAIN OUTCOMES: The primary outcome was model performance for predicting EGFR mutation status, measured as the area under the receiver operating characteristic curve (AUC), evaluated overall and across ancestry subgroups and sample types.\n\nRESULTS: Overall, 2098 patients with LUAD were included (mean [SD] age, 66.6 [10.3] years; 1315 female individuals [63%] and 783 male individuals [37%]). In the DFCI cohort (n = 1759; 54 African, 101 American, 95 Asian, 1465 European), EGFR mutations were detected in 432 patients (25%). One AI-pathology model achieved an AUC of 0.83 (95% CI, 0.81-0.85) compared with 0.68 (95% CI, 0.65-0.70) for the other model. In the TNM-I cohort (n = 339), EGFR mutations were detected in 50 patients (15%), with AUCs of 0.81 (95% CI, 0.74-0.88) and 0.75 (95% CI, 0.68-0.83), respectively. In ancestry-stratified analyses of the DFCI cohort, AUCs for the higher-performing model were 0.84 (95% CI, 0.81-0.86) in patients of European ancestry, 0.85 (95% CI, 0.72-0.94) in African ancestry, and 0.68 (95% CI, 0.55-0.78) in Asian ancestry. In sample type analyses, performance declined in pleural (AUC, 0.66; 95% CI, 0.56-0.76) compared with lung specimens (AUC, 0.86; 95% CI, 0.83-0.88). AI-guided triage analyses showed a potential 57% reduction in rapid EGFR testing, while maintaining sensitivity of 0.84 and specificity of 0.99.\n\nCONCLUSIONS: This cohort study found that AI-based pathology tools may serve as preliminary adjuncts for EGFR prediction in lung cancer, though performance differences by ancestry warrant careful interpretation."
     },
     {
       "pmid": "41661652",
@@ -165,6 +145,27 @@
       "abstract": "Lung cancer is the most common cause of cancer-related mortality worldwide. With the introduction of low-dose computed tomography (LDCT), detection of adenocarcinoma in situ (AIS) and minimally invasive adenocarcinoma (MIA) are increasingly being found in young, never-smoking females in Asia. There are survival studies suggesting that these early cancers, with resection, have no recurrence in 5 and even 10 years and therefore might be considered cured, allowing for favorable underwriting consideration for life insurance. However, other studies have shown incidences of secondary primary lung cancers (SPLCs) occurring within 10 years after surgical resections of AIS and MIA tumors, but with their clinical course and response to treatment appear to be better than original primary lung cancers, potentially still allowing for insurance with rating. The goal of this article is to review the evidence both for and against insuring these populations of lung cancer patients."
     },
     {
+      "pmid": "41539180",
+      "doi": "10.1016/j.ejca.2026.116221",
+      "title": "Preclinical characterization and first-in-human, phase I trial of the novel ALK inhibitor dirozalkib in advanced non-small cell lung cancer.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2026-02-25T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41539180/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2026.116221",
+      "abstract": "BACKGROUND: To investigate the preclinical characterization of dirozalkib, a novel anaplastic lymphoma kinase (ALK) inhibitor, and its safety, pharmacokinetics, and preliminary antitumor activity in advanced non-small cell lung cancer (NSCLC).\n\nMETHODS: The preclinical inhibitory effects of dirozalkib were evaluated in vitro and in vivo. The first-in-human phase I study (NCT05055232) enrolled patients with advanced NSCLC harboring ALK or ROS1 rearrangements. Participants received 50-600 mg/day dirozalkib following a 3 + 3 dose-escalation design with rapid titration, and 300-600 mg/day in the dose-expansion phase. The primary endpoint was safety.\n\nRESULTS: Dirozalkib demonstrated potent inhibition of ALK fusion-positive cell lines and common resistance mutations, and suppressed tumor growth in patient-derived and intracranial xenograft lung cancer models. No dose-limiting toxicities occurred, establishing 600 mg/day as the maximum tolerated dose. Among 114 patients enrolled, 55 (48.2 %) experienced grade ≥ 3 treatment-emergent adverse events, most commonly diarrhea (8.8 %). The objective response rate (ORR) among patients with ALK rearrangements was 47.4 % (9/19) and 46.3 % (38/82) in the dose-escalation and dose-expansion cohort (89.3 % in ALK inhibitor-naive patients receiving 500 mg/day). After a single dose of 50-600 mg dirozalkib, median time to maximum concentration ranged from 3 to 4 h. C\n\nCONCLUSIONS: Dirozalkib exhibited favorable safety, antitumor activity and pharmacokinetics in patients with advanced ALK-rearranged NSCLC. The recommended phase II dose was 500 mg/day.\n\nTRIAL REGISTRATION: Clinicaltrials.gov (NCT05055232) and Chinadrugtrials.org.cn (CTR20190984)."
+    },
+    {
       "pmid": "41671081",
       "doi": "10.1158/1078-0432.CCR-25-2173",
       "title": "Subcutaneously Administered Tislelizumab in Locally Advanced or Metastatic Non-Small Cell Lung Cancer: Pharmacokinetics and Safety Results from the BGB-A317-103 Phase I Study.",
@@ -176,8 +177,8 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1158/1078-0432.ccr-25-2173",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671081/",
@@ -304,67 +305,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41654519/",
       "url_doi": "https://doi.org/10.1038/s41467-026-69216-3",
       "abstract": "Oncogenic BRAF mutations, including those in non-small cell lung cancer (NSCLC), are classified as Class I, II, or III. While approved therapies exist for BRAF Class I mutants, no approved therapies exist for Class II and III BRAF-mutated NSCLC. Analysis of a circulating tumor DNA database reveals Class II and III mutations comprise ~65% of BRAF-mutant NSCLC cases, with Class II patients showing worse outcomes than Class I. Exarafenib, a distinct pan-RAF inhibitor, demonstrates potent activity against BRAF Class II and III mutant preclinical models and initial clinical activity. Resistance studies reveal rewiring to an ARAF-mediated bypass pathway, characterized by RAS-mediated ARAF-KSR1 complexes maintaining MAPK signaling despite pan-RAF inhibitor treatment. RAS or MEK inhibition co-targeting is effective against this resistance mechanism. This study provides preclinical rationale for clinical testing of exarafenib in BRAF Class II/III cancers and unveils RAS-mediated ARAF-KSR1 complex formation as a resistance mechanism and rational co-therapy strategies."
-    },
-    {
-      "pmid": "41649868",
-      "doi": "10.1158/1078-0432.CCR-25-3720",
-      "title": "JIN-A02, a Mutant-Selective Fourth-Generation EGFR inhibitor, Overcomes C797S-Mediated Resistance and Demonstrates Intracranial Activity in NSCLC.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "pubdate": "2026-02-06T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-25-3720/3736176/ccr-25-3720.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41649868/",
-      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-3720",
-      "abstract": "PURPOSE: Epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) have revolutionized the treatment of non-small cell lung cancer (NSCLC) with activating EGFR mutations. However, acquired resistance-particularly the EGFR_C797S mutation-remains a major clinical challenge. As no approved targeted therapies are available following disease progression on the third-generation EGFR-TKI osimertinib, this study aimed to evaluate JIN-A02, a novel fourth-generation EGFR-TKI, as a therapeutic strategy to overcome C797S-mediated resistance.\n\nMETHODS: JIN-A02, a fourth-generation EGFR-TKI, was evaluated for its antitumor efficacy and blood-brain barrier penetration in in vitro and in vivo models of NSCLC harboring EGFR_C797S and T790M mutations.\n\nRESULTS: JIN-A02 demonstrated potent antiproliferative activity in preclinical NSCLC models harboring EGFR_C797S and T790M mutations, with superior inhibition of EGFR signaling compared to osimertinib. In both subcutaneous and orthotopic intracranial xenograft models, JIN-A02 elicited substantial tumor regression, indicating robust in vivo efficacy. The agent was well tolerated throughout the treatment period without notable toxicity. In line with preclinical data, early clinical trial data showed signs of efficacy including 3 patients showing partial response.\n\nCONCLUSION: These findings highlight JIN-A02 as a promising therapeutic strategy to overcome C797S- and T790M-mediated resistance in EGFR-mutant NSCLC, including intracranial disease, and support its further clinical development."
-    },
-    {
-      "pmid": "41650357",
-      "doi": "10.1200/JCO-26-00221",
-      "title": "Erratum: BR.31 Trial: Adjuvant Durvalumab as the Third Contender in Resected Non-Small Cell Lung Cancer.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-02-06T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Published Erratum"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41650357/",
-      "url_doi": "https://doi.org/10.1200/JCO-26-00221",
-      "abstract": null
-    },
-    {
-      "pmid": "41637511",
-      "doi": "10.1126/sciadv.adu0690",
-      "title": "Discovery and preclinical evaluation of monoclonal antibodies and bispecific engagers targeting the NKG2A inhibitory receptor.",
-      "journal": "Science advances",
-      "pubdate": "2026-02-06T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1126/sciadv.adu0690",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41637511/",
-      "url_doi": "https://doi.org/10.1126/sciadv.adu0690",
-      "abstract": "NK and T cells are key effectors that eliminate cancer cells, but upregulation of the inhibitory receptor NKG2A on these cells attenuates antitumor immune responses. To counteract NKG2A inhibitory signaling, we identified two specific fully human monoclonal anti-NKG2A antibodies that block HLA-E ligand binding. These antibodies activated NK cells and enhanced antibody-dependent cellular cytotoxicity of tumor-targeting IgG1s both in vitro and in vivo. Bispecific engagers (BiNKs), generated by fusing NKG2A antibodies with tumor targeting binders, promoted immune synapse formation and directed cytotoxicity of NK and CD8"
     }
   ]
 }
