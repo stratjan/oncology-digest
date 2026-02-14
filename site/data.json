@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-13T05:59:01.362957Z",
+  "generated": "2026-02-14T05:42:08.683865Z",
   "items": [
     {
       "pmid": "41678173",
@@ -13,8 +13,8 @@
       "entity": "Thoracic-other",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2844908/jamaoncology_rakaee_2026_br_250011_1770226526.41753.pdf",
       "metric_name": "SJR",
       "metric_value": 8.377,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41678173/",
@@ -63,24 +63,25 @@
       "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
     },
     {
-      "pmid": "41654892",
-      "doi": "10.1186/s12967-026-07778-y",
-      "title": "Multi-omics dynamic profiling reveals predictive biomarkers for first-line immunochemotherapy in extensive-stage small-cell lung cancer.",
-      "journal": "Journal of translational medicine",
-      "pubdate": "2026-02-07T00:00:00+00:00",
+      "pmid": "41679523",
+      "doi": "10.1016/j.critrevonc.2026.105205",
+      "title": "FGFR-Driven Lung Cancer: Dissecting Resistance and Exploring Therapeutic Avenues.",
+      "journal": "Critical reviews in oncology/hematology",
+      "pubdate": "2026-02-10T00:00:00+00:00",
       "pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1186/s12967-026-07778-y",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 1.997,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41654892/",
-      "url_doi": "https://doi.org/10.1186/s12967-026-07778-y",
-      "abstract": null
+      "metric_value": 1.82,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41679523/",
+      "url_doi": "https://doi.org/10.1016/j.critrevonc.2026.105205",
+      "abstract": "Fibroblast growth factor receptors (FGFRs) are significant oncogenic contributors in lung cancer. The clinical development of FGFR-directed agents represents a promising advancement in precision oncology. However, their efficacy is substantially limited by the emergence of diverse resistance mechanisms. This review summarizes FGFR biology, genomic alterations, and signaling pathways in tumorigenesis. Nonselective tyrosine kinase inhibitors and selective FGFR inhibitors (including pan-FGFR and isoform-specific agents) have shown clinical activity in patients with FGFR-altered lung cancer. Moreover, resistance mechanisms, such as secondary FGFR mutations, bypass signaling, tumor microenvironment (TME) remodeling, and phenotypic switching, are discussed. Innovative approaches, including the second-generation FGFR TKIs, monoclonal antibodies (mAbs), FGF traps, antibody-drug conjugates, and synergistic combinations with immunotherapy or other receptor tyrosine kinase (RTK) inhibitors, are discussed to overcome resistance. Overall, this review offers theoretical insights and proposes strategies to tackle resistance to FGFR-directed treatments in lung cancer."
     },
     {
       "pmid": "41616709",
@@ -166,6 +167,47 @@
       "abstract": "BACKGROUND: To investigate the preclinical characterization of dirozalkib, a novel anaplastic lymphoma kinase (ALK) inhibitor, and its safety, pharmacokinetics, and preliminary antitumor activity in advanced non-small cell lung cancer (NSCLC).\n\nMETHODS: The preclinical inhibitory effects of dirozalkib were evaluated in vitro and in vivo. The first-in-human phase I study (NCT05055232) enrolled patients with advanced NSCLC harboring ALK or ROS1 rearrangements. Participants received 50-600 mg/day dirozalkib following a 3 + 3 dose-escalation design with rapid titration, and 300-600 mg/day in the dose-expansion phase. The primary endpoint was safety.\n\nRESULTS: Dirozalkib demonstrated potent inhibition of ALK fusion-positive cell lines and common resistance mutations, and suppressed tumor growth in patient-derived and intracranial xenograft lung cancer models. No dose-limiting toxicities occurred, establishing 600 mg/day as the maximum tolerated dose. Among 114 patients enrolled, 55 (48.2 %) experienced grade ≥ 3 treatment-emergent adverse events, most commonly diarrhea (8.8 %). The objective response rate (ORR) among patients with ALK rearrangements was 47.4 % (9/19) and 46.3 % (38/82) in the dose-escalation and dose-expansion cohort (89.3 % in ALK inhibitor-naive patients receiving 500 mg/day). After a single dose of 50-600 mg dirozalkib, median time to maximum concentration ranged from 3 to 4 h. C\n\nCONCLUSIONS: Dirozalkib exhibited favorable safety, antitumor activity and pharmacokinetics in patients with advanced ALK-rearranged NSCLC. The recommended phase II dose was 500 mg/day.\n\nTRIAL REGISTRATION: Clinicaltrials.gov (NCT05055232) and Chinadrugtrials.org.cn (CTR20190984)."
     },
     {
+      "pmid": "41687045",
+      "doi": "10.1200/JCO-25-01892",
+      "title": "Medicaid Expansion and Stage at Diagnosis, Timely Initiation and Receipt of Guideline-Concordant Treatment, and Survival Among People With Non-Small Cell Lung Cancer.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-02-13T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41687045/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01892",
+      "abstract": "PURPOSE: To examine the associations between Medicaid expansion and stage at diagnosis, timely initiation and receipt of guideline-concordant treatment, and 5-year overall survival (OS) among people with non-small cell lung cancer (NSCLC).\n\nMETHODS: Individuals newly diagnosed with stage I to IV NSCLC at age 18-64 years between January 1, 2004, and December 31, 2023, in 50 states and Washington, DC, were identified from the National Cancer Database. We examined the association of Medicaid expansion and (1) early-stage diagnosis (I and II); (2) timely initiation of guideline-concordant treatment within 30 days after diagnosis; (3) receipt of all first-course guideline-concordant treatment; and (4) 5-year OS. We applied conventional and updated (Sun and Abraham) difference-in-differences (DID) approaches to examine the changes in study outcomes associated with Medicaid expansion using multivariable linear probability models to estimate stage and treatment and multivariable flexible parametric survival models to investigate survival overall and by key factors.\n\nRESULTS: Compared with people in nonexpansion states (n = 164,228), people in expansion states (n = 350,290) were more likely to be female, non-Hispanic White, or living in areas with higher family income or in nonmetropolitan areas. Medicaid expansion was associated with increases in early-stage NSCLC diagnosis (DID: 1.02 percentage points [ppt; 95% CI, 0.52 to 1.52]), timely treatment initiation (2.10 ppt [95% CI, 0.05 to 4.15]), and higher 5-year OS (1.79 ppt [95% CI, 1.32 to 2.26]). In stratified analyses, people living in areas with lower household income were more likely to benefit from Medicaid expansion.\n\nCONCLUSION: Medicaid expansion was associated with improvements in early detection, timeliness of guideline-concordant treatment, and survival for people with NSCLC. Anticipated Medicaid coverage losses may jeopardize these gains."
+    },
+    {
+      "pmid": "41685630",
+      "doi": "10.1017/S147895152510148X",
+      "title": "Interventions for unpaid carers of people living with breathlessness due to chronic respiratory diseases: Scoping review.",
+      "journal": "Palliative & supportive care",
+      "pubdate": "2026-02-13T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41685630/",
+      "url_doi": "https://doi.org/10.1017/S147895152510148X",
+      "abstract": "OBJECTIVES: Carers of people living with breathlessness face common challenges due to the chronic, distressing and unpredictable nature of the symptom. These include unmet information and support needs resulting in worsened health and psychosocial outcomes. This review aimed to (1) identify the relative volume of studies on supportive interventions for carers of people living with breathlessness due to different respiratory diseases, (2) characterize the nature of the interventions, and (3) explore their reported effectiveness on outcomes identified by carers as being important.\n\nMETHODS: Medline and CINAHL were searched for studies reporting interventions targeting unpaid adult carers of people with breathlessness, lung cancer, chronic obstructive pulmonary disease (COPD), Interstitial Lung Diseases (ILD) published 2000-2025. Intervention characteristics and reported outcomes were extracted and compared across diagnoses and intervention categories. Our findings were shaped by consultation with unpaid carers in a series of patient and public involvement workshops.\n\nRESULTS: From 72 included interventions, three approaches were identified: Education, therapeutic support, and interventions for patient management. Interventions for lung cancer carers most frequently offered therapeutic support to the carer, while those for COPD carers most frequently focused on managing the patient. COPD and ILD carers have been underserved by research. We found few therapeutic support interventions for COPD carers. Reporting of carer demographics was poor, including among RCTs.\n\nSIGNIFICANCE OF RESULTS: There was a dominance of research focusing on carers of people with lung cancer (56% of participants). In PPI consultations, carers identified stigma and poor communication with health providers as factors contributing to the disparity between lung cancer and other respiratory diseases. More research is needed to compare the efficacy of different intervention strategies to improve outcomes that matter most to carers. To improve equity, researchers must consistently report carer demographics and prioritize developing interventions for carers underserved by research."
+    },
+    {
       "pmid": "41671081",
       "doi": "10.1158/1078-0432.CCR-25-2173",
       "title": "Subcutaneously Administered Tislelizumab in Locally Advanced or Metastatic Non-Small Cell Lung Cancer: Pharmacokinetics and Safety Results from the BGB-A317-103 Phase I Study.",
@@ -178,7 +220,7 @@
       "trial_type": null,
       "study_class": "Other",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1158/1078-0432.ccr-25-2173",
+      "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-25-2173/3737508/ccr-25-2173.pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671081/",
@@ -265,46 +307,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671905/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109310",
       "abstract": "BACKGROUND: Etoposide plus cisplatin (EP) with concurrent accelerated hyperfractionated thoracic radiotherapy (AHTRT) remains the standard treatment for unresectable limited-stage (LS) small cell lung cancer (SCLC)) for over two decades. Our previous study demonstrated that amrubicin plus cisplatin (AP) with once-daily thoracic radiotherapy (50 Gy per 25 fractions) for LS-SCLC prolonged overall survival (OS) to 39.5 months with manageable toxicities. To enhance therapeutic efficacy, this study aimed to assess the feasibility of AP combined with AHTRT for LS-SCLC.\n\nMETHODS: Treatment-naïve patients aged 20-75 years with LS-SCLC, performance status 0-1, and adequate organ function were enrolled. Chemotherapy consisted of cisplatin 60 mg/m\n\nRESULTS: Nine patients were enrolled in this study. Dose-limiting toxicities included Grade 3 febrile neutropenia and Grade 3 hypokalemia. The recommended and maximum tolerated dose of amrubicin was 25 mg/m\n\nCONCLUSION: AP combined with AHTRT from the first chemotherapy cycle was well tolerated at the recommended amrubicin dose of 25 mg/m"
-    },
-    {
-      "pmid": "41666849",
-      "doi": "10.1016/j.lungcan.2026.109304",
-      "title": "Participation in lung cancer biospecimen studies: an analysis of the ECOG-ACRIN phase 3 E1505 and E5508 clinical trials.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-07T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41666849/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109304",
-      "abstract": "BACKGROUND: Biospecimen analyses may provide important insights into patient selection and pharmacodynamic effects. To provide generalizable findings, such studies must enroll adequate and diverse populations.\n\nMETHODS: We analyzed patient and institutional characteristics according to agreement to participate in optional, embedded biospecimen studies among patients enrolled in the E1505 and E5508 phase 3 lung cancer therapeutic trials. Differences were compared using Wilcoxon rank sum test, Pearson's Chi-squared test, and logistic regression.\n\nRESULTS: Overall, 3,017 patients were enrolled in the two trials. Mean age was 63 years, 49% were female, and 83% were non-Hispanic white. Among these individuals, 2,692 (89%) agreed to participate in at least one biospecimen study, and 2,577 (85%) agreed to studies requiring future biospecimen collection. In multivariable logistic regression, compared to non-Hispanic white patients, other patients were less likely to agree to participate: OR 0.59 (95% CI, 0.45-0.79; P < 0.001) for any biospecimen study; OR 0.62 (95% CI, 0.48-0.80; P < 0.001) for studies requiring future biospecimen collection. Women and patients treated outside main academic institutions (e.g., affiliates, community sites) were also less likely to participate.\n\nCONCLUSIONS: Among patients enrolled in lung cancer clinical trials, women, racial and ethnic minorities, and patients treated outside major academic centers are less likely to participate in optional biospecimen studies. Because some of these populations may already be under-represented in trial populations, this pattern may exacerbate disparities in translational and clinical research.\n\nTRIAL REGISTRATION: NCT00324805, NCT01107626."
-    },
-    {
-      "pmid": "41654519",
-      "doi": "10.1038/s41467-026-69216-3",
-      "title": "Pan-RAF inhibitor exarafenib targets BRAF class II/III NSCLC and reveals ARAF-KSR1 resistance and combination strategies.",
-      "journal": "Nature communications",
-      "pubdate": "2026-02-07T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41467-026-69216-3",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41654519/",
-      "url_doi": "https://doi.org/10.1038/s41467-026-69216-3",
-      "abstract": "Oncogenic BRAF mutations, including those in non-small cell lung cancer (NSCLC), are classified as Class I, II, or III. While approved therapies exist for BRAF Class I mutants, no approved therapies exist for Class II and III BRAF-mutated NSCLC. Analysis of a circulating tumor DNA database reveals Class II and III mutations comprise ~65% of BRAF-mutant NSCLC cases, with Class II patients showing worse outcomes than Class I. Exarafenib, a distinct pan-RAF inhibitor, demonstrates potent activity against BRAF Class II and III mutant preclinical models and initial clinical activity. Resistance studies reveal rewiring to an ARAF-mediated bypass pathway, characterized by RAS-mediated ARAF-KSR1 complexes maintaining MAPK signaling despite pan-RAF inhibitor treatment. RAS or MEK inhibition co-targeting is effective against this resistance mechanism. This study provides preclinical rationale for clinical testing of exarafenib in BRAF Class II/III cancers and unveils RAS-mediated ARAF-KSR1 complex formation as a resistance mechanism and rational co-therapy strategies."
     }
   ]
 }
