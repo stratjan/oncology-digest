@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-14T05:42:08.683865Z",
+  "generated": "2026-02-15T05:55:29.140575Z",
   "items": [
     {
       "pmid": "41678173",
@@ -65,7 +65,7 @@
     {
       "pmid": "41679523",
       "doi": "10.1016/j.critrevonc.2026.105205",
-      "title": "FGFR-Driven Lung Cancer: Dissecting Resistance and Exploring Therapeutic Avenues.",
+      "title": "FGFR-driven lung cancer: Dissecting resistance and exploring therapeutic avenues.",
       "journal": "Critical reviews in oncology/hematology",
       "pubdate": "2026-02-10T00:00:00+00:00",
       "pubtypes": [
@@ -167,6 +167,26 @@
       "abstract": "BACKGROUND: To investigate the preclinical characterization of dirozalkib, a novel anaplastic lymphoma kinase (ALK) inhibitor, and its safety, pharmacokinetics, and preliminary antitumor activity in advanced non-small cell lung cancer (NSCLC).\n\nMETHODS: The preclinical inhibitory effects of dirozalkib were evaluated in vitro and in vivo. The first-in-human phase I study (NCT05055232) enrolled patients with advanced NSCLC harboring ALK or ROS1 rearrangements. Participants received 50-600 mg/day dirozalkib following a 3 + 3 dose-escalation design with rapid titration, and 300-600 mg/day in the dose-expansion phase. The primary endpoint was safety.\n\nRESULTS: Dirozalkib demonstrated potent inhibition of ALK fusion-positive cell lines and common resistance mutations, and suppressed tumor growth in patient-derived and intracranial xenograft lung cancer models. No dose-limiting toxicities occurred, establishing 600 mg/day as the maximum tolerated dose. Among 114 patients enrolled, 55 (48.2 %) experienced grade ≥ 3 treatment-emergent adverse events, most commonly diarrhea (8.8 %). The objective response rate (ORR) among patients with ALK rearrangements was 47.4 % (9/19) and 46.3 % (38/82) in the dose-escalation and dose-expansion cohort (89.3 % in ALK inhibitor-naive patients receiving 500 mg/day). After a single dose of 50-600 mg dirozalkib, median time to maximum concentration ranged from 3 to 4 h. C\n\nCONCLUSIONS: Dirozalkib exhibited favorable safety, antitumor activity and pharmacokinetics in patients with advanced ALK-rearranged NSCLC. The recommended phase II dose was 500 mg/day.\n\nTRIAL REGISTRATION: Clinicaltrials.gov (NCT05055232) and Chinadrugtrials.org.cn (CTR20190984)."
     },
     {
+      "pmid": "41689406",
+      "doi": "10.1080/14796694.2025.2598216",
+      "title": "Trastuzumab deruxtecan in HER2-mutant metastatic non-small-cell lung cancer: a plain language summary of the DESTINY-Lung02 study.",
+      "journal": "Future oncology (London, England)",
+      "pubdate": "2026-02-14T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41689406/",
+      "url_doi": "https://doi.org/10.1080/14796694.2025.2598216",
+      "abstract": null
+    },
+    {
       "pmid": "41687045",
       "doi": "10.1200/JCO-25-01892",
       "title": "Medicaid Expansion and Stage at Diagnosis, Timely Initiation and Receipt of Guideline-Concordant Treatment, and Survival Among People With Non-Small Cell Lung Cancer.",
@@ -199,13 +219,73 @@
       "entity": "Other",
       "trial_type": "Review/Meta",
       "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1017/s147895152510148x",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41685630/",
       "url_doi": "https://doi.org/10.1017/S147895152510148X",
       "abstract": "OBJECTIVES: Carers of people living with breathlessness face common challenges due to the chronic, distressing and unpredictable nature of the symptom. These include unmet information and support needs resulting in worsened health and psychosocial outcomes. This review aimed to (1) identify the relative volume of studies on supportive interventions for carers of people living with breathlessness due to different respiratory diseases, (2) characterize the nature of the interventions, and (3) explore their reported effectiveness on outcomes identified by carers as being important.\n\nMETHODS: Medline and CINAHL were searched for studies reporting interventions targeting unpaid adult carers of people with breathlessness, lung cancer, chronic obstructive pulmonary disease (COPD), Interstitial Lung Diseases (ILD) published 2000-2025. Intervention characteristics and reported outcomes were extracted and compared across diagnoses and intervention categories. Our findings were shaped by consultation with unpaid carers in a series of patient and public involvement workshops.\n\nRESULTS: From 72 included interventions, three approaches were identified: Education, therapeutic support, and interventions for patient management. Interventions for lung cancer carers most frequently offered therapeutic support to the carer, while those for COPD carers most frequently focused on managing the patient. COPD and ILD carers have been underserved by research. We found few therapeutic support interventions for COPD carers. Reporting of carer demographics was poor, including among RCTs.\n\nSIGNIFICANCE OF RESULTS: There was a dominance of research focusing on carers of people with lung cancer (56% of participants). In PPI consultations, carers identified stigma and poor communication with health providers as factors contributing to the disparity between lung cancer and other respiratory diseases. More research is needed to compare the efficacy of different intervention strategies to improve outcomes that matter most to carers. To improve equity, researchers must consistently report carer demographics and prioritize developing interventions for carers underserved by research."
+    },
+    {
+      "pmid": "41690367",
+      "doi": "10.1016/j.jtho.2026.103610",
+      "title": "TTF-1 expression in lung adenocarcinoma: clinicopathologic, genomic, and immunophenotypic correlates and outcomes to immunotherapy-based treatments and KRAS(G12C) inhibitors.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2026-02-12T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41690367/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103610",
+      "abstract": "BACKGROUND: Thyroid transcription factor-1 (TTF-1) expression, routinely assessed through immunohistochemistry (IHC) in the diagnostic evaluation of lung adenocarcinomas (LUAD), is negative (TTF-1\n\nMETHODS: Patients with LUAD and available TTF-1 IHC from five institutions, The Cancer Genome Atlas, the Stand Up To Cancer-Mark Foundation, and the POPLAR/OAK datasets were included. Features and outcomes were analyzed according to TTF-1 expression.\n\nRESULTS: Among 3,297 patients, TTF-1\n\nCONCLUSIONS: TTF-1 negativity identifies a subset of LUAD with worse outcomes to immunotherapy, chemo-immunotherapy, and KRAS"
+    },
+    {
+      "pmid": "41690366",
+      "doi": "10.1016/j.jtho.2026.103609",
+      "title": "Four-Year outcomes of first-line Nivolumab plus ipilimumab for 6 months versus continuation in patients with advanced non-small-cell lung cancer Results of the randomized IFCT-1701 \"DICIPLE\" Phase III trial.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2026-02-12T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Phase III",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41690366/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103609",
+      "abstract": "INTRODUCTION: Optimal first-line immunotherapy duration in metastatic non-small-cell-lung cancer (mNSCLC) with controlled disease remains unclear. We evaluated 6-month nivolumab-ipilimumab (IO) in patients with disease control (DC).\n\nMETHODS: This randomized, open label, non-inferiority trial enrolled treatment-naïve mNSCLC patients (aged 18-75, Estern Cooperative Oncology Group (ECOG) performance status 0-1, no actionable genomic alterations). After six-month induction treatment with nivolumab (3mg/kg biweekly) plus ipilimumab (1mg/kg every six weeks), patients with DC were randomized to continue treatment or stop and resume at disease progression. The primary outcome was progression-free survival (PFS).\n\nRESULTS: Among 265 patients enrolled, 71 were randomized to the continuation control arm (n=36) or to the experimental arm (n=35), with trial premature interruption due to the lack of European filing for the immunotherapy combination. Median PFS follow-up was 47·8 months 95%CI [43·1-51·0]. In the per-protocol population, median PFS was 18·7 months (95%CI [7·1-37·1]) in the continuation arm vs. not reached (NR) (95%CI [16·1-NR]) in the experimental arm. Median OS was 55·5 months, 95%CI [32·4-NR] in the continuation arm vs. NR in the experimental group. 18-month OS was 80·6% (95%CI [63·5-90·2]) and 93·8% (95%CI [77·3-98·4]), respectively. Grade 3-5 treatment-related adverse events rates were higher in the continuation arm (54·3 vs. 23·5%). Median time until definitive QoL deterioration was 15·5 months (95%CI [10·0-NR]) for the continuation arm, but NR in the experimental arm (HR=0·36, 95%CI [0·14-0·92], p=0·03).\n\nCONCLUSION: Stopping IO combination at 6 months in DC patients showed no survival harm at 4 years, reduced severe irAEs, and delayed QoL deterioration."
+    },
+    {
+      "pmid": "41689890",
+      "doi": "10.1016/j.lungcan.2026.109315",
+      "title": "Altered bacteriome and mycobiome in small cell lung cancer: insights from microbial profiling.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-11T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lungcan.2026.109315",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41689890/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109315",
+      "abstract": "BACKGROUND: The tumor-associated microbiome influences cancer development and progression, yet the microbial landscape of small cell lung cancer (SCLC) remains unexplored. Given the absence of SCLC-specific microbiome studies, we conducted an exploratory analysis to describe the bacterial and fungal communities present in SCLC tissue.\n\nRESULTS: Using 16S rRNA sequencing, we profiled the bacteriome of lung specimens from SCLC and control cases and observed increased bacterial signal and reduced bacterial diversity in SCLC, accompanied by relative enrichment of Firmicutes and Bacteroidota. Actinobacteria were comparatively underrepresented, resulting in a higher Proteobacteria-to-Actinobacteria ratio, although this difference did not reach statistical significance. At the genus level, SCLC samples were dominated by Pseudomonas, Streptococcus, Haemophilus, and Granulicatella, which together accounted for approximately half of the bacterial community. As a secondary, hypothesis-generating analysis, we examined the mycobiome using ITS sequencing and detected the unexpected presence of the biotrophic plant-pathogenic genus Taphrina in a subset (25%) of SCLC samples. Given the methodological constraints and contamination risks inherent to low-biomass FFPE tissues, this fungal signal is interpreted cautiously and framed strictly as preliminary.\n\nCONCLUSIONS: This study provides the first descriptive characterization of the lung bacteriome and mycobiome in SCLC using FFPE tissue. The observed alterations in microbial composition, including an unexpected fungal signal, offer hypothesis-generating insights that require validation in larger, prospectively collected cohorts incorporating more comprehensive contamination-control strategies."
     },
     {
       "pmid": "41671081",
@@ -226,6 +306,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671081/",
       "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2173",
       "abstract": "PURPOSE: Tislelizumab, an anti-programmed cell death protein-1 monoclonal antibody, is approved for various indications intravenously. Subcutaneous delivery offers potential advantages in convenience and resource utilization. BGB-A317-103 assessed pharmacokinetics, safety, and efficacy of subcutaneous tislelizumab in treatment-naïve patients with advanced or metastatic non-small cell lung cancer.\n\nPATIENTS AND METHODS: BGB-A317-103 is an open-label, multicenter, phase I study. In Part 1 (dose/injection site exploration), patients received subcutaneous tislelizumab (abdomen or thigh injections; 300 mg) in 2 of the first 3 cycles and intravenous tislelizumab (200 mg) in the remaining cycle, followed by intravenous tislelizumab thereafter. In Part 2 (dose expansion), patients received 300 mg of subcutaneous tislelizumab in the thigh in all cycles. Both parts included chemotherapy during the first 4 to 6 cycles. Pharmacokinetics, bioavailability, efficacy, immunogenicity, and safety were assessed.\n\nRESULTS: At data cutoff (December 6, 2024), in Part 1 (N = 39), subcutaneous administration yielded higher trough concentrations than intravenous (geometric means: 23.1 μg/mL [thigh], 19.5 μg/mL [abdomen], and 14.8 μg/mL [intravenously]). Estimated bioavailability was 85.6% (thigh) and 72.4% (abdomen). In Part 2 (N = 22), subcutaneous tislelizumab in the thigh showed consistent pharmacokinetics with Part 1. Preliminary analysis showed overall response rate of 44.4%; median duration of response and median progression-free survival were not reached. Tislelizumab's safety profile was consistent with previous studies, with no new signals or injection-site reactions.\n\nCONCLUSIONS: Subcutaneous tislelizumab demonstrated high bioavailability after thigh and abdomen injections. Safety and efficacy were consistent with previous tislelizumab plus chemotherapy studies, warranting further investigation of subcutaneous tislelizumab."
+    },
+    {
+      "pmid": "41687324",
+      "doi": "10.1016/j.lungcan.2026.109317",
+      "title": "Broadening clinical trial inclusivity of patients with lung cancer and brain metastases utilizing the Graded Prognostic Assessment (GPA): A call to action.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-10T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41687324/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109317",
+      "abstract": "Brain metastases (BM) occur in 30-50% of non-small cell lung cancer (NSCLC) and up to 80% of small cell lung cancer (SCLC) patients, yet historically over 80% of clinical trials excluded this population. Current eligibility requirements often mandate completion of radiation therapy with prolonged washout periods, delaying systemic therapy initiation and limiting trial generalizability. Despite recommendations from ASCO-Friends of Cancer Research and FDA guidance, only 11.4% of lung cancer trials include patients with active, untreated BM. We propose incorporating the Graded Prognostic Assessment (GPA) to standardize and broaden clinical trial enrollment. The 2022 Lung GPA, validated in 4,183 patients, incorporates age, Karnofsky Performance Status, extracranial metastases, number of BM, and molecular markers (EGFR, ALK, PD-L1 for NSCLC). The GPA-based Eligibility Quotient (EQ) uses conditional probability to determine trial eligibility for patients with previously treated BM. We recommend including patients with GPA-predicted median survival ≥ 12 months or EQ ≥ 0.50. For asymptomatic, untreated BM, enrollment should be permitted with protocol-specified CNS imaging at 4-6-week intervals, reserving radiation for progression or inadequate response. Trials should stratify by GPA category, specify RANO-BM or modified RECIST criteria prospectively, and report both full analysis sets and evaluable CNS disease subsets. This evidence-based framework ensures patients with BM gain timely access to potentially life-extending therapies while maintaining trial integrity."
     },
     {
       "pmid": "41499719",
@@ -267,46 +367,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41672197/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2026.103607",
       "abstract": "INTRODUCTION: Acquired resistance to third-generation epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) is a major challenge in non-small cell lung cancer (NSCLC), with ∼50% of cases lacking precise resistance mechanisms. This study investigates the immunosuppressive tumor microenvironment (TME) driving resistance and develops a novel triple-combination therapy to restore T-cell anti-tumor activity.\n\nMETHODS: scRNA-seq and multicolor fluorescence staining were performed on NSCLC patient samples to analyze TME changes post-EGFR-TKI resistance. A triple therapy combining BC3448 (EGFR/CD3 BiTE), Tucidinostat (HDAC inhibitor), and WBP3425 (4-1BB agonist) was tested using in vitro co-culture assays, syngeneic cell-derived xenograft (CDX) models in humanized NOG-EXL mice, and multi-omics analyses.\n\nRESULTS: scRNA-seq revealed reduced T-cell infiltration/activation and increased immunosuppressive myeloid cells in resistant NSCLC. BC3448 monotherapy activated T-cells and induced tumor cell apoptosis in vitro, but was limited in vivo due to myeloid-driven immunosuppression. The triple therapy significantly enhanced tumor regression in osimertinib-resistant models (tumor growth inhibition >70%, p<0.001), promoted CD8+ effector T-cell differentiation, and suppressed Tregs/M2 macrophages. CD40/CD40L axis activation between T cells and monocyte-derived macrophages was critical for TME remodeling, with spatial profiling showing increased CD40L+ T cell and CD40+ macrophage proximity, correlating with higher IFN-γ and reduced angiogenesis. A durable response to BC3448 monotherapy was observed in an immunotherapy-resistant NSCLC patient (>2 years of stable disease), presenting a translational potential of this approach.\n\nCONCLUSION: This study establishes a novel triple therapy that overcomes the limitations of BiTEs in cold and immunosuppressive TMEs and provides an immunomodulatory approach to addressing third-generation EGFR-TKI resistance."
-    },
-    {
-      "pmid": "41671908",
-      "doi": "10.1016/j.lungcan.2026.109312",
-      "title": "Validity and responsiveness of patient-reported outcomes common terminology criteria for adverse events (PRO-CTCAE) among Italian lung cancer patients.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-08T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671908/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109312",
-      "abstract": "BACKGROUND: Patient-reported symptom monitoring may improve the outcomes of cancer treatment. Knowledge of psychometric properties may drive the selection of optimal tools. Here we report the analysis of PRO-CTCAE in Italian lung cancer patients.\n\nMETHODS: A PRO-CTCAE list (74 items, 44 symptoms) was administered to on-treatment patients at registration (visit 1) and after 2-6 weeks (visit 2). Convergent validity with EORTC LC-13 and Hospital Anxiety and Depression Scale (HADS) was assessed by Pearson correlation. Known-group validity and responsiveness were tested with ECOG performance status (PS 0 vs 1) and Patients' Global Impression of Change (PGIC) scale as anchors, respectively.\n\nRESULTS: From September 2019 to November 2022, 186 patients filled PRO-CTCAE at visit 1 and 164 at visit 2. Median age (IQR) was 66.4 (60.9 - 73.1) years; 58.6% were male; 68.0% had PS 0. Convergent validity showed high correlation (r ≥ 0.50) of PRO-CTCAE hair loss (r = 0.78), dyspnoea (0.63), limb numbness (0.63), cough (0.58) and pain (0.51) with selected LC-13 anchors. PRO-CTCAE anxiety, depression and sadness highly correlated with HADS. For known-group validity, small to medium correlations were found for oral, cutaneous and respiratory toxicity, fatigue, appetite loss, insomnia and depression, that were worse for PS 1; limb swelling and pain were worse in PS 0. Responsiveness analysis at visit 2 found some PRO-CTCAE score changes consistently and directly correlated with impression of change measured with PGIC.\n\nCONCLUSIONS: These results support the use of selected PRO-CTCAE items for lung cancer patients as a reliable tool for detection of treatment related toxicities."
-    },
-    {
-      "pmid": "41671905",
-      "doi": "10.1016/j.lungcan.2026.109310",
-      "title": "Phase I study of amrubicin plus cisplatin and concurrent accelerated hyperfractionated thoracic radiotherapy for limited-stage small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-08T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671905/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109310",
-      "abstract": "BACKGROUND: Etoposide plus cisplatin (EP) with concurrent accelerated hyperfractionated thoracic radiotherapy (AHTRT) remains the standard treatment for unresectable limited-stage (LS) small cell lung cancer (SCLC)) for over two decades. Our previous study demonstrated that amrubicin plus cisplatin (AP) with once-daily thoracic radiotherapy (50 Gy per 25 fractions) for LS-SCLC prolonged overall survival (OS) to 39.5 months with manageable toxicities. To enhance therapeutic efficacy, this study aimed to assess the feasibility of AP combined with AHTRT for LS-SCLC.\n\nMETHODS: Treatment-naïve patients aged 20-75 years with LS-SCLC, performance status 0-1, and adequate organ function were enrolled. Chemotherapy consisted of cisplatin 60 mg/m\n\nRESULTS: Nine patients were enrolled in this study. Dose-limiting toxicities included Grade 3 febrile neutropenia and Grade 3 hypokalemia. The recommended and maximum tolerated dose of amrubicin was 25 mg/m\n\nCONCLUSION: AP combined with AHTRT from the first chemotherapy cycle was well tolerated at the recommended amrubicin dose of 25 mg/m"
     }
   ]
 }
