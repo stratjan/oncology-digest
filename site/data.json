@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-16T06:04:38.207638Z",
+  "generated": "2026-02-17T05:55:41.833937Z",
   "items": [
     {
       "pmid": "41678173",
@@ -43,27 +43,6 @@
       "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
     },
     {
-      "pmid": "41679523",
-      "doi": "10.1016/j.critrevonc.2026.105205",
-      "title": "FGFR-driven lung cancer: Dissecting resistance and exploring therapeutic avenues.",
-      "journal": "Critical reviews in oncology/hematology",
-      "pubdate": "2026-02-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 1.82,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41679523/",
-      "url_doi": "https://doi.org/10.1016/j.critrevonc.2026.105205",
-      "abstract": "Fibroblast growth factor receptors (FGFRs) are significant oncogenic contributors in lung cancer. The clinical development of FGFR-directed agents represents a promising advancement in precision oncology. However, their efficacy is substantially limited by the emergence of diverse resistance mechanisms. This review summarizes FGFR biology, genomic alterations, and signaling pathways in tumorigenesis. Nonselective tyrosine kinase inhibitors and selective FGFR inhibitors (including pan-FGFR and isoform-specific agents) have shown clinical activity in patients with FGFR-altered lung cancer. Moreover, resistance mechanisms, such as secondary FGFR mutations, bypass signaling, tumor microenvironment (TME) remodeling, and phenotypic switching, are discussed. Innovative approaches, including the second-generation FGFR TKIs, monoclonal antibodies (mAbs), FGF traps, antibody-drug conjugates, and synergistic combinations with immunotherapy or other receptor tyrosine kinase (RTK) inhibitors, are discussed to overcome resistance. Overall, this review offers theoretical insights and proposes strategies to tackle resistance to FGFR-directed treatments in lung cancer."
-    },
-    {
       "pmid": "41616709",
       "doi": "10.1016/j.compbiomed.2026.111501",
       "title": "Influence of CT harmonization in longitudinal radiomics for NSCLC immunotherapy response prediction.",
@@ -83,6 +62,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41616709/",
       "url_doi": "https://doi.org/10.1016/j.compbiomed.2026.111501",
       "abstract": "This study investigates the variability of radiomic features in longitudinal CT scans from a multi-institutional NSCLC cohort and introduces a harmonization pipeline to improve predictive modeling of immunotherapy response. Baseline and follow-up CT scans from NSCLC patients treated with anti-PD-1/PD-L1 agents were analyzed, with two institutions combined for model training and internal testing, and a third institution serving as an external test set. To address variability from imaging parameters-such as scanner manufacturer, slice thickness, and noise-we applied image harmonization followed by feature harmonization using NestedComBat. This approach substantially reduced feature dependence on acquisition confounders (from 78.8% to 12.8%) and improved feature robustness across institutions. We further assessed the temporal consistency of radiomic features across longitudinal scans using the intraclass correlation coefficient (ICC). Image harmonization yielded the largest gains in stability (mean ΔICC = +0.021, p < 0.001), while the combined approach also enhanced longitudinal reliability (ΔICC = +0.014, p < 0.001). Finally, harmonization improved predictive performance for 6-month immunotherapy response, increasing the AUC from 0.695 to 0.768 in the internal test and from 0.692 to 0.802 in the external test. These results demonstrate that combining image- and feature-level harmonization enhances the robustness and temporal consistency of radiomic features, potentially supporting more reliable and generalizable predictive modeling across diverse datasets and clinical settings."
+    },
+    {
+      "pmid": "41697515",
+      "doi": "10.1007/s12325-025-03488-x",
+      "title": "Treatment Patterns and Clinical Outcomes in Unresectable Stage III EGFR-Mutated Non-Small Cell Lung Cancer in China.",
+      "journal": "Advances in therapy",
+      "pubdate": "2026-02-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 1.236,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41697515/",
+      "url_doi": "https://doi.org/10.1007/s12325-025-03488-x",
+      "abstract": "INTRODUCTION: Following the LAURA study (NCT03521154), the third-generation epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) osimertinib was approved for unresectable stage III EGFR-mutated non-small cell lung cancer (NSCLC) after chemoradiotherapy. To inform clinical decision-making, we report real-world (rw) treatment patterns and outcomes in Chinese patients with unresectable stage III EGFR-mutated NSCLC who underwent chemoradiotherapy.\n\nMETHODS: Data were retrospectively extracted from the China Multicentre Lung Cancer Precision Medicine Registry medical records of adults with unresectable stage III EGFR-mutated (exon 19 deletion [Ex19del]/leucine-to-arginine substitution at position 858 [L858R]) NSCLC (diagnosed Jan 2016-Dec 2019) who received standard-of-care chemoradiotherapy. The primary outcome was rw progression-free survival (rwPFS) and secondary outcomes were mutation testing patterns, treatment sequencing post-diagnosis, and rw time-to-next treatment or death (rwTTNTD).\n\nRESULTS: Of 51 patients, 65%/33% had Ex19del/L858R mutations. As first treatment, 31 patients (61%) received chemoradiotherapy plus EGFR-TKI (mainly first-generation) and 20 (39%) chemoradiotherapy alone. Of 34 (67%) patients who received first-subsequent treatment, most were given EGFR-TKI (88%). In patients who received chemoradiotherapy plus EGFR-TKIs (first-generation) or chemoradiotherapy alone, median (95% confidence interval) rwPFS/rwTTNTD was 22.6 (14.2-34.6)/25.0 (21.5-44.7) or 12.2 (10.5-not estimable)/13.6 (10.5-not estimable) months, respectively.\n\nCONCLUSION: These rw results show that while first-generation EGFR-TKIs are associated with numerically longer rwPFS and rwTTNTD relative to chemoradiotherapy alone in Chinese patients with unresectable stage III EGFR-mutated NSCLC, there remains an unmet need to prolong survival."
     },
     {
       "pmid": "41593906",
@@ -673,47 +672,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671081/",
       "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2173",
       "abstract": "PURPOSE: Tislelizumab, an anti-programmed cell death protein-1 monoclonal antibody, is approved for various indications intravenously. Subcutaneous delivery offers potential advantages in convenience and resource utilization. BGB-A317-103 assessed pharmacokinetics, safety, and efficacy of subcutaneous tislelizumab in treatment-naïve patients with advanced or metastatic non-small cell lung cancer.\n\nPATIENTS AND METHODS: BGB-A317-103 is an open-label, multicenter, phase I study. In Part 1 (dose/injection site exploration), patients received subcutaneous tislelizumab (abdomen or thigh injections; 300 mg) in 2 of the first 3 cycles and intravenous tislelizumab (200 mg) in the remaining cycle, followed by intravenous tislelizumab thereafter. In Part 2 (dose expansion), patients received 300 mg of subcutaneous tislelizumab in the thigh in all cycles. Both parts included chemotherapy during the first 4 to 6 cycles. Pharmacokinetics, bioavailability, efficacy, immunogenicity, and safety were assessed.\n\nRESULTS: At data cutoff (December 6, 2024), in Part 1 (N = 39), subcutaneous administration yielded higher trough concentrations than intravenous (geometric means: 23.1 μg/mL [thigh], 19.5 μg/mL [abdomen], and 14.8 μg/mL [intravenously]). Estimated bioavailability was 85.6% (thigh) and 72.4% (abdomen). In Part 2 (N = 22), subcutaneous tislelizumab in the thigh showed consistent pharmacokinetics with Part 1. Preliminary analysis showed overall response rate of 44.4%; median duration of response and median progression-free survival were not reached. Tislelizumab's safety profile was consistent with previous studies, with no new signals or injection-site reactions.\n\nCONCLUSIONS: Subcutaneous tislelizumab demonstrated high bioavailability after thigh and abdomen injections. Safety and efficacy were consistent with previous tislelizumab plus chemotherapy studies, warranting further investigation of subcutaneous tislelizumab."
-    },
-    {
-      "pmid": "41687324",
-      "doi": "10.1016/j.lungcan.2026.109317",
-      "title": "Broadening clinical trial inclusivity of patients with lung cancer and brain metastases utilizing the Graded Prognostic Assessment (GPA): A call to action.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41687324/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109317",
-      "abstract": "Brain metastases (BM) occur in 30-50% of non-small cell lung cancer (NSCLC) and up to 80% of small cell lung cancer (SCLC) patients, yet historically over 80% of clinical trials excluded this population. Current eligibility requirements often mandate completion of radiation therapy with prolonged washout periods, delaying systemic therapy initiation and limiting trial generalizability. Despite recommendations from ASCO-Friends of Cancer Research and FDA guidance, only 11.4% of lung cancer trials include patients with active, untreated BM. We propose incorporating the Graded Prognostic Assessment (GPA) to standardize and broaden clinical trial enrollment. The 2022 Lung GPA, validated in 4,183 patients, incorporates age, Karnofsky Performance Status, extracranial metastases, number of BM, and molecular markers (EGFR, ALK, PD-L1 for NSCLC). The GPA-based Eligibility Quotient (EQ) uses conditional probability to determine trial eligibility for patients with previously treated BM. We recommend including patients with GPA-predicted median survival ≥ 12 months or EQ ≥ 0.50. For asymptomatic, untreated BM, enrollment should be permitted with protocol-specified CNS imaging at 4-6-week intervals, reserving radiation for progression or inadequate response. Trials should stratify by GPA category, specify RANO-BM or modified RECIST criteria prospectively, and report both full analysis sets and evaluable CNS disease subsets. This evidence-based framework ensures patients with BM gain timely access to potentially life-extending therapies while maintaining trial integrity."
-    },
-    {
-      "pmid": "41499719",
-      "doi": "10.1200/JCO-25-03012",
-      "title": "Erratum: Simultaneous Durvalumab and Platinum-Based Chemoradiotherapy in Unresectable Stage III Non-Small Cell Lung Cancer: The Phase III PACIFIC-2 Study.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-02-10T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Published Erratum"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Phase III",
-      "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41499719/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-03012",
-      "abstract": null
     }
   ]
 }
