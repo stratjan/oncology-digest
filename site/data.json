@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-17T05:55:41.833937Z",
+  "generated": "2026-02-18T05:59:40.280166Z",
   "items": [
     {
       "pmid": "41678173",
@@ -75,8 +75,8 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s12325-025-03488-x.pdf",
       "metric_name": "SJR",
       "metric_value": 1.236,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41697515/",
@@ -513,6 +513,27 @@
       "abstract": "BACKGROUND: To investigate the preclinical characterization of dirozalkib, a novel anaplastic lymphoma kinase (ALK) inhibitor, and its safety, pharmacokinetics, and preliminary antitumor activity in advanced non-small cell lung cancer (NSCLC).\n\nMETHODS: The preclinical inhibitory effects of dirozalkib were evaluated in vitro and in vivo. The first-in-human phase I study (NCT05055232) enrolled patients with advanced NSCLC harboring ALK or ROS1 rearrangements. Participants received 50-600 mg/day dirozalkib following a 3 + 3 dose-escalation design with rapid titration, and 300-600 mg/day in the dose-expansion phase. The primary endpoint was safety.\n\nRESULTS: Dirozalkib demonstrated potent inhibition of ALK fusion-positive cell lines and common resistance mutations, and suppressed tumor growth in patient-derived and intracranial xenograft lung cancer models. No dose-limiting toxicities occurred, establishing 600 mg/day as the maximum tolerated dose. Among 114 patients enrolled, 55 (48.2 %) experienced grade ≥ 3 treatment-emergent adverse events, most commonly diarrhea (8.8 %). The objective response rate (ORR) among patients with ALK rearrangements was 47.4 % (9/19) and 46.3 % (38/82) in the dose-escalation and dose-expansion cohort (89.3 % in ALK inhibitor-naive patients receiving 500 mg/day). After a single dose of 50-600 mg dirozalkib, median time to maximum concentration ranged from 3 to 4 h. C\n\nCONCLUSIONS: Dirozalkib exhibited favorable safety, antitumor activity and pharmacokinetics in patients with advanced ALK-rearranged NSCLC. The recommended phase II dose was 500 mg/day.\n\nTRIAL REGISTRATION: Clinicaltrials.gov (NCT05055232) and Chinadrugtrials.org.cn (CTR20190984)."
     },
     {
+      "pmid": "41537692",
+      "doi": "10.1158/1078-0432.CCR-25-2958",
+      "title": "Minimal Residual Disease Enhances Prognostic Stratification beyond Pathologic Response in Resectable Non-Small Cell Lung Cancer.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2026-02-17T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "RCT",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-25-2958/3724125/ccr-25-2958.pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41537692/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2958",
+      "abstract": "PURPOSE: Perioperative chemoimmunotherapy is the standard of care for resectable, locally advanced non-small cell lung cancer (NSCLC). Although pathologic complete response (pCR) correlates with excellent survival outcomes, some patients without pCR still exhibit long-term survival. In this study, we evaluate the added value of minimal residual disease (MRD).\n\nEXPERIMENTAL DESIGN: MRD was assessed in 60 patients from the NADIM II trial (NCT03838159) using the Guardant Reveal assay. In NADIM II, patients with NSCLC without EGFR or ALK alterations were randomly assigned to receive neoadjuvant nivolumab plus chemotherapy (experimental arm) or chemotherapy alone, followed by surgery. Patients in the experimental arm with R0 resection received adjuvant nivolumab.\n\nRESULTS: The MRD detection rate was 9.6%. MRD after surgery or during adjuvant treatment was associated with inferior event-free survival (EFS) and overall survival [OS; hazard ratio (HR): 10.2; 95% confidence interval (CI), 3.7-28.3 and HR: 10.0; 95% CI, 2.0-49.9, respectively]. All patients with MRD-negative plasma samples in at least two time points were alive [HR: not estimable (NE), P < 0.001], with only one relapse (HR: 41.6; 95% CI, 5.0-348.8), corresponding to a patient relapsing with a single brain metastasis. MRD enhanced the prognostic value of pCR for both EFS (P < 0.001) and OS (P = 0.015). Among non-pCR patients, MRD remained a significant prognostic marker (HR: 6.2; 95% CI, 2.2-17.1 and HR: 6.5; 95% CI, 1.3-32.5, for EFS and OS respectively). All non-pCR patients with MRD-negative results in at least two time points were alive (HR: NE, P = 0.025), with one relapse (HR: 19.9; 95% CI, 2.4-165.6), corresponding to the aforementioned case.\n\nCONCLUSIONS: MRD may refine prognostic evaluation beyond pCR in resectable NSCLC undergoing perioperative chemoimmunotherapy."
+    },
+    {
       "pmid": "41689406",
       "doi": "10.1080/14796694.2025.2598216",
       "title": "Trastuzumab deruxtecan in HER2-mutant metastatic non-small-cell lung cancer: a plain language summary of the DESTINY-Lung02 study.",
@@ -632,46 +653,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41690366/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2026.103609",
       "abstract": "INTRODUCTION: Optimal first-line immunotherapy duration in metastatic non-small-cell-lung cancer (mNSCLC) with controlled disease remains unclear. We evaluated 6-month nivolumab-ipilimumab (IO) in patients with disease control (DC).\n\nMETHODS: This randomized, open label, non-inferiority trial enrolled treatment-naïve mNSCLC patients (aged 18-75, Estern Cooperative Oncology Group (ECOG) performance status 0-1, no actionable genomic alterations). After six-month induction treatment with nivolumab (3mg/kg biweekly) plus ipilimumab (1mg/kg every six weeks), patients with DC were randomized to continue treatment or stop and resume at disease progression. The primary outcome was progression-free survival (PFS).\n\nRESULTS: Among 265 patients enrolled, 71 were randomized to the continuation control arm (n=36) or to the experimental arm (n=35), with trial premature interruption due to the lack of European filing for the immunotherapy combination. Median PFS follow-up was 47·8 months 95%CI [43·1-51·0]. In the per-protocol population, median PFS was 18·7 months (95%CI [7·1-37·1]) in the continuation arm vs. not reached (NR) (95%CI [16·1-NR]) in the experimental arm. Median OS was 55·5 months, 95%CI [32·4-NR] in the continuation arm vs. NR in the experimental group. 18-month OS was 80·6% (95%CI [63·5-90·2]) and 93·8% (95%CI [77·3-98·4]), respectively. Grade 3-5 treatment-related adverse events rates were higher in the continuation arm (54·3 vs. 23·5%). Median time until definitive QoL deterioration was 15·5 months (95%CI [10·0-NR]) for the continuation arm, but NR in the experimental arm (HR=0·36, 95%CI [0·14-0·92], p=0·03).\n\nCONCLUSION: Stopping IO combination at 6 months in DC patients showed no survival harm at 4 years, reduced severe irAEs, and delayed QoL deterioration."
-    },
-    {
-      "pmid": "41689890",
-      "doi": "10.1016/j.lungcan.2026.109315",
-      "title": "Altered bacteriome and mycobiome in small cell lung cancer: insights from microbial profiling.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-11T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "SCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2026.109315",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41689890/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109315",
-      "abstract": "BACKGROUND: The tumor-associated microbiome influences cancer development and progression, yet the microbial landscape of small cell lung cancer (SCLC) remains unexplored. Given the absence of SCLC-specific microbiome studies, we conducted an exploratory analysis to describe the bacterial and fungal communities present in SCLC tissue.\n\nRESULTS: Using 16S rRNA sequencing, we profiled the bacteriome of lung specimens from SCLC and control cases and observed increased bacterial signal and reduced bacterial diversity in SCLC, accompanied by relative enrichment of Firmicutes and Bacteroidota. Actinobacteria were comparatively underrepresented, resulting in a higher Proteobacteria-to-Actinobacteria ratio, although this difference did not reach statistical significance. At the genus level, SCLC samples were dominated by Pseudomonas, Streptococcus, Haemophilus, and Granulicatella, which together accounted for approximately half of the bacterial community. As a secondary, hypothesis-generating analysis, we examined the mycobiome using ITS sequencing and detected the unexpected presence of the biotrophic plant-pathogenic genus Taphrina in a subset (25%) of SCLC samples. Given the methodological constraints and contamination risks inherent to low-biomass FFPE tissues, this fungal signal is interpreted cautiously and framed strictly as preliminary.\n\nCONCLUSIONS: This study provides the first descriptive characterization of the lung bacteriome and mycobiome in SCLC using FFPE tissue. The observed alterations in microbial composition, including an unexpected fungal signal, offer hypothesis-generating insights that require validation in larger, prospectively collected cohorts incorporating more comprehensive contamination-control strategies."
-    },
-    {
-      "pmid": "41671081",
-      "doi": "10.1158/1078-0432.CCR-25-2173",
-      "title": "Subcutaneously Administered Tislelizumab in Locally Advanced or Metastatic Non-Small Cell Lung Cancer: Pharmacokinetics and Safety Results from the BGB-A317-103 Phase I Study.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "pubdate": "2026-02-11T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-25-2173/3737508/ccr-25-2173.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671081/",
-      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2173",
-      "abstract": "PURPOSE: Tislelizumab, an anti-programmed cell death protein-1 monoclonal antibody, is approved for various indications intravenously. Subcutaneous delivery offers potential advantages in convenience and resource utilization. BGB-A317-103 assessed pharmacokinetics, safety, and efficacy of subcutaneous tislelizumab in treatment-naïve patients with advanced or metastatic non-small cell lung cancer.\n\nPATIENTS AND METHODS: BGB-A317-103 is an open-label, multicenter, phase I study. In Part 1 (dose/injection site exploration), patients received subcutaneous tislelizumab (abdomen or thigh injections; 300 mg) in 2 of the first 3 cycles and intravenous tislelizumab (200 mg) in the remaining cycle, followed by intravenous tislelizumab thereafter. In Part 2 (dose expansion), patients received 300 mg of subcutaneous tislelizumab in the thigh in all cycles. Both parts included chemotherapy during the first 4 to 6 cycles. Pharmacokinetics, bioavailability, efficacy, immunogenicity, and safety were assessed.\n\nRESULTS: At data cutoff (December 6, 2024), in Part 1 (N = 39), subcutaneous administration yielded higher trough concentrations than intravenous (geometric means: 23.1 μg/mL [thigh], 19.5 μg/mL [abdomen], and 14.8 μg/mL [intravenously]). Estimated bioavailability was 85.6% (thigh) and 72.4% (abdomen). In Part 2 (N = 22), subcutaneous tislelizumab in the thigh showed consistent pharmacokinetics with Part 1. Preliminary analysis showed overall response rate of 44.4%; median duration of response and median progression-free survival were not reached. Tislelizumab's safety profile was consistent with previous studies, with no new signals or injection-site reactions.\n\nCONCLUSIONS: Subcutaneous tislelizumab demonstrated high bioavailability after thigh and abdomen injections. Safety and efficacy were consistent with previous tislelizumab plus chemotherapy studies, warranting further investigation of subcutaneous tislelizumab."
     }
   ]
 }
