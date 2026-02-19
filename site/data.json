@@ -1,26 +1,6 @@
 {
-  "generated": "2026-02-18T05:59:40.280166Z",
+  "generated": "2026-02-19T05:56:39.829929Z",
   "items": [
-    {
-      "pmid": "41678173",
-      "doi": "10.1001/jamaoncol.2025.6430",
-      "title": "Ancestry-Associated Performance Variability of Open-Source AI Models for EGFR Prediction in Lung Cancer.",
-      "journal": "JAMA oncology",
-      "pubdate": "2026-02-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2844908/jamaoncology_rakaee_2026_br_250011_1770226526.41753.pdf",
-      "metric_name": "SJR",
-      "metric_value": 8.377,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41678173/",
-      "url_doi": "https://doi.org/10.1001/jamaoncol.2025.6430",
-      "abstract": "IMPORTANCE: Artificial intelligence (AI) models are emerging as rapid, low-cost tools for predicting targetable genomic alterations directly from routine pathology slides. Although these approaches could accelerate treatment decisions in lung cancer, little is known about whether their performance is consistent across diverse patient populations and tissue contexts.\n\nOBJECTIVE: To evaluate the performance and generalizability of 2 open-source AI pathology models for predicting EGFR mutation status in lung adenocarcinoma (LUAD) across independent cohorts and ancestral subgroups.\n\nDESIGN, SETTING, AND PARTICIPANTS: This cohort study included patients with LUAD from 2 cohorts: Dana-Farber Cancer Institute (DFCI) from June 2013 to November 2023, and a European-based trial (TNM-I) from August 2016 to February 2022. All patients had paired next-generation sequencing data and hematoxylin-eosin-stained whole-slide images. In the DFCI cohort, genetic ancestry was inferred using germline genotype data. Data analyses were performed from July 2025 to September 2025.\n\nMAIN OUTCOMES: The primary outcome was model performance for predicting EGFR mutation status, measured as the area under the receiver operating characteristic curve (AUC), evaluated overall and across ancestry subgroups and sample types.\n\nRESULTS: Overall, 2098 patients with LUAD were included (mean [SD] age, 66.6 [10.3] years; 1315 female individuals [63%] and 783 male individuals [37%]). In the DFCI cohort (n = 1759; 54 African, 101 American, 95 Asian, 1465 European), EGFR mutations were detected in 432 patients (25%). One AI-pathology model achieved an AUC of 0.83 (95% CI, 0.81-0.85) compared with 0.68 (95% CI, 0.65-0.70) for the other model. In the TNM-I cohort (n = 339), EGFR mutations were detected in 50 patients (15%), with AUCs of 0.81 (95% CI, 0.74-0.88) and 0.75 (95% CI, 0.68-0.83), respectively. In ancestry-stratified analyses of the DFCI cohort, AUCs for the higher-performing model were 0.84 (95% CI, 0.81-0.86) in patients of European ancestry, 0.85 (95% CI, 0.72-0.94) in African ancestry, and 0.68 (95% CI, 0.55-0.78) in Asian ancestry. In sample type analyses, performance declined in pleural (AUC, 0.66; 95% CI, 0.56-0.76) compared with lung specimens (AUC, 0.86; 95% CI, 0.83-0.88). AI-guided triage analyses showed a potential 57% reduction in rapid EGFR testing, while maintaining sensitivity of 0.84 and specificity of 0.99.\n\nCONCLUSIONS: This cohort study found that AI-based pathology tools may serve as preliminary adjuncts for EGFR prediction in lung cancer, though performance differences by ancestry warrant careful interpretation."
-    },
     {
       "pmid": "41419100",
       "doi": "10.1016/j.canlet.2025.218223",
@@ -104,6 +84,27 @@
       "abstract": "OBJECTIVE: To investigate the clinical characteristics and impact of\n\nMETHODS: A total of 2,821 patients with NSCLC who underwent next-generation sequencing were retrospectively included. The frequency and types of"
     },
     {
+      "pmid": "41640088",
+      "doi": "10.1080/14737140.2026.2623059",
+      "title": "The role of zongertinib, a highly selective tyrosine kinase inhibitor, in targeting HER2-mutant NSCLC: a bench-to-bedside review.",
+      "journal": "Expert review of anticancer therapy",
+      "pubdate": "2026-02-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.926,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41640088/",
+      "url_doi": "https://doi.org/10.1080/14737140.2026.2623059",
+      "abstract": "INTRODUCTION: HER2 is mutated in 2-4% of non-small cell lung cancers (NSCLC) and is associated with poor prognosis. Tyrosine kinase inhibitors (TKIs) targeting HER2 have historically been hampered by insufficient efficacy against exon 20 insertion mutations and lack of specificity, resulting in off-target adverse events. Zongertinib is an oral, irreversible HER2-selective TKI that spares wild-type EGFR, thereby minimizing associated toxicities. Zongertinib was recently approved in the United States (accelerated), China (conditional), and Japan for patients with previously treated advanced\n\nAREAS COVERED: This article outlines the discovery and clinical development of zongertinib that led to these approvals. We discuss the first-in-human Beamion LUNG-1 trial (NCT04886804), in which zongertinib demonstrated encouraging and durable activity, with a manageable safety profile, in patients with\n\nEXPERT OPINION: Zongertinib is the first oral TKI approved for"
+    },
+    {
       "pmid": "41671628",
       "doi": "10.1016/j.lungcan.2026.109302",
       "title": "Amivantamab plus chemotherapy versus chemotherapy for first-line treatment of participants with EGFR exon 20 insertion-mutated advanced non-small cell lung cancer: PAPILLON Asia subgroup analysis.",
@@ -112,6 +113,7 @@
       "pubtypes": [
         "Journal Article",
         "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
         "Multicenter Study"
       ],
       "entity": "NSCLC",
@@ -176,7 +178,8 @@
       "pubtypes": [
         "Journal Article",
         "Randomized Controlled Trial",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
       ],
       "entity": "NSCLC",
       "trial_type": "RCT",
@@ -196,6 +199,7 @@
       "journal": "Lung cancer (Amsterdam, Netherlands)",
       "pubdate": "2026-03-01T00:00:00+00:00",
       "pubtypes": [
+        "Case Reports",
         "Journal Article"
       ],
       "entity": "Other",
@@ -236,7 +240,8 @@
       "journal": "Lung cancer (Amsterdam, Netherlands)",
       "pubdate": "2026-03-01T00:00:00+00:00",
       "pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Clinical Trial, Phase I"
       ],
       "entity": "Thoracic-other",
       "trial_type": null,
@@ -256,7 +261,8 @@
       "journal": "Lung cancer (Amsterdam, Netherlands)",
       "pubdate": "2026-03-01T00:00:00+00:00",
       "pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Comparative Study"
       ],
       "entity": "Thoracic-other",
       "trial_type": null,
@@ -499,6 +505,7 @@
       "pubdate": "2026-02-25T00:00:00+00:00",
       "pubtypes": [
         "Journal Article",
+        "Clinical Trial, Phase I",
         "Multicenter Study"
       ],
       "entity": "NSCLC",
@@ -581,6 +588,7 @@
       "pubdate": "2026-02-13T00:00:00+00:00",
       "pubtypes": [
         "Journal Article",
+        "Scoping Review",
         "Review"
       ],
       "entity": "Other",
@@ -593,66 +601,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41685630/",
       "url_doi": "https://doi.org/10.1017/S147895152510148X",
       "abstract": "OBJECTIVES: Carers of people living with breathlessness face common challenges due to the chronic, distressing and unpredictable nature of the symptom. These include unmet information and support needs resulting in worsened health and psychosocial outcomes. This review aimed to (1) identify the relative volume of studies on supportive interventions for carers of people living with breathlessness due to different respiratory diseases, (2) characterize the nature of the interventions, and (3) explore their reported effectiveness on outcomes identified by carers as being important.\n\nMETHODS: Medline and CINAHL were searched for studies reporting interventions targeting unpaid adult carers of people with breathlessness, lung cancer, chronic obstructive pulmonary disease (COPD), Interstitial Lung Diseases (ILD) published 2000-2025. Intervention characteristics and reported outcomes were extracted and compared across diagnoses and intervention categories. Our findings were shaped by consultation with unpaid carers in a series of patient and public involvement workshops.\n\nRESULTS: From 72 included interventions, three approaches were identified: Education, therapeutic support, and interventions for patient management. Interventions for lung cancer carers most frequently offered therapeutic support to the carer, while those for COPD carers most frequently focused on managing the patient. COPD and ILD carers have been underserved by research. We found few therapeutic support interventions for COPD carers. Reporting of carer demographics was poor, including among RCTs.\n\nSIGNIFICANCE OF RESULTS: There was a dominance of research focusing on carers of people with lung cancer (56% of participants). In PPI consultations, carers identified stigma and poor communication with health providers as factors contributing to the disparity between lung cancer and other respiratory diseases. More research is needed to compare the efficacy of different intervention strategies to improve outcomes that matter most to carers. To improve equity, researchers must consistently report carer demographics and prioritize developing interventions for carers underserved by research."
-    },
-    {
-      "pmid": "41690367",
-      "doi": "10.1016/j.jtho.2026.103610",
-      "title": "TTF-1 expression in lung adenocarcinoma: clinicopathologic, genomic, and immunophenotypic correlates and outcomes to immunotherapy-based treatments and KRAS(G12C) inhibitors.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2026-02-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41690367/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103610",
-      "abstract": "BACKGROUND: Thyroid transcription factor-1 (TTF-1) expression, routinely assessed through immunohistochemistry (IHC) in the diagnostic evaluation of lung adenocarcinomas (LUAD), is negative (TTF-1\n\nMETHODS: Patients with LUAD and available TTF-1 IHC from five institutions, The Cancer Genome Atlas, the Stand Up To Cancer-Mark Foundation, and the POPLAR/OAK datasets were included. Features and outcomes were analyzed according to TTF-1 expression.\n\nRESULTS: Among 3,297 patients, TTF-1\n\nCONCLUSIONS: TTF-1 negativity identifies a subset of LUAD with worse outcomes to immunotherapy, chemo-immunotherapy, and KRAS"
-    },
-    {
-      "pmid": "41692016",
-      "doi": "10.1016/S1470-2045(26)00070-7",
-      "title": "France plans national targeted lung cancer screening.",
-      "journal": "The Lancet. Oncology",
-      "pubdate": "2026-02-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41692016/",
-      "url_doi": "https://doi.org/10.1016/S1470-2045(26)00070-7",
-      "abstract": null
-    },
-    {
-      "pmid": "41690366",
-      "doi": "10.1016/j.jtho.2026.103609",
-      "title": "Four-Year outcomes of first-line Nivolumab plus ipilimumab for 6 months versus continuation in patients with advanced non-small-cell lung cancer Results of the randomized IFCT-1701 \"DICIPLE\" Phase III trial.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2026-02-12T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Phase III",
-      "study_class": "Prospective",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41690366/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103609",
-      "abstract": "INTRODUCTION: Optimal first-line immunotherapy duration in metastatic non-small-cell-lung cancer (mNSCLC) with controlled disease remains unclear. We evaluated 6-month nivolumab-ipilimumab (IO) in patients with disease control (DC).\n\nMETHODS: This randomized, open label, non-inferiority trial enrolled treatment-naïve mNSCLC patients (aged 18-75, Estern Cooperative Oncology Group (ECOG) performance status 0-1, no actionable genomic alterations). After six-month induction treatment with nivolumab (3mg/kg biweekly) plus ipilimumab (1mg/kg every six weeks), patients with DC were randomized to continue treatment or stop and resume at disease progression. The primary outcome was progression-free survival (PFS).\n\nRESULTS: Among 265 patients enrolled, 71 were randomized to the continuation control arm (n=36) or to the experimental arm (n=35), with trial premature interruption due to the lack of European filing for the immunotherapy combination. Median PFS follow-up was 47·8 months 95%CI [43·1-51·0]. In the per-protocol population, median PFS was 18·7 months (95%CI [7·1-37·1]) in the continuation arm vs. not reached (NR) (95%CI [16·1-NR]) in the experimental arm. Median OS was 55·5 months, 95%CI [32·4-NR] in the continuation arm vs. NR in the experimental group. 18-month OS was 80·6% (95%CI [63·5-90·2]) and 93·8% (95%CI [77·3-98·4]), respectively. Grade 3-5 treatment-related adverse events rates were higher in the continuation arm (54·3 vs. 23·5%). Median time until definitive QoL deterioration was 15·5 months (95%CI [10·0-NR]) for the continuation arm, but NR in the experimental arm (HR=0·36, 95%CI [0·14-0·92], p=0·03).\n\nCONCLUSION: Stopping IO combination at 6 months in DC patients showed no survival harm at 4 years, reduced severe irAEs, and delayed QoL deterioration."
     }
   ]
 }
