@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-19T05:56:39.829929Z",
+  "generated": "2026-02-20T05:53:35.365794Z",
   "items": [
     {
       "pmid": "41419100",
@@ -520,6 +520,47 @@
       "abstract": "BACKGROUND: To investigate the preclinical characterization of dirozalkib, a novel anaplastic lymphoma kinase (ALK) inhibitor, and its safety, pharmacokinetics, and preliminary antitumor activity in advanced non-small cell lung cancer (NSCLC).\n\nMETHODS: The preclinical inhibitory effects of dirozalkib were evaluated in vitro and in vivo. The first-in-human phase I study (NCT05055232) enrolled patients with advanced NSCLC harboring ALK or ROS1 rearrangements. Participants received 50-600 mg/day dirozalkib following a 3 + 3 dose-escalation design with rapid titration, and 300-600 mg/day in the dose-expansion phase. The primary endpoint was safety.\n\nRESULTS: Dirozalkib demonstrated potent inhibition of ALK fusion-positive cell lines and common resistance mutations, and suppressed tumor growth in patient-derived and intracranial xenograft lung cancer models. No dose-limiting toxicities occurred, establishing 600 mg/day as the maximum tolerated dose. Among 114 patients enrolled, 55 (48.2 %) experienced grade ≥ 3 treatment-emergent adverse events, most commonly diarrhea (8.8 %). The objective response rate (ORR) among patients with ALK rearrangements was 47.4 % (9/19) and 46.3 % (38/82) in the dose-escalation and dose-expansion cohort (89.3 % in ALK inhibitor-naive patients receiving 500 mg/day). After a single dose of 50-600 mg dirozalkib, median time to maximum concentration ranged from 3 to 4 h. C\n\nCONCLUSIONS: Dirozalkib exhibited favorable safety, antitumor activity and pharmacokinetics in patients with advanced ALK-rearranged NSCLC. The recommended phase II dose was 500 mg/day.\n\nTRIAL REGISTRATION: Clinicaltrials.gov (NCT05055232) and Chinadrugtrials.org.cn (CTR20190984)."
     },
     {
+      "pmid": "41712697",
+      "doi": "10.1126/science.adx9954",
+      "title": "Rewiring STAT signaling from the cell surface with Trikine immunotherapeutics.",
+      "journal": "Science (New York, N.Y.)",
+      "pubdate": "2026-02-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41712697/",
+      "url_doi": "https://doi.org/10.1126/science.adx9954",
+      "abstract": "Cytokines dimerize two receptor chains to activate Janus kinases and STAT transcription factors that regulate immune cells but have therapeutic liabilities. We engineered \"Trikines\" to compel"
+    },
+    {
+      "pmid": "41708831",
+      "doi": "10.1038/s41571-026-01123-4",
+      "title": "Reconsidering adjuvant and perioperative immune-checkpoint inhibition: de-escalation, expansion and personalization.",
+      "journal": "Nature reviews. Clinical oncology",
+      "pubdate": "2026-02-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41708831/",
+      "url_doi": "https://doi.org/10.1038/s41571-026-01123-4",
+      "abstract": "Anti-PD-L1 antibodies have transformed cancer treatment and are increasingly being used in patients with early-stage malignancies including in the adjuvant and neoadjuvant settings. In certain cancers, earlier administration of these agents reduces the risk of metastatic disease and might improve overall survival. Thus far, however, overall survival benefits in the adjuvant setting have yet to be clearly demonstrated in all tumour types probably owing to a lack of long-term follow-up and/or the confounding effects of anti-PD-L1 antibody monotherapy and/or combinations in the metastatic setting, in which these agents can also produce durable responses. In this Review, we explore the optimal use of anti-PD-L1 antibodies in the adjuvant and perioperative settings, using examples from melanoma, renal cell carcinoma and non-small-cell lung cancer. We examine de-escalation strategies, including shortening treatment duration or deferring therapy to time of recurrence, at which point anti-PD-L1 antibodies might be more likely to be administered in combination; the expansion of certain specific indications, potentially leading to more effective combinations and/or use in biomarker-defined patients with high-risk early-stage disease; and selecting the most appropriate indication, with emerging data suggesting that neoadjuvant or perioperative use of anti-PD-L1 antibodies might be more effective than adjuvant use in certain cancers, as well as the possibility of personalization of therapy guided by biomarkers such as circulating tumour DNA or other emerging assays."
+    },
+    {
       "pmid": "41537692",
       "doi": "10.1158/1078-0432.CCR-25-2958",
       "title": "Minimal Residual Disease Enhances Prognostic Stratification beyond Pathologic Response in Resectable Non-Small Cell Lung Cancer.",
@@ -541,6 +582,66 @@
       "abstract": "PURPOSE: Perioperative chemoimmunotherapy is the standard of care for resectable, locally advanced non-small cell lung cancer (NSCLC). Although pathologic complete response (pCR) correlates with excellent survival outcomes, some patients without pCR still exhibit long-term survival. In this study, we evaluate the added value of minimal residual disease (MRD).\n\nEXPERIMENTAL DESIGN: MRD was assessed in 60 patients from the NADIM II trial (NCT03838159) using the Guardant Reveal assay. In NADIM II, patients with NSCLC without EGFR or ALK alterations were randomly assigned to receive neoadjuvant nivolumab plus chemotherapy (experimental arm) or chemotherapy alone, followed by surgery. Patients in the experimental arm with R0 resection received adjuvant nivolumab.\n\nRESULTS: The MRD detection rate was 9.6%. MRD after surgery or during adjuvant treatment was associated with inferior event-free survival (EFS) and overall survival [OS; hazard ratio (HR): 10.2; 95% confidence interval (CI), 3.7-28.3 and HR: 10.0; 95% CI, 2.0-49.9, respectively]. All patients with MRD-negative plasma samples in at least two time points were alive [HR: not estimable (NE), P < 0.001], with only one relapse (HR: 41.6; 95% CI, 5.0-348.8), corresponding to a patient relapsing with a single brain metastasis. MRD enhanced the prognostic value of pCR for both EFS (P < 0.001) and OS (P = 0.015). Among non-pCR patients, MRD remained a significant prognostic marker (HR: 6.2; 95% CI, 2.2-17.1 and HR: 6.5; 95% CI, 1.3-32.5, for EFS and OS respectively). All non-pCR patients with MRD-negative results in at least two time points were alive (HR: NE, P = 0.025), with one relapse (HR: 19.9; 95% CI, 2.4-165.6), corresponding to the aforementioned case.\n\nCONCLUSIONS: MRD may refine prognostic evaluation beyond pCR in resectable NSCLC undergoing perioperative chemoimmunotherapy."
     },
     {
+      "pmid": "41707946",
+      "doi": "10.1016/j.jtho.2026.103614",
+      "title": "Clinical Value of Combining Molecular and Immune Blood Tests to Safely Reduce False Positives in Low-Dose CT Lung Cancer Screening.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2026-02-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.jtho.2026.103614",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41707946/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103614",
+      "abstract": "BACKGROUND: Low-dose Computed Tomography (LDCT) screening saves lives but is limited by high false-positive rates, necessitating non-invasive risk stratification. The prospective BioMILD trial was the first to validate the combination of a plasma microRNA test (MSC) with LDCT to personalize screening intervals. The present study integrates a novel Immune Signature Classifier (ISC), based on peripheral blood mononuclear cell (PBMC) profiling, to complement MSC, maximize information from a single blood draw, and further optimize the management of suspicious lung nodules.\n\nMATERIAL AND METHODS: Plasma and PBMC samples were prospectively collected from 304 heavy smokers enrolled in the BioMILD trial who presented with LDCT-detected suspicious nodules and a 7.5-year median follow-up. MSC and ISC tests were determined by RT-qPCR. Grafting of Patient-Derived Xenograft (PDX) models, derived from the same patients, was employed as indicator of tumor aggressiveness.\n\nRESULTS: ISC was associated with age (p=0.0323) and Lung-RADS (p=0.0008), and was significantly higher in patients with cancers diagnosed within 2 years (p=0.0006). Higher ISC values also correlated with successful PDX engraftment (p=0.0449). In terms of diagnostic performance, the combined ISC and MSC model achieved 96% sensitivity and 98% Negative Predictive Value (NPV) (95%CI: 0.93-0.99). It represented a significant enhancement over MSC alone (ΔNPV=+0.05; 95%CI: 0.01-0.08) and resulted in a 37% reduction of false positives.\n\nCONCLUSION: Integration of immune and molecular markers significantly enhances LDCT screening accuracy. The higher NPV achieved by the combined model allows greater confidence in ruling out malignancy among LDCT-detected nodules, thereby reducing unnecessary follow-up exams and invasive procedures."
+    },
+    {
+      "pmid": "41707340",
+      "doi": "10.1016/j.lungcan.2026.109334",
+      "title": "Lung cancer incidence in counties at low and high risk of Radon Exposure: A Population-Based SEER analysis (1975-2022).",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lungcan.2026.109334",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41707340/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109334",
+      "abstract": "BACKGROUND: Lung cancer is the leading cause of cancer-related mortality in the United States. While smoking cigarettes remains the dominant risk factor, declining smoking rates have drawn attention to Radon. Despite the known risks from individual exposure to radon, how long-term lung cancer trends vary by county-level Radon risk classification remains unknown.\n\nMETHODS: Using SEER-8 cancer registry data from Connecticut, Iowa, New Mexico, and Utah, we compared lung cancer incidence between counties classified by the EPA as low-risk and high-risk (>4.0 pCi/L) for radon exposure. Constructing a random effects Generalized Least Squares regression, which adjusted for county-level smoking prevalence, we quantified the excess lung cancer rate attributable to radon risk across decade, sex, and histologic subtype.\n\nRESULTS: Compared to low-risk counties, counties at high risk of radon exposure had a significantly higher overall lung cancer incidence: 13.5 + cases per 100,000 person-years (95% CI: 10.0, 17.1). This gap between low and high-risk counties was largest for Adenocarcinoma and small cell carcinoma, and larger in males than females. However, only in females did we observe the gap in lung cancer incidence between low- and high-risk counties grow decade after decade.\n\nCONCLUSIONS: This study illustrates how county-level radon data can be leveraged to enhance cancer surveillance and guide prevention and control strategies. Further research is needed to evaluate the impact and cost-effectiveness of radon prevention or mitigation policies, especially in females. We argue that public health systems, over the next fifty years, must prioritize eliminating the two main drivers of America's deadliest cancer."
+    },
+    {
+      "pmid": "41707339",
+      "doi": "10.1016/j.lungcan.2026.109335",
+      "title": "Patient-reported EORTC QLQ C-30 global health status decline predicts survival after video-assisted thoracoscopic (VATS) lung resection and stereotactic ablative radiotherapy (SABR): A 5 year follow-up from the Lilac study.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-15T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41707339/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109335",
+      "abstract": "BACKGROUND: Early-stage non-small cell lung cancer (NSCLC) is increasingly treated with either video-assisted thoracoscopic surgery (VATS) or stereotactic ablative radiotherapy (SABR). While survival outcomes of these modalities have been widely studied, the prognostic significance of patient-reported outcomes (PROs), particularly short-term changes in global health status, remains underexplored in radically treated early-stage disease.\n\nMETHODS: The Life after Lung Cancer (LiLac) study is a prospective observational cohort evaluating quality of life (QoL) trajectories in patients with clinical stage I-II NSCLC treated with VATS or SABR. QoL was assessed using the EORTC QLQ-C30 and LC13 at baseline and at 6 weeks, 3, 6, and 12 months. This analysis includes a 5-year survival follow-up of stage IA patients with available baseline and 6-week global health (GH) scores. Overall survival (OS), event-free survival (EFS), and lung cancer-specific survival (LCSS) were examined. A Fine-Gray competing risks model was used to identify predictors of lung cancer-specific mortality.\n\nRESULTS: A total of 142 patients were included (80 VATS; 62 SABR), with a median follow-up of 59 months. OS and EFS at 5 years were higher in surgical patients, while LCSS showed a favourable trend for VATS. A GH score decline > 10 points at 6 weeks were the only factor independently associated with lung cancer-specific death (SHR 5.77, p = 0.019), irrespective of treatment modality. No other QoL scales showed prognostic significance.\n\nCONCLUSIONS: Early decline in patient-reported global health status after curative treatment for stage I NSCLC is a strong independent predictor of lung cancer-specific mortality. These findings support the integration of routine PRO assessment to inform risk stratification, recovery monitoring, and shared decision-making. Multicentre validation is warranted."
+    },
+    {
       "pmid": "41689406",
       "doi": "10.1080/14796694.2025.2598216",
       "title": "Trastuzumab deruxtecan in HER2-mutant metastatic non-small-cell lung cancer: a plain language summary of the DESTINY-Lung02 study.",
@@ -559,48 +660,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41689406/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2598216",
       "abstract": null
-    },
-    {
-      "pmid": "41687045",
-      "doi": "10.1200/JCO-25-01892",
-      "title": "Medicaid Expansion and Stage at Diagnosis, Timely Initiation and Receipt of Guideline-Concordant Treatment, and Survival Among People With Non-Small Cell Lung Cancer.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-      "pubdate": "2026-02-13T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41687045/",
-      "url_doi": "https://doi.org/10.1200/JCO-25-01892",
-      "abstract": "PURPOSE: To examine the associations between Medicaid expansion and stage at diagnosis, timely initiation and receipt of guideline-concordant treatment, and 5-year overall survival (OS) among people with non-small cell lung cancer (NSCLC).\n\nMETHODS: Individuals newly diagnosed with stage I to IV NSCLC at age 18-64 years between January 1, 2004, and December 31, 2023, in 50 states and Washington, DC, were identified from the National Cancer Database. We examined the association of Medicaid expansion and (1) early-stage diagnosis (I and II); (2) timely initiation of guideline-concordant treatment within 30 days after diagnosis; (3) receipt of all first-course guideline-concordant treatment; and (4) 5-year OS. We applied conventional and updated (Sun and Abraham) difference-in-differences (DID) approaches to examine the changes in study outcomes associated with Medicaid expansion using multivariable linear probability models to estimate stage and treatment and multivariable flexible parametric survival models to investigate survival overall and by key factors.\n\nRESULTS: Compared with people in nonexpansion states (n = 164,228), people in expansion states (n = 350,290) were more likely to be female, non-Hispanic White, or living in areas with higher family income or in nonmetropolitan areas. Medicaid expansion was associated with increases in early-stage NSCLC diagnosis (DID: 1.02 percentage points [ppt; 95% CI, 0.52 to 1.52]), timely treatment initiation (2.10 ppt [95% CI, 0.05 to 4.15]), and higher 5-year OS (1.79 ppt [95% CI, 1.32 to 2.26]). In stratified analyses, people living in areas with lower household income were more likely to benefit from Medicaid expansion.\n\nCONCLUSION: Medicaid expansion was associated with improvements in early detection, timeliness of guideline-concordant treatment, and survival for people with NSCLC. Anticipated Medicaid coverage losses may jeopardize these gains."
-    },
-    {
-      "pmid": "41685630",
-      "doi": "10.1017/S147895152510148X",
-      "title": "Interventions for unpaid carers of people living with breathlessness due to chronic respiratory diseases: Scoping review.",
-      "journal": "Palliative & supportive care",
-      "pubdate": "2026-02-13T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Scoping Review",
-        "Review"
-      ],
-      "entity": "Other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": true,
-      "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E749F6BAC1357E2C375D60E045481113/S147895152510148Xa.pdf/div-class-title-interventions-for-unpaid-carers-of-people-living-with-breathlessness-due-to-chronic-respiratory-diseases-scoping-review-div.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41685630/",
-      "url_doi": "https://doi.org/10.1017/S147895152510148X",
-      "abstract": "OBJECTIVES: Carers of people living with breathlessness face common challenges due to the chronic, distressing and unpredictable nature of the symptom. These include unmet information and support needs resulting in worsened health and psychosocial outcomes. This review aimed to (1) identify the relative volume of studies on supportive interventions for carers of people living with breathlessness due to different respiratory diseases, (2) characterize the nature of the interventions, and (3) explore their reported effectiveness on outcomes identified by carers as being important.\n\nMETHODS: Medline and CINAHL were searched for studies reporting interventions targeting unpaid adult carers of people with breathlessness, lung cancer, chronic obstructive pulmonary disease (COPD), Interstitial Lung Diseases (ILD) published 2000-2025. Intervention characteristics and reported outcomes were extracted and compared across diagnoses and intervention categories. Our findings were shaped by consultation with unpaid carers in a series of patient and public involvement workshops.\n\nRESULTS: From 72 included interventions, three approaches were identified: Education, therapeutic support, and interventions for patient management. Interventions for lung cancer carers most frequently offered therapeutic support to the carer, while those for COPD carers most frequently focused on managing the patient. COPD and ILD carers have been underserved by research. We found few therapeutic support interventions for COPD carers. Reporting of carer demographics was poor, including among RCTs.\n\nSIGNIFICANCE OF RESULTS: There was a dominance of research focusing on carers of people with lung cancer (56% of participants). In PPI consultations, carers identified stigma and poor communication with health providers as factors contributing to the disparity between lung cancer and other respiratory diseases. More research is needed to compare the efficacy of different intervention strategies to improve outcomes that matter most to carers. To improve equity, researchers must consistently report carer demographics and prioritize developing interventions for carers underserved by research."
     }
   ]
 }
