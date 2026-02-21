@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-20T05:53:35.365794Z",
+  "generated": "2026-02-21T05:40:34.487759Z",
   "items": [
     {
       "pmid": "41419100",
@@ -582,6 +582,26 @@
       "abstract": "PURPOSE: Perioperative chemoimmunotherapy is the standard of care for resectable, locally advanced non-small cell lung cancer (NSCLC). Although pathologic complete response (pCR) correlates with excellent survival outcomes, some patients without pCR still exhibit long-term survival. In this study, we evaluate the added value of minimal residual disease (MRD).\n\nEXPERIMENTAL DESIGN: MRD was assessed in 60 patients from the NADIM II trial (NCT03838159) using the Guardant Reveal assay. In NADIM II, patients with NSCLC without EGFR or ALK alterations were randomly assigned to receive neoadjuvant nivolumab plus chemotherapy (experimental arm) or chemotherapy alone, followed by surgery. Patients in the experimental arm with R0 resection received adjuvant nivolumab.\n\nRESULTS: The MRD detection rate was 9.6%. MRD after surgery or during adjuvant treatment was associated with inferior event-free survival (EFS) and overall survival [OS; hazard ratio (HR): 10.2; 95% confidence interval (CI), 3.7-28.3 and HR: 10.0; 95% CI, 2.0-49.9, respectively]. All patients with MRD-negative plasma samples in at least two time points were alive [HR: not estimable (NE), P < 0.001], with only one relapse (HR: 41.6; 95% CI, 5.0-348.8), corresponding to a patient relapsing with a single brain metastasis. MRD enhanced the prognostic value of pCR for both EFS (P < 0.001) and OS (P = 0.015). Among non-pCR patients, MRD remained a significant prognostic marker (HR: 6.2; 95% CI, 2.2-17.1 and HR: 6.5; 95% CI, 1.3-32.5, for EFS and OS respectively). All non-pCR patients with MRD-negative results in at least two time points were alive (HR: NE, P = 0.025), with one relapse (HR: 19.9; 95% CI, 2.4-165.6), corresponding to the aforementioned case.\n\nCONCLUSIONS: MRD may refine prognostic evaluation beyond pCR in resectable NSCLC undergoing perioperative chemoimmunotherapy."
     },
     {
+      "pmid": "41720018",
+      "doi": "10.1016/j.lungcan.2026.109337",
+      "title": "Patterns of progression in patients with synchronous oligometastatic non-small cell lung cancer after systemic and local radical treatment.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-16T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(26)00081-4/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41720018/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109337",
+      "abstract": "Oligoprogressive disease (OPD) occurs when a limited number of disease sites show progression. Data on OPD incidence during systemic therapy for metastatic non-small cell lung cancer (NSCLC) are increasing, while data on progression patterns after systemic therapy with local radical treatment (LRT) in patients with synchronous oligometastatic disease (sOMD) are limited. We conducted a retrospective multicenter study to assess progression patterns, factors associated with progression and survival outcomes in sOMD NSCLC patients treated with systemic therapy and LRT. Between January 2015 and December 2022, 199 patients were included. With a median follow-up of 68.4 months, 78% experienced progression: 63% OPD and 37% widespread PD. Significant differences between OPD and widespread PD were found for performance status (62% WHO PS 0 vs 42%), tumor histology (squamous 13% vs 28%), KRAS mutation (36% vs 26%), N stage (N0-1 40% vs 21%), number (1 metastasis 72% vs 53%), and metastasis location. Patterns of PD were not associated with first-line therapy type (chemo-only vs immune checkpoint inhibitor [ICI]-based). Median PFS and OS were longer for OPD vs widespread PD: median PFS 10.5 (95% CI 8.9-12.1) vs 8.1 months (95% CI 7.7-8.6) (p < 0.001), median OS 30.9 (95% CI 23.0-38.9) vs 15.2 months (95% CI 11.4-18.9), p < 0.001. These findings suggest clinical and molecular features reflecting disease biology and may help identify patients likely to develop oligoprogression after combined therapy, a pattern associated with improved PFS and OS. Further prospective studies are needed to better predict progression and select patients benefiting from LRT."
+    },
+    {
       "pmid": "41707946",
       "doi": "10.1016/j.jtho.2026.103614",
       "title": "Clinical Value of Combining Molecular and Immune Blood Tests to Safely Reduce False Positives in Low-Dose CT Lung Cancer Screening.",
@@ -640,26 +660,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41707339/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109335",
       "abstract": "BACKGROUND: Early-stage non-small cell lung cancer (NSCLC) is increasingly treated with either video-assisted thoracoscopic surgery (VATS) or stereotactic ablative radiotherapy (SABR). While survival outcomes of these modalities have been widely studied, the prognostic significance of patient-reported outcomes (PROs), particularly short-term changes in global health status, remains underexplored in radically treated early-stage disease.\n\nMETHODS: The Life after Lung Cancer (LiLac) study is a prospective observational cohort evaluating quality of life (QoL) trajectories in patients with clinical stage I-II NSCLC treated with VATS or SABR. QoL was assessed using the EORTC QLQ-C30 and LC13 at baseline and at 6 weeks, 3, 6, and 12 months. This analysis includes a 5-year survival follow-up of stage IA patients with available baseline and 6-week global health (GH) scores. Overall survival (OS), event-free survival (EFS), and lung cancer-specific survival (LCSS) were examined. A Fine-Gray competing risks model was used to identify predictors of lung cancer-specific mortality.\n\nRESULTS: A total of 142 patients were included (80 VATS; 62 SABR), with a median follow-up of 59 months. OS and EFS at 5 years were higher in surgical patients, while LCSS showed a favourable trend for VATS. A GH score decline > 10 points at 6 weeks were the only factor independently associated with lung cancer-specific death (SHR 5.77, p = 0.019), irrespective of treatment modality. No other QoL scales showed prognostic significance.\n\nCONCLUSIONS: Early decline in patient-reported global health status after curative treatment for stage I NSCLC is a strong independent predictor of lung cancer-specific mortality. These findings support the integration of routine PRO assessment to inform risk stratification, recovery monitoring, and shared decision-making. Multicentre validation is warranted."
-    },
-    {
-      "pmid": "41689406",
-      "doi": "10.1080/14796694.2025.2598216",
-      "title": "Trastuzumab deruxtecan in HER2-mutant metastatic non-small-cell lung cancer: a plain language summary of the DESTINY-Lung02 study.",
-      "journal": "Future oncology (London, England)",
-      "pubdate": "2026-02-14T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41689406/",
-      "url_doi": "https://doi.org/10.1080/14796694.2025.2598216",
-      "abstract": null
     }
   ]
 }
