@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-21T05:40:34.487759Z",
+  "generated": "2026-02-22T05:49:31.526680Z",
   "items": [
     {
       "pmid": "41419100",
@@ -21,27 +21,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41419100/",
       "url_doi": "https://doi.org/10.1016/j.canlet.2025.218223",
       "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
-    },
-    {
-      "pmid": "41616709",
-      "doi": "10.1016/j.compbiomed.2026.111501",
-      "title": "Influence of CT harmonization in longitudinal radiomics for NSCLC immunotherapy response prediction.",
-      "journal": "Computers in biology and medicine",
-      "pubdate": "2026-02-15T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Multicenter Study"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 1.447,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41616709/",
-      "url_doi": "https://doi.org/10.1016/j.compbiomed.2026.111501",
-      "abstract": "This study investigates the variability of radiomic features in longitudinal CT scans from a multi-institutional NSCLC cohort and introduces a harmonization pipeline to improve predictive modeling of immunotherapy response. Baseline and follow-up CT scans from NSCLC patients treated with anti-PD-1/PD-L1 agents were analyzed, with two institutions combined for model training and internal testing, and a third institution serving as an external test set. To address variability from imaging parameters-such as scanner manufacturer, slice thickness, and noise-we applied image harmonization followed by feature harmonization using NestedComBat. This approach substantially reduced feature dependence on acquisition confounders (from 78.8% to 12.8%) and improved feature robustness across institutions. We further assessed the temporal consistency of radiomic features across longitudinal scans using the intraclass correlation coefficient (ICC). Image harmonization yielded the largest gains in stability (mean ΔICC = +0.021, p < 0.001), while the combined approach also enhanced longitudinal reliability (ΔICC = +0.014, p < 0.001). Finally, harmonization improved predictive performance for 6-month immunotherapy response, increasing the AUC from 0.695 to 0.768 in the internal test and from 0.692 to 0.802 in the external test. These results demonstrate that combining image- and feature-level harmonization enhances the robustness and temporal consistency of radiomic features, potentially supporting more reliable and generalizable predictive modeling across diverse datasets and clinical settings."
     },
     {
       "pmid": "41697515",
@@ -103,6 +82,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41640088/",
       "url_doi": "https://doi.org/10.1080/14737140.2026.2623059",
       "abstract": "INTRODUCTION: HER2 is mutated in 2-4% of non-small cell lung cancers (NSCLC) and is associated with poor prognosis. Tyrosine kinase inhibitors (TKIs) targeting HER2 have historically been hampered by insufficient efficacy against exon 20 insertion mutations and lack of specificity, resulting in off-target adverse events. Zongertinib is an oral, irreversible HER2-selective TKI that spares wild-type EGFR, thereby minimizing associated toxicities. Zongertinib was recently approved in the United States (accelerated), China (conditional), and Japan for patients with previously treated advanced\n\nAREAS COVERED: This article outlines the discovery and clinical development of zongertinib that led to these approvals. We discuss the first-in-human Beamion LUNG-1 trial (NCT04886804), in which zongertinib demonstrated encouraging and durable activity, with a manageable safety profile, in patients with\n\nEXPERT OPINION: Zongertinib is the first oral TKI approved for"
+    },
+    {
+      "pmid": "41718995",
+      "doi": "10.1007/s11239-026-03252-0",
+      "title": "Trends in pulmonary embolism mortality among older adults with lung cancer in the united States, 1999-2020.",
+      "journal": "Journal of thrombosis and thrombolysis",
+      "pubdate": "2026-02-20T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.736,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41718995/",
+      "url_doi": "https://doi.org/10.1007/s11239-026-03252-0",
+      "abstract": "The concomitant occurrence of pulmonary embolism (PE) and lung cancer (LC) poses a significant mortality risk in the United States. Though both diseases are well studied across the literature individually, their combined burden remains unexplored. To evaluate the temporal trends in PE-related mortality among US adults ≥ 65 years with lung cancer from 1999 to 2020, stratified by demographic and geographic variables, by analyzing death certificates related to PE and lung cancer from the CDC WONDER database. We queried the CDC WONDER database for mortality trend analysis with multiple causes of death, having PE and LC, both as either contributing or underlying causes of death, from 1999 to 2020. AAMRs were calculated per 1,000,000 people, stratified by sex, race, geography, and metropolitan status. AAPCs and APCs with 95% CI were evaluated through Joinpoint regression. Between 1999 and 2020, there were 32,409 deaths among adults (aged ≥ 65) with PE and LC, with the majority of fatalities manifesting in medical facilities (60.52%). The overall AAMR increased significantly from 26 (95% CI: 24.3 to 27.7) in 1999 to 41.2 (95% CI: 39.4 to 42.9) in 2020, with an AAPC of 1.92 (95% CI: 1.10 to 2.76, p < 0.001). Men had higher mortality rates with an AAMR of 44.4 (95% CI: 43.8 to 45.1) than 28.4 (95% CI: 27.9 to 28.8) in females. In race/ethnicity, NH-Blacks possessed the highest AAMRs of 44.4 (95% CI: 42.9 to 45.8) among other races. In regional stratification, the Midwest region showed the highest AAMRs of 39.3 (95% CI: 38.4 to 40.1), with the highest AAMRs of 58 (95% CI: 47.5 to 68.4) in Vermont, and non-metropolitan areas had higher AAMRs of 36.06 (95% CI: 35.1 to 37) (Graphical abstract). This study highlights the potential demographic disparities in PE and LC-related mortalities among older adults, underscoring the necessity for improved interventions, early screening, public health awareness programs, and equity in healthcare access.Clinical trial registration: Not applicable, as this is a retrospective observational study that relies on publicly available data."
     },
     {
       "pmid": "41671628",
@@ -640,26 +639,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41707340/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109334",
       "abstract": "BACKGROUND: Lung cancer is the leading cause of cancer-related mortality in the United States. While smoking cigarettes remains the dominant risk factor, declining smoking rates have drawn attention to Radon. Despite the known risks from individual exposure to radon, how long-term lung cancer trends vary by county-level Radon risk classification remains unknown.\n\nMETHODS: Using SEER-8 cancer registry data from Connecticut, Iowa, New Mexico, and Utah, we compared lung cancer incidence between counties classified by the EPA as low-risk and high-risk (>4.0 pCi/L) for radon exposure. Constructing a random effects Generalized Least Squares regression, which adjusted for county-level smoking prevalence, we quantified the excess lung cancer rate attributable to radon risk across decade, sex, and histologic subtype.\n\nRESULTS: Compared to low-risk counties, counties at high risk of radon exposure had a significantly higher overall lung cancer incidence: 13.5 + cases per 100,000 person-years (95% CI: 10.0, 17.1). This gap between low and high-risk counties was largest for Adenocarcinoma and small cell carcinoma, and larger in males than females. However, only in females did we observe the gap in lung cancer incidence between low- and high-risk counties grow decade after decade.\n\nCONCLUSIONS: This study illustrates how county-level radon data can be leveraged to enhance cancer surveillance and guide prevention and control strategies. Further research is needed to evaluate the impact and cost-effectiveness of radon prevention or mitigation policies, especially in females. We argue that public health systems, over the next fifty years, must prioritize eliminating the two main drivers of America's deadliest cancer."
-    },
-    {
-      "pmid": "41707339",
-      "doi": "10.1016/j.lungcan.2026.109335",
-      "title": "Patient-reported EORTC QLQ C-30 global health status decline predicts survival after video-assisted thoracoscopic (VATS) lung resection and stereotactic ablative radiotherapy (SABR): A 5 year follow-up from the Lilac study.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-15T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41707339/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109335",
-      "abstract": "BACKGROUND: Early-stage non-small cell lung cancer (NSCLC) is increasingly treated with either video-assisted thoracoscopic surgery (VATS) or stereotactic ablative radiotherapy (SABR). While survival outcomes of these modalities have been widely studied, the prognostic significance of patient-reported outcomes (PROs), particularly short-term changes in global health status, remains underexplored in radically treated early-stage disease.\n\nMETHODS: The Life after Lung Cancer (LiLac) study is a prospective observational cohort evaluating quality of life (QoL) trajectories in patients with clinical stage I-II NSCLC treated with VATS or SABR. QoL was assessed using the EORTC QLQ-C30 and LC13 at baseline and at 6 weeks, 3, 6, and 12 months. This analysis includes a 5-year survival follow-up of stage IA patients with available baseline and 6-week global health (GH) scores. Overall survival (OS), event-free survival (EFS), and lung cancer-specific survival (LCSS) were examined. A Fine-Gray competing risks model was used to identify predictors of lung cancer-specific mortality.\n\nRESULTS: A total of 142 patients were included (80 VATS; 62 SABR), with a median follow-up of 59 months. OS and EFS at 5 years were higher in surgical patients, while LCSS showed a favourable trend for VATS. A GH score decline > 10 points at 6 weeks were the only factor independently associated with lung cancer-specific death (SHR 5.77, p = 0.019), irrespective of treatment modality. No other QoL scales showed prognostic significance.\n\nCONCLUSIONS: Early decline in patient-reported global health status after curative treatment for stage I NSCLC is a strong independent predictor of lung cancer-specific mortality. These findings support the integration of routine PRO assessment to inform risk stratification, recovery monitoring, and shared decision-making. Multicentre validation is warranted."
     }
   ]
 }
