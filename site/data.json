@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-23T06:03:53.773742Z",
+  "generated": "2026-02-24T05:58:23.263694Z",
   "items": [
     {
       "pmid": "41419100",
@@ -82,6 +82,27 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41718995/",
       "url_doi": "https://doi.org/10.1007/s11239-026-03252-0",
       "abstract": "The concomitant occurrence of pulmonary embolism (PE) and lung cancer (LC) poses a significant mortality risk in the United States. Though both diseases are well studied across the literature individually, their combined burden remains unexplored. To evaluate the temporal trends in PE-related mortality among US adults ≥ 65 years with lung cancer from 1999 to 2020, stratified by demographic and geographic variables, by analyzing death certificates related to PE and lung cancer from the CDC WONDER database. We queried the CDC WONDER database for mortality trend analysis with multiple causes of death, having PE and LC, both as either contributing or underlying causes of death, from 1999 to 2020. AAMRs were calculated per 1,000,000 people, stratified by sex, race, geography, and metropolitan status. AAPCs and APCs with 95% CI were evaluated through Joinpoint regression. Between 1999 and 2020, there were 32,409 deaths among adults (aged ≥ 65) with PE and LC, with the majority of fatalities manifesting in medical facilities (60.52%). The overall AAMR increased significantly from 26 (95% CI: 24.3 to 27.7) in 1999 to 41.2 (95% CI: 39.4 to 42.9) in 2020, with an AAPC of 1.92 (95% CI: 1.10 to 2.76, p < 0.001). Men had higher mortality rates with an AAMR of 44.4 (95% CI: 43.8 to 45.1) than 28.4 (95% CI: 27.9 to 28.8) in females. In race/ethnicity, NH-Blacks possessed the highest AAMRs of 44.4 (95% CI: 42.9 to 45.8) among other races. In regional stratification, the Midwest region showed the highest AAMRs of 39.3 (95% CI: 38.4 to 40.1), with the highest AAMRs of 58 (95% CI: 47.5 to 68.4) in Vermont, and non-metropolitan areas had higher AAMRs of 36.06 (95% CI: 35.1 to 37) (Graphical abstract). This study highlights the potential demographic disparities in PE and LC-related mortalities among older adults, underscoring the necessity for improved interventions, early screening, public health awareness programs, and equity in healthcare access.Clinical trial registration: Not applicable, as this is a retrospective observational study that relies on publicly available data."
+    },
+    {
+      "pmid": "41662869",
+      "doi": "10.17849/insm-53-1-1-7.2",
+      "title": "Are There Types of Early-Stage Adenocarcinomas That Are Insurable?",
+      "journal": "Journal of insurance medicine (New York, N.Y.)",
+      "pubdate": "2026-02-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 0.113,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41662869/",
+      "url_doi": "https://doi.org/10.17849/insm-53-1-1-7.2",
+      "abstract": "Lung cancer is the most common cause of cancer-related mortality worldwide. With the introduction of low-dose computed tomography (LDCT), detection of adenocarcinoma in situ (AIS) and minimally invasive adenocarcinoma (MIA) are increasingly being found in young, never-smoking females in Asia. There are survival studies suggesting that these early cancers, with resection, have no recurrence in 5 and even 10 years and therefore might be considered cured, allowing for favorable underwriting consideration for life insurance. However, other studies have shown incidences of secondary primary lung cancers (SPLCs) occurring within 10 years after surgical resections of AIS and MIA tumors, but with their clinical course and response to treatment appear to be better than original primary lung cancers, potentially still allowing for insurance with rating. The goal of this article is to review the evidence both for and against insuring these populations of lung cancer patients."
     },
     {
       "pmid": "41671628",
@@ -457,26 +478,6 @@
       "abstract": "BACKGROUND: KRAS is a common driver gene in non-small cell lung cancer (NSCLC). Owing to the absence of universally effective targeted agents and marked heterogeneity, optimal treatment selection for KRAS-mutant NSCLC remains uncertain. This study combined network meta-analysis (NMA) with real-world evidence to inform precision treatment strategies.\n\nMETHODS: Thirteen randomized controlled trials were included in a Bayesian NMA to compare efficacy outcomes across regimens in KRAS-mutant and KRAS G12C-mutant NSCLC. In parallel, real-world data from advanced KRAS-mutant NSCLC patients treated at our center were analyzed.\n\nRESULTS: Across KRAS and G12C NMAs, immunotherapy-based regimens generally outperformed chemotherapy-based regimens. PD-(L)1 inhibitors monotherapy ranked highest for overall survival (OS), while chemotherapy plus PD-(L)1 inhibitors and anti-angiogenic therapy (anti-VEGF) ranked highest for progression-free survival (PFS). Chemotherapy plus dual immune checkpoint blockade (PD-(L)1 and CTLA-4) yielded a greater improvement in OS than in PFS. In our real-world cohort, first-line PD-(L)1 monotherapy achieved the best outcomes (objective response rate: 88.9%; median PFS: 22.2 months), followed by chemotherapy plus PD-(L)1 ± anti-VEGF. On multivariable analysis, ECOG performance status 0-1, PD-L1 TPS ≥ 50%, TMB ≥ 10 mut/Mb, and chemotherapy plus PD-(L)1 ± anti-VEGF were independently associated with longer first-line PFS. In subsequent lines, G12C inhibitors significantly improved outcomes versus other therapies, whereas non-G12C disease derived limited benefit from available strategies.\n\nCONCLUSIONS: Immunotherapy constitutes the cornerstone of first-line therapy for KRAS-mutant NSCLC. Within this framework, PD-(L)1 monotherapy may be appropriate for carefully selected patients with high PD-L1 expression, whereas chemoimmunotherapy can extend benefit to broader subgroups; escalation with anti-VEGF or anti-CTLA-4 agents appears clinically promising and merits biomarker-driven prospective evaluation. KRAS G12C inhibitors are effective in later lines, while treatment options for non-G12C disease remain limited."
     },
     {
-      "pmid": "41534317",
-      "doi": "10.1016/j.lungcan.2026.108913",
-      "title": "SEZ6 expression and lineage plasticity in small cell lung cancer and transformed non-small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-03-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41534317/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108913",
-      "abstract": "INTRODUCTION: Small cell lung cancer (SCLC) and extrapulmonary neuroendocrine (NE) tumors are aggressive malignancies with limited treatment options. Seizure-related homolog 6 (SEZ6) is a potential therapeutic target, but its expression in these tumors remains poorly understood. Lineage plasticity contributes to resistance in non-small cell lung cancer (NSCLC), where some cases can undergo SCLC-transformation after targeted therapy. We aimed to characterize SEZ6 expression across NE tumors and presumed NSCLC-to-SCLC transformations.\n\nMETHODS: DNA and RNA sequencing were performed for SCLC, NSCLC, and NE samples. Samples were stratified by SEZ6 RNA expression quartiles and classified into subtypes based on ASCL1, NEUROD1, and POU2F3 expression. Significance was tested using the Mann-Whitney U test. Real-world overall survival was obtained from insurance claims data, with p-values calculated using the log-rank test. Paired samples for NSCLC-to-SCLC transformation were identified by sequential biopsies classified as NSCLC followed by SCLC.\n\nRESULTS: RNA sequencing was performed on 1318 SCLC and 2218 NE samples. Median SEZ6expression was higher in SCLC (39.7 transcripts per million (TPM)) than in NE tumors (20.8 TPM, p<0.0001) and NSCLC (1.34 TPM, p<0.001). Among NE tumors, median SEZ6 expression was highest in prostate (52.0 TPM, p=0.0016 vs SCLC) and lowest in adrenal gland tumors (1.2 TPM, p<0.0001 vs SCLC). In SCLC,SEZ6expression was positively correlated with ASCL1(p=0.44, p<0.0001) andNEUROD1(p=0.16, p<0.0001) expression but notPOU2F3(p=-0.04, p=0.1253). Median survival was longest in SEZ6-Q2 for both SCLC and NE (13.0 mos. and 33.7 mos., respectively). NSCLC-to-SCLC transformation samples showed numerically higher SEZ6 expression post-transformation (median: 86.2 vs 2.4 TPM).\n\nCONCLUSIONS: SEZ6expression is higher in SCLC than in NE tumors, with notable heterogeneity by subtype, warranting consideration of expanded use of SEZ6-directed therapy. Translational Relevance Statement: This study establishes SEZ6 as a promising therapeutic target in small cell lung cancer (SCLC) and transformed non-small cell lung cancer (NSCLC), demonstrating its significantly elevated expression compared to neuroendocrine (NE) tumors and NSCLC. The positive correlation of SEZ6 expression with NE lineage markers, particularly in ASCL1 and NEUROD1 subtypes, highlights its role as a lineage-specific marker, guiding the development of SEZ6-targeted antibody-drug conjugates (ADCs). Additionally, the increased SEZ6 expression following NSCLC-to-SCLC transformation suggests that SEZ6-targeted therapies could address resistance mechanisms in transformed tumors. Importantly, the association between high SEZ6 expression and shorter survival indicates that integrating SEZ6 status into diagnostic workflows could help stratify patients by risk and guide therapeutic decision-making. The findings from this study will inform future clinical trials, aiming to implement SEZ6-targeted treatments as part of precision oncology strategies for aggressive NE malignancies."
-    },
-    {
       "pmid": "41539180",
       "doi": "10.1016/j.ejca.2026.116221",
       "title": "Preclinical characterization and first-in-human, phase I trial of the novel ALK inhibitor dirozalkib in advanced non-small cell lung cancer.",
@@ -499,6 +500,27 @@
       "abstract": "BACKGROUND: To investigate the preclinical characterization of dirozalkib, a novel anaplastic lymphoma kinase (ALK) inhibitor, and its safety, pharmacokinetics, and preliminary antitumor activity in advanced non-small cell lung cancer (NSCLC).\n\nMETHODS: The preclinical inhibitory effects of dirozalkib were evaluated in vitro and in vivo. The first-in-human phase I study (NCT05055232) enrolled patients with advanced NSCLC harboring ALK or ROS1 rearrangements. Participants received 50-600 mg/day dirozalkib following a 3 + 3 dose-escalation design with rapid titration, and 300-600 mg/day in the dose-expansion phase. The primary endpoint was safety.\n\nRESULTS: Dirozalkib demonstrated potent inhibition of ALK fusion-positive cell lines and common resistance mutations, and suppressed tumor growth in patient-derived and intracranial xenograft lung cancer models. No dose-limiting toxicities occurred, establishing 600 mg/day as the maximum tolerated dose. Among 114 patients enrolled, 55 (48.2 %) experienced grade ≥ 3 treatment-emergent adverse events, most commonly diarrhea (8.8 %). The objective response rate (ORR) among patients with ALK rearrangements was 47.4 % (9/19) and 46.3 % (38/82) in the dose-escalation and dose-expansion cohort (89.3 % in ALK inhibitor-naive patients receiving 500 mg/day). After a single dose of 50-600 mg dirozalkib, median time to maximum concentration ranged from 3 to 4 h. C\n\nCONCLUSIONS: Dirozalkib exhibited favorable safety, antitumor activity and pharmacokinetics in patients with advanced ALK-rearranged NSCLC. The recommended phase II dose was 500 mg/day.\n\nTRIAL REGISTRATION: Clinicaltrials.gov (NCT05055232) and Chinadrugtrials.org.cn (CTR20190984)."
     },
     {
+      "pmid": "41731061",
+      "doi": "10.1038/s41571-026-01131-4",
+      "title": "Innovative approaches for lung cancer screening and interception.",
+      "journal": "Nature reviews. Clinical oncology",
+      "pubdate": "2026-02-23T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Review/Meta",
+      "study_class": "Review",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41731061/",
+      "url_doi": "https://doi.org/10.1038/s41571-026-01131-4",
+      "abstract": "Lung cancer remains the leading cause of cancer-related deaths worldwide, partly because many patients are diagnosed at late stages, highlighting the urgent need for effective early detection and intervention strategies. Low-dose computed tomography (LDCT)-based screening reduces lung cancer mortality in high-risk populations defined by age and smoking history; however, the uptake of LDCT remains low among eligible individuals. Compounding this issue, modelling studies estimate that nearly half of lung cancers occur in individuals who do not meet eligibility criteria for LDCT-based lung cancer screening under current guidelines. Moreover, LDCT-based screening has inherent limitations, including a high rate of false-positive results that can lead to unnecessary invasive procedures, as well as substantial costs that limit scalability. Major efforts have been made to identify novel biomarkers such as radiomic features and liquid biopsy assays to enhance the accuracy of lung cancer risk prediction. Furthermore, the increasing detection of pulmonary nodules by LDCT or diagnostic CT scans has highlighted the importance of therapeutic interventions that can enable interception of high-risk precancerous nodules and halt their progression to invasive disease. In this Review, we summarize the current state of lung cancer screening, the disparities and infrastructural considerations for optimal implementation, and future directions in the development of biomarkers and design of precancer interception strategies that could transform both lung cancer prevention and early intervention."
+    },
+    {
       "pmid": "41723743",
       "doi": "10.1016/j.jtcvs.2026.01.019",
       "title": "Statistical and anatomical refinements for spread-through-air-spaces-positive non-small cell lung cancer resection analysis.",
@@ -517,6 +539,66 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41723743/",
       "url_doi": "https://doi.org/10.1016/j.jtcvs.2026.01.019",
       "abstract": null
+    },
+    {
+      "pmid": "41730473",
+      "doi": "10.1016/j.jtho.2026.103645",
+      "title": "Identifying patients with high risk stage I NSCLC using tumor-informed plasma ctDNA.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2026-02-21T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41730473/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103645",
+      "abstract": "Circulating tumor DNA (ctDNA) has emerged as an important prognostic factor in cancer patients. Management of early stage non-small cell lung cancer (NSCLC) remains challenging with a high rate of disease recurrence. In this prospective cohort, 153 patients with clinical stage I NSCLC (75.8% pathologic stage I) underwent real-time plasma ctDNA testing using a tumor-informed whole exome sequencing approach, RaDaR™. Pre-operative ctDNA was detected in 22.4% of patients (6 weeks median turnaround time) and was significantly associated with recurrence free survival (RFS, HR 3.81, p=0.006). No patients with pathologic stage I disease had detectable post-operative ctDNA. The 2-year RFS was 84.2%, with inferior outcomes among patients with pre-operative ctDNA detected (69.1%). In pathologic stage I NSCLC, preoperative ctDNA detection and invasive tumor size remained independently associated with RFS. Here, we demonstrate the clinical feasibility of plasma ctDNA to inform treatment decision-making in stage I NSCLC. ClinicalTrials.gov identifier: NCT05254782."
+    },
+    {
+      "pmid": "41724182",
+      "doi": "10.1016/S1470-2045(26)00083-5",
+      "title": "FDA fast-tracks first inhalable gene therapy for lung cancer.",
+      "journal": "The Lancet. Oncology",
+      "pubdate": "2026-02-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41724182/",
+      "url_doi": "https://doi.org/10.1016/S1470-2045(26)00083-5",
+      "abstract": null
+    },
+    {
+      "pmid": "41723915",
+      "doi": "10.1016/j.lungcan.2026.109336",
+      "title": "Comparison of long-term survival between nivolumab plus ipilimumab with chemotherapy and pembrolizumab with chemotherapy in advanced non-small cell lung cancer: A multicenter retrospective cohort study.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-19T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(26)00080-2/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41723915/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109336",
+      "abstract": "BACKGROUND: Nivolumab plus ipilimumab with chemotherapy (NICT) and pembrolizumab with chemotherapy (PCT) are widely used first-line regimens for advanced non-small-cell lung cancer (NSCLC) lacking actionable driver mutations. However, real-world evidence comparing long-term survival outcomes between two regimens, particularly when stratified by PD-L1 tumor proportion score (TPS), remains limited.\n\nMETHODS: We retrospectively analyzed 457 patients treated with NICT or PCT across 13 institutions in Japan between January 2019 and December 2022. Patients were classified into PD-L1 TPS < 1% and ≥ 1% cohorts. Overall survival (OS) and treatment-related adverse events (TRAEs) were assessed using propensity score methods, including inverse probability treatment weighting (IPTW) and overlap weighting (OW), adjusting for 10 clinically relevant covariates.\n\nRESULTS: The duration of median follow-up exceeded 40 months. Among 161 patients with PD-L1 TPS < 1% (NICT n = 43; PCT n = 118), NICT achieved significantly longer OS than PCT (median 47.4 versus 16.6 months; IPTW-adjusted hazard ratio 0.50; p = 0.007), with superior 36-month OS rates (51.5% versus 28.2%; p = 0.016). These trends remained robust in the OW sensitivity analysis. In contrast, among 296 patients with PD-L1 TPS ≥ 1% (NICT n = 45; PCT n = 251), no significant differences were observed in median OS or 36-month OS rates between regimens. Grade ≥ 3 TRAEs, treatment discontinuation, and treatment-related death rates were comparable (p = 0.37, 0.78, and 0.32, respectively).\n\nCONCLUSIONS: NICT provides a sustained long-term survival advantage over PCT with comparable tolerability and may be a promising therapeutic option for the treatment of advanced NSCLC that are PD-L1 negative."
     },
     {
       "pmid": "41712697",
@@ -539,6 +621,26 @@
       "abstract": "Cytokines dimerize two receptor chains to activate Janus kinases and STAT transcription factors that regulate immune cells but have therapeutic liabilities. We engineered \"Trikines\" to compel"
     },
     {
+      "pmid": "41723914",
+      "doi": "10.1016/j.lungcan.2026.109338",
+      "title": "Upfront treatment with osimertinib in lung cancer patients with and without active brain metastases, and the role of ctDNA as a biomarker; a phase II clinical trial (the FIOL study).",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-18T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": "Phase II",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(26)00082-6/pdf",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41723914/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109338",
+      "abstract": "INTRODUCTION: Osimertinib has documented CNS activity, but there is little data on the effect on untreated brain metastases (BM). We assessed the efficacy of osimertinib in patients with or without active BM and investigated whether circulating tumour DNA (ctDNA) at baseline provides prognostic information.\n\nMETHODS: In this single-arm phase II clinical trial, patients with EGFR-mutated non-small cell lung cancer (NSCLC), with (cohort A) or without active BM (cohort B), received first-line treatment with osimertinib. The primary endpoint was objective response rate (ORR). Baseline plasma samples were analysed for the presence of ctDNA-mutations.\n\nRESULTS: One hundred patients were included: 46 in cohort A and 54 in cohort B. The ORR was 72.0% for the entire study population, and 69.6% and 74.1% in cohort A and B, respectively. Patients with measurable BM had an intracranial ORR of 81.8%. No significant differences in progression-free survival (PFS) or overall survival (OS) were observed between the two cohorts. Harbouring the L858R-mutation or uncommon EGFR-mutations was associated with a significantly shorter PFS (p = 0.010) and OS (p = 0.002) than for the exon19-deletion, irrespective of the presence of BM. ctDNA-mutations were detected in 83 of 97 available baseline plasma samples (85.6%). Absence of baseline ctDNA was associated with significantly improved PFS (p = 0.042) and OS (p = 0.028).\n\nCONCLUSIONS: First-line osimertinib treatment is effective in patients with active BM. The subtype of EGFR-mutations and the presence of ctDNA at baseline are all associated with poorer outcomes, and seem to be stronger predictors than the presence of BM."
+    },
+    {
       "pmid": "41708831",
       "doi": "10.1038/s41571-026-01123-4",
       "title": "Reconsidering adjuvant and perioperative immune-checkpoint inhibition: de-escalation, expansion and personalization.",
@@ -558,47 +660,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41708831/",
       "url_doi": "https://doi.org/10.1038/s41571-026-01123-4",
       "abstract": "Anti-PD-L1 antibodies have transformed cancer treatment and are increasingly being used in patients with early-stage malignancies including in the adjuvant and neoadjuvant settings. In certain cancers, earlier administration of these agents reduces the risk of metastatic disease and might improve overall survival. Thus far, however, overall survival benefits in the adjuvant setting have yet to be clearly demonstrated in all tumour types probably owing to a lack of long-term follow-up and/or the confounding effects of anti-PD-L1 antibody monotherapy and/or combinations in the metastatic setting, in which these agents can also produce durable responses. In this Review, we explore the optimal use of anti-PD-L1 antibodies in the adjuvant and perioperative settings, using examples from melanoma, renal cell carcinoma and non-small-cell lung cancer. We examine de-escalation strategies, including shortening treatment duration or deferring therapy to time of recurrence, at which point anti-PD-L1 antibodies might be more likely to be administered in combination; the expansion of certain specific indications, potentially leading to more effective combinations and/or use in biomarker-defined patients with high-risk early-stage disease; and selecting the most appropriate indication, with emerging data suggesting that neoadjuvant or perioperative use of anti-PD-L1 antibodies might be more effective than adjuvant use in certain cancers, as well as the possibility of personalization of therapy guided by biomarkers such as circulating tumour DNA or other emerging assays."
-    },
-    {
-      "pmid": "41723072",
-      "doi": "10.1016/j.ejca.2026.116583",
-      "title": "Impact of TP53, KEAP1 and STK11 mutations in localized-stage NSCLC: A European thoracic oncology platform lungscape project.",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2026-02-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41723072/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2026.116583",
-      "abstract": "BACKGROUND: TP53, STK11 and KEAP1 mutations are frequent in localized-stage non-small cell lung cancer (NSCLC). However, their prognostic and predictive role has not been fully investigated, particularly in relation to adjuvant treatment.\n\nMETHODS: Tumor samples from a training cohort of 350 surgically resected ETOP Lungscape NSCLC patients and a validation cohort of 161 additional patients were genotyped using Next Generation Sequencing (NGS). TP53 mutations were classified as \"disruptive\" (d) or \"non-disruptive\" (nd) according to their predicted impact. Disruptive mutations are those leading to complete loss of function of the p53 protein.\n\nRESULTS: Among the 350 patients of the training cohort, 11 % harbored mutations in KEAP1 and 14 % in STK11. Regarding TP53 status, 31 % were wild type, 35 % carried TP53-d and 34 % TP53-nd mutations. For the 161 patients receiving adjuvant chemotherapy, TP53-d mutations associated with better time to relapse (TTR). Significantly shorter TTR and overall survival (OS) were observed in KEAP1 mutant patients while STK11 mutations correlated with better outcomes. Among the 186 patients not receiving chemotherapy, significantly worse OS was observed in KEAP1 mutant patients, while TP53 or STK11 status did not affect outcome. In a baseline-matched sub-cohort (n = 206), selected within the training cohort, the interaction between TP53 mutations and chemotherapy was statistically significant for all endpoints. The findings for KEAP1 but not for TP53 were validated in a second cohort of 161 patients.\n\nCONCLUSIONS: TP53-d and STK11 mutations might have a predictive impact in localized-stage NSCLC, but further investigation is needed. KEAP1 mutations associate with worse outcomes, especially in patients receiving adjuvant chemotherapy."
-    },
-    {
-      "pmid": "41537692",
-      "doi": "10.1158/1078-0432.CCR-25-2958",
-      "title": "Minimal Residual Disease Enhances Prognostic Stratification beyond Pathologic Response in Resectable Non-Small Cell Lung Cancer.",
-      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
-      "pubdate": "2026-02-17T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Randomized Controlled Trial"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "RCT",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://aacrjournals.org/clincancerres/article-pdf/doi/10.1158/1078-0432.CCR-25-2958/3724125/ccr-25-2958.pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41537692/",
-      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-2958",
-      "abstract": "PURPOSE: Perioperative chemoimmunotherapy is the standard of care for resectable, locally advanced non-small cell lung cancer (NSCLC). Although pathologic complete response (pCR) correlates with excellent survival outcomes, some patients without pCR still exhibit long-term survival. In this study, we evaluate the added value of minimal residual disease (MRD).\n\nEXPERIMENTAL DESIGN: MRD was assessed in 60 patients from the NADIM II trial (NCT03838159) using the Guardant Reveal assay. In NADIM II, patients with NSCLC without EGFR or ALK alterations were randomly assigned to receive neoadjuvant nivolumab plus chemotherapy (experimental arm) or chemotherapy alone, followed by surgery. Patients in the experimental arm with R0 resection received adjuvant nivolumab.\n\nRESULTS: The MRD detection rate was 9.6%. MRD after surgery or during adjuvant treatment was associated with inferior event-free survival (EFS) and overall survival [OS; hazard ratio (HR): 10.2; 95% confidence interval (CI), 3.7-28.3 and HR: 10.0; 95% CI, 2.0-49.9, respectively]. All patients with MRD-negative plasma samples in at least two time points were alive [HR: not estimable (NE), P < 0.001], with only one relapse (HR: 41.6; 95% CI, 5.0-348.8), corresponding to a patient relapsing with a single brain metastasis. MRD enhanced the prognostic value of pCR for both EFS (P < 0.001) and OS (P = 0.015). Among non-pCR patients, MRD remained a significant prognostic marker (HR: 6.2; 95% CI, 2.2-17.1 and HR: 6.5; 95% CI, 1.3-32.5, for EFS and OS respectively). All non-pCR patients with MRD-negative results in at least two time points were alive (HR: NE, P = 0.025), with one relapse (HR: 19.9; 95% CI, 2.4-165.6), corresponding to the aforementioned case.\n\nCONCLUSIONS: MRD may refine prognostic evaluation beyond pCR in resectable NSCLC undergoing perioperative chemoimmunotherapy."
     }
   ]
 }
