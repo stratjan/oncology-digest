@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-24T05:58:23.263694Z",
+  "generated": "2026-02-25T05:58:38.849147Z",
   "items": [
     {
       "pmid": "41419100",
@@ -41,27 +41,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41593906/",
       "url_doi": "https://doi.org/10.1080/07853890.2026.2620201",
       "abstract": "OBJECTIVE: To investigate the clinical characteristics and impact of\n\nMETHODS: A total of 2,821 patients with NSCLC who underwent next-generation sequencing were retrospectively included. The frequency and types of"
-    },
-    {
-      "pmid": "41640088",
-      "doi": "10.1080/14737140.2026.2623059",
-      "title": "The role of zongertinib, a highly selective tyrosine kinase inhibitor, in targeting HER2-mutant NSCLC: a bench-to-bedside review.",
-      "journal": "Expert review of anticancer therapy",
-      "pubdate": "2026-02-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 0.926,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41640088/",
-      "url_doi": "https://doi.org/10.1080/14737140.2026.2623059",
-      "abstract": "INTRODUCTION: HER2 is mutated in 2-4% of non-small cell lung cancers (NSCLC) and is associated with poor prognosis. Tyrosine kinase inhibitors (TKIs) targeting HER2 have historically been hampered by insufficient efficacy against exon 20 insertion mutations and lack of specificity, resulting in off-target adverse events. Zongertinib is an oral, irreversible HER2-selective TKI that spares wild-type EGFR, thereby minimizing associated toxicities. Zongertinib was recently approved in the United States (accelerated), China (conditional), and Japan for patients with previously treated advanced\n\nAREAS COVERED: This article outlines the discovery and clinical development of zongertinib that led to these approvals. We discuss the first-in-human Beamion LUNG-1 trial (NCT04886804), in which zongertinib demonstrated encouraging and durable activity, with a manageable safety profile, in patients with\n\nEXPERT OPINION: Zongertinib is the first oral TKI approved for"
     },
     {
       "pmid": "41718995",
@@ -500,6 +479,26 @@
       "abstract": "BACKGROUND: To investigate the preclinical characterization of dirozalkib, a novel anaplastic lymphoma kinase (ALK) inhibitor, and its safety, pharmacokinetics, and preliminary antitumor activity in advanced non-small cell lung cancer (NSCLC).\n\nMETHODS: The preclinical inhibitory effects of dirozalkib were evaluated in vitro and in vivo. The first-in-human phase I study (NCT05055232) enrolled patients with advanced NSCLC harboring ALK or ROS1 rearrangements. Participants received 50-600 mg/day dirozalkib following a 3 + 3 dose-escalation design with rapid titration, and 300-600 mg/day in the dose-expansion phase. The primary endpoint was safety.\n\nRESULTS: Dirozalkib demonstrated potent inhibition of ALK fusion-positive cell lines and common resistance mutations, and suppressed tumor growth in patient-derived and intracranial xenograft lung cancer models. No dose-limiting toxicities occurred, establishing 600 mg/day as the maximum tolerated dose. Among 114 patients enrolled, 55 (48.2 %) experienced grade ≥ 3 treatment-emergent adverse events, most commonly diarrhea (8.8 %). The objective response rate (ORR) among patients with ALK rearrangements was 47.4 % (9/19) and 46.3 % (38/82) in the dose-escalation and dose-expansion cohort (89.3 % in ALK inhibitor-naive patients receiving 500 mg/day). After a single dose of 50-600 mg dirozalkib, median time to maximum concentration ranged from 3 to 4 h. C\n\nCONCLUSIONS: Dirozalkib exhibited favorable safety, antitumor activity and pharmacokinetics in patients with advanced ALK-rearranged NSCLC. The recommended phase II dose was 500 mg/day.\n\nTRIAL REGISTRATION: Clinicaltrials.gov (NCT05055232) and Chinadrugtrials.org.cn (CTR20190984)."
     },
     {
+      "pmid": "41733509",
+      "doi": "10.1016/j.jtho.2026.103558",
+      "title": "Corrigendum to 'Surveillance With Fluorine-18 Fluorodeoxyglucose Positron Emission Tomography/Computed Tomography of Patients With Stage I-to-III Lung Cancer After Completion of Curative treatment (SUPE_R): A Randomized Controlled Trial' [Journal of Thoracic Oncology Volume 20 Issue 8 (2025) 1086-1097].",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2026-02-24T00:00:00+00:00",
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41733509/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103558",
+      "abstract": null
+    },
+    {
       "pmid": "41731061",
       "doi": "10.1038/s41571-026-01131-4",
       "title": "Innovative approaches for lung cancer screening and interception.",
@@ -532,8 +531,8 @@
       "entity": "NSCLC",
       "trial_type": null,
       "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
+      "is_oa": true,
+      "oa_url": "https://www.jtcvs.org/article/S0022-5223(26)00088-7/pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41723743/",
@@ -621,45 +620,24 @@
       "abstract": "Cytokines dimerize two receptor chains to activate Janus kinases and STAT transcription factors that regulate immune cells but have therapeutic liabilities. We engineered \"Trikines\" to compel"
     },
     {
-      "pmid": "41723914",
-      "doi": "10.1016/j.lungcan.2026.109338",
-      "title": "Upfront treatment with osimertinib in lung cancer patients with and without active brain metastases, and the role of ctDNA as a biomarker; a phase II clinical trial (the FIOL study).",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-18T00:00:00+00:00",
+      "pmid": "41734479",
+      "doi": "10.1016/j.ejca.2026.116579",
+      "title": "Real-world outcomes of immunotherapy discontinuation at two years in advanced non-small cell lung cancer: Final results of the I-STOP study.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2026-02-19T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
-      "entity": "Thoracic-other",
-      "trial_type": "Phase II",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://www.lungcancerjournal.info/article/S0169-5002(26)00082-6/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41723914/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109338",
-      "abstract": "INTRODUCTION: Osimertinib has documented CNS activity, but there is little data on the effect on untreated brain metastases (BM). We assessed the efficacy of osimertinib in patients with or without active BM and investigated whether circulating tumour DNA (ctDNA) at baseline provides prognostic information.\n\nMETHODS: In this single-arm phase II clinical trial, patients with EGFR-mutated non-small cell lung cancer (NSCLC), with (cohort A) or without active BM (cohort B), received first-line treatment with osimertinib. The primary endpoint was objective response rate (ORR). Baseline plasma samples were analysed for the presence of ctDNA-mutations.\n\nRESULTS: One hundred patients were included: 46 in cohort A and 54 in cohort B. The ORR was 72.0% for the entire study population, and 69.6% and 74.1% in cohort A and B, respectively. Patients with measurable BM had an intracranial ORR of 81.8%. No significant differences in progression-free survival (PFS) or overall survival (OS) were observed between the two cohorts. Harbouring the L858R-mutation or uncommon EGFR-mutations was associated with a significantly shorter PFS (p = 0.010) and OS (p = 0.002) than for the exon19-deletion, irrespective of the presence of BM. ctDNA-mutations were detected in 83 of 97 available baseline plasma samples (85.6%). Absence of baseline ctDNA was associated with significantly improved PFS (p = 0.042) and OS (p = 0.028).\n\nCONCLUSIONS: First-line osimertinib treatment is effective in patients with active BM. The subtype of EGFR-mutations and the presence of ctDNA at baseline are all associated with poorer outcomes, and seem to be stronger predictors than the presence of BM."
-    },
-    {
-      "pmid": "41708831",
-      "doi": "10.1038/s41571-026-01123-4",
-      "title": "Reconsidering adjuvant and perioperative immune-checkpoint inhibition: de-escalation, expansion and personalization.",
-      "journal": "Nature reviews. Clinical oncology",
-      "pubdate": "2026-02-18T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "Other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
       "is_oa": false,
       "oa_url": null,
       "metric_name": null,
       "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41708831/",
-      "url_doi": "https://doi.org/10.1038/s41571-026-01123-4",
-      "abstract": "Anti-PD-L1 antibodies have transformed cancer treatment and are increasingly being used in patients with early-stage malignancies including in the adjuvant and neoadjuvant settings. In certain cancers, earlier administration of these agents reduces the risk of metastatic disease and might improve overall survival. Thus far, however, overall survival benefits in the adjuvant setting have yet to be clearly demonstrated in all tumour types probably owing to a lack of long-term follow-up and/or the confounding effects of anti-PD-L1 antibody monotherapy and/or combinations in the metastatic setting, in which these agents can also produce durable responses. In this Review, we explore the optimal use of anti-PD-L1 antibodies in the adjuvant and perioperative settings, using examples from melanoma, renal cell carcinoma and non-small-cell lung cancer. We examine de-escalation strategies, including shortening treatment duration or deferring therapy to time of recurrence, at which point anti-PD-L1 antibodies might be more likely to be administered in combination; the expansion of certain specific indications, potentially leading to more effective combinations and/or use in biomarker-defined patients with high-risk early-stage disease; and selecting the most appropriate indication, with emerging data suggesting that neoadjuvant or perioperative use of anti-PD-L1 antibodies might be more effective than adjuvant use in certain cancers, as well as the possibility of personalization of therapy guided by biomarkers such as circulating tumour DNA or other emerging assays."
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41734479/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2026.116579",
+      "abstract": "BACKGROUND: The optimal duration of immune checkpoint inhibitors (ICIs) in advanced non-small cell lung cancer (NSCLC) remains undefined. While most trials adopt a 2-year treatment cap, evidence supporting this strategy in real-world practice is limited. The I-STOP study evaluated outcomes of patients with advanced NSCLC who achieved disease control after 24 months of ICI therapy and either discontinued or continued treatment.\n\nMETHODS: I-STOP is a multicenter, observational study including patients with advanced NSCLC treated with single-agent PD-1/PD-L1 inhibitors for ≥ 24 months in 12 Italian institutions. Patients with complete response, partial response, or stable disease at 24 months were categorized according to treatment discontinuation. Progression-free survival (PFS) and overall survival (OS) were compared using 24-month landmark analyses; prognostic factors were assessed through Cox models.\n\nRESULTS: Among 173 eligible patients (median follow-up 55.4 months), 28 (16.2 %) discontinued ICI therapy at 24 months. Median OS was not reached in either cohort, with no difference between discontinuation and continuation groups (HR 1.22, 95 % CI 0.50-2.95; p = 0.66). Median PFS was 35.6 months in the discontinuation group versus not reached in the continuation group (HR 2.16, 95 % CI 1.04-4.48; p = 0.035). Higher progression risk after discontinuation was observed in patients with PD-L1 ≤ 50 %, brain metastases, ECOG PS ≥ 1, or KRAS mutations. Rechallenge achieved a 62.5 % response rate, and late grade 3-4 immune-related events were uncommon (3.5 %).\n\nCONCLUSIONS: Discontinuing ICIs at 24 months appears to be a safe strategy for patients with durable disease control, without compromising survival outcomes. Nonetheless, some subgroups may benefit from continued treatment. Larger prospective studies are needed to identify which patients could gain from prolonged immunotherapy."
     }
   ]
 }
