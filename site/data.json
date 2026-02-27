@@ -1,26 +1,6 @@
 {
-  "generated": "2026-02-26T05:55:40.720330Z",
+  "generated": "2026-02-27T05:50:01.415361Z",
   "items": [
-    {
-      "pmid": "41718995",
-      "doi": "10.1007/s11239-026-03252-0",
-      "title": "Trends in pulmonary embolism mortality among older adults with lung cancer in the united States, 1999-2020.",
-      "journal": "Journal of thrombosis and thrombolysis",
-      "pubdate": "2026-02-20T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 0.736,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41718995/",
-      "url_doi": "https://doi.org/10.1007/s11239-026-03252-0",
-      "abstract": "The concomitant occurrence of pulmonary embolism (PE) and lung cancer (LC) poses a significant mortality risk in the United States. Though both diseases are well studied across the literature individually, their combined burden remains unexplored. To evaluate the temporal trends in PE-related mortality among US adults ≥ 65 years with lung cancer from 1999 to 2020, stratified by demographic and geographic variables, by analyzing death certificates related to PE and lung cancer from the CDC WONDER database. We queried the CDC WONDER database for mortality trend analysis with multiple causes of death, having PE and LC, both as either contributing or underlying causes of death, from 1999 to 2020. AAMRs were calculated per 1,000,000 people, stratified by sex, race, geography, and metropolitan status. AAPCs and APCs with 95% CI were evaluated through Joinpoint regression. Between 1999 and 2020, there were 32,409 deaths among adults (aged ≥ 65) with PE and LC, with the majority of fatalities manifesting in medical facilities (60.52%). The overall AAMR increased significantly from 26 (95% CI: 24.3 to 27.7) in 1999 to 41.2 (95% CI: 39.4 to 42.9) in 2020, with an AAPC of 1.92 (95% CI: 1.10 to 2.76, p < 0.001). Men had higher mortality rates with an AAMR of 44.4 (95% CI: 43.8 to 45.1) than 28.4 (95% CI: 27.9 to 28.8) in females. In race/ethnicity, NH-Blacks possessed the highest AAMRs of 44.4 (95% CI: 42.9 to 45.8) among other races. In regional stratification, the Midwest region showed the highest AAMRs of 39.3 (95% CI: 38.4 to 40.1), with the highest AAMRs of 58 (95% CI: 47.5 to 68.4) in Vermont, and non-metropolitan areas had higher AAMRs of 36.06 (95% CI: 35.1 to 37) (Graphical abstract). This study highlights the potential demographic disparities in PE and LC-related mortalities among older adults, underscoring the necessity for improved interventions, early screening, public health awareness programs, and equity in healthcare access.Clinical trial registration: Not applicable, as this is a retrospective observational study that relies on publicly available data."
-    },
     {
       "pmid": "41671625",
       "doi": "10.1016/j.lungcan.2026.108945",
@@ -41,6 +21,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41671625/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108945",
       "abstract": "BACKGROUND: Anaplastic lymphoma kinase (ALK) or ROS proto-oncogene 1 (ROS1) rearranged non-small cell lung cancers (NSCLC) develop bypass resistance mechanisms that activate mitogen-activated protein kinase (MAPK) pathway signaling. We conducted a study to evaluate the ALK/ROS1 inhibitor lorlatinib combined with MAPK pathway inhibitors: binimetinib (MEK inhibitor) or TNO155 (SHP2 inhibitor).\n\nPATIENTS AND METHODS: This phase IB study employed a 3 + 3 design. Patients who had disease progression on ALK or ROS1 inhibitors received lorlatinib (50 mg or 75 mg daily) with binimetinib (30 mg or 45 mg BID) or TNO155 (40 mg or 50 mg daily). The primary objective of phase 1 was determining the recommended phase 2 dose for the combinations. The primary objective of the phase 2 portion was determining the objective response rate (ORR) of each combination. Secondary endpoints included safety and tolerability and progression-free survival.\n\nRESULTS: In this phase IB clinical trial, 17 patients received lorlatinib and binimetinib; two patients received lorlatinib with TNO155. All patients with ALK + NSCLC had received prior lorlatinib. Among 15 evaluable patients in the lorlatinib-binimetinib cohort, one (6.7%) had a partial response (duration of response: 114 days), eight (53.3%) had stable disease, and six (40%) experienced primary progression. Median progression-free survival on lorlatinib-binimetinib was 51 days (95% CI 39-107). Treatment-related adverse events associated with lorlatinib-binimetinib were primarily grade 1-2, including rash (65%), edema (47%), and lipid abnormalities (47%). One patient discontinued treatment for grade 2 retinopathy. In the lorlatinib-TNO155 arm, both patients stopped treatment due to rapid disease progression and pleural effusions, limiting efficacy evaluation. The study was terminated due to slow accrual before advancing to the phase 2 component.\n\nCONCLUSIONS: Regimens co-targeting the MAPK pathway and ALK or ROS1 had limited efficacy in unselected patients with lorlatinib-resistant NSCLC, underscoring the need for more effective and biomarker-informed treatment strategies."
+    },
+    {
+      "pmid": "41747890",
+      "doi": "10.1016/j.jtho.2026.103651",
+      "title": "Systemic and Intracranial Efficacy and Safety of Trastuzumab Deruxtecan in Patients with HER2-Mutant Non-Small Cell Lung Cancer across Treatment Lines: Evidence from the TRACER/HERTras Real-World Cohort.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "pubdate": "2026-02-24T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.jtho.2026.103651",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41747890/",
+      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103651",
+      "abstract": "INTRODUCTION: HER2 mutations define a distinct, therapeutically actionable subset of non-small cell lung cancer (NSCLC). Trastuzumab deruxtecan (T-DXd) has demonstrated strong activity in clinical trials, but real-world data are limited.\n\nMETHODS: We conducted a retrospective, multinational cohort study of patients with advanced HER2-mutant NSCLC treated with T-DXd outside clinical trials between August 2021 and January 2025 across 68 centers in Europe and Israel. The primary endpoint was objective response rate (ORR). Secondary endpoints included progression-free survival (PFS), overall survival (OS), intracranial efficacy, and safety.\n\nRESULTS: Among 168 patients (median age 62 years; 59% female; 56% never-smokers), the ORR was 54.8% (95%CI, 46.9-62.4) and disease control rate 88.7% (95%CI, 82.9-93.1). Median PFS was 7.2 months (95%CI, 6.2-9.7) and OS 18.3 months (95%CI, 13.3-24.8). Treatment-naïve patients (n=18) achieved an ORR of 72.2% (95%CI, 46.5-90.3) and median OS of 22.1 months (95%CI, 10.0-NE). Patients with measurable brain metastases (n=27) had an intracranial ORR of 74.1% (95%CI, 53.7-88.9), including 25.9% complete responses. Grade ≥3 treatment-related adverse events occurred in 32% of patients. Interstitial lung disease (ILD)/pneumonitis occurred in 14% (four fatal cases) of patients, without consistent predictors.\n\nCONCLUSIONS: In the largest real-world cohort reported to date, T-DXd demonstrated robust systemic and intracranial activity in HER2-mutant NSCLC, including treatment-naïve patients and those with active brain metastases who were largely excluded from prior studies. Toxicity was consistent with previous reports, with ILD remaining the main safety concern. These findings support integration of HER2-targeted therapies into evolving treatment algorithms."
     }
   ]
 }
