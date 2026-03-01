@@ -1,6 +1,26 @@
 {
-  "generated": "2026-02-28T05:31:14.232658Z",
+  "generated": "2026-03-01T05:51:03.524987Z",
   "items": [
+    {
+      "pmid": "41761743",
+      "doi": "10.1002/cncr.70284",
+      "title": "Multiomic characterization of small cell lung cancer: Real-world insights into therapeutic opportunities.",
+      "journal": "Cancer",
+      "pubdate": "2026-03-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 2.947,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41761743/",
+      "url_doi": "https://doi.org/10.1002/cncr.70284",
+      "abstract": "BACKGROUND: The dominant expression of lineage-related transcription factors (TFs)-ASCL1, NEUROD1, POU2F3, and, controversially, YAP1-has enabled the classification of small cell lung cancer (SCLC) into distinct subtypes (SCLC-A/N/P/Y, respectively). Emerging evidence suggests that a T cell-inflamed phenotype characterizes an SCLC subset. A large-scale multiomic analysis of samples from real-world patients with SCLC was conducted to examine the expression of clinically relevant biomarkers across SCLC subtypes.\n\nMETHODS: Comprehensive molecular profiling of patient samples (N = 944) was performed via next-generation DNA sequencing (592-gene panel or whole exome), RNA sequencing (whole transcriptome), and immunohistochemistry. Tumors were stratified on the basis of the dominant expression of an individual TF (SCLC-A/N/Y/P subtypes), coexpression of multiple TFs (mixed), or low expression of all four TFs (TF-) for characterization of immune-related gene signatures (T-cell inflamed, natural killer cell, and Stimulator of Interferon Genes pathway) and clinically relevant target genes.\n\nRESULTS: The cohort was composed of 25.6% SCLC-A, 10.2% SCLC-N, 12.5% SCLC-Y, 4.3% SCLC-P, 19.5% SCLC TF-, and 27.9% mixed subtypes. The SCLC-Y subtype exhibited the highest expression of immune-related gene signatures, with comparable expression observed in mixed samples expressing YAP1. Additionally, expression of clinically relevant target genes found in SCLC-A (DLL3, SEZ6, and BCL2) and SCLC-N (SSTR2) was increased in mixed samples expressing ASCL1 and NEUROD1. The TF- subtype was not associated with increased immune-related signatures or other target genes.\n\nCONCLUSIONS: This large-scale multiomic analysis revealed significant associations between SCLC subtypes and specific immune signatures and comutations. These findings provide insights into the molecular heterogeneity of SCLC, and highlight potential biomarkers for targeted therapies."
+    },
     {
       "pmid": "41419100",
       "doi": "10.1016/j.canlet.2025.218223",
@@ -62,6 +82,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41662869/",
       "url_doi": "https://doi.org/10.17849/insm-53-1-1-7.2",
       "abstract": "Lung cancer is the most common cause of cancer-related mortality worldwide. With the introduction of low-dose computed tomography (LDCT), detection of adenocarcinoma in situ (AIS) and minimally invasive adenocarcinoma (MIA) are increasingly being found in young, never-smoking females in Asia. There are survival studies suggesting that these early cancers, with resection, have no recurrence in 5 and even 10 years and therefore might be considered cured, allowing for favorable underwriting consideration for life insurance. However, other studies have shown incidences of secondary primary lung cancers (SPLCs) occurring within 10 years after surgical resections of AIS and MIA tumors, but with their clinical course and response to treatment appear to be better than original primary lung cancers, potentially still allowing for insurance with rating. The goal of this article is to review the evidence both for and against insuring these populations of lung cancer patients."
+    },
+    {
+      "pmid": "41702246",
+      "doi": "10.1016/j.ejca.2026.116256",
+      "title": "Ten-year overall survival in resectable stage-III NSCLC - Results of the randomized ESPATUE trial - Long-term survival and competing risk analysis.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2026-03-11T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41702246/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2026.116256",
+      "abstract": "INTRODUCTION: More stage III non-small-cell lung cancer patients experience long-term survival (OS). ESPATUE-trial looked at surgery versus boost-radiochemotherapy following induction chemotherapy, consisting of three cycles of cisplatin 50 mg/m\n\nMETHODS: Complete trial design has been published. We updated OS for patients still alive at 2/2022. Patients were followed up on a yearly basis and showed up to get follow-up imaging and reevaluation.\n\nRESULTS: From 1/2004 until 1/2013 246 patients medically and functionally operable were enrolled. Following induction 161 considered resectable were randomized to radiochemotherapy-boost(arm 1/A;n = 80) or definitive surgery(arm 2/B;n = 81).The median time from randomization to last evaluation was 145.1 months(interquartile range 121.5-197.8). Patients in the arm that included surgery(B) had a 10-year overall survival rate of 29.9 %(20.2-40.3) and those with radiochemotherapy(A) a rate of 28.3 %(18.8-38.5; p = 0.70 log rank). Rates of progression-free survival, death from second priomary lung cancer, death from first lung cancer, treatment related death, death from second cancer without lung cancer were comparable in both study arms CONCLUSIONS: Long-term survival serves as baseline information for ongoing immunotherapy-based stage III protocols. No significant differences between local modalities radiochemotherapy and surgery were observed. A competing-risk-of-deaths-analysis showed no relevant preference for one arm. Death from comorbidities and death from second lung cancer remain relevant long-term-risks."
+    },
+    {
+      "pmid": "41633313",
+      "doi": "10.1016/j.ejca.2026.116265",
+      "title": "Institutional variability in testing for actionable genetic alterations in patients with stage IIIB/C or IV non-small cell lung cancer: A real-world study from the German prospective, observational, multicenter CRISP registry (AIO-TRK-0315).",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "pubdate": "2026-03-11T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Prospective (non-RCT)",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ejca.2026.116265",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41633313/",
+      "url_doi": "https://doi.org/10.1016/j.ejca.2026.116265",
+      "abstract": "BACKGROUND: Molecular testing in NSCLC is essential for treatment selection, yet routine implementation remains inconsistent across institutions. Clinical evidence suggests that variability in testing may not be explained by patient or tumor characteristics but might be driven by institutional factors, potentially leading to adverse outcomes. We examined the extent to which variability in AGA testing is attributable to the treating institution.\n\nMETHODS: We analyzed 6437 adults with stage IIIB/C or IV NSCLC enrolled in the prospective German real-world registry CRISP (2016-2022). Logistic mixed-effects models with AGA testing as the primary outcome were used to determine institutional variability across 171 institutions. Models included patient, tumor, and treatment-related fixed effects with institutions as random effects. Intraclass correlations (ICC) quantified institutional variability unexplained by other covariates. Institution type was tested in secondary analysis, and overall survival in exploratory analysis.\n\nFINDINGS: AGA testing was performed in 77.9 % of patients (n = 5016). Predicted probabilities for testing use ranged from 30.5 % to 93.2 % across institutions. Institutions significantly influenced testing use (p < 0.001), accounting for 21.4 % of the total variance. Variability significantly differed by institution type and was more pronounced in subgroups, e.g., squamous histology (ICC 29.5 %) and KRAS testing (ICC 34.4 %). Absence of AGA testing was independently associated with inferior survival (HRadj 1.11, 95 % CI 1.01-1.23, p = 0.029).\n\nINTERPRETATION: Substantial institutional variability exists in AGA testing for NSCLC, which was unexplained by patient or tumor characteristics. This objective evaluation of institution-based variability in testing may emphasize the importance of practice patterns on patient care and may therefore provide an avenue for change."
     },
     {
       "pmid": "41671628",
@@ -436,46 +496,6 @@
       "abstract": "Lung cancer (LC) remains the leading cause of cancer-related mortality among women worldwide. Compared to men, LC in women presents distinct epidemiologic, biological, and clinical characteristics. A large proportion of LC cases in women occur in never-smokers, underscoring the important roles of environmental exposures, genetic susceptibility, and hormonal influences in disease pathogenesis. LC in women also displays unique molecular profiles, with a higher prevalence of actionable alterations such as epidermal growth factor receptor (EGFR) mutations and anaplastic lymphoma kinase (ALK) rearrangements, which inform targeted therapy selection. Despite advances in chemotherapy, targeted agents, and immunotherapy, sex-based differences in treatment efficacy, toxicity, and survivorship persist and remain incompletely understood. Additional barriers, including limited access to LC screening and the underrepresentation of women in clinical trials, further constrain the application of evidence-based interventions for women. This review synthesizes latest evidence on epidemiology, risk factors, molecular features, screening, treatment outcomes, and survivorship challenges in women with LC with a deep focus on novel approaches to overcome current barriers and disparities to improve prevention, early detection, treatment, and long-term survivorship care."
     },
     {
-      "pmid": "41546895",
-      "doi": "10.1016/j.lungcan.2025.108818",
-      "title": "Prognostic value of preoperative ctDNA and pathological venous invasion for recurrence in EGFR-mutated non-small cell lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-03-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2025.108818",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41546895/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2025.108818",
-      "abstract": "INTRODUCTION: Curative surgery followed by adjuvant osimertinib according to pathological stage (pStage) is standard for resectable epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC). Nevertheless, recurrence remains a concern even in Stage IA, for which adjuvant osimertinib is not indicated. We evaluated the utility of circulating tumor DNA (ctDNA) to predict recurrence in patients with resected pStage I-III EGFR-mutated NSCLC and examined prognostic value of preoperative biomarkers and pathological features.\n\nMETHODS: Between January 2017 and May 2020, 382 patients with lung tumors underwent surgery at Kanazawa University Hospital, including 88 with NSCLC harboring common EGFR mutations. Preoperative ctDNA was analyzed using droplet digital PCR, targeting EGFR mutations. Patients were followed for up to 6.4 years, and disease-free survival (DFS) and overall survival (OS) were evaluated.\n\nRESULTS: Preoperative ctDNA positivity was detected in 26.1 % and venous invasion in 39.8 %. ctDNA-positive patients had lower 60-month DFS (54.1 % vs. 84.1 %; HR = 3.25; 95 % CI, 1.13-9.21; p = 0.028) and 60-month OS (65.1 % vs. 95.9 %; HR = 6.10; 95 % CI, 1.11-33.46; p = 0.037). Venous invasion was independently associated with poorer DFS (HR = 8.73; 95 % CI, 1.81-41.93; p = 0.0068). In combined analyses, no recurrences occurred in the double-negative, whereas the double-positive had a lower 60-month DFS than the single-positive (HR = 3.61; 95 % CI, 1.19-10.93; p = 0.023).\n\nCONCLUSION: Preoperative ctDNA detection and pathological venous invasion provide complementary prognostic information, and venous invasion is an independent predictor of recurrence risk in EGFR-mutated NSCLC. Combined assessment may refine postoperative risk stratification and inform perioperative management."
-    },
-    {
-      "pmid": "41546894",
-      "doi": "10.1016/j.lungcan.2026.108918",
-      "title": "Combined intrathecal therapy via Ommaya reservoir and whole-brain radiotherapy improves survival in EGFR-mutant NSCLC patients with leptomeningeal metastases: a real-world cohort study.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-03-01T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41546894/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.108918",
-      "abstract": "OBJECTIVE: This study aimed to evaluate the survival benefit of combined intrathecal treatment (IT) via Ommaya reservoir and whole-brain radiotherapy (WBRT) in EGFR-mutant non-small cell lung cancer (NSCLC) patients with leptomeningeal metastases (LM).\n\nMETHODS: We retrospectively analyzed EGFR-mutant NSCLC patients with LM diagnosed between January 2019 and September 2024. Patients were included if they had cytologically or radiologically confirmed LM and prior EGFR-TKI exposure. Clinical data, cerebrospinal fluid (CSF) profiles (cytology, biochemistry, molecular features), and treatment details were collected. Local therapies included WBRT (30-37.5 Gy in 10-15 fractions) and IT pemetrexed via Ommaya reservoir (10-20 mg weekly for 4 weeks, then bi-weekly for 2 months, followed by monthly maintenance). Overall survival (OS) was analyzed using Kaplan-Meier method and Cox regression. A prognostic nomogram was developed and validated.\n\nRESULTS: Among 200 included patients, the median OS was 12.3 months (95% CI: 10.8-13.8). Patients receiving local therapy (n = 149) had longer OS than those without (n = 51) (13.1 vs. 8.8 months; HR = 0.78, p = 0.001). The combination of IT and WBRT was associated with the best survival outcome (median OS 18.5 months). In CSF analysis, the initial cytology positivity rate was 74.4% (128/172), and normal lactate dehydrogenase (LDH) and chloride levels were associated with longer OS (p < 0.05). Multivariate analysis identified ECOG score, prior third-generation TKI, third-generation TKI plus anti-angiogenic therapy, and local therapy as independent prognostic factors.\n\nCONCLUSION: The combination of IT via Ommaya reservoir and WBRT may result in better survival in EGFR-mutant NSCLC patients with LM and represents a promising treatment strategy for this patient population."
-    },
-    {
       "pmid": "41529222",
       "doi": "10.1200/JCO-25-01828",
       "title": "Adjuvant Durvalumab in Completely Resected Early-Stage Non-Small Cell Lung Cancer.",
@@ -494,6 +514,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41529222/",
       "url_doi": "https://doi.org/10.1200/JCO-25-01828",
       "abstract": "PURPOSE: Adjuvant immunotherapy improved patient outcomes in two trials in completely resected non-small cell lung cancer (NSCLC), but with conflicting primary end point results. The Canadian Cancer Trials Group BR.31 trial evaluated adjuvant durvalumab in completely resected early-stage NSCLC.\n\nMETHODS: Following resection of stage IB (≥4 cm) to IIIA NSCLC (American Joint Committee on Cancer 7th Edition) and optional adjuvant chemotherapy, patients were randomly assigned 2:1 to durvalumab 20 mg/kg or placebo 20 mg/kg once every 4 weeks for 12 cycles. Random assignment was stratified by stage, extent of nodal dissection, tumor cell (TC) PD-L1 expression, adjuvant chemotherapy use, and center. The primary end point was investigator-assessed disease-free survival (DFS). Secondary outcomes included overall survival (OS), adverse events, and quality of life. The primary analysis was in the subgroup with cancers that had a PD-L1 TC expression ≥25%, no common activating\n\nRESULTS: Of 1,415 patients randomly assigned, 1,219 (86%) had\n\nCONCLUSION: Adjuvant durvalumab following complete resection was not associated with improvement in DFS compared with placebo in"
+    },
+    {
+      "pmid": "41763495",
+      "doi": "10.1016/j.ijrobp.2026.02.238",
+      "title": "Pretreatment risk model for radiation-induced lymphopenia is associated with adjuvant durvalumab efficacy in patients with unresectable stage III NSCLC.",
+      "journal": "International journal of radiation oncology, biology, physics",
+      "pubdate": "2026-02-26T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.ijrobp.2026.02.238",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41763495/",
+      "url_doi": "https://doi.org/10.1016/j.ijrobp.2026.02.238",
+      "abstract": "INTRODUCTION: Severe radiation-induced lymphopenia (RIL) during concurrent chemoradiotherapy (CCRT) for NSCLC has been associated with poorer outcomes and reduced immunotherapy efficacy. Because RIL often develops late during CCRT, identifying patients at risk before treatment may be clinically relevant. This study aimed to develop and validate a nomogram based on pretreatment predictors for severe RIL, and secondarily to explore associations between predicted RIL risk and adjuvant durvalumab-associated survival.\n\nMETHODS: A retrospective development cohort of consecutive patients with NSCLC treated with CCRT (2010-2019) was established, along with an independent external validation cohort from other institutions. A multivariable logistic regression model was developed to predict severe RIL, with internal and external validation. Survival analyses (progression-free and overall survival) were performed as exploratory, hypothesis-generating analyses stratified by predicted RIL risk and durvalumab use.\n\nRESULTS: Severe RIL was defined as an absolute lymphocyte count (ALC) nadir of <0.24 K/µL. Among 451 patients, 164 (36%) developed severe RIL. Independent predictors were older age, cN3-stage, larger planning target volume, >30 radiotherapy fractions, higher mean lung dose, and lower baseline ALC (c-statistic: 0.70). External validation (130 patients, 41 [32%] with severe RIL) yielded similar discrimination (c-statistic: 0.69). In exploratory analyses, durvalumab use was associated with improved survival in patients with a low predicted risk of severe RIL, whereas no statistically significant association was observed in those with a high predicted risk, in both cohorts.\n\nCONCLUSIONS: We developed and externally validated a pretreatment prediction model for severe RIL during CCRT for NSCLC with consistent performance. In exploratory analyses, an association between durvalumab use and improved survival was observed in patients with a low predicted risk of severe RIL, but not in those with a high predicted risk. This model may help identify patients for lymphopenia-mitigating strategies and inform more personalized immunotherapy approaches, pending prospective validation."
     },
     {
       "pmid": "41747725",
@@ -657,26 +697,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41731061/",
       "url_doi": "https://doi.org/10.1038/s41571-026-01131-4",
       "abstract": "Lung cancer remains the leading cause of cancer-related deaths worldwide, partly because many patients are diagnosed at late stages, highlighting the urgent need for effective early detection and intervention strategies. Low-dose computed tomography (LDCT)-based screening reduces lung cancer mortality in high-risk populations defined by age and smoking history; however, the uptake of LDCT remains low among eligible individuals. Compounding this issue, modelling studies estimate that nearly half of lung cancers occur in individuals who do not meet eligibility criteria for LDCT-based lung cancer screening under current guidelines. Moreover, LDCT-based screening has inherent limitations, including a high rate of false-positive results that can lead to unnecessary invasive procedures, as well as substantial costs that limit scalability. Major efforts have been made to identify novel biomarkers such as radiomic features and liquid biopsy assays to enhance the accuracy of lung cancer risk prediction. Furthermore, the increasing detection of pulmonary nodules by LDCT or diagnostic CT scans has highlighted the importance of therapeutic interventions that can enable interception of high-risk precancerous nodules and halt their progression to invasive disease. In this Review, we summarize the current state of lung cancer screening, the disparities and infrastructural considerations for optimal implementation, and future directions in the development of biomarkers and design of precancer interception strategies that could transform both lung cancer prevention and early intervention."
-    },
-    {
-      "pmid": "41723743",
-      "doi": "10.1016/j.jtcvs.2026.01.019",
-      "title": "Statistical and anatomical refinements for spread-through-air-spaces-positive non-small cell lung cancer resection analysis.",
-      "journal": "The Journal of thoracic and cardiovascular surgery",
-      "pubdate": "2026-02-22T00:00:00+00:00",
-      "pubtypes": [
-        "Letter"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://www.jtcvs.org/article/S0022-5223(26)00088-7/pdf",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41723743/",
-      "url_doi": "https://doi.org/10.1016/j.jtcvs.2026.01.019",
-      "abstract": null
     }
   ]
 }
