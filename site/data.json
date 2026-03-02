@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-01T05:51:03.524987Z",
+  "generated": "2026-03-02T05:50:50.105551Z",
   "items": [
     {
       "pmid": "41761743",
@@ -43,6 +43,26 @@
       "abstract": "Unresectable stage III non-small cell lung cancer (NSCLC) exhibits substantial heterogeneity and complexity. The landmark LAURA and POLESTAR studies have established a standard therapeutic model involving targeted consolidation therapy with osimertinib or aumolertinib after definitive chemoradiotherapy for NSCLC patients harboring EGFR-sensitive mutations. However, treatment strategies for patients with other driver gene mutations (e.g., ALK fusions, ROS1 rearrangement) still lack robust support from high-level evidence-based medical study. To enhance the standardization of diagnosis and treatment for unresectable stage III driver-positive NSCLC patients, the Radiotherapy Committee of the Chinese Society of Clinical Oncology convened an expert working group. This group identified common clinical practice issues and conducted an in-depth, problem-oriented analysis of domestic and international guidelines alongside evidence-based medical data. Through multiple rounds of comprehensive discussion and expert voting, this consensus was jointly developed. It provides evidence-based recommendations addressing frequently encountered clinical questions regarding unresectable stage III driver-positive NSCLC, aiming to serve as a key reference for clinical practice."
     },
     {
+      "pmid": "41764558",
+      "doi": "10.1186/s12967-026-07896-7",
+      "title": "Baseline PD-L1 expression on circulating immune cells as a predictor of survival and immune-related adverse events in extensive-stage small-cell lung cancer patients treated with durvalumab and carboplatin-etoposide (NCT04712903 Trial).",
+      "journal": "Journal of translational medicine",
+      "pubdate": "2026-02-28T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1186/s12967-026-07896-7",
+      "metric_name": "SJR",
+      "metric_value": 1.997,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41764558/",
+      "url_doi": "https://doi.org/10.1186/s12967-026-07896-7",
+      "abstract": null
+    },
+    {
       "pmid": "41757675",
       "doi": "10.1111/cas.70352",
       "title": "TGF-β Inhibitor Potentiates Osimertinib-Induced Anti-Tumor Immunity in Egfr-Mutant Lung Cancer.",
@@ -61,27 +81,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41757675/",
       "url_doi": "https://doi.org/10.1111/cas.70352",
       "abstract": "Immunotherapy for epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC) remains challenging. We previously found that EGFR-tyrosine kinase inhibitors induced antitumor immunity but also triggered immunosuppressive cytokines, including transforming growth factor-β (TGF-β), in Egfr-mutant lung cancer. Here, we investigate whether TGF-β inhibition potentiates osimertinib-induced antitumor immunity using a syngeneic mouse model of Egfr-mutated lung cancer, with cancer cells subcutaneously transplanted into wild-type C57BL/6J mice. We evaluated the antitumor effect of the combination therapy with osimertinib and either nintedanib (an indirect TGF-β inhibitor) or vactosertib (a specific TGF-β type I receptor kinase inhibitor). Changes in the tumor microenvironment during treatment were assessed using immunohistochemical staining, western blot analysis, and flow cytometry. We found that TGF-β expression was upregulated in the tumor treated with osimertinib. Nintedanib monotherapy showed no significant antitumor effect, whereas osimertinib combined with nintedanib significantly potentiates the antitumor effect compared with osimertinib monotherapy in vivo. Crucially, no additive effect of nintedanib on osimertinib monotherapy was observed in vitro. Combination therapy with osimertinib and nintedanib significantly increased effector T cells (CD8"
-    },
-    {
-      "pmid": "41662869",
-      "doi": "10.17849/insm-53-1-1-7.2",
-      "title": "Are There Types of Early-Stage Adenocarcinomas That Are Insurable?",
-      "journal": "Journal of insurance medicine (New York, N.Y.)",
-      "pubdate": "2026-02-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "Other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": "SJR",
-      "metric_value": 0.113,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41662869/",
-      "url_doi": "https://doi.org/10.17849/insm-53-1-1-7.2",
-      "abstract": "Lung cancer is the most common cause of cancer-related mortality worldwide. With the introduction of low-dose computed tomography (LDCT), detection of adenocarcinoma in situ (AIS) and minimally invasive adenocarcinoma (MIA) are increasingly being found in young, never-smoking females in Asia. There are survival studies suggesting that these early cancers, with resection, have no recurrence in 5 and even 10 years and therefore might be considered cured, allowing for favorable underwriting consideration for life insurance. However, other studies have shown incidences of secondary primary lung cancers (SPLCs) occurring within 10 years after surgical resections of AIS and MIA tumors, but with their clinical course and response to treatment appear to be better than original primary lung cancers, potentially still allowing for insurance with rating. The goal of this article is to review the evidence both for and against insuring these populations of lung cancer patients."
     },
     {
       "pmid": "41702246",
@@ -516,6 +515,26 @@
       "abstract": "PURPOSE: Adjuvant immunotherapy improved patient outcomes in two trials in completely resected non-small cell lung cancer (NSCLC), but with conflicting primary end point results. The Canadian Cancer Trials Group BR.31 trial evaluated adjuvant durvalumab in completely resected early-stage NSCLC.\n\nMETHODS: Following resection of stage IB (≥4 cm) to IIIA NSCLC (American Joint Committee on Cancer 7th Edition) and optional adjuvant chemotherapy, patients were randomly assigned 2:1 to durvalumab 20 mg/kg or placebo 20 mg/kg once every 4 weeks for 12 cycles. Random assignment was stratified by stage, extent of nodal dissection, tumor cell (TC) PD-L1 expression, adjuvant chemotherapy use, and center. The primary end point was investigator-assessed disease-free survival (DFS). Secondary outcomes included overall survival (OS), adverse events, and quality of life. The primary analysis was in the subgroup with cancers that had a PD-L1 TC expression ≥25%, no common activating\n\nRESULTS: Of 1,415 patients randomly assigned, 1,219 (86%) had\n\nCONCLUSION: Adjuvant durvalumab following complete resection was not associated with improvement in DFS compared with placebo in"
     },
     {
+      "pmid": "41764946",
+      "doi": "10.1016/j.lungcan.2026.109346",
+      "title": "Family history enrichment in Non-Small cell Lung Cancer: A cross-sectional - prospective study to inform referral for germline testing.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-26T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": "Prospective (non-RCT)",
+      "study_class": "Prospective",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lungcan.2026.109346",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41764946/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109346",
+      "abstract": "BACKGROUND: Family history of cancer (FHC) is a recognized proxy of inherited cancer susceptibility. In NSCLC, however, the clinical relevance of FHC remains poorly defined, and standardized approaches to identify patients enriched for pathogenic germline variants (PGVs) are lacking.\n\nMETHODS: FAHIC-Lung (NCT06196424) is a multicenter, cross-sectional/prospective observational study conducted in Italy. Consecutive patients with NSCLC were enrolled, detailed FHC data were collected using a dedicated questionnaire covering cancer type, age at diagnosis, degree of relatedness, smoking exposure, and other risk factors among relatives. A weighted FHC score integrating cancer burden across first-, second-, and third-degree relatives and accounting for family structure and degree of genetic relatedness was developed. Percentile-based thresholds (≥90th percentile, or ≥ 75th percentile with additional risk factors) were used to identify patients with enriched familial cancer profiles.\n\nRESULTS: Among 336 evaluable patients, median age at diagnosis was 67 years, 49.7% were female, and 25.9% were never smokers. Cancer in at least one parent was reported in 63.1% of cases, while 27.7% of patients had a personal history of multiple primary malignancies. The median total FHC score was 0.40 (interquartile range 0.12-0.67). Thirty-three patients (9.5%) exceeded the 90th percentile threshold, and 22 patients (6.5%) met the 75th percentile threshold in association with clinical enrichment criteria. Overall, 55 patients (16.4%) were identified as having enriched familial cancer risk and were selected as a target population for systematic genetic counseling and planned germline testing.\n\nCONCLUSIONS: In this prospective observational study, a standardized and weighted assessment of family history identified a clinically meaningful subset of patients with NSCLC enriched for familial cancer patterns. This framework provides a pragmatic approach to optimize referral to genetic counseling and supports targeted germline screening strategies beyond traditional smoking-based risk models. Prospective validation in the planned translational phase will clarify the clinical utility of this approach."
+    },
+    {
       "pmid": "41763495",
       "doi": "10.1016/j.ijrobp.2026.02.238",
       "title": "Pretreatment risk model for radiation-induced lymphopenia is associated with adjuvant durvalumab efficacy in patients with unresectable stage III NSCLC.",
@@ -534,6 +553,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41763495/",
       "url_doi": "https://doi.org/10.1016/j.ijrobp.2026.02.238",
       "abstract": "INTRODUCTION: Severe radiation-induced lymphopenia (RIL) during concurrent chemoradiotherapy (CCRT) for NSCLC has been associated with poorer outcomes and reduced immunotherapy efficacy. Because RIL often develops late during CCRT, identifying patients at risk before treatment may be clinically relevant. This study aimed to develop and validate a nomogram based on pretreatment predictors for severe RIL, and secondarily to explore associations between predicted RIL risk and adjuvant durvalumab-associated survival.\n\nMETHODS: A retrospective development cohort of consecutive patients with NSCLC treated with CCRT (2010-2019) was established, along with an independent external validation cohort from other institutions. A multivariable logistic regression model was developed to predict severe RIL, with internal and external validation. Survival analyses (progression-free and overall survival) were performed as exploratory, hypothesis-generating analyses stratified by predicted RIL risk and durvalumab use.\n\nRESULTS: Severe RIL was defined as an absolute lymphocyte count (ALC) nadir of <0.24 K/µL. Among 451 patients, 164 (36%) developed severe RIL. Independent predictors were older age, cN3-stage, larger planning target volume, >30 radiotherapy fractions, higher mean lung dose, and lower baseline ALC (c-statistic: 0.70). External validation (130 patients, 41 [32%] with severe RIL) yielded similar discrimination (c-statistic: 0.69). In exploratory analyses, durvalumab use was associated with improved survival in patients with a low predicted risk of severe RIL, whereas no statistically significant association was observed in those with a high predicted risk, in both cohorts.\n\nCONCLUSIONS: We developed and externally validated a pretreatment prediction model for severe RIL during CCRT for NSCLC with consistent performance. In exploratory analyses, an association between durvalumab use and improved survival was observed in patients with a low predicted risk of severe RIL, but not in those with a high predicted risk. This model may help identify patients for lymphopenia-mitigating strategies and inform more personalized immunotherapy approaches, pending prospective validation."
+    },
+    {
+      "pmid": "41764944",
+      "doi": "10.1016/j.lungcan.2026.109344",
+      "title": "Lack of impact of antibiotics and proton pump inhibitors on the efficacy of preoperative chemoimmunotherapy in locally advanced non-small cell lung cancer: A multicenter retrospective study.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-26T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41764944/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109344",
+      "abstract": "INTRODUCTION: Antibiotics and proton pump inhibitors (PPIs) have been associated with the reduced efficacy of immune checkpoint inhibitor (ICI) in patients with advanced non-small cell lung cancer (NSCLC). This study assessed the clinical impact of these medications in the neoadjuvant setting.\n\nPATIENTS AND METHODS: This multicenter retrospective study was conducted in 29 Japanese institutions. Between March 2023 and July 2024, 131 patients with resectable clinical stage II-III NSCLC who received neoadjuvant chemoimmunotherapy with nivolumab were enrolled. In total, 113 patients who underwent definitive surgery were included in the surgical outcome analysis. We investigated the association between the use of antibiotics and PPIs within 30 days before treatment initiation and clinicopathological factors, including the pathological complete response (pCR) and major pathological response (MPR).\n\nRESULTS: Among 113 patients, 5 (4.4%) had received antibiotics and 23 (20.4%) PPIs. Antibiotic and PPI use showed no significant differences in any clinicopathological factors. Antibiotic and PPI use was not significantly associated with the objective response rate (ORR), pCR, or MPR; antibiotic (use/non-use): 80.0%/70.4% (p = 1.000), 40.0%/35.8% (p = 1.000), 60.0%/59.6% (p = 1.000) and PPI (use/non-use): 78.3%/68.9% (p = 0.532), 43.5%/33.3% (p = 0.507), 60.9%/58.9% (p = 1.000).\n\nCONCLUSION: Prior use of antibiotics and PPIs was not significantly associated with radiological or pathological response of neoadjuvant ICI in patients with resectable NSCLC. Further studies with larger sample size and longer survival follow-up are needed."
+    },
+    {
+      "pmid": "41764945",
+      "doi": "10.1016/j.lungcan.2026.109347",
+      "title": "Outcomes and toxicities of immune checkpoint inhibitors in patients with lung cancer and pre-existing autoimmune disease.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-02-25T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.lungcan.2026.109347",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41764945/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109347",
+      "abstract": "BACKGROUND: Patients with pre-existing autoimmune disease (PAD) are often excluded from immune checkpoint inhibitor (ICI) clinical trials in thoracic oncology, creating uncertainty regarding their real-world safety and effectiveness in this population.\n\nPURPOSE: We conducted a retrospective matched cohort study to evaluate clinical outcomes and treatment-related toxicities of ICIs in lung cancer patients with PAD compared to matched controls without PAD.\n\nPROCEDURES: Using the provincial IMPACT-MB database, lung cancer patients with PAD were matched to controls by age and sex. Demographic, disease, and treatment data were extracted from medical records. Primary outcomes included toxicity, time to treatment failure (TTF), overall survival (OS), and objective response rate (ORR). Associations were determined using Cox and logistic regression modeling.\n\nMAIN FINDINGS: Of 1871 ICI-treated patients, 69 with PAD were identified and matched to 139 controls. Rates of immune-related adverse events were similar between PAD and control groups (45% vs. 38%, P = 0.4, OR 1.29, 95% CI 0.72-2.32). In the PAD group, 20% experienced a disease flare. PAD was associated with more frequent ICI treatment holds and initiation of biologic therapy. No significant association was observed between PAD status and OS (HR 0.92, 95% CI 0.65-1.30, p = 0.63) or TTF (HR 0.75, 95% CI 0.54-1.05, p = 0.09).\n\nCONCLUSIONS: In this real-world retrospective matched cohort study, PAD was not associated with increased toxicity or inferior oncologic outcomes. One in five patients with PAD experienced autoimmune flare, underscoring the need for close monitoring. These findings support ICI use in carefully selected lung cancer patients with PAD."
     },
     {
       "pmid": "41747725",
@@ -636,67 +695,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41733509/",
       "url_doi": "https://doi.org/10.1016/j.jtho.2026.103558",
       "abstract": null
-    },
-    {
-      "pmid": "41747608",
-      "doi": "10.1016/j.lungcan.2026.109341",
-      "title": "Survival analysis and prognostic factors in advanced NSCLC harboring EGFR PACC mutations: A multicenter retrospective study.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41747608/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109341",
-      "abstract": "BACKGROUND: Epidermal growth factor receptor (EGFR) P-loop and αC-helix compression (PACC) mutations represent a distinct subset of uncommon EGFR mutations in non-small cell lung cancer (NSCLC). Although recent trials have explored the efficacy of high-dose furmonertinib and other EGFR tyrosine kinase inhibitors (TKIs) in this population, the real-world evidence regarding overall survival (OS) and prognostic factors remains limited.\n\nMETHODS: We conducted a multicenter, retrospective study of 141 patients with advanced NSCLC harboring EGFR PACC mutations, identified from 6,842 screened cases between December 2018 and December 2023. The primary study endpoint was OS. Survival curves were generated using the Kaplan-Meier method, and prognostic factors were assessed using Cox regression.\n\nRESULTS: As of the cut-off date, June 20, 2024, the median follow-up period was 35.1 months (95%CI: 33.1-45.2 months). We identified that G719X (N = 72; 51.1%), S768I (N = 43; 30.5%), and E709X (N = 16; 11.3%) were the dominant subtypes, with compound mutations being frequently observed. The median OS in patients with NSCLC with EGFR PACC mutations was 27.6 months (95%CI: 25.2-30.7 months). Based on first-line therapy, the cohort was divided into patients who received chemo-based therapy (N = 33; 23.4%), EGFR-TKI (N = 87; 61.7%) and chemotherapy + TKIs (N = 21; 14.9%). Patients who had received chemotherapy + TKIs demonstrated superior OS than those who received only chemo-based treatments or TKI treatments (30.5 months vs. 24.1 months vs. 28.9 months, p = 0.022). Multivariate analyses identified lower Eastern Cooperative Oncology Group performance status scores, absence of brain metastasis, and receipt of chemotherapy combined with TKIs as independent, favorable prognostic factors (p < 0.05 for all).\n\nCONCLUSION: The G719X subtype was predominant, and compound mutations were frequently observed in patients with EGFR PACC-mutant NSCLC. The combination of chemotherapy and TKIs was associated with significant OS benefits, warranting future prospective clinical studies for confirmation."
-    },
-    {
-      "pmid": "41747607",
-      "doi": "10.1016/j.lungcan.2026.109342",
-      "title": "Mutational landscapes of brain metastases across various histological subtypes of lung cancer.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41747607/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109342",
-      "abstract": "Knowledge of the genetic landscape of lung cancer brain metastases (BM) is limited due to the scarcity of intracranial samples. Here, we investigated the genetic features of 142 BM by next-generation sequencing in various lung cancer histological subtypes (19 small-cell lung cancer (SCLC), 123 non-small-cell lung cancer (NSCLC), including 79 lung adenocarcinomas (LUAD), 31 squamous carcinomas (LUSC), and 13 large-cell lung carcinomas (LCLC). TP53, H3F3A, and PMS2 genes were mutated in over 20% of BM cases, irrespective of primary lung cancer histology. LUAD-BM harbored a broad repertoire of mutated proto-oncogenes with tyrosine kinase activity and was significantly associated with APOBEC enrichment and mutations in PTEN, EGFR, and NF1 genes. TP53 and RB1 were the most frequently mutated suppressor genes in SCLC-BM. Gene Ontology analysis indicated that SCLC-BM and LCLC-BM were associated with deregulated glial proliferation processes. These findings provide a comprehensive genomic characterization of BM from various lung cancer histologies."
-    },
-    {
-      "pmid": "41731061",
-      "doi": "10.1038/s41571-026-01131-4",
-      "title": "Innovative approaches for lung cancer screening and interception.",
-      "journal": "Nature reviews. Clinical oncology",
-      "pubdate": "2026-02-23T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": "Review/Meta",
-      "study_class": "Review",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41731061/",
-      "url_doi": "https://doi.org/10.1038/s41571-026-01131-4",
-      "abstract": "Lung cancer remains the leading cause of cancer-related deaths worldwide, partly because many patients are diagnosed at late stages, highlighting the urgent need for effective early detection and intervention strategies. Low-dose computed tomography (LDCT)-based screening reduces lung cancer mortality in high-risk populations defined by age and smoking history; however, the uptake of LDCT remains low among eligible individuals. Compounding this issue, modelling studies estimate that nearly half of lung cancers occur in individuals who do not meet eligibility criteria for LDCT-based lung cancer screening under current guidelines. Moreover, LDCT-based screening has inherent limitations, including a high rate of false-positive results that can lead to unnecessary invasive procedures, as well as substantial costs that limit scalability. Major efforts have been made to identify novel biomarkers such as radiomic features and liquid biopsy assays to enhance the accuracy of lung cancer risk prediction. Furthermore, the increasing detection of pulmonary nodules by LDCT or diagnostic CT scans has highlighted the importance of therapeutic interventions that can enable interception of high-risk precancerous nodules and halt their progression to invasive disease. In this Review, we summarize the current state of lung cancer screening, the disparities and infrastructural considerations for optimal implementation, and future directions in the development of biomarkers and design of precancer interception strategies that could transform both lung cancer prevention and early intervention."
     }
   ]
 }
