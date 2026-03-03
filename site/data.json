@@ -1,6 +1,66 @@
 {
-  "generated": "2026-03-02T05:50:50.105551Z",
+  "generated": "2026-03-03T05:46:46.581499Z",
   "items": [
+    {
+      "pmid": "41637136",
+      "doi": "10.1158/2159-8290.CD-RW2026-018",
+      "title": "High-Plasticity Cell State Drives Lung Cancer Progression and Drug Resistance.",
+      "journal": "Cancer discovery",
+      "pubdate": "2026-03-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 7.283,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41637136/",
+      "url_doi": "https://doi.org/10.1158/2159-8290.CD-RW2026-018",
+      "abstract": null
+    },
+    {
+      "pmid": "41632563",
+      "doi": "10.1158/2159-8290.CD-NW2026-0010",
+      "title": "Randomized Trial Links Time of Day to Immunotherapy Success.",
+      "journal": "Cancer discovery",
+      "pubdate": "2026-03-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": "SJR",
+      "metric_value": 7.283,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41632563/",
+      "url_doi": "https://doi.org/10.1158/2159-8290.CD-NW2026-0010",
+      "abstract": "Morning administration of checkpoint inhibitors significantly extended survival in patients with advanced non-small cell lung cancer, in the first randomized trial of immunotherapy timing. The results provide prospective support for aligning treatment with circadian biology as a simple way to improve cancer outcomes."
+    },
+    {
+      "pmid": "41411619",
+      "doi": "10.1158/0008-5472.CAN-25-1483",
+      "title": "Small Cell Lung Cancer Classification: Unraveling Heterogeneity to Enable Personalized Treatments.",
+      "journal": "Cancer research",
+      "pubdate": "2026-03-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://aacrjournals.org/cancerres/article-pdf/doi/10.1158/0008-5472.CAN-25-1483/3717124/can-25-1483.pdf",
+      "metric_name": "SJR",
+      "metric_value": 3.879,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41411619/",
+      "url_doi": "https://doi.org/10.1158/0008-5472.CAN-25-1483",
+      "abstract": "Small cell lung cancer (SCLC) is an aggressive thoracic disease characterized by rapid proliferation and early metastatic spread. The survival outcomes for patients with SCLC remain notoriously poor, underlining that only modest improvements have been achieved in clinical settings to date. However, insights gained from human tumors and preclinical models in recent years have shed light on the heterogeneous molecular profile of SCLC. Numerous research groups have, therefore, begun to stratify SCLC into subgroups based on differential transcription factor expression, the tumor immune microenvironment, and other criteria. As SCLC subtypes show major differences in their molecular landscape and biological behavior, they may offer unique therapeutic vulnerabilities and serve as a framework for future personalized clinical trials. Here, we summarize impactful classification attempts from the past 10 years, highlighting discrepancies and connections between the nomenclature of each study, and expound upon relevant factors of SCLC biology influencing subtype composition and plasticity. This review delves into the implications of subgrouping for understanding and treating SCLC, as well as potential future directions for SCLC research."
+    },
     {
       "pmid": "41761743",
       "doi": "10.1002/cncr.70284",
@@ -61,6 +121,46 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41764558/",
       "url_doi": "https://doi.org/10.1186/s12967-026-07896-7",
       "abstract": null
+    },
+    {
+      "pmid": "41378717",
+      "doi": "10.1111/cas.70242",
+      "title": "Atezolizumab + Chemotherapy for Advanced Non-Small Cell Lung Cancer in Japanese Clinical Practice (J-TAIL-2).",
+      "journal": "Cancer science",
+      "pubdate": "2026-03-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.70242",
+      "metric_name": "SJR",
+      "metric_value": 1.661,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378717/",
+      "url_doi": "https://doi.org/10.1111/cas.70242",
+      "abstract": "First-line atezolizumab combination therapies were approved for the treatment of metastatic non-small cell lung cancer (NSCLC) based on results from the global phase 3 trials IMpower130, IMpower132, and IMpower150. These trials reported 12-month overall survival (OS) rates of 60%-67% with atezolizumab combination therapy. J-TAIL-2 (NCT04501497), a prospective, multicenter, observational study, evaluated atezolizumab combination therapy in routine clinical practice in Japan. Patients ≥ 20 years old with NSCLC received atezolizumab plus carboplatin and nab-paclitaxel (atezo + CnP), atezolizumab plus carboplatin or cisplatin plus pemetrexed (atezo + PP), or atezolizumab plus bevacizumab plus carboplatin and paclitaxel (atezo + bev + CP) in clinical practice. The primary endpoint was the 12-month OS rate. Secondary endpoints included OS, progression-free survival, and subgroup analyses, including IMpower-unlike (did not meet the main eligibility criteria of each IMpower trial) and IMpower-like patients. In total, 814 patients were enrolled (atezo + CnP, n = 217; atezo + PP, n = 211; atezo + bev + CP, n = 386). The IMpower-unlike group included patients with Eastern Cooperative Oncology Group performance status ≥ 2, autoimmune disease, or interstitial lung disease. Twelve-month OS rates (95% confidence interval [CI]) were 62.9% (55.8-69.2), 72.1% (65.2-77.9), and 68.3% (63.2-72.9) with atezo + CnP, atezo + PP, and atezo + bev + CP, respectively. OS hazard ratios (95% CI) in the IMpower-unlike vs. -like subgroups were 1.36 (0.91-2.05), 1.08 (0.70-1.68), and 1.49 (1.09-2.06), respectively. No new safety signals were observed. Real-world efficacy and safety for each atezolizumab combination were comparable to those in the relevant IMpower trials."
+    },
+    {
+      "pmid": "41378711",
+      "doi": "10.1111/cas.70270",
+      "title": "A Transcriptomic Analysis of Cancer-Stromal Interactome in Lung Cancer Xenograft Models.",
+      "journal": "Cancer science",
+      "pubdate": "2026-03-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.70270",
+      "metric_name": "SJR",
+      "metric_value": 1.661,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41378711/",
+      "url_doi": "https://doi.org/10.1111/cas.70270",
+      "abstract": "Cancer-stromal interactions play important roles in the biology of various cancers, including lung adenocarcinoma. We aimed to comprehensively analyze the lung cancer interactome and identify the key ligand-receptor pairs involved in the aggressiveness of lung adenocarcinoma. Transcriptome data were obtained from xenografts of 11 lung cancer cell lines that represented the major driver mutations in lung adenocarcinomas. A quantitative dataset was constructed in both stroma-to-cancer and cancer-to-stroma directions using the cancer-stromal interactome analysis method. The prognostic value of each factor was evaluated using multiple datasets. Analysis of 24,250 stroma-derived mouse transcripts and 26,289 human cancer-derived transcripts identified 1150 cancer-stromal interactions, from which we selected 117 interactions based on the intensity score of ligand-stromal transcript levels. Further prognostic analysis using public databases led us to identify 21 ligand-receptor pairs, including well-known as well as less well-characterized ligand-receptor pairs. Therefore, we selected tumor necrosis factor superfamily member 12/tumor necrosis factor receptor superfamily member 12A as possible factors contributing to the aggressiveness of lung adenocarcinoma via cancer-stromal interactions; immunohistochemical analysis confirmed that these factors were expressed mainly in the stroma and cancer cells, respectively, in both xenografts and primary lung adenocarcinoma. In human clinical specimens, high tumor necrosis factor receptor superfamily member 12A expression significantly correlated with tumor size, invasive diameter, and stage. Thus, tumor necrosis factor superfamily member 12 and its receptor tumor necrosis factor receptor superfamily member 12A signaling axis may be potential candidates for therapeutic intervention for lung adenocarcinoma."
     },
     {
       "pmid": "41757675",
@@ -515,6 +615,26 @@
       "abstract": "PURPOSE: Adjuvant immunotherapy improved patient outcomes in two trials in completely resected non-small cell lung cancer (NSCLC), but with conflicting primary end point results. The Canadian Cancer Trials Group BR.31 trial evaluated adjuvant durvalumab in completely resected early-stage NSCLC.\n\nMETHODS: Following resection of stage IB (≥4 cm) to IIIA NSCLC (American Joint Committee on Cancer 7th Edition) and optional adjuvant chemotherapy, patients were randomly assigned 2:1 to durvalumab 20 mg/kg or placebo 20 mg/kg once every 4 weeks for 12 cycles. Random assignment was stratified by stage, extent of nodal dissection, tumor cell (TC) PD-L1 expression, adjuvant chemotherapy use, and center. The primary end point was investigator-assessed disease-free survival (DFS). Secondary outcomes included overall survival (OS), adverse events, and quality of life. The primary analysis was in the subgroup with cancers that had a PD-L1 TC expression ≥25%, no common activating\n\nRESULTS: Of 1,415 patients randomly assigned, 1,219 (86%) had\n\nCONCLUSION: Adjuvant durvalumab following complete resection was not associated with improvement in DFS compared with placebo in"
     },
     {
+      "pmid": "41689406",
+      "doi": "10.1080/14796694.2025.2598216",
+      "title": "Trastuzumab deruxtecan in HER2-mutant metastatic non-small-cell lung cancer: a plain language summary of the DESTINY-Lung02 study.",
+      "journal": "Future oncology (London, England)",
+      "pubdate": "2026-03-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41689406/",
+      "url_doi": "https://doi.org/10.1080/14796694.2025.2598216",
+      "abstract": null
+    },
+    {
       "pmid": "41764946",
       "doi": "10.1016/j.lungcan.2026.109346",
       "title": "Family history enrichment in Non-Small cell Lung Cancer: A cross-sectional - prospective study to inform referral for germline testing.",
@@ -635,66 +755,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41539180/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2026.116221",
       "abstract": "BACKGROUND: To investigate the preclinical characterization of dirozalkib, a novel anaplastic lymphoma kinase (ALK) inhibitor, and its safety, pharmacokinetics, and preliminary antitumor activity in advanced non-small cell lung cancer (NSCLC).\n\nMETHODS: The preclinical inhibitory effects of dirozalkib were evaluated in vitro and in vivo. The first-in-human phase I study (NCT05055232) enrolled patients with advanced NSCLC harboring ALK or ROS1 rearrangements. Participants received 50-600 mg/day dirozalkib following a 3 + 3 dose-escalation design with rapid titration, and 300-600 mg/day in the dose-expansion phase. The primary endpoint was safety.\n\nRESULTS: Dirozalkib demonstrated potent inhibition of ALK fusion-positive cell lines and common resistance mutations, and suppressed tumor growth in patient-derived and intracranial xenograft lung cancer models. No dose-limiting toxicities occurred, establishing 600 mg/day as the maximum tolerated dose. Among 114 patients enrolled, 55 (48.2 %) experienced grade ≥ 3 treatment-emergent adverse events, most commonly diarrhea (8.8 %). The objective response rate (ORR) among patients with ALK rearrangements was 47.4 % (9/19) and 46.3 % (38/82) in the dose-escalation and dose-expansion cohort (89.3 % in ALK inhibitor-naive patients receiving 500 mg/day). After a single dose of 50-600 mg dirozalkib, median time to maximum concentration ranged from 3 to 4 h. C\n\nCONCLUSIONS: Dirozalkib exhibited favorable safety, antitumor activity and pharmacokinetics in patients with advanced ALK-rearranged NSCLC. The recommended phase II dose was 500 mg/day.\n\nTRIAL REGISTRATION: Clinicaltrials.gov (NCT05055232) and Chinadrugtrials.org.cn (CTR20190984)."
-    },
-    {
-      "pmid": "41747890",
-      "doi": "10.1016/j.jtho.2026.103651",
-      "title": "Systemic and Intracranial Efficacy and Safety of Trastuzumab Deruxtecan in Patients with HER2-Mutant Non-Small Cell Lung Cancer across Treatment Lines: Evidence from the TRACER/HERTras Real-World Cohort.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2026-02-24T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.jtho.2026.103651",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41747890/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103651",
-      "abstract": "INTRODUCTION: HER2 mutations define a distinct, therapeutically actionable subset of non-small cell lung cancer (NSCLC). Trastuzumab deruxtecan (T-DXd) has demonstrated strong activity in clinical trials, but real-world data are limited.\n\nMETHODS: We conducted a retrospective, multinational cohort study of patients with advanced HER2-mutant NSCLC treated with T-DXd outside clinical trials between August 2021 and January 2025 across 68 centers in Europe and Israel. The primary endpoint was objective response rate (ORR). Secondary endpoints included progression-free survival (PFS), overall survival (OS), intracranial efficacy, and safety.\n\nRESULTS: Among 168 patients (median age 62 years; 59% female; 56% never-smokers), the ORR was 54.8% (95%CI, 46.9-62.4) and disease control rate 88.7% (95%CI, 82.9-93.1). Median PFS was 7.2 months (95%CI, 6.2-9.7) and OS 18.3 months (95%CI, 13.3-24.8). Treatment-naïve patients (n=18) achieved an ORR of 72.2% (95%CI, 46.5-90.3) and median OS of 22.1 months (95%CI, 10.0-NE). Patients with measurable brain metastases (n=27) had an intracranial ORR of 74.1% (95%CI, 53.7-88.9), including 25.9% complete responses. Grade ≥3 treatment-related adverse events occurred in 32% of patients. Interstitial lung disease (ILD)/pneumonitis occurred in 14% (four fatal cases) of patients, without consistent predictors.\n\nCONCLUSIONS: In the largest real-world cohort reported to date, T-DXd demonstrated robust systemic and intracranial activity in HER2-mutant NSCLC, including treatment-naïve patients and those with active brain metastases who were largely excluded from prior studies. Toxicity was consistent with previous reports, with ILD remaining the main safety concern. These findings support integration of HER2-targeted therapies into evolving treatment algorithms."
-    },
-    {
-      "pmid": "41747891",
-      "doi": "10.1016/j.jtho.2026.103650",
-      "title": "PROSPECT-LUNG: A National Clinical Trials Network Trial Advancing Pragmatic Innovation in Cancer Clinical Trials.",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2026-02-24T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41747891/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103650",
-      "abstract": "PURPOSE: Clinical trial designs marked by extensive data collection, restrictive eligibility, and lengthy protocols create inefficiencies, increase costs, and hinder accrual. These are further compounded by staffing shortages and operational burdens. By incorporating pragmatic features including simplified eligibility criteria, streamlined protocol, and data collection, the PROSPECT-Lung trial paves the way forward as a model for enhancing clinical trial efficiency and feasibility, while maintaining scientific rigor.\n\nPATIENTS AND METHODS: PROSPECT-Lung (CTIU2317-A082304-S2402) is a pragmatic, phase III, open-label, randomized trial comparing 3-year real-world event-free survival and overall survival using approved perioperative and adjuvant immunotherapy-based treatment strategies in patients with resectable non-small cell lung cancer. Protocol length and data collection elements were compared with Alliance A081801, Integration of Immunotherapy into Adjuvant Therapy for Resected NSCLC: ALCHEMIST CHEMO-IO (ClinicalTrials.gov Identifier: NCT04267848), a phase III trial in the same disease setting, to quantify streamlining efforts.\n\nRESULTS: Relative to A081801, PROSPECT-Lung achieved major reductions in trial complexity. Protocol length decreased from 88 to 30 pages (65%), and data fields per patient were reduced from 2523 to 438 (82.6%), driven by streamlined summary versus cycle-by-cycle data collection. These efficiencies translate to estimated site workload reductions from 210 hours per patient in A081801 to 36.5 hours in PROSPECT-Lung. At full accrual, this equates to more than 190,000 hours saved in chart review, data entry, documentation, and quality control.\n\nCONCLUSION: By broadening eligibility and streamlining logistics, PROSPECT-Lung reduces burden for patients, investigators, and sites while preserving scientific integrity. This pragmatic approach, when appropriate and possible, provides a replicable model for future cancer trials, promoting efficiency, accessibility, and real-world relevance."
-    },
-    {
-      "pmid": "41733509",
-      "doi": "10.1016/j.jtho.2026.103558",
-      "title": "Corrigendum to 'Surveillance With Fluorine-18 Fluorodeoxyglucose Positron Emission Tomography/Computed Tomography of Patients With Stage I-to-III Lung Cancer After Completion of Curative treatment (SUPE_R): A Randomized Controlled Trial' [Journal of Thoracic Oncology Volume 20 Issue 8 (2025) 1086-1097].",
-      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
-      "pubdate": "2026-02-24T00:00:00+00:00",
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.jtho.2026.103558",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41733509/",
-      "url_doi": "https://doi.org/10.1016/j.jtho.2026.103558",
-      "abstract": null
     }
   ]
 }
