@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-03T05:46:46.581499Z",
+  "generated": "2026-03-04T05:41:58.175989Z",
   "items": [
     {
       "pmid": "41637136",
@@ -693,68 +693,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41764944/",
       "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109344",
       "abstract": "INTRODUCTION: Antibiotics and proton pump inhibitors (PPIs) have been associated with the reduced efficacy of immune checkpoint inhibitor (ICI) in patients with advanced non-small cell lung cancer (NSCLC). This study assessed the clinical impact of these medications in the neoadjuvant setting.\n\nPATIENTS AND METHODS: This multicenter retrospective study was conducted in 29 Japanese institutions. Between March 2023 and July 2024, 131 patients with resectable clinical stage II-III NSCLC who received neoadjuvant chemoimmunotherapy with nivolumab were enrolled. In total, 113 patients who underwent definitive surgery were included in the surgical outcome analysis. We investigated the association between the use of antibiotics and PPIs within 30 days before treatment initiation and clinicopathological factors, including the pathological complete response (pCR) and major pathological response (MPR).\n\nRESULTS: Among 113 patients, 5 (4.4%) had received antibiotics and 23 (20.4%) PPIs. Antibiotic and PPI use showed no significant differences in any clinicopathological factors. Antibiotic and PPI use was not significantly associated with the objective response rate (ORR), pCR, or MPR; antibiotic (use/non-use): 80.0%/70.4% (p = 1.000), 40.0%/35.8% (p = 1.000), 60.0%/59.6% (p = 1.000) and PPI (use/non-use): 78.3%/68.9% (p = 0.532), 43.5%/33.3% (p = 0.507), 60.9%/58.9% (p = 1.000).\n\nCONCLUSION: Prior use of antibiotics and PPIs was not significantly associated with radiological or pathological response of neoadjuvant ICI in patients with resectable NSCLC. Further studies with larger sample size and longer survival follow-up are needed."
-    },
-    {
-      "pmid": "41764945",
-      "doi": "10.1016/j.lungcan.2026.109347",
-      "title": "Outcomes and toxicities of immune checkpoint inhibitors in patients with lung cancer and pre-existing autoimmune disease.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-25T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Thoracic-other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2026.109347",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41764945/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109347",
-      "abstract": "BACKGROUND: Patients with pre-existing autoimmune disease (PAD) are often excluded from immune checkpoint inhibitor (ICI) clinical trials in thoracic oncology, creating uncertainty regarding their real-world safety and effectiveness in this population.\n\nPURPOSE: We conducted a retrospective matched cohort study to evaluate clinical outcomes and treatment-related toxicities of ICIs in lung cancer patients with PAD compared to matched controls without PAD.\n\nPROCEDURES: Using the provincial IMPACT-MB database, lung cancer patients with PAD were matched to controls by age and sex. Demographic, disease, and treatment data were extracted from medical records. Primary outcomes included toxicity, time to treatment failure (TTF), overall survival (OS), and objective response rate (ORR). Associations were determined using Cox and logistic regression modeling.\n\nMAIN FINDINGS: Of 1871 ICI-treated patients, 69 with PAD were identified and matched to 139 controls. Rates of immune-related adverse events were similar between PAD and control groups (45% vs. 38%, P = 0.4, OR 1.29, 95% CI 0.72-2.32). In the PAD group, 20% experienced a disease flare. PAD was associated with more frequent ICI treatment holds and initiation of biologic therapy. No significant association was observed between PAD status and OS (HR 0.92, 95% CI 0.65-1.30, p = 0.63) or TTF (HR 0.75, 95% CI 0.54-1.05, p = 0.09).\n\nCONCLUSIONS: In this real-world retrospective matched cohort study, PAD was not associated with increased toxicity or inferior oncologic outcomes. One in five patients with PAD experienced autoimmune flare, underscoring the need for close monitoring. These findings support ICI use in carefully selected lung cancer patients with PAD."
-    },
-    {
-      "pmid": "41747725",
-      "doi": "10.1016/j.chom.2026.02.002",
-      "title": "Strain-level genetic heterogeneity and colonization dynamics drive microbiome therapeutic efficacy.",
-      "journal": "Cell host & microbe",
-      "pubdate": "2026-02-25T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "Other",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41747725/",
-      "url_doi": "https://doi.org/10.1016/j.chom.2026.02.002",
-      "abstract": "Fecal microbiota transplantation (FMT) has shown immunotherapeutic promise, yet its efficacy in non-small-cell lung cancer (NSCLC) remains unclear. We demonstrate that FMT improves anti-PD-1 efficacy and progression-free survival in a single-arm trial of advanced PD-L1-negative NSCLC. Analyzing over 2,000 metagenomes from diverse disease cohorts and healthy controls via a high-resolution strain-tracking framework, we reveal that phylogenetically distinct strains within identical species exert opposing therapeutic effects, resolving prior inconsistencies. We identify conserved ecological principles where engraftment relies on species-intrinsic metabolic and immune evasion traits. Crucially, successful colonization by specific beneficial strain variants correlates with positive clinical outcomes. Finally, we identify 38 priority species with robust engraftment potential and significant heterogeneity as candidates for precision therapeutics. These findings establish a strain-function-efficacy paradigm, elucidating the mechanistic basis of variable outcomes and guiding next-generation microbiome drug development."
-    },
-    {
-      "pmid": "41539180",
-      "doi": "10.1016/j.ejca.2026.116221",
-      "title": "Preclinical characterization and first-in-human, phase I trial of the novel ALK inhibitor dirozalkib in advanced non-small cell lung cancer.",
-      "journal": "European journal of cancer (Oxford, England : 1990)",
-      "pubdate": "2026-02-25T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article",
-        "Clinical Trial, Phase I",
-        "Multicenter Study"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41539180/",
-      "url_doi": "https://doi.org/10.1016/j.ejca.2026.116221",
-      "abstract": "BACKGROUND: To investigate the preclinical characterization of dirozalkib, a novel anaplastic lymphoma kinase (ALK) inhibitor, and its safety, pharmacokinetics, and preliminary antitumor activity in advanced non-small cell lung cancer (NSCLC).\n\nMETHODS: The preclinical inhibitory effects of dirozalkib were evaluated in vitro and in vivo. The first-in-human phase I study (NCT05055232) enrolled patients with advanced NSCLC harboring ALK or ROS1 rearrangements. Participants received 50-600 mg/day dirozalkib following a 3 + 3 dose-escalation design with rapid titration, and 300-600 mg/day in the dose-expansion phase. The primary endpoint was safety.\n\nRESULTS: Dirozalkib demonstrated potent inhibition of ALK fusion-positive cell lines and common resistance mutations, and suppressed tumor growth in patient-derived and intracranial xenograft lung cancer models. No dose-limiting toxicities occurred, establishing 600 mg/day as the maximum tolerated dose. Among 114 patients enrolled, 55 (48.2 %) experienced grade ≥ 3 treatment-emergent adverse events, most commonly diarrhea (8.8 %). The objective response rate (ORR) among patients with ALK rearrangements was 47.4 % (9/19) and 46.3 % (38/82) in the dose-escalation and dose-expansion cohort (89.3 % in ALK inhibitor-naive patients receiving 500 mg/day). After a single dose of 50-600 mg dirozalkib, median time to maximum concentration ranged from 3 to 4 h. C\n\nCONCLUSIONS: Dirozalkib exhibited favorable safety, antitumor activity and pharmacokinetics in patients with advanced ALK-rearranged NSCLC. The recommended phase II dose was 500 mg/day.\n\nTRIAL REGISTRATION: Clinicaltrials.gov (NCT05055232) and Chinadrugtrials.org.cn (CTR20190984)."
     }
   ]
 }
