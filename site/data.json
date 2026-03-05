@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T05:41:58.175989Z",
+  "generated": "2026-03-05T05:45:24.516524Z",
   "items": [
     {
       "pmid": "41637136",
@@ -221,6 +221,106 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41633313/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2026.116265",
       "abstract": "BACKGROUND: Molecular testing in NSCLC is essential for treatment selection, yet routine implementation remains inconsistent across institutions. Clinical evidence suggests that variability in testing may not be explained by patient or tumor characteristics but might be driven by institutional factors, potentially leading to adverse outcomes. We examined the extent to which variability in AGA testing is attributable to the treating institution.\n\nMETHODS: We analyzed 6437 adults with stage IIIB/C or IV NSCLC enrolled in the prospective German real-world registry CRISP (2016-2022). Logistic mixed-effects models with AGA testing as the primary outcome were used to determine institutional variability across 171 institutions. Models included patient, tumor, and treatment-related fixed effects with institutions as random effects. Intraclass correlations (ICC) quantified institutional variability unexplained by other covariates. Institution type was tested in secondary analysis, and overall survival in exploratory analysis.\n\nFINDINGS: AGA testing was performed in 77.9 % of patients (n = 5016). Predicted probabilities for testing use ranged from 30.5 % to 93.2 % across institutions. Institutions significantly influenced testing use (p < 0.001), accounting for 21.4 % of the total variance. Variability significantly differed by institution type and was more pronounced in subgroups, e.g., squamous histology (ICC 29.5 %) and KRAS testing (ICC 34.4 %). Absence of AGA testing was independently associated with inferior survival (HRadj 1.11, 95 % CI 1.01-1.23, p = 0.029).\n\nINTERPRETATION: Substantial institutional variability exists in AGA testing for NSCLC, which was unexplained by patient or tumor characteristics. This objective evaluation of institution-based variability in testing may emphasize the importance of practice patterns on patient care and may therefore provide an avenue for change."
+    },
+    {
+      "pmid": "41779981",
+      "doi": "10.1200/JCO-25-01929",
+      "title": "Izalontamab Brengitecan in Locally Advanced or Metastatic Non-Small Cell Lung Cancer With Actionable Genomic Alterations Outside of Classical EGFR Mutations: A Phase Ib Study.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pubdate": "2026-03-04T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "NSCLC",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41779981/",
+      "url_doi": "https://doi.org/10.1200/JCO-25-01929",
+      "abstract": "PURPOSE: To evaluate the safety and efficacy of izalontamab brengitecan (iza-bren) in patients with non-small cell lung cancer (NSCLC) harboring actionable genomic alterations (GAs) outside of classical epidermal growth factor receptor (\n\nMETHODS: Eligible patients had locally advanced or metastatic NSCLC with prespecific actionable GAs, had progressed after standard treatment and received no more than one previous line of chemotherapy. iza-bren was administered at the dose of 2.5 mg/kg once per day on days 1 and 8 of each 3-week cycle. The primary end point was safety. The secondary end points included objective response rate (ORR), disease control rate (DCR), and duration of response. The exploratory end points included progression-free survival (PFS) and overall survival (OS).\n\nRESULTS: A total of 83 patients with NSCLC were enrolled in four cohorts:\n\nCONCLUSION: iza-bren demonstrated encouraging antitumor activity and a manageable safety profile in pretreated NSCLC patients with diverse GAs outside of classical"
+    },
+    {
+      "pmid": "41779007",
+      "doi": "10.1158/1078-0432.CCR-25-3846",
+      "title": "Association of blood levels of forever plastics with lung cancer mortality among ever smokers in the Prostate Lung Colorectal and Ovarian (PLCO) cohort study.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2026-03-04T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41779007/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-3846",
+      "abstract": "PURPOSE: Recent evidence suggests a significant association between microplastic (MPs), forever chemicals, and plasticizers and various diseases including cancer. Here, we evaluated the circulating levels of plastic-associated chemicals for lung cancer incidence and mortality among smokers in the Prostate Lung Colorectal and Ovarian (PLCO) study.\n\nEXPERIMENTAL DESIGN: Using mass spectrometry, we screened for 29 known MPs, forever plastics (per- and polyfluoroalkyl substances [PFAS]), and plasticizers chemicals in 245 sera collected preceding a lung cancer diagnosis and 1,200 non-case sera from participants in the PLCO study who had a history of smoking. Five PFAS and 3 plasticizers were detected and quantified in sera. A PFAP model, consisting of PFOS + PFHA + mono-iso-nonyl-phthalate, was developed for predicting lung cancer mortality and risk strata based on quantiles established.\n\nRESULTS: Higher circulating levels of PFOS, PFHA, and mono-iso-nonyl-phthalate were associated (p<0.05) with increased risk of lung cancer death but not incidence. Compared to the lowest quantile (reference), individuals with PFAP scores in the highest quantile were at markedly higher risk of death from lung cancer (p<0.0001), with respective cause-specific and sub-distributional HRs of 1.86 (95% CI: 1.18-2.93) and 1.82 (95% CI: 1.15 - 2.88). Sub-stratified analyses confirmed that the PFAP model remained an independent predictor of lung cancer-specific mortality (p < 0.05) across strata defined by age, sex, smoking history, histologic subtype, and stage at diagnosis.\n\nCONCLUSIONS: In the PLCO cohort elevated levels of PFOS, PFHA, and mono-iso-nonyl-phthalate were associated with increased lung cancer mortality among ever smokers across disease subgroups."
+    },
+    {
+      "pmid": "41777164",
+      "doi": "10.1080/14796694.2026.2637740",
+      "title": "Beamion PANTUMOR-1: rationale and design of a Phase II trial of zongertinib in HER2-overexpressed/amplified or HER2-mutant solid tumors.",
+      "journal": "Future oncology (London, England)",
+      "pubdate": "2026-03-04T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Other",
+      "trial_type": "Phase II",
+      "study_class": "Prospective",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41777164/",
+      "url_doi": "https://doi.org/10.1080/14796694.2026.2637740",
+      "abstract": "Human epidermal growth factor receptor 2 (HER2, encoded by"
+    },
+    {
+      "pmid": "41776328",
+      "doi": "10.1038/s41598-026-41720-y",
+      "title": "Integration of circulating tumor DNA data enhances lung cancer prediction in patients with COPD.",
+      "journal": "Scientific reports",
+      "pubdate": "2026-03-03T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41598-026-41720-y",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41776328/",
+      "url_doi": "https://doi.org/10.1038/s41598-026-41720-y",
+      "abstract": "Patients with chronic obstructive pulmonary disease (COPD) are at increased risk of lung cancer, and the identification of circulating tumor DNA (ctDNA) mutations may help detect lung cancer in them. However, whether the addition of ctDNA information improves lung cancer prediction remains to be elucidated. Blood samples from 236 patients with COPD (119 with lung cancer and 117 without lung cancer) were genotyped using targeted deep sequencing. With 40 clinical and genomic/molecular variables, nine machine learning (ML) models to predict lung cancer were constructed. Prediction performances were compared between models with clinical variables only and those with additional genomic/molecular variables. Three clinical variables (smoking amount, C-reactive protein [CRP], COPD symptom burden) and four genomic/molecular variables (ctDNA mutation detected, lung cancer driver gene, max variant allele frequency, and median duplex) were significantly associated with lung cancer (P < 0.05). Notably, four of the nine ML models, incorporating clinical and genomic/molecular variables, outperformed models using clinical variables alone (AUC of the best models = 0.729 vs. 0.620, P < 0.05). Integration of ctDNA information may enhance risk stratification strategies for lung cancer among COPD patients by providing complementary predictive value to conventional clinical assessment."
+    },
+    {
+      "pmid": "41780087",
+      "doi": "10.1016/j.lungcan.2026.109355",
+      "title": "Real-world comparative effectiveness of atezolizumab versus durvalumab for extensive-stage small-cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "pubdate": "2026-03-02T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Preclinical",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41780087/",
+      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109355",
+      "abstract": "BACKGROUND: Both atezolizumab and durvalumab combined with platinum-etoposide have become standard first-line treatments for extensive-stage small-cell lung cancer (ES-SCLC), yet head-to-head real-world comparative data remain scarce.\n\nMETHODS: We conducted a multicenter retrospective cohort study of 234 patients with ES-SCLC treated with atezolizumab plus platinum-etoposide (AEP; n = 126) or durvalumab plus platinum-etoposide (DEP; n = 108) across five Japanese institutions between 2016 and 2023. Progression-free survival (PFS) and overall survival (OS) were compared using Kaplan-Meier and overlap-weighted Cox models. Safety, a cost-effectiveness (cost-minimization) analysis based on restricted mean survival time-derived quality-adjusted life years (QALYs), and second-line treatment outcomes were also evaluated.\n\nRESULTS: Median PFS was 5.0 months for AEP and 5.1 months for DEP (hazard ratio [HR] 0.96; 95% CI, 0.73-1.26), and median OS was 12.0 and 12.1 months for AEP and DEP, respectively (HR 0.94; 95% CI, 0.68-1.31). Safety profiles were broadly equivalent between groups. Economic analysis showed nearly identical QALYs (1.002 vs 1.011) but lower total direct medical cost for AEP (¥4.14 million vs ¥4.88 million). Among 128 patients receiving second-line chemotherapy, those with platinum-sensitive relapse had significantly longer OS than those with platinum-refractory relapse, regardless of regimen.\n\nCONCLUSIONS: In real-world practice, AEP and DEP demonstrated equivalent efficacy and safety as first-line treatment for ES-SCLC. Given its lower cost with comparable QALYs, AEP may represent the more cost-minimizing option. The prognostic distinction between sensitive and refractory relapse remains clinically relevant after chemoimmunotherapy."
     },
     {
       "pmid": "41671628",
@@ -554,6 +654,26 @@
       "abstract": null
     },
     {
+      "pmid": "41565826",
+      "doi": "10.1038/s41586-025-09985-x",
+      "title": "Critical role for a high-plasticity cell state in lung cancer.",
+      "journal": "Nature",
+      "pubdate": "2026-03-01T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "Thoracic-other",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1038/s41586-025-09985-x",
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41565826/",
+      "url_doi": "https://doi.org/10.1038/s41586-025-09985-x",
+      "abstract": "Plasticity-the ability of cells to undergo phenotypic transitions-drives cancer progression and therapy resistance"
+    },
+    {
       "pmid": "41558376",
       "doi": "10.1016/j.lungcan.2026.108910",
       "title": "Diagnostic performance of monarch robotic bronchoscopy with and without mobile cone-beam CT support.",
@@ -633,66 +753,6 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41689406/",
       "url_doi": "https://doi.org/10.1080/14796694.2025.2598216",
       "abstract": null
-    },
-    {
-      "pmid": "41764946",
-      "doi": "10.1016/j.lungcan.2026.109346",
-      "title": "Family history enrichment in Non-Small cell Lung Cancer: A cross-sectional - prospective study to inform referral for germline testing.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-26T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": "Prospective (non-RCT)",
-      "study_class": "Prospective",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.lungcan.2026.109346",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41764946/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109346",
-      "abstract": "BACKGROUND: Family history of cancer (FHC) is a recognized proxy of inherited cancer susceptibility. In NSCLC, however, the clinical relevance of FHC remains poorly defined, and standardized approaches to identify patients enriched for pathogenic germline variants (PGVs) are lacking.\n\nMETHODS: FAHIC-Lung (NCT06196424) is a multicenter, cross-sectional/prospective observational study conducted in Italy. Consecutive patients with NSCLC were enrolled, detailed FHC data were collected using a dedicated questionnaire covering cancer type, age at diagnosis, degree of relatedness, smoking exposure, and other risk factors among relatives. A weighted FHC score integrating cancer burden across first-, second-, and third-degree relatives and accounting for family structure and degree of genetic relatedness was developed. Percentile-based thresholds (≥90th percentile, or ≥ 75th percentile with additional risk factors) were used to identify patients with enriched familial cancer profiles.\n\nRESULTS: Among 336 evaluable patients, median age at diagnosis was 67 years, 49.7% were female, and 25.9% were never smokers. Cancer in at least one parent was reported in 63.1% of cases, while 27.7% of patients had a personal history of multiple primary malignancies. The median total FHC score was 0.40 (interquartile range 0.12-0.67). Thirty-three patients (9.5%) exceeded the 90th percentile threshold, and 22 patients (6.5%) met the 75th percentile threshold in association with clinical enrichment criteria. Overall, 55 patients (16.4%) were identified as having enriched familial cancer risk and were selected as a target population for systematic genetic counseling and planned germline testing.\n\nCONCLUSIONS: In this prospective observational study, a standardized and weighted assessment of family history identified a clinically meaningful subset of patients with NSCLC enriched for familial cancer patterns. This framework provides a pragmatic approach to optimize referral to genetic counseling and supports targeted germline screening strategies beyond traditional smoking-based risk models. Prospective validation in the planned translational phase will clarify the clinical utility of this approach."
-    },
-    {
-      "pmid": "41763495",
-      "doi": "10.1016/j.ijrobp.2026.02.238",
-      "title": "Pretreatment risk model for radiation-induced lymphopenia is associated with adjuvant durvalumab efficacy in patients with unresectable stage III NSCLC.",
-      "journal": "International journal of radiation oncology, biology, physics",
-      "pubdate": "2026-02-26T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Other",
-      "is_oa": true,
-      "oa_url": "https://doi.org/10.1016/j.ijrobp.2026.02.238",
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41763495/",
-      "url_doi": "https://doi.org/10.1016/j.ijrobp.2026.02.238",
-      "abstract": "INTRODUCTION: Severe radiation-induced lymphopenia (RIL) during concurrent chemoradiotherapy (CCRT) for NSCLC has been associated with poorer outcomes and reduced immunotherapy efficacy. Because RIL often develops late during CCRT, identifying patients at risk before treatment may be clinically relevant. This study aimed to develop and validate a nomogram based on pretreatment predictors for severe RIL, and secondarily to explore associations between predicted RIL risk and adjuvant durvalumab-associated survival.\n\nMETHODS: A retrospective development cohort of consecutive patients with NSCLC treated with CCRT (2010-2019) was established, along with an independent external validation cohort from other institutions. A multivariable logistic regression model was developed to predict severe RIL, with internal and external validation. Survival analyses (progression-free and overall survival) were performed as exploratory, hypothesis-generating analyses stratified by predicted RIL risk and durvalumab use.\n\nRESULTS: Severe RIL was defined as an absolute lymphocyte count (ALC) nadir of <0.24 K/µL. Among 451 patients, 164 (36%) developed severe RIL. Independent predictors were older age, cN3-stage, larger planning target volume, >30 radiotherapy fractions, higher mean lung dose, and lower baseline ALC (c-statistic: 0.70). External validation (130 patients, 41 [32%] with severe RIL) yielded similar discrimination (c-statistic: 0.69). In exploratory analyses, durvalumab use was associated with improved survival in patients with a low predicted risk of severe RIL, whereas no statistically significant association was observed in those with a high predicted risk, in both cohorts.\n\nCONCLUSIONS: We developed and externally validated a pretreatment prediction model for severe RIL during CCRT for NSCLC with consistent performance. In exploratory analyses, an association between durvalumab use and improved survival was observed in patients with a low predicted risk of severe RIL, but not in those with a high predicted risk. This model may help identify patients for lymphopenia-mitigating strategies and inform more personalized immunotherapy approaches, pending prospective validation."
-    },
-    {
-      "pmid": "41764944",
-      "doi": "10.1016/j.lungcan.2026.109344",
-      "title": "Lack of impact of antibiotics and proton pump inhibitors on the efficacy of preoperative chemoimmunotherapy in locally advanced non-small cell lung cancer: A multicenter retrospective study.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "pubdate": "2026-02-26T00:00:00+00:00",
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "entity": "NSCLC",
-      "trial_type": null,
-      "study_class": "Preclinical",
-      "is_oa": false,
-      "oa_url": null,
-      "metric_name": null,
-      "metric_value": null,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41764944/",
-      "url_doi": "https://doi.org/10.1016/j.lungcan.2026.109344",
-      "abstract": "INTRODUCTION: Antibiotics and proton pump inhibitors (PPIs) have been associated with the reduced efficacy of immune checkpoint inhibitor (ICI) in patients with advanced non-small cell lung cancer (NSCLC). This study assessed the clinical impact of these medications in the neoadjuvant setting.\n\nPATIENTS AND METHODS: This multicenter retrospective study was conducted in 29 Japanese institutions. Between March 2023 and July 2024, 131 patients with resectable clinical stage II-III NSCLC who received neoadjuvant chemoimmunotherapy with nivolumab were enrolled. In total, 113 patients who underwent definitive surgery were included in the surgical outcome analysis. We investigated the association between the use of antibiotics and PPIs within 30 days before treatment initiation and clinicopathological factors, including the pathological complete response (pCR) and major pathological response (MPR).\n\nRESULTS: Among 113 patients, 5 (4.4%) had received antibiotics and 23 (20.4%) PPIs. Antibiotic and PPI use showed no significant differences in any clinicopathological factors. Antibiotic and PPI use was not significantly associated with the objective response rate (ORR), pCR, or MPR; antibiotic (use/non-use): 80.0%/70.4% (p = 1.000), 40.0%/35.8% (p = 1.000), 60.0%/59.6% (p = 1.000) and PPI (use/non-use): 78.3%/68.9% (p = 0.532), 43.5%/33.3% (p = 0.507), 60.9%/58.9% (p = 1.000).\n\nCONCLUSION: Prior use of antibiotics and PPIs was not significantly associated with radiological or pathological response of neoadjuvant ICI in patients with resectable NSCLC. Further studies with larger sample size and longer survival follow-up are needed."
     }
   ]
 }
