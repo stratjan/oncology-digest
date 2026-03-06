@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-05T05:45:24.516524Z",
+  "generated": "2026-03-06T05:43:56.258387Z",
   "items": [
     {
       "pmid": "41637136",
@@ -163,11 +163,11 @@
       "abstract": "Cancer-stromal interactions play important roles in the biology of various cancers, including lung adenocarcinoma. We aimed to comprehensively analyze the lung cancer interactome and identify the key ligand-receptor pairs involved in the aggressiveness of lung adenocarcinoma. Transcriptome data were obtained from xenografts of 11 lung cancer cell lines that represented the major driver mutations in lung adenocarcinomas. A quantitative dataset was constructed in both stroma-to-cancer and cancer-to-stroma directions using the cancer-stromal interactome analysis method. The prognostic value of each factor was evaluated using multiple datasets. Analysis of 24,250 stroma-derived mouse transcripts and 26,289 human cancer-derived transcripts identified 1150 cancer-stromal interactions, from which we selected 117 interactions based on the intensity score of ligand-stromal transcript levels. Further prognostic analysis using public databases led us to identify 21 ligand-receptor pairs, including well-known as well as less well-characterized ligand-receptor pairs. Therefore, we selected tumor necrosis factor superfamily member 12/tumor necrosis factor receptor superfamily member 12A as possible factors contributing to the aggressiveness of lung adenocarcinoma via cancer-stromal interactions; immunohistochemical analysis confirmed that these factors were expressed mainly in the stroma and cancer cells, respectively, in both xenografts and primary lung adenocarcinoma. In human clinical specimens, high tumor necrosis factor receptor superfamily member 12A expression significantly correlated with tumor size, invasive diameter, and stage. Thus, tumor necrosis factor superfamily member 12 and its receptor tumor necrosis factor receptor superfamily member 12A signaling axis may be potential candidates for therapeutic intervention for lung adenocarcinoma."
     },
     {
-      "pmid": "41757675",
-      "doi": "10.1111/cas.70352",
-      "title": "TGF-β Inhibitor Potentiates Osimertinib-Induced Anti-Tumor Immunity in Egfr-Mutant Lung Cancer.",
-      "journal": "Cancer science",
-      "pubdate": "2026-02-27T00:00:00+00:00",
+      "pmid": "41783954",
+      "doi": "10.1097/MCP.0000000000001265",
+      "title": "Primary prophylaxis and treatment of venous thromboembolism in malignancy with focus on lung cancer: a review of current evidence.",
+      "journal": "Current opinion in pulmonary medicine",
+      "pubdate": "2026-03-04T00:00:00+00:00",
       "pubtypes": [
         "Journal Article"
       ],
@@ -177,10 +177,10 @@
       "is_oa": false,
       "oa_url": null,
       "metric_name": "SJR",
-      "metric_value": 1.661,
-      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41757675/",
-      "url_doi": "https://doi.org/10.1111/cas.70352",
-      "abstract": "Immunotherapy for epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC) remains challenging. We previously found that EGFR-tyrosine kinase inhibitors induced antitumor immunity but also triggered immunosuppressive cytokines, including transforming growth factor-β (TGF-β), in Egfr-mutant lung cancer. Here, we investigate whether TGF-β inhibition potentiates osimertinib-induced antitumor immunity using a syngeneic mouse model of Egfr-mutated lung cancer, with cancer cells subcutaneously transplanted into wild-type C57BL/6J mice. We evaluated the antitumor effect of the combination therapy with osimertinib and either nintedanib (an indirect TGF-β inhibitor) or vactosertib (a specific TGF-β type I receptor kinase inhibitor). Changes in the tumor microenvironment during treatment were assessed using immunohistochemical staining, western blot analysis, and flow cytometry. We found that TGF-β expression was upregulated in the tumor treated with osimertinib. Nintedanib monotherapy showed no significant antitumor effect, whereas osimertinib combined with nintedanib significantly potentiates the antitumor effect compared with osimertinib monotherapy in vivo. Crucially, no additive effect of nintedanib on osimertinib monotherapy was observed in vitro. Combination therapy with osimertinib and nintedanib significantly increased effector T cells (CD8"
+      "metric_value": 0.805,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41783954/",
+      "url_doi": "https://doi.org/10.1097/MCP.0000000000001265",
+      "abstract": "PURPOSE OF REVIEW: Cancer-associated thrombosis (CAT) is a significant cause of mortality in oncology, particularly in lung cancer. The clinical management requires a careful balance between preventing venous thromboembolism (VTE) and minimizing bleeding risks. The aim of this review is to provide the latest evidenced based-approach for primary and secondary prevention of CAT.\n\nRECENT FINDINGS: Results from randomized clinical trials, such as TARGET-TP, CASSINI, and AVERT demonstrated that low-molecular-weight heparin (LMWH) and direct oral anticoagulants (DOACs) reduce VTE incidence in high-risk ambulatory patients (Khorana score ≥2). Lung-cancer-specific data from FRAGMATIC showed that although VTE risk is halved, there is no overall survival benefit, and routine prophylaxis is not recommended for unselected patients, which aligns with current guidelines. For VTE treatment, randomized trials including CARAVAGGIO, SELECT-D, and ADAM VTE showed that DOACs are non-inferior to LMWH with similar major bleeding rates, although some DOACs increase non-major gastrointestinal or genitourinary bleeding. Invasive approaches such as mechanical thrombectomy and catheter-directed thrombolysis remain reserved for life-threatening presentations.\n\nSUMMARY: Pharmacotherapy for prevention of CAT in lung cancer must be individualized. DOACs have emerged as a practical and effective alternative to LMWH for both primary and secondary VTE prophylaxis after assessing risk-benefit."
     },
     {
       "pmid": "41702246",
@@ -221,6 +221,26 @@
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41633313/",
       "url_doi": "https://doi.org/10.1016/j.ejca.2026.116265",
       "abstract": "BACKGROUND: Molecular testing in NSCLC is essential for treatment selection, yet routine implementation remains inconsistent across institutions. Clinical evidence suggests that variability in testing may not be explained by patient or tumor characteristics but might be driven by institutional factors, potentially leading to adverse outcomes. We examined the extent to which variability in AGA testing is attributable to the treating institution.\n\nMETHODS: We analyzed 6437 adults with stage IIIB/C or IV NSCLC enrolled in the prospective German real-world registry CRISP (2016-2022). Logistic mixed-effects models with AGA testing as the primary outcome were used to determine institutional variability across 171 institutions. Models included patient, tumor, and treatment-related fixed effects with institutions as random effects. Intraclass correlations (ICC) quantified institutional variability unexplained by other covariates. Institution type was tested in secondary analysis, and overall survival in exploratory analysis.\n\nFINDINGS: AGA testing was performed in 77.9 % of patients (n = 5016). Predicted probabilities for testing use ranged from 30.5 % to 93.2 % across institutions. Institutions significantly influenced testing use (p < 0.001), accounting for 21.4 % of the total variance. Variability significantly differed by institution type and was more pronounced in subgroups, e.g., squamous histology (ICC 29.5 %) and KRAS testing (ICC 34.4 %). Absence of AGA testing was independently associated with inferior survival (HRadj 1.11, 95 % CI 1.01-1.23, p = 0.029).\n\nINTERPRETATION: Substantial institutional variability exists in AGA testing for NSCLC, which was unexplained by patient or tumor characteristics. This objective evaluation of institution-based variability in testing may emphasize the importance of practice patterns on patient care and may therefore provide an avenue for change."
+    },
+    {
+      "pmid": "41784525",
+      "doi": "10.1158/1078-0432.CCR-25-3302",
+      "title": "Locus-specific human endogenous retrovirus ERVK18 expression indicates an inflamed microenvironment and favorable immunotherapy outcome in small cell lung cancer.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "pubdate": "2026-03-05T00:00:00+00:00",
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "entity": "SCLC",
+      "trial_type": null,
+      "study_class": "Other",
+      "is_oa": false,
+      "oa_url": null,
+      "metric_name": null,
+      "metric_value": null,
+      "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41784525/",
+      "url_doi": "https://doi.org/10.1158/1078-0432.CCR-25-3302",
+      "abstract": "PURPOSE: Despite the clinical adoption of immunotherapy in small cell lung cancer (SCLC), reliable biomarkers predicting clinical benefit are limited. Although HERV-K (HML-2) subfamily has been reported to modulate tumor immune response in multiple malignancies, its functional role in SCLC remains poorly defined, particularly the association with an inflamed microenvironment and favorable immunotherapy outcomes.\n\nEXPERIMENTAL DESIGN: The expression profile of locus-specific HERV-K was identified by TELESCOPE in the IMpower133 (n =271) and PKUPH cohort (n = 40). Immunohistochemistry and RNA-fluorescence in situ hybridization were performed on a tissue microarray (n = 48) to validate the expression of HERV-K transcripts. Single-cell RNA sequencing and multiplex immunohistochemistry, including PhenoCycler-Fusion, were used to characterize tumor immune microenvironment.\n\nRESULTS: Although the HERV-K subfamily as a whole lacked prognostic value for immunotherapy in SCLC, a locus-specific HERV-K transcript, ERVK18, was associated with improved outcomes and exhibited the strongest positive correlation with immune-related signatures, representing multiple immune-activated pathways and increased immune cell infiltration. Single-cell and spatial analysis further revealed that high ERVK18 expression indicated elevated cytotoxicity signatures in T cells, along with enhanced spatial proximity between tumor and T cells. In the IMpower133 cohort, high ERVK18 expression was not only associated with better prognosis within atezolizumab+chemotherapy group, but also predicted improved overall survival in patients treated with atezolizumab+chemotherapy versus chemotherapy alone, confirming ERVK18 as a dual prognostic and predictive biomarker for first-line PD-L1 inhibitor response in SCLC.\n\nCONCLUSIONS: Elevated expression of ERVK18 represents inflamed microenvironment and indicates favorable immunochemotherapy prognosis of patients in SCLC."
     },
     {
       "pmid": "41779981",
@@ -295,7 +315,7 @@
       "trial_type": null,
       "study_class": "Preclinical",
       "is_oa": true,
-      "oa_url": "https://doi.org/10.1038/s41598-026-41720-y",
+      "oa_url": "https://www.nature.com/articles/s41598-026-41720-y_reference.pdf",
       "metric_name": null,
       "metric_value": null,
       "url_pubmed": "https://pubmed.ncbi.nlm.nih.gov/41776328/",
